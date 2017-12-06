@@ -7,7 +7,7 @@ Header
 import numpy as np
 from random import seed
 from os import listdir
-from naive_bayes import NaiveBayes
+from naive_bayes import NaiveBayes, bigram_tokenizer, pos_tags, dictionary_function_combiner
 from logregpipeline import LogReg
 from train_test_helper import cross_validation, evaluate_model
 
@@ -25,8 +25,11 @@ test_dir  = '../GutenbergDataset/Yearly/Test'
 BASELINE: NAIVE BAYES MODEL --------------------------------------------
 """
 if True:
+
 	# Function to build a NB model
-	NB_func = lambda args: NaiveBayes(bin_size=args[0], alpha=args[1])
+	f = dictionary_function_combiner([bigram_tokenizer, pos_tags])
+
+	NB_func = lambda args: NaiveBayes(bin_size=args[0], alpha=args[1], tokenizer=f)
 
 	# These are the hyperparameters we are testing over
 	nb_hparams = [ np.array([5, 10, 20, 35, 50]), # Bin Size
@@ -37,7 +40,7 @@ if True:
 
 	# Evaluate the model
 	evaluate_model(nb, test_dir, 'Gutenberg')
-
+	print 'evaluated'
 
 	### Dataset 2 : Proquest
 

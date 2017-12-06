@@ -5,6 +5,8 @@ from collections import defaultdict
 from os import listdir
 from numpy import argmax, array
 from nltk import pos_tag, word_tokenize
+import codecs
+import io
 # --------------------------Some helper functions--------------------------
 def simple_tokenizer(doc): 
 	bow = defaultdict(float)
@@ -118,7 +120,7 @@ class NaiveBayes:
 			bin = int((year - self.min_year) / self.bin_size)
 			
 			# Build the classifier
-			with open(train_dir + '/' + filename, 'r') as infile:
+			with codecs.open(train_dir + '/' + filename, 'r', encoding='utf8' ) as infile:
 				# Read the document
 				doc = infile.read()
 
@@ -175,7 +177,7 @@ class NaiveBayes:
 			# update the counter
 			counter += 1
 
-			with open(test_dir + '/' + filename, 'r') as infile:
+			with codecs.open(test_dir + '/' + filename, 'r', encoding='utf8') as infile:
 				# Read the doc
 				doc = infile.read()
 
