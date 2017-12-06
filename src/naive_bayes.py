@@ -33,7 +33,21 @@ def pos_tags(doc):
     return tags_dict
 
 def count_bow(bow):
-	return sum(bow.values())
+    return sum(bow.values())
+
+def dictionary_function_combiner(list_of_funcs):
+    """
+    Creates a master feature function from a list of functions
+    :param list_of_funcs: List of functions to combine (all must return dictionaries)
+    :return: The combined function, which turns a document into a dictionary of features
+    """
+    def custom_feature_function(doc): #
+        combined_dict = {}
+        for func in list_of_funcs:
+            combined_dict.update(func(doc))
+        return combined_dict
+
+    return custom_feature_function
 
 
 # -------------------------- Naive Bayes --------------------------
