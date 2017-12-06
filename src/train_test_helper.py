@@ -171,7 +171,7 @@ def plot_hyperparam_loss(best_params, params, train_loss, test_loss):
 	return 
 
 
-def evaluate_model(clf, test_dir):
+def evaluate_model(clf, test_dir, title):
 	# Set the bin_size
 	bin_size = clf.bin_size
 
@@ -183,7 +183,7 @@ def evaluate_model(clf, test_dir):
 
 	# Predict the test data
 	pred = clf.predict(test_dir, test, verbose=True)
-
+	
 	# Create the century vector
 	c1 = int(bin_size*min(x/bin_size for x in gold))
 	c2 = int(bin_size*max(x/bin_size for x in gold))
@@ -197,13 +197,16 @@ def evaluate_model(clf, test_dir):
 			if (g - x[i]) < bin_size and (g - x[i]) >= 0:
 				y[i] += abs(g - p)
 				acc += 1
-		y[i] /= acc
+		try:
+			y[i] /= acc
+		except ZeroDivisionError:
+			y[i] = 0
 
 	# Now plot it
 	plt.figure(1, figsize=(6,4))
 	plt.plot(x, y, 'or-', linewidth=3)
 	plt.grid(True)
-	plt.title('MAE by Century')
+	plt.title('%s: MAE by Bin' % title)
 	plt.xlabel('Century')
 	plt.ylabel('MAE in Years')
 	plt.show()
