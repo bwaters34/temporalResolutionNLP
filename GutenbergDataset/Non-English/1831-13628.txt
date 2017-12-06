@@ -1,0 +1,3098 @@
+The Project Gutenberg EBook of La Esmeralda, by Victor Hugo
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: La Esmeralda
+
+Author: Victor Hugo
+
+Release Date: October 5, 2004 [EBook #13628]
+
+Language: French
+
+Character set encoding: ASCII
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LA ESMERALDA ***
+
+
+
+
+Produced by PG Distributed Proofreaders from images generously made
+available by the Bibliotheque nationale de France (BnF/Gallica) at
+http://gallica.bnf.fr
+
+
+
+
+
+
+OEUVRES  COMPLETES
+
+DE
+
+VICTOR HUGO
+
+XVII
+
+DRAME
+
+IV
+
+
+
+
+EDITION DEFINITIVE D'APRES LES MANUSCRITS ORIGINAUX
+
+OEUVRES COMPLETES
+
+DE
+
+VICTOR HUGO
+
+DRAME
+
+IV
+
+LA ESMERALDA--RUY BLAS
+LES BURGRAVES
+
+
+EDITION NE VARIETUR
+
+PARIS
+
+J HETZEL & Cie
+18, RUE JACOB
+
+A. QUANTIN & Cie
+RUE SAINT-BENOIT, 7
+
+1880
+
+
+
+
+LA ESMERALDA
+
+LIBRETTO
+
+
+
+
+Si par hasard quelqu'un se souvenait d'un roman en ecoutant un opera,
+l'auteur croit devoir prevenir le public que pour faire entrer dans la
+perspective particuliere d'une scene lyrique quelque chose du drame
+qui sert de base au livre intitule <i>Notre-Dame de Paris</i>, il a
+fallu en modifier diversement tantot l'action, tantot les
+caracteres. Le caractere de Phoebus de Chateaupers, par exemple, est
+un de ceux qui ont du etre alteres; un autre denouement a ete
+necessaire, etc. Au reste, quoique, meme en ecrivant cet opuscule,
+l'auteur se soit ecarte le moins possible, et seulement quand la
+musique l'a exige, de certaines conditions consciencieuses
+indispensables, selon lui, a toute oeuvre, petite ou grande, il
+n'entend offrir ici aux lecteurs, ou pour mieux dire aux auditeurs,
+qu'un canevas d'opera plus ou moins bien dispose pour que l'oeuvre
+musicale s'y superpose heureusement, qu'un <i>libretto</i> pur et
+simple dont la publication s'explique par un usage imperieux. Il ne
+peut voir dans ceci qu'une trame telle quelle qui ne demande pas mieux
+que de se derober sous cette riche et eblouissante broderie qu'on
+appelle la musique.
+
+L'auteur suppose donc, si par aventure on s'occupe de ce libretto,
+qu'un opuscule aussi special ne saurait en aucun cas etre juge en
+lui-meme et abstraction faite des necessites musicales que le poete a
+du subir, et qui, a l'Opera, ont toujours droit de prevaloir. Du
+reste, il prie instamment le lecteur de ne voir dans les lignes qu'il
+ecrit ici que ce qu'elles contiennent, c'est-a-dire sa pensee
+personnelle sur ce libretto en particulier, et non un dedain injuste
+et de mauvais gout pour cette espece de poemes en general et pour
+l'etablissement magnifique ou ils sont representes. Lui qui n'est
+rien, il rappellerait au besoin a ceux qui sont le plus haut places
+que nul n'a droit de dedaigner, fut-ce au point de vue litteraire, une
+scene comme celle-ci. A ne compter meme que les poetes, ce royal
+theatre a recu dans l'occasion d'illustres visites, ne l'oublions
+pas. En 1671, on representa avec toute la pompe de la scene lyrique
+une tragedie-ballet intitulee; <i>Psyche</i>.  Le libretto de cet
+opera avait deux auteurs: l'un s'appelait Poquelin de Moliere, l'autre
+Pierre Corneille.
+
+
+14 novembre 1836.
+
+
+
+
+                          PERSONNAGES.
+
+
+                          LA ESMERALDA.
+
+                     PHOEBUS DE CHATEAUPERS.
+
+                         CLAUDE FROLLO.
+
+                           QUASIMODO.
+
+                          FLEUR-DE-LYS.
+
+                 MADAME ALOISE DE GONDELAURIER.
+
+                             DIANE.
+
+                           BERANGERE.
+
+                       LE VICOMTE DE GIF.
+
+                        M. DE CHEVREUSE.
+
+                         M. DE MORLAIX.
+
+                       CLOPIN TROUILLEFOU.
+
+                        LE CRIEUR PUBLIC.
+
+
+                 PEUPLE, TRUANDS, ARCHERS, ETC.
+
+
+    Paris.--1482.
+
+
+
+
+
+                          ACTE PREMIER
+
+  [La Cour des miracles.--Il est nuit. Foule de truands. Danses et
+    bruyantes. Mendiant et mendiantes dans leurs diverses attitudes
+    de metier. Le roi de Thune sur son tonneau. Feux, torches,
+    flambeaux. Cercle de hideuses maisons dans l'ombre.]
+
+
+
+                         SCENE PREMIERE.
+
+
+                CLAUDE FROLLO, CLOPIN TROUILLEFOU
+                      [puis] LA ESMERALDA,
+                 [puis] QUASIMODO,--LES TRUANDS.
+
+
+                       CHOEUR DES TRUANDS.
+
+                Vive Clopin, roi de Thune!
+                Vivent les gueux de Paris!
+                Faisons nos coups a la brune,
+                Heure ou tous les chats sont gris.
+                Dansons! narguons pape et bulle,
+                Et raillons-nous dans nos peaux,
+                Qu'avril mouille ou que juin brule
+                La plume de nos chapeaux!
+                Sachons flairer dans l'espace
+                L'estoc de l'archer vengeur,
+                Ou le sac d'argent qui passe
+                Sur le dos du voyageur!
+                Nous irons au clair de lune
+                Danser avec les esprits...--Vive
+                Clopin, roi de Thune!
+                Vivent les gueux de Paris!
+
+   CLAUDE FROLLO, [a part, derriere un pilier, dans un coin du theatre.
+      Il est enveloppe d'un grand manteau qui cache son habit de pretre.
+
+            Au milieu de la ronde infame,
+            Qu'importe le soupir d'une ame?
+            Je souffre! oh! jamais plus de flamme
+            Au sein d'un volcan ne gronda.
+
+                                [Entre la Esmeralda en dansant.]
+
+                             CHOEUR.
+
+    La voila! la voila! c'est elle! Esmeralda!
+
+                    CLAUDE FROLLO, [a part.]
+
+                    C'est elle! oh! oui, c'est elle!
+                    Pourquoi, sort rigoureux,
+                    L'as-tu faite si belle,
+                    Et moi si malheureux?
+
+         [Elle arrive au milieu du theatre. Les truands font cercle
+           avec admiration autour d'elle. Elle danse.]
+
+                          LA ESMERALDA.
+
+                        Je suis l'orpheline,
+                        Fille des douleurs,
+                        Qui sur vous s'incline
+                        En jetant des fleurs;
+                        Mon joyeux delire
+                        Bien souvent soupire;
+                        Je montre un sourire,
+                        Je cache des pleurs.
+
+                        Je danse, humble fille,
+                        Au bord du ruisseau,
+                        Ma chanson babille
+                        Comme un jeune oiseau;
+                        Je suis la colombe
+                        Qu'on blesse et qui tombe.
+                        La nuit de la tombe
+                        Couvre mon berceau.
+
+                             CHOEUR.
+
+                        Danse, jeune fille!
+                        Tu nous rends plus doux.
+                        Prends-nous pour famille,
+                        Et joue avec nous,
+                        Comme l'hirondelle
+                        A la mer se mele,
+                        Agacant de l'aile
+                        Le flot en courroux.
+
+                        C'est la jeune fille,
+                        L'enfant du malheur!
+                        Quand son regard brille,
+                        Adieu la douleur!
+                        Son chant nous rassemble;
+                        De loin elle semble
+                        L'abeille qui tremble
+                        Au bout d'une fleur.
+
+                        Danse, jeune fille,
+                        Tu nous rends plus doux.
+                        Prends-nous pour famille,
+                        Et joue avec nous!
+
+                    CLAUDE FROLLO, [a part.]
+
+                        Fremis, jeune fille;
+                        Le pretre est jaloux!
+
+   [Claude veut se rapprocher de la Esmeralda, qui se detourne de lui
+     avec une sorte d'effroi.--Entre la procession du pape des fous.
+     Torches, lanternes et musique. On porte au milieu du cortege, sur
+     un brancard couvert de chandelles, Quasimodo, chape et mitre.]
+
+                             CHOEUR.
+
+                    Saluez, clercs de basoche!
+                    Hubins, coquillards, cagoux,
+                    Saluez tous! il approche.
+                    Voici le pape des fous!
+
+     CLAUDE FROLLO, [apercevant Quasimodo, s'elance vers lui
+                     avec un geste de colere.]
+
+                Quasimodo! quel role etrange!
+                0 profanation! Ici,
+                Quasimodo!
+
+                           QUASIMODO.
+
+                          Grand Dieu! qu'entends-je?
+
+                         CLAUDE FROLLO.
+                Ici, te dis-je!
+
+          QUASIMODO, [se jetant en bas de la litiere.]
+
+                               Me voici!
+
+                         CLAUDE FROLLO.
+
+                        Sois anatheme!
+
+                           QUASIMODO.
+
+                        Dieu! c'est lui-meme!
+
+                         CLAUDE FROLLO.
+
+                        Audace extreme!
+
+                           QUASIMODO.
+
+                        Instant d'effroi!
+
+                         CLAUDE FROLLO.
+
+                        A genoux, traitre!
+
+                           QUASIMODO.
+
+                        Pardonnez, maitre!
+
+                         CLAUDE FROLLO.
+
+                        Non, je suis pretre!
+
+                           QUASIMODO.
+
+                        Pardonnez-moi!
+
+  [Claude Frollo arrache les ornements pontificaux de Quasimodo et les
+    foule aux pieds. Les truands, sur lesquels Claude jette des
+    regards irrites, commencent a murmurer et se forment en groupes
+                      menacants autour de lui.]
+
+                          LES TRUANDS.
+
+                        Il nous menace,
+                        O compagnons!
+                        Dans cette place
+                        Ou nous regnons!
+
+                           QUASIMODO.
+
+                        Que veut l'audace
+                        De ces larrons?
+                        On le menace,
+                        Mais nous verrons!
+
+                         CLAUDE FROLLO.
+
+                        Impure race!
+                        Juifs et larrons!
+                        On me menace,
+                        Mais nous verrons!
+
+                                 [La colere des truands eclate.]
+
+                          LES TRUANDS.
+
+                    Arrete! arrete! arrete!
+                    Meure le trouble-fete!
+                    Il paiera de sa tete!
+                    En vain il se debat!
+
+                           QUASIMODO.
+
+                    Qu'on respecte sa tete!
+                    Et que chacun s'arrete,
+                    Ou je change la fete
+                    En un sanglant combat!
+
+                         CLAUDE FROLLO.
+
+                    Ce n'est point pour sa tete
+                    Que Frollo s'inquiete.
+
+                [Il met la main sur la poitrine.]
+
+                    C'est la qu'est la tempete,:
+                    C'est la qu'est le combat!
+
+    [Au moment ou la fureur des truands est au comble, Clopin
+            Trouillefou parait au fond du theatre.]
+
+                             CLOPIN.
+
+        Qui donc ose attaquer, dans ce repaire infame,
+                L'archidiacre mon seigneur,
+                Et Quasimodo le sonneur
+                    De Notre-Dame?
+
+                   LES TRUANDS, [s'arretant.]
+
+        C'est Clopin, notre roi!
+
+                             CLOPIN.
+
+                                Manants, retirez-vous!
+
+                          LES TRUANDS.
+
+                Il faut obeir!
+
+                             CLOPIN.
+
+                              Laissez-nous.
+
+  [Les truands se retirent dans les masures. La Cour des miracles
+    reste deserte.  Clopin s'approche mysterieusement de Claude.]
+
+
+
+
+                            SCENE II
+
+                    CLAUDE FROLLO, QUASIMODO,
+                       CLOPIN TROUILLEFOU.
+
+
+                             CLOPIN.
+
+        Quel motif vous avait jete dans cette orgie?
+        Avez-vous, monseigneur, quelque ordre a me donner?
+                Vous etes mon maitre en magie.
+        Parlez; je ferai tout.
+
+CLAUDE. [Il saisit vivement Clopin par le bras et l'attire sur le
+                      devant du theatre.]
+
+                              Je viens tout terminer.
+    Ecoute.
+
+                             CLOPIN.
+
+           Monseigneur?
+
+                         CLAUDE FROLLO.
+
+                       Plus que jamais je l'aime!
+    D'amour et de douleur tu me vois palpitant.
+            Il me la faut cette nuit meme.
+
+                             CLOPIN.
+
+    Vous l'allez voir ici passer dans un instant;
+            C'est le chemin de sa demeure.
+
+                    CLAUDE FROLLO, [a part.]
+
+    Oh! l'enfer me saisit!
+
+                             [Haut.]
+
+                          Bientot, dis-tu?
+
+                             CLOPIN.
+
+                                          Sur l'heure.
+
+                         CLAUDE FROLLO.
+
+    Seule?
+
+                             CLOPIN.
+
+          Seule.
+
+                         CLAUDE FROLLO.
+
+                Il suffit.
+
+                             CLOPIN.
+
+                          Attendrez-vous?
+
+                         CLAUDE FROLLO.
+
+                                         J'attend.
+            Que je l'obtienne ou que je meure!
+
+                             CLOPIN.
+
+    Puis-je vous servir?
+
+                         CLAUDE FROLLO.
+
+                        Non.
+
+  [Il fait signe a Clopin de s'eloigner, apres lui avoir jete sa bourse.
+    Reste seul avec Quasimodo, il l'amene sur le devant du theatre.]
+
+                            Viens, j'ai besoin de toi.
+
+                           QUASIMODO.
+
+    C'est bien.
+
+                         CLAUDE FROLLO.
+
+               Pour une chose impie, affreuse, extreme.
+
+                           QUASIMODO.
+
+    Vous etes mon seigneur.
+
+                         CLAUDE FROLLO.
+
+                           Les fers, la mort, la loi,
+            Nous bravons tout.
+
+                           QUASIMODO.
+
+                              Comptez sur moi.
+
+                CLAUDE FROLLO, [impetueusement.]
+
+            J'enleve la fille boheme!
+
+                           QUASIMODO.
+
+    Maitre, prenez mon sang--sans me dire pourquoi.
+
+  [Sur un signe de Claudo Frollo, il se retire vers le fond du
+    [theatre et laisse son maitre sur le devant de la scene.]
+
+                         CLAUDE FROLLO.
+
+    0 ciel! avoir donne ma pensee aux abimes,
+    Avoir de la magie essaye tous les crimes,.
+    Etre tombe plus bas que l'enfer ne descend,
+    Pretre, a minuit, dans l'ombre epier une femme,
+    Et songer, dans l'etat ou se trouve mon ame,
+            Que Dieu me regarde a present!
+
+                    Eh bien, oui! qu'importe!
+                    Le destin m'emporte,
+                    Sa main est trop forte,
+                    Je cede a sa loi!
+                    Mon sort recommence!
+                    Le pretre en demence
+                    N'a plus d'esperance
+                    Et n'a plus d'effroi!
+                    Demon qui m'enivres,
+                    Qu'evoquent mes livres,
+                    Si tu me la livres,
+                    Je me livre a toi!
+                    Recois sous ton aile
+                    Le pretre infidele!
+                    L'enfer avec elle,
+                    C'est mon ciel, a moi!
+
+                Viens donc, o jeune femme!
+                C'est moi qui te reclame!
+                Viens, prends-moi sans retour!
+                Puisqu'un Dieu, puisqu'un maitre,
+                Dont le regard penetre
+                Notre coeur nuit et jour,
+                Exige en son caprice
+                Que le pretre choisisse
+                Du ciel ou de l'amour!
+
+                     QUASIMODO, [revenant.]
+
+    Maitre, l'instant s'approche.
+
+                         CLAUDE FROLLO.
+
+                                 Oui, l'heure est solennelle;
+            Mon sort se decide, tais-toi.
+
+                   CLAUDE FROLLO ET QUASIMODO.
+
+                    La nuit est sombre,
+                    J'entends des pas;
+                    Quelqu'un dans l'ombre
+                    Ne vient-il pas?
+
+                          [Ils vont ecouter au fond du theatre.]
+
+            LE GUET, [passant derriere les maisons.]
+
+                Paix et vigilance!
+                Ouvrons, loin du bruit,
+                L'oreille au silence
+                Et l'oeil a la nuit.
+
+                      CLAUDE ET QUASIMODO.
+
+                Dans l'ombre on s'avance;
+                Quelqu'un vient sans bruit.
+                Oui, faisons silence;
+                C'est le guet de nuit!
+
+                                           [Le chant s'eloigne.]
+
+                           QUASIMODO.
+
+                Le guet s'en va.
+
+                         CLAUDE FROLLO.
+
+                                Notre crainte le suit.
+
+     [Claude Frollo et Quasimodo regardent avec anxiete vers la rue
+             par laquelle doit venir la Esmeralda.]
+
+                           QUASIMODO.
+
+                        L'amour conseille,
+                        L'espoir rend fort
+                        Celui qui veille
+                        Lorsque tout dort.
+                        Je la devine,
+                        Je l'entrevoi;
+                        Fille divine,
+                        Viens sans effroi!
+
+                         CLAUDE FROLLO.
+
+                        L'amour conseille,
+                        L'espoir rend fort
+                        Celui qui veille
+                        Lorsque tout dort.
+                        Je la devine,
+                        Je l'entrevoi;
+                        Fille divine!
+                        Elle est a moi!
+
+    [Entre la Esmeralda. Ils se jettent sur elle, et veulent
+                   l'entrainer. Elle se debat.]
+
+                          LA ESMERALDA.
+
+                Au secours! au secours! a moi!
+
+                   CLAUDE FROLLO ET QUASIMODO.
+
+                Tais-toi, jeune fille! tais-toi!
+
+
+
+                           SCENE III.
+
+                    LA ESMERALDA, QUASIMODO,
+          PHOEBUS DE CHATEAUPERS, LES ARCHERS DU GUET.
+
+
+PHOEBUS DE CHATEAUPERS, [entrant a la tete d'un gros d'archers.]
+
+                                                De par le roi!
+
+  [Dans le tumulte, Claude s'echappe. Les archers saisissent Quasimodo.]
+
+           PHOEBUS, [aux archers, montrant Quasimodo.]
+
+                    Arretez-le! serrez ferme!
+                    Qu'il soit seigneur ou valet!
+                    Nous allons, pour qu'on l'enferme,
+                    Le conduire au Chatelet!
+
+  [Les archers emmenent Quasimodo au fond. La Esmeralda, remise de
+    sa frayeur, s'approche de Phoebus avec une curiosite melee
+    d'admiration, et l'attire doucement sur le devant de la scene.]
+
+                   LA ESMERALDA, [a Phoebus.]
+
+                        Daignez me dire
+                        Votre nom, sire!
+                        Je le requiers!
+
+                            PHOEBUS.
+
+                        Phoebus, ma fille,
+                        De la famille
+                        De Chateaupers.
+
+                          LA ESMERALDA.
+
+                        Capitaine?
+
+                            PHOEBUS.
+
+                        Oui, ma reine.
+
+                          LA ESMERALDA.
+
+                        Reine? oh! non.
+
+                            PHOEBUS.
+
+                        Grace extreme!
+
+                          LA ESMERALDA.
+
+                        Phoebus, j'aime
+                        Votre nom!
+
+                            PHOEBUS.
+
+                        Sur mon ame,
+                        J'ai, madame,
+                        Une lame
+                        De renom!
+
+                   LA ESMERALDA, [a Phoebus.]
+
+                    Un beau capitaine,
+                    Un bel officier,
+                    A mine hautaine,
+                    A corset d'acier,
+                    Souvent, mon beau sire,
+                    Prend nos pauvres coeurs,
+                    Et ne fait que rire
+                    De nos yeux en pleurs.
+
+                       PHOEBUS, [a part.]
+
+                    Pour un capitaine,
+                    Pour un officier,
+                    L'amour peut a peine
+                    Vivre un jour entier.
+                    Tout soldat desire
+                    Cueillir toute fleur,
+                    Plaisir sans martyre,
+                    Amour sans douleur!
+
+                        [A la Esmeralda.]
+
+                        Un esprit
+                        Radieux
+                        Me sourit
+                        Dans tes yeux.
+
+                          LA ESMERALDA.
+
+                    Un beau capitaine,
+                    Un bel officier,
+                    A mine hautaine,
+                    A corset d'acier,
+                    Quand aux yeux il brille,
+                    Fait longtemps penser
+                    Toute pauvre fille
+                    Qui l'a vu passer!
+
+                       PHOEBUS, [a part.]
+
+                    Pour un capitaine,
+                    Pour un officier,
+                    L'amour peut a peine
+                    Vivre un jour entier.
+                    C'est l'eclair qui brille,
+                    Il faut courtiser
+                    Toute belle fille
+                    Que l'on voit passer.
+
+  LA ESMERALDA. [Elle se pose devant le capitaine et l'admire.]
+
+            Seigneur Phoebus, que je vous voie
+            Et que je vous admire encor!
+            Oh! la belle echarpe de soie,
+            La belle echarpe a franges d'or!
+
+                  [Phoebus detache son echarpe et la lui offre.]
+
+                            PHOEBUS.
+
+                        Vous plait-elle?
+
+                    [La Esmeralda prend l'echarpe et s'en pare.]
+
+                          LA ESMERALDA.
+
+                        Qu'elle est belle!
+
+                            PHOEBUS.
+
+                        Un moment!
+
+                [Il s'approche d'elle et cherche a l'embrasser.]
+
+                     LA ESMERALDA, reculant.
+
+                        Non! de grace!
+
+                     PHOEBUS, [qui insiste.]
+
+                        Qu'on m'embrasse!
+
+               LA ESMERALDA, [reculant toujours.]
+
+                        Non, vraiment!
+
+                        PHOEBUS, [riant.]
+
+                        Une belle
+                        Si rebelle.
+                        Si cruelle!
+                        C'est charmant.
+
+                          LA ESMERALDA.
+
+                    Non, beau capitaine,
+                    Je dois refuser.
+                    Sais-je ou l'on m'entraine
+                    Avec un baiser?
+
+                            PHOEBUS.
+
+                    Je suis capitaine,
+                    Je veux un baiser.
+                    Ma belle africaine,
+                    Pourquoi refuser?
+
+        Donne un baiser, donne, ou je vais le prendre.
+
+                          LA ESMERALDA.
+
+        Non, laissez-moi; je ne veux rien entendre.
+
+                            PHOEBUS.
+
+        Un seul baiser! ce n'est rien, sur ma foi!
+
+                          LA ESMERALDA.
+
+        Rien pour vous, sire, helas! et tout pour moi!
+
+                            PHOEBUS.
+
+        Regarde-moi; tu verras si je t'aime!
+
+                          LA ESMERALDA.
+
+        Je ne veux pas regarder en moi-meme.
+
+                            PHOEBUS.
+
+        L'amour, ce soir, veut entrer dans ton coeur.
+
+                          LA ESMERALDA.
+
+        L'amour ce soir, et demain le malheur!
+
+  [Elle glisse de ses bras et s'enfuit. Phoebus, desappointe, se retourne
+    vers Quasimodo, que les gardes tiennent lie au fond du theatre.]
+
+                            PHOEBUS.
+
+                Elle m'echappe, elle resiste.
+                Belle aventure en verite!
+        Des deux oiseaux de nuit je garde le plus triste;
+        Le rossignol s'en va, le hibou m'est reste.
+
+[Il se remet a la tete de sa troupe, et sort emmenant Quasimodo.]
+
+                   CHOEUR DE LA RONDE DU GUET.
+
+                    Paix et vigilance!
+                    Ouvrons, loin du bruit,
+                    L'oreille au silence
+                    Et l'oeil a la nuit!
+
+                   [Ils s'eloignent peu a peu et disparaissent.]
+
+
+
+
+                          ACTE DEUXIEME
+
+
+
+                         SCENE PREMIERE.
+
+  [La place de Greve. Le pilori. Quasimodo au pilori. Le peuple sur la place.]
+
+
+                             CHOEUR.
+
+                --Il enlevait une fille!
+                    --Comment! vraiment?
+                --Vous voyez comme on l'etrille
+                    En ce moment!
+                --Entendez-vous, mes commeres?
+                    Quasimodo
+                S'en vient chasser sur les terres
+                    De Cupido!
+
+                      UNE FEMME DU PEUPLE.
+
+                Il passera dans ma rue
+                Au retour du pilori,
+                Et c'est Pierrat Torterue
+                Qui va nous faire le cri.
+
+                           LE CRIEUR.
+
+                De par le roi, que Dieu garde!
+                L'homme qu'ici l'on regarde
+                Sera mis, sous bonne garde,
+                Pour une heure au pilori!
+
+                             CHOEUR.
+
+                        A bas! a bas!
+            Le bossu! le sourd! le borgne!
+                        Ce Barabbas!
+            Je crois, mortdieu! qu'il nous lorgne.
+                        A bas le sorcier!
+                        Il grimace, il rue!
+                        Il fait aboyer
+                        Les chiens dans la rue.
+                    --Corrigez bien ce bandit!
+                --Doublez le fouet et l'amende!
+
+                           QUASIMODO.
+
+                    A boire!
+
+                             CHOEUR.
+
+                            Qu'on le pende!
+
+                           QUASIMODO.
+
+                    A boire!
+
+                             CHOEUR.
+                            Sois maudit!
+
+  [Depuis quelques instants la Esmeralda s'est melee a la foule. Elle
+    a observe Quasimodo avec surprise d'abord, puis avec pitie. Tout a
+    coup, au milieu des cris du peuple, elle monte au pilori, detache
+    une petite gourde de sa ceinture, et donne a boire a Quasimodo.]
+
+                             CHOEUR.
+
+                    Que fais-tu, belle fille?
+                    Laisse Quasimodo!
+                    A Belzebuth qui grille
+                    On ne donne pas d'eau!
+
+ [Elle descend du pilori. Les archers detachent et emmenent Quasimodo.]
+
+
+                             CHOEUR.
+
+                --Il enlevait une femme!
+                        --Qui? ce butor?
+                --Mais c'est affreux! c'est infame!
+                        --C'est un peu fort!
+                --Entendez-vous, mes commeres?
+                        Quasimodo
+                Osait chasser sur les terres
+                        De Cupido!
+
+
+
+
+                            SCENE II.
+
+   [Une salle magnifique ou se font des preparatifs de fete.]
+
+                     PHOEBUS, FLEUR-DE-LYS,
+                 MADAME ALOISE DE GONDELAURIER.
+
+
+                         MADAME ALOISE.
+
+        Phoebus, mon futur gendre, ecoutez, je vous aime;
+        Soyez maitre ceans comme un autre moi-meme;
+        Ayez soin que ce soir chacun s'egaye ici.
+            Et vous, ma fille, allons, tenez-vous prete.
+        Vous serez la plus belle encor dans cette fete,
+                Soyez la plus joyeuse aussi!
+
+[Elle va au fond, et donne des ordres aux valets qui disposent la fete.]
+
+                          FLEUR-DE-LYS.
+
+                Monsieur, depuis l'autre semaine
+                On vous a vu deux fois a peine.
+                Cette fete enfin vous ramene.
+                Enfin! c'est bien heureux vraiment!
+
+                            PHOEBUS.
+
+                Ne grondez pas, je vous supplie!
+
+                          FLEUR-DE-LYS.
+
+                Ah! je le vois, Phoebus m'oublie!
+
+                            PHOEBUS.
+
+                Je vous jure...
+
+                          FLEUR-DE-LYS.
+
+                               Pas de serment!
+                On ne jure que lorsqu'on ment.
+
+                            PHOEBUS.
+
+                Vous oublier! quelle folie!
+                N'etes-vous pas la plus jolie?
+                Ne suis-je pas le mieux aimant?
+
+                       PHOEBUS, [a part.]
+
+                Comme ma belle fiancee
+                    Gronde aujourd'hui!
+                Le soupcon est dans sa pensee.
+                    Ah! quel ennui!
+                Belles, les amants qu'on rudoie
+                    S'en vont ailleurs.
+                On en prend plus avec la joie
+                    Qu'avec les pleurs.
+
+                     FLEUR-DE-LYS, [a part.]
+
+                Me trahir, moi, sa fiancee,
+                    Qui suis a lui!
+                Moi qui n'ai que lui pour pensee
+                    Et pour ennui!
+                Ah! qu'il s'absente ou qu'il me voie,
+                    Que de douleurs!
+                Present, il dedaigne ma joie,
+                    Absent, mes pleurs!
+
+                          FLEUR-DE-LYS.
+
+        L'echarpe, que pour vous, Phoebus, j'ai festonnee,
+        Qu'en avez-vous donc fait? je ne vous la vois pas.
+
+                       PHOEBUS, [trouble.]
+
+        L'echarpe? Je ne sais...
+
+                            [A part.]
+
+                                Mortdieu! le mauvais pas!
+
+                          FLEUR-DE-LYS.
+
+        Vous l'avez oubliee!
+
+                            [A part.]
+
+                            A qui l'a-t-il donnee?
+                Et pour qui suis-je abandonnee?
+
+               MADAME ALOISE, [remontant vers eux
+                et tachant de les accorder.]
+
+        Mon Dieu! mariez-vous; vous bouderez apres.
+
+                   PHOEBUS, [a Fleur-de-Lys.]
+
+                Non, je ne l'ai pas oubliee.
+        Je l'ai, je m'en souviens, soigneusement pliee
+        Dans un coffret d'email que j'ai fait faire expres.
+
+        [Avec passion, a Fleur-de-Lys, qui boude encore.]
+
+                Je vous jure que je vous aime
+                Plus qu'on n'aimerait Venus meme.
+
+                          FLEUR-DE-LYS.
+
+                Pas de serment! pas de serment!
+                On ne jure que lorsqu'on ment.
+
+                         MADAME ALOISE.
+
+    Enfants! pas de querelle; aujourd'hui tout est joie.
+            Viens, ma fille, il faut qu'on nous voie.
+    Voici qu'on va venir. Chaque chose a son tour.
+
+      [Aux valets.]
+
+    Allumez les flambeaux, et que le bal s'apprete.
+    Je veux que tout soit beau, qu'on s'y croie en plein jour
+
+                            PHOEBUS.
+
+    Puisqu'on a Fleur-de-Lys, rien ne manque a la fete.
+
+                          FLEUR-DE-LYS.
+
+                Phoebus, il y manque l'amour!
+
+                                                [Elles sortent.]
+
+            PHOEBUS, [regardant sortir Fleur-de-Lys.]
+
+                Elle dit vrai; pres d'elle encore
+                Mon coeur est rempli de souci.
+        Celle que j'aime, a qui je pense des l'aurore,
+                Helas! elle n'est pas ici!
+
+                    Fille ravissante,
+                    A toi mes amours!
+                    Belle ombre dansante,
+                    Qui remplis mes jours,
+                    Et, toujours absente,
+                    M'apparais toujours!
+
+                Elle est rayonnante et douce
+                Comme un nid dans les rameaux,
+                Comme une fleur dans la mousse,
+                Comme un bien parmi des maux!
+                Humble fille et vierge fiere,
+                Ame chaste en liberte,
+                La pudeur sous sa paupiere
+                Emousse la volupte!
+
+                    C'est, dans la nuit sombre,
+                    Un ange des cieux,
+                    Au front voile d'ombre,
+                    A l'oeil plein de feux!
+
+                Toujours je vois son image,
+                Brillante ou sombre parfois;
+                Mais toujours, astre ou nuage,
+                C'est au ciel que je la vois!
+
+                    Fille ravissante,
+                    A toi mes amours!
+                    Belle ombre dansante
+                    Qui remplis mes jours,
+                    Et, toujours absente,
+                    M'apparais toujours!
+
+    [Entrent plusieurs seigneurs et dames en habits de fete.]
+
+
+
+
+                           SCENE III.
+
+        LES PRECEDENTS, LE VICOMTE DE GIF, M. DE MORLAIX,
+            M. DE CHEVREUSE, MADAME DE GONDELAURIER,
+        FLEUR-DE-LYS, DIANE, BERANGERE, DAMES, SEIGNEURS.
+
+
+                       LE VICOMTE DE GIF.
+
+                Salut, nobles chatelaines!
+
+         MADAME ALOISE, PHOEBUS, FLEUR-DE-LYS, saluant.
+
+                Bonjour, noble chevalier!
+                Oubliez soucis et peines
+                Sous ce toit hospitalier!
+
+                         M. DE MORLAIX.
+
+                Mesdames, Dieu vous envoie
+                Sante, plaisir et bonheur!
+
+              MADAME ALOISE, PHOEBUS, FLEUR-DE-LYS.
+
+                Que le ciel vous rende en joie
+                Vos bons souhaits, beau seigneur!
+
+                        M. DE CHEVREUSE.
+
+                Mesdames, du fond de l'ame
+                Je suis a vous comme a Dieu.
+
+              MADAME ALOISE, PHOEBUS, FLEUR-DE-LYS.
+
+                Beau sire, que Notre-Dame
+                Vous soit en aide en tout lieu!
+
+                                     [Entrent tous les convies.]
+
+                             CHOEUR.
+
+                Venez tous a la fete!
+                Page, dame et seigneur!
+                Venez tous a la fete,
+                Des fleurs sur votre tete,
+                La joie au fond du coeur.
+
+  [Les convies s'accostent et se saluent. Des valets circulent dans la
+    foule, portant des plateaux charges de fleurs et de fruits.
+    Cependant un groupe de jeunes filles s'est forme pres d'une
+    fenetre, a droite. Tout a coup l'une d'elles appelle les autres et
+    leur fait signe de se pencher hors de la fenetre.]
+
+                  DIANE, [regardant au dehors.]
+
+        Oh! viens donc voir, viens donc voir, Berangere!
+
+               BERANGERE, [regardant dans la rue.]
+
+            Qu'elle est vive! qu'elle est legere!
+
+                             DIANE.
+
+            C'est une fee ou c'est l'Amour!
+
+                   LE VICOMTE DE GIF, [riant.]
+
+            Qui danse dans le carrefour!
+
+             M. DE CHEVREUSE, [apres avoir regarde.]
+
+                Eh mais, c'est la magicienne!
+                Phoebus, c'est ton egyptienne,
+                Que l'autre nuit, avec valeur,
+                Tu sauvas des mains d'un voleur.
+
+                       LE VICOMTE DE GIF.
+
+                Eh! oui, c'est la bohemienne!
+
+                         M. DE MORLAIX.
+
+                Elle est belle comme le jour!
+
+                        DIANE, a Phoebus.
+
+    Si vous la connaissez, dites-lui qu'elle vienne
+            Nous egayer de quelque tour.
+
+       PHOEBUS, [regardant a son tour d'un air distrait.]
+
+            Il se peut bien que ce soit elle.
+
+      [A. M. de Gif.]
+
+            Mais crois-tu qu'elle se rappelle?...
+
+           FLEUR-DE-LYS, [qui observe et qui ecoute.]
+
+            De vous toujours on se souvient.
+    Voyons, appelez-la, dites-lui qu'elle monte.
+
+      [A part.]
+
+    Je verrai s'il faut croire a ce que l'on raconte.
+
+                   PHOEBUS, [a Fleur-de-Lys.]
+
+    Vous le voulez? Eh bien, essayons.
+
+                        [Il fait signe a la danseuse de monter.]
+
+                       LES JEUNES FILLES.
+
+                                      Elle vient!
+
+                        M. DE CHEVREUSE.
+
+            Sous le porche elle est disparue.
+
+                             DIANE.
+
+    Comme elle a laisse la ce bon peuple ebahi!
+
+                       LE VICOMTE DE GIF.
+
+    Dames, vous allez voir la nymphe de la rue.
+
+                     FLEUR-DE-LYS, [a part.]
+
+    Qu'au signe de Phoebus elle a vite obei!.
+
+
+
+
+                            SCENE IV.
+
+                  LES PRECEDENTS, LA ESMERALDA.
+
+
+    Entre la bohemienne, timide, confuse, et radieuse. Mouvement d'admiration.
+    La foule s'ecarte devant elle.
+
+                             CHOEUR.
+
+    Regardez! son beau front brille entre les plus beaux,
+    Comme ferait un astre entoure de flambeaux!
+
+                            PHOEBUS.
+
+                Oh! la divine creature!
+                Amis, de ce bal enchante
+                Elle est la reine, je vous jure.
+                Sa couronne c'est sa beaute!
+
+         [Il se tourne vers MM. de Gif et de Chevreuse.]
+
+                Amis, j'en ai l'ame echauffee!
+                Je braverais guerre et malheur,
+                Si je pouvais, charmante fee,
+                Cueillir ton amour dans sa fleur!
+
+                        M. DE CHEVREUSE.
+
+                C'est une celeste figure!
+                Un de ces reves enchantes
+                Qui flottent dans la nuit obscure
+                Et sement l'ombre de clartes!
+                Dans le carrefour elle est nee.
+                O jeux aveugles du malheur!
+                Quoi! dans l'eau du ruisseau trainee,
+                Helas! une si belle fleur!
+
+             LA ESMERALDA, [l'oeil fixe sur Phoebus
+                dans la foule.]
+
+                C'est mon Phoebus, j'en etais sure,
+                Tel qu'en mon coeur il est reste!
+                Ah! sous la soie ou sous l'armure,
+                C'est toujours lui, grace et beaute!
+                Phoebus, ma tete est embrasee!
+                Tout me brule, joie et douleurs.
+                La terre a besoin de rosee,
+                Et mon ame a besoin de pleurs!
+
+                          FLEUR-DE-LYS.
+
+                Qu'elle est belle! j'en etais sure.
+                Oui, je dois etre, en verite,
+                Bien jalouse, si je mesure
+                Ma jalousie a sa beaute!
+                Mais peut-etre, predestinees,
+                Sous la rude main du malheur,
+                Elle et moi, nous serons fanees
+                Toutes les deux dans notre fleur!
+
+                         MADAME ALOISE.
+
+                C'est une belle creature!
+                Il est etrange, en verite,
+                Qu'une bohemienne impure
+                Ait tant de charme et de beaute!
+                Mais qui connait la destinee?
+                Souvent le serpent oiseleur
+                Cache sa tete empoisonnee
+                Sous le buisson le plus en fleur.
+
+                        TOUS, [ensemble.]
+
+                Elle a le calme et la beaute
+                Du ciel dans les beaux soirs d'ete!
+
+                MADAME ALOISE, [a la Esmeralda.]
+
+                Allons, enfant, allons, la belle,
+        Venez, et dansez-nous quelque danse nouvelle.
+
+  [La Esmeralda se prepare a danser et tire de son sein l'echarpe
+                   que lui a donnee Phoebus.]
+
+                          FLEUR-DE-LYS.
+
+        Mon echarpe!... Phoebus, je suis trompee ici,
+                Et ma rivale, la voici!
+
+  [Fleur-de-Lys arrache l'echarpe a la Esmeralda, et tombe evanouie.
+    Tout le bal s'ameute en desordre contre l'egyptienne, qui se
+    refugie pres de Phoebus.]
+
+                              TOUS.
+
+                Est-il vrai? Phoebus l'aime!
+                Infame! sors d'ici.
+                Ton audace est extreme
+                De nous braver ainsi!
+                0 comble d'impudence!
+                Retourne aux carrefours
+                Faire admirer ta danse
+                Aux marchands des faubourgs!
+                Que sur l'heure on la chasse!
+                A la porte! il le faut.
+                Une fille si basse
+                Elever l'oeil si haut!
+
+                          LA ESMERALDA.
+
+                Oh! defends-moi toi-meme,
+                Mon Phoebus, defends-moi!
+                L'humble fille boheme
+                N'espere ici qu'en toi.
+
+                            PHOEBUS.
+
+                Je l'aime, et n'aime qu'elle!
+                Je suis son defenseur.
+                Je combattrai pour elle.
+                Mon bras est a mon coeur.
+                S'il faut qu'on la soutienne,
+                Eh bien, je la soutien!
+                Son injure est la mienne,
+                Et son honneur le mien!
+
+                              TOUS.
+
+                Quoi! voila ce qu'il aime!
+                Hors d'ici! hors d'ici!
+                Quoi! c'est une boheme
+                Qu'il nous prefere ainsi!
+                Ah! tous les deux, silence
+                Sur une telle ardeur!
+
+                          [A Phoebus.]
+
+                Vous, c'est trop d'insolence!
+
+                        [A la Esmeralda.]
+
+                Toi, c'est trop d'impudeur!
+
+[Phoebus et ses amis protegent la bohemienne entouree des menaces
+ [de tous les convies de madame de Gondelaurier. La Esmeralda se
+      [dirige en chancelant vers la porte. La toile tombe.]
+
+
+
+
+                         ACTE TROISIEME
+
+
+
+                         SCENE PREMIERE.
+
+ [Le preau exterieur d'un cabaret. A droite la taverne. A gauche
+[des arbres. Au fond une porte et un petit mur tres bas qui clot
+[le preau. Au loin la croupe de Notre-Dame, avec ses deux tours et
+[sa fleche, et une silhouette sombre du vieux Paris qui se detache
+  [sur le ciel rouge du couchant. La Seine au bas du tableau.]
+
+
+           PHOEBUS, LE VICOMTE DE GIF, M. DE MORLAIX,
+     M. DE CHEVREUSE, [et plusieurs autres amis de Phoebus,
+[assis a des tables, buvant et chantant; puis] D0M CLAUDE FROLLO.
+
+
+                            CHANSON.
+
+                             CHOEUR.
+
+                Sois propice et salutaire,
+                Notre-Dame de Saint-Lo,
+                Au soudard qui sur la terre
+                N'a de haine que pour l'eau!
+
+                            PHOEBUS.
+
+                        Donne au brave,
+                        En tous lieux,
+                        Bonne cave
+                        Et beaux yeux!
+                        L'heureux drille!
+                        Fais qu'il pille
+                        Jeune fille
+                        Et vin vieux!
+
+                        Qu'une belle
+                        Au coeur froid
+                        Soit rebelle,
+                        --On en voit,--
+                        Il plaisante
+                        La mechante,
+                        Puis il chante,
+                        Puis il boit!
+
+                        Le jour passe;
+                        Ivre ou non,
+                        Il embrasse
+                        Sa Toinon,
+                        Et, farouche,
+                        Il se couche
+                        Sur la bouche
+                        D'un canon.
+
+                        Et son ame,
+                        Qui souvent
+                        D'une femme
+                        Va revant,
+                        Est contente
+                        Quand la tente
+                        Palpitante
+                        Tremble au vent.
+
+                             CHOEUR.
+
+                    Sois propice et salutaire,
+                    Notre-Dame de Saint-Lo,
+                    Au soudard qui sur la terre
+                    N'a de haine que pour l'eau!
+
+  [Entre Claude Frollo, qui va s'asseoir a une table eloignee de celle ou
+    est Phoebus, et parait d'abord etranger a ce qui se passe autour de lui.]
+
+                 LE VICOMTE DE GIF, [a Phoebus.]
+
+                Cette egyptienne si belle,
+                Qu'en fais-tu donc, decidement?
+
+            [Mouvement d'attention de Claude Frollo.]
+
+                            PHOEBUS.
+
+                Ce soir, dans une heure, avec elle,
+                J'ai rendez-vous.
+
+                              TOUS.
+                                 Vraiment?
+
+                            PHOEBUS.
+
+                                          Vraiment!
+
+            [L'agitation de Claude Frollo redouble.]
+
+                       LE VICOMTE DE GIF.
+
+                Dans une heure?
+
+                            PHOEBUS.
+
+                               Dans un moment!
+
+                          LA ESMERALDA.
+
+                Oh! l'amour, volupte supreme!
+                Se sentir deux dans un seul coeur!
+                Posseder la femme qu'on aime!
+                Etre l'esclave et le vainqueur!
+                Avoir son ame, avoir ses charmes!
+                Son chant qui sait vous apaiser!
+                Et ses beaux yeux remplis de larmes
+                Qu'on essuie avec un baiser!
+
+  [Pendant qu'il chante, les autres boivent et choquent leurs verres.]
+
+                             CHOEUR.
+
+                    C'est le bonheur supreme,
+                    En quelque temps qu'on soit,
+                    De boire a ce qu'on aime
+                    Et d'aimer ce qu'on boit!
+
+                            PHOEBUS.
+
+                    Amis, la plus jolie,
+                    Une grace accomplie!
+                    0 delire! o folie!
+                    Amis, elle est a moi!
+
+                    CLAUDE FROLLO, [a part.]
+
+                    A l'enfer je m'allie.
+                    Malheur sur elle et toi!
+
+                            PHOEBUS.
+
+                    Le plaisir nous convie!
+                    Epuisons sans retour
+                    Le meilleur de la vie
+                    Dans un instant d'amour!
+
+                Qu'importe apres que l'on meure!
+                Donnons cent ans pour une heure,
+                L'eternite pour un jour!
+
+  [Le couvre-feu sonne. Les amis de Phoebus se levent de table,
+   [remettent leurs epees, leurs chapeaux, leurs manteaux, et
+                     [s'appretent a partir.]
+
+                             CHOEUR.
+
+                    Phoebus, l'heure t'appelle;
+                    Oui, c'est le couvre-feu.
+                    Va retrouver ta belle.
+                    A la garde de Dieu!
+
+                            PHOEBUS.
+
+                    Vraiment! l'heure m'appelle;
+                    Oui, c'est le couvre-feu.
+                    Je vais trouver ma belle.
+                    A la garde de Dieu!
+
+                 [Les amis de Phoebus sortent.]
+
+
+
+                            SCENE II
+
+                     CLAUDE FROLLO, PHOEBUS.
+
+
+       CLAUDE FROLLO, [arretant Phoebus au moment ou il se
+                       [dispose a sortir.]
+
+                Capitaine!
+
+                            PHOEBUS.
+                          Quel est cet homme?
+
+                         CLAUDE FROLLO.
+
+                Ecoutez-moi.
+
+                            PHOEBUS.
+
+                            Depechons-nous!
+
+                         CLAUDE FROLLO.
+
+                Savez-vous bien comment se nomme
+        Celle qui vous attend ce soir au rendez-vous?
+
+                            PHOEBUS.
+
+                Eh, pardieu! c'est mon amoureuse,
+                Celle qui m'aime et me plait fort;
+                C'est ma chanteuse, ma danseuse,
+                C'est Esmeralda.
+
+                         CLAUDE FROLLO.
+
+                                C'est la mort.
+
+                            PHOEBUS.
+
+                L'ami, vous etes fou, d'abord;
+        Ensuite, allez au diable!
+
+                         CLAUDE FROLLO.
+
+                                 Ecoutez!
+
+                            PHOEBUS.
+
+                                         Que m'importe?
+
+                         CLAUDE FROLLO.
+
+        Phoebus, si vous passez le seuil de cette porte....
+
+                            PHOEBUS.
+                Vous etes fou!
+
+                         CLAUDE FROLLO.
+
+                              Vous etes mort!
+
+                Tremble! c'est une egyptienne!
+                Elles n'ont ni loi, ni remord.
+                Leur amour deguise leur haine,
+                Et leur couche est un lit de mort!
+
+                         PHOEBUS, riant.
+
+                Mon cher, rajustez votre cape.
+                Rentrez a l'hopital des fous;
+                Il me parait qu'on s'en echappe.
+                Que Jupiter, saint Esculape,
+                Et le diable soient avec vous!
+
+                         CLAUDE FROLLO.
+
+                Ce sont des femmes infideles.
+                Crois-en les publiques rumeurs.
+                Tout est tenebres autour d'elles.
+                Phoebus, n'y va pas, ou tu meurs!
+
+   [L'insistance de Claude Frollo parait troubler Phoebus, qui
+           considere son interlocuteur avec anxiete.]
+
+                            PHOEBUS.
+
+                        Il m'etonne,
+                        Il me donne
+                Malgre moi quelques soupcons.
+                        Cette ville,
+                        Peu tranquille,
+                Est pleine de trahisons.
+
+                         CLAUDE FROLLO.
+
+                        Je l'etonne,
+                        Je lui donne
+                Malgre lui quelques soupcons.
+                        L'imbecile,
+                        Dans la ville,
+                Ne voit plus que trahisons.
+
+        Croyez-moi, monseigneur, evitez la sirene
+                Dont le piege vous attend.
+                Plus d'une bohemienne
+                A poignarde dans sa haine
+                Un coeur d'amour palpitant.
+
+   [Phoebus, qu'il veut entrainer, se ravise et le repousse.]
+
+                            PHOEBUS.
+
+                Mais suis-je fou moi-meme?
+                Maure, juive ou boheme,
+                Qu'importe quand on aime?
+                L'amour doit tout couvrir.
+                Laisse-nous! il m'appelle!
+                Ah! si la mort, c'est elle,
+                Quand la mort est si belle,
+                Il est doux de mourir!
+
+                     CLAUDE, [le retenant.]
+
+                Arrete! Une boheme!
+                Ta folie est extreme!
+                Oses-tu donc toi-meme
+                A ta perte courir?
+                Crains la femme infidele
+                Qui dans l'ombre t'appelle.
+                Mais quoi! tu cours pres d'elle?
+                Va, si tu veux mourir!
+
+  [Phoebus sort vivement, malgre Claude Frollo. Claude Frollo reste
+     un moment sombre et comme indecis; puis il suit Phoebus.]
+
+
+
+                           SCENE III.
+
+  [Une chambre. Au fond, une fenetre qui donne sur la riviere.]
+
+
+  [Clopin Trouillefou entre, un flambeau a la main; il est accompagne
+    de quelques hommes auxquels il fait un geste d'intelligence, et
+    qu'il place dans un coin obscur ou ils disparaissent; puis il
+    retourne vers la porte et semble faire signe a quelqu'un de
+    monter. Dom Claude parait.]
+
+                       CLOPIN, [a Claude.]
+
+    D'ici vous pourrez voir, sans etre vu vous-meme,
+            Le capitaine et la boheme.
+
+     [Il lui montre un enfoncement derriere une tapisserie.]
+
+                         CLAUDE FROLLO.
+
+    Les hommes apostes sont-ils prets?
+
+                             CLOPIN.
+
+                                      Ils sont prets.
+
+                         CLAUDE FROLLO.
+
+    Que jamais de ceci l'on ne trouve la source.
+            Silence! prenez cette bourse.
+            Vous en aurez autant apres.
+
+[Claude Frollo se place dans la cachette. Clopin sort avec precaution.
+               Entrent la Esmeralda et Phoebus.]
+
+                    CLAUDE FROLLO, [a part.]
+
+                    O fille adoree,
+                    Au destin livree!
+                    Elle entre paree
+                    Pour sortir en deuil!
+
+                   LA ESMERALDA, [a Phoebus.]
+
+                    Monseigneur le comte,
+                    Mon coeur que je dompte
+                    Est rempli de honte
+                    Et rempli d'orgueil!
+
+                   PHOEBUS, [a la Esmeralda.]
+
+                    Oh! comme elle est rose!
+                    Quand la porte est close,
+                    Ma belle, on depose
+                    Toute crainte au seuil.
+
+  [Phoebus fait asseoir la Esmeralda sur le banc pres de lui.]
+
+                            PHOEBUS.
+
+                M'aimes-tu?
+
+                          LA ESMERALDA.
+
+                           Je t'aime!
+
+                    CLAUDE FROLLO, [a part.]
+
+                O torture!
+
+                            PHOEBUS.
+
+                O l'adorable creature!
+                Vous etes divine, en honneur!
+
+                          LA ESMERALDA.
+
+                Votre bouche est une flatteuse!
+                Tenez, je suis toute honteuse!
+                N'approchez pas tant, monseigneur!
+
+                         CLAUDE FROLLO.
+
+                Ils s'aiment! que je les envie!
+
+                          LA ESMERALDA.
+
+                Mon Phoebus, je vous dois la vie!
+
+                            PHOEBUS.
+
+                Et moi, je te dois le bonheur!
+
+                          LA ESMERALDA.
+
+                        Oh! sois sage!
+                        Encourage
+                        D'un visage
+                        Gracieux
+                        La petite
+                        Qui palpite
+                        Interdite
+                        Sous tes yeux!
+
+                            PHOEBUS.
+
+                        O ma reine,
+                        Ma sirene,
+                        Souveraine
+                        De beaute!
+                        Douce fille,
+                        Dont l'oeil brille
+                        Et petille
+                        De fierte!
+
+                         CLAUDE FROLLO.
+
+                        Les attendre!
+                        Les entendre!
+                        Qu'elle est tendre!
+                        Qu'il est beau!
+                        Sois joyeuse!
+                        Sois heureuse!
+                        Moi, je creuse
+                        Le tombeau!
+
+                            PHOEBUS.
+
+                        Fee ou femme,
+                        Sois ma dame!
+                        Car mon ame,
+                        Nuit et jour,
+                        Te desire,
+                        Te respire,
+                        Et t'admire,
+                        Mon amour!
+
+                          LA ESMERALDA.
+
+                        Je suis femme,
+                        Et mon ame,
+                        Toute flamme,
+                        Tout amour,
+                        Est, beau sire,
+                        Une lyre
+                        Qui soupire
+                        Nuit et jour!
+
+                         CLAUDE FROLLO.
+
+                        Attends, femme,
+                        Que ma flamme
+                        Et ma lame
+                        Aient leur tour!
+                        Oui, j'admire
+                        Leur sourire,
+                        Leur delire,
+                        Leur amour!
+
+                            PHOEBUS.
+
+            Sois toujours rose et vermeille!
+            Rions a notre heureux sort,
+            A l'amour qui se reveille,
+            A la pudeur qui s'endort!
+            Ta bouche, c'est le ciel meme!
+            Mon ame veut s'y poser.
+            Puisse mon souffle supreme
+            S'en aller dans ce baiser!
+
+                          LA ESMERALDA.
+
+            Ta voix plait a mon oreille;
+            Ton sourire est doux et fort;
+            L'insouciance vermeille
+            Rit dans tes yeux et m'endort.
+            Tes voeux sont ma loi supreme,
+            Mais je dois m'y refuser.
+            Ma vertu, mon bonheur meme,
+            S'en iraient dans ce baiser!
+
+                         CLAUDE FROLLO.
+
+            Ne frappez point leur oreille,
+            Pas rapproches de la mort!
+            Ma haine jalouse veille
+            Sur leur amour qui s'endort!
+            La mort decharnee et bleme
+            Entre eux deux va se poser!
+            Phoebus, ton souffle supreme
+            S'en ira dans ce baiser!
+
+  [Claude Frollo se jette sur Phoebus et le poignarde, puis il ouvre
+    la fenetre du fond, par laquelle il disparait. La Esmeralda tombe
+    avec un grand cri sur le corps de Phoebus. Entrent en tumulte les
+    hommes apostes, qui la saisissent et semblent l'accuser.
+    La toile tombe.]
+
+
+
+
+                         ACTE QUATRIEME
+
+
+
+                         SCENE PREMIERE.
+
+                [Une prison. Au fond, une porte.]
+
+
+    LA ESMERALDA, [seule, enchainee, couchee sur la paille.]
+
+    Quoi! lui dans le sepulcre, et moi dans cet abime!
+            Moi prisonniere et lui victime!
+    Oui, je l'ai vu tomber. Il est mort en effet!
+            Et ce crime, o ciel! un tel crime,
+            On dit que c'est moi qui l'ai fait!
+    La tige de nos jours est brisee encor verte!
+    Phoebus en s'en allant me montre le chemin!
+            Hier sa fosse s'est ouverte,
+            La mienne s'ouvrira demain!
+
+                            ROMANCE._
+
+                Phoebus, n'est-il sur la terre
+                Aucun pouvoir salutaire
+                A ceux qui se sont aimes?
+                N'est-il ni philtres ni charmes
+                Pour secher des yeux en larmes,
+                Pour rouvrir des yeux fermes?
+                Dieu bon, que je supplie
+                Et la nuit et le jour,
+                Daignez m'oter ma vie
+                Ou m'oter mon amour!
+
+            Mon Phoebus, ouvrons nos ailes
+            Vers les spheres eternelles,
+            Ou l'amour est immortel!
+            Retournons ou tout retombe!
+            Nos corps ensemble a la tombe,
+            Nos ames ensemble au ciel!
+
+                Dieu bon, que je supplie
+                Et la nuit et le jour,
+                Daignez m'oter ma vie
+                Ou m'oter mon amour!
+
+  [La porte s'ouvre. Entre Claude Frollo, une lampe a la main, lo
+    capuchon rabattu sur le visage. Il vient se placer, immobile, en
+                     face de la Esmeralda.]
+
+              LA ESMERALDA, [se levant en sursaut.]
+
+    Quel est cet homme?
+
+            CLAUDE FROLLO, [voile par son capuchon.]
+
+                       Un pretre.
+
+                          LA ESMERALDA.
+
+                                 Un pretre! Quel mystere!
+
+                         CLAUDE FROLLO.
+
+    Etes-vous prete?
+
+                          LA ESMERALDA.
+
+                    A quoi?
+
+                         CLAUDE FROLLO.
+
+                           Prete a mourir.
+
+                          LA ESMERALDA.
+
+                                          Oui.
+
+                         CLAUDE FROLLO.
+
+    Bien.
+
+                          LA ESMERALDA.
+
+         Sera-ce bientot? Repondez-moi, mon pere.
+
+                         CLAUDE FROLLO.
+
+            Demain.
+
+                          LA ESMERALDA.
+
+                   Pourquoi pas aujourd'hui?
+
+                         CLAUDE FROLLO.
+
+    Quoi! vous souffrez donc bien?
+
+                          LA ESMERALDA.
+
+                                  Oui, je souffre!
+
+                         CLAUDE FROLLO.
+
+                                                  Peut-etre,
+    Moi qui vivrai demain, je souffre plus que vous.
+
+                          LA ESMERALDA.
+
+    Vous? qui donc etes-vous?
+
+                         CLAUDE FROLLO.
+
+                             La tombe est entre nous!
+
+                          LA ESMERALDA.
+
+    Votre nom?
+
+                         CLAUDE FROLLO.
+
+              Vous voulez le savoir?
+
+                          LA ESMERALDA.
+
+                                    Oui.
+
+                     [Il leve son capuchon.]
+
+                          LA ESMERALDA.
+
+                                        Le pretre!
+            C'est le pretre! o ciel! o mon Dieu!
+    C'est bien son front de glace et son regard de feu!
+            C'est bien le pretre! c'est lui-meme!
+    C'est lui qui me poursuit sans treve nuit et jour!
+    C'est lui qui l'a tue, mon Phoebus, mon amour!
+    Monstre, je vous maudis a mon heure supreme!
+    Que vous ai-je donc fait? quel est votre dessein?
+    Que voulez-vous de moi, miserable assassin?
+            Vous me haissez donc?
+
+                         CLAUDE FROLLO.
+
+                                 Je t'aime!--
+
+                Je t'aime, c'est infame!
+                Je t'aime en fremissant!
+                Mon amour, c'est mon ame;
+                Mon amour, c'est mon sang.
+                Oui, sous tes pieds je tombe,
+                    Et, je le dis,
+                Je prefere ta tombe
+                    Au paradis.
+                Plains-moi! Quoi! je succombe.;
+                    Et tu maudis!
+
+                          LA ESMERALDA.
+
+            Il m'aime! o comble d'epouvante!
+            Il me tient, l'horrible oiseleur!
+
+                         CLAUDE FROLLO.
+
+            La seule chose en moi vivante,
+            C'est mon amour et ma douleur!
+
+                    Detresse extreme!
+                    Quelle rigueur!
+                    Helas! je t'aime!
+                    Nuit de douleur!
+
+                          LA ESMERALDA.
+
+                    Moment supreme!
+                    Tremble, o mon coeur!
+                    O ciel! il m'aime!
+                    Nuit de terreur!
+
+                    CLAUDE FROLLO, [a part.]
+
+                Dans mes mains elle palpite!
+                Enfin le pretre a son tour!
+                Dans la nuit je l'ai conduite,
+                Je vais la conduire au jour.
+                La mort, qui vient a ma suite,
+                Ne la rendra qu'a l'amour!
+
+                          LA ESMERALDA.
+
+                Par pitie laissez-moi vite!
+                Phoebus est mort, c'est mon tour!
+                Helas! je suis interdite
+                Devant votre affreux amour,
+                Comme l'oiseau qui palpite
+                Sous le regard du vautour!
+
+                         CLAUDE FROLLO.
+
+    Accepte-moi! je t'aime! oh! viens, je t'en conjure!
+    Pitie pour moi! pitie pour toi! fuyons! tout dort!
+
+                          LA ESMERALDA.
+
+                Votre priere est une injure!
+
+                         CLAUDE FROLLO.
+
+    Aimes-tu mieux mourir?
+
+                          LA ESMERALDA.
+
+                          Le corps meurt, l'ame sort.
+
+                         CLAUDE FROLLO.
+
+    Mourir, c'est bien affreux!
+
+                          LA ESMERALDA.
+
+                               Taisez-vous, bouche impure!
+            Votre amour rend belle la mort!
+
+                         CLAUDE FROLLO.
+
+            Choisis, choisis.--Claude ou la mort!
+
+  [Claude tombe aux pieds d'Esmeralda, suppliant. Elle le repousse.]
+
+                          LA ESMERALDA.
+
+            Non, meurtrier! jamais! silence!
+            Ton lache amour est une offense.
+            Plutot la tombe ou je m'elance!
+            Sois maudit parmi les maudits!
+
+                         CLAUDE FROLLO.
+
+            Tremble! l'echafaud te reclame.
+            Sais-tu que je porte en mon ame
+            Des projets de sang et de flamme,
+            De l'enfer dans-l'ombre applaudis?
+
+                        Oh! je t'adore!
+                        Donne ta main!
+                        Tu peux encore
+                        Vivre demain!
+                        O nuit d'alarmes!
+                        Nuit de remord!
+                        Pour moi les larmes,
+                        Pour toi la mort!
+                        Dis-moi: Je t'aime!
+                        Pour te sauver!--
+                        L'aube supreme
+                        Va se lever.
+                Ah! puisqu'en vain je t'implore,
+                Puisque ta haine me fuit,
+                Adieu donc! un jour encore,
+                Et puis l'eternelle nuit!
+
+                          LA ESMERALDA.
+
+                        Va, je t'abhorre,
+                        Pretre inhumain!
+                        Le meurtre encore
+                        Rougit ta main!
+                        O nuit d'alarmes!
+                        Nuit de remord!
+                        Assez de larmes,
+                        Je veux la mort!
+                        Dans les fers meme
+                        Je t'ai brave.
+                        Sois anatheme!
+                        Sois reprouve!
+                Va, ton crime te devore,
+                Phoebus vers Dieu me conduit!
+                Le ciel m'ouvre son aurore!
+                L'enfer t'attend dans sa nuit!
+
+  [Un geolier parait. Claude Frollo lui fait signe d'emmener la
+    Esmeralda, et sort, pendant qu'on entraine la bohemienne.]
+
+
+
+
+                            SCENE II.
+
+[Le parvis Notre-Dame. La facade de l'eglise. On entend un bruit
+    de cloches.]
+
+
+                           QUASIMODO.
+
+                        Mon Dieu! j'aime,
+                        Hors moi-meme,
+                        Tout ici!
+                        L'air qui passe
+                        Et qui chasse
+                        Mon souci!
+                        L'hirondelle
+                        Si fidele
+                        Aux vieux toits!
+                        Les chapelles
+                        Sous les ailes
+                        De la croix!
+                        Toute rose
+                        Qui fleurit;
+                        Toute chose
+                        Qui sourit!
+
+                        Triste ebauche,
+                        Je suis gauche,
+                        Je suis laid.
+                        Point d'envie!
+                        C'est la vie
+                        Comme elle est!
+                        Joie ou peine,
+                        Nuit d'ebene
+                        Ou ciel bleu,
+                        Que m'importe?
+                        Toute porte
+                        Mene a Dieu!
+                        Noble lame,
+                        Vil fourreau,
+                        Dans mon ame
+                        Je suis beau!
+
+                Cloches grosses et freles,
+                Sonnez, sonnez toujours!
+                Confondez vos voix greles
+                Et vos murmures sourds!
+                Chantez dans les tourelles,
+                Bourdonnez dans les tours!
+
+                        Ca, qu'on sonne!
+                        Qu'a grand bruit
+                        On bourdonne
+                        Jour et nuit!
+
+                Nos fetes seront splendides.
+                Aide par vous, j'en reponds.
+                Sautez a bonds plus rapides
+                Dans les airs que nous frappons!
+                Voila les bourgeois stupides
+                Qui se hatent sur les ponts!
+
+                        Ca, qu'on sonne,
+                        Qu'on bourdonne
+                        Jour et nuit!
+                        Toute fete
+                        Se complete
+                        Par le bruit!
+
+          [Il se retourne vers la facade de l'eglise.]
+
+    J'ai vu dans la chapelle une tenture noire.
+    Helas! va-t-on trainer quelque misere ici?
+    Dieu! quel pressentiment!... Non, je n'y veux pas croire!
+
+      [Entrent Claude Frollo et Clopin, sans voir Quasimodo.]
+
+    C'est mon maitre.--Observons.--Il est bien sombre aussi!
+
+         [Il se cache dans un angle obscur du portail.]
+
+                O ma maitresse! o Notre-Dame!
+                Prenez mes jours, sauvez son ame!
+
+
+
+                           SCENE III.
+
+           QUASIMODO, [cache;] CLAUDE FROLLO, CLOPIN.
+
+
+                         CLAUDE FROLLO.
+
+                Donc Phoebus est a Montfort?
+
+                             CLOPIN.
+
+                Monseigneur, il n'est pas mort!
+
+                         CLAUDE FROLLO.
+
+                Pourvu qu'ici rien ne l'amene!
+
+                             CLOPIN.
+
+                Ne vous en mettez pas en peine,
+        Il est trop faible encor pour un si long chemin.
+                S'il venait, sa mort serait sure.
+                Monseigneur, soyez-en certain,
+        Chaque pas qu'il ferait rouvrirait sa blessure.
+                Ne craignez rien pour ce matin.
+
+                         CLAUDE FROLLO.
+
+            Ah! qu'aujourd'hui du moins seul je la tienne,
+                Pour vivre ou mourir, dans ma main!
+        Enfer, pour aujourd'hui je te donne demain!
+
+      [A Clopin.]
+
+        Bientot on va mener ici l'egyptienne.
+                Toi, que de tout il te souvienne!--
+                    Sur la place avec les tiens....
+
+                             CLOPIN.
+
+                        Bien.
+
+                         CLAUDE FROLLO.
+
+                             Tiens-toi dans l'ombre.
+                    Si je crie: A moi! tu viens.
+
+                             CLOPIN.
+
+                        Oui.
+
+                         CLAUDE FROLLO.
+
+                            Soyez en nombre.
+
+                             CLOPIN.
+
+                    Donc si vous criez: A moi!...
+
+                         CLAUDE FROLLO.
+
+                        Oui.
+
+                             CLOPIN.
+
+                            J'accours pres d'elle.
+                Je l'arrache aux gens du roi....
+
+                         CLAUDE FROLLO.
+
+                    Bien.
+
+                             CLOPIN.
+
+                         A vous la belle!
+
+                         CLAUDE FROLLO.
+
+                A la foule melez-vous.
+                        Et peut-etre
+                Ce coeur deviendra plus doux
+                        Pour le pretre.
+                Alors vous accourez tous....
+
+                             CLOPIN.
+
+                        Oui, mon maitre.
+
+                         CLAUDE FROLLO.
+
+                Tenez-vous partout serres.
+
+                             CLOPIN.
+
+                    Oui.
+
+                         CLAUDE FROLLO.
+
+                        Cachez vos armes
+                Pour ne pas donner d'alarmes.
+
+                             CLOPIN.
+
+                    Maitre, vous verrez.
+
+                         CLAUDE FROLLO.
+
+                Mais que l'enfer la remporte,
+                        Compagnon,
+                Si la folle a cette porte
+                        Me dit non!
+                Destinee! o jeu funeste!
+                Ami, je compte sur toi.
+                Sur la chance qui me reste
+                Je me penche avec effroi.
+
+                             CLOPIN.
+
+                Ne craignez rien de funeste,
+                Monseigneur, comptez sur moi.
+                A la chance qui vous reste
+                Confiez-vous sans effroi.
+
+  [Ils sortent avec precaution. Le peuple commence a arriver sur la place.]
+
+
+
+                            SCENE IV.
+
+        LE PEUPLE, QUASIMODO, [puis] LA ESMERALDA [et son
+                cortege, puis] CLAUDE FROLLO, PHOEBUS, CLOPIN
+             TROUILLEFOU, PRETRES, ARCHERS, GENS DE
+                            JUSTICE.
+
+
+                             CHOEUR.
+
+                        A Notre-Dame
+                        Venez tous voir
+                        La jeune femme
+                        Qui meurt ce soir!
+                    Cette bohemienne
+                    A poignarde, je croi,
+                    Un archer capitaine,
+                    Le plus beau qu'ait le roi!
+                        Eh quoi! si belle
+                        Et si cruelle!
+                        Entendez-vous?
+                        Comment y croire?
+                        L'ame si noire
+                        Et l'oeil si doux!
+                    C'est une chose affreuse!
+                    Ce que c'est que de nous!
+                    La pauvre malheureuse!
+                    Venez, accourez tous!
+                        A Notre-Dame
+                        Venez tous voir
+                        La jeune femme
+                        Qui meurt ce soir!
+
+  [La foule grossit. Rumeur. Un cortege sinistre commence a deboucher
+    sur la place du Parvis. Files de penitents noirs. Bannieres de la
+    Misericorde. Flambeaux. Archers. Gens de justice et du guet. Les
+    soldats ecartent la foule. Parait la Esmeralda, en chemise, la
+    corde au cou, pieds nus, couverte d'un grand crepe noir. Pres
+    d'elle, un moine avec un crucifix. Derriere elle, les bourreaux et
+    les gens du roi. Quasimodo, appuye aux contre-forts du portail,
+    observe avec attention. Au moment ou la condamnee arrive devant la
+    facade, on entend un chant grave et lointain venir de l'interieur
+    de l'eglise, dont les portes sont fermees.]
+
+                    CHOEUR, [dans l'eglise.]
+
+                    _Omnes fluctus fluminis
+                    Transierunt super me
+                    In imo voraginis
+                    Ubi plorant animae._
+
+  [Le chant s'approche lentement. Il eclate enfin pres des portes, qui
+    s'ouvrent tout a coup et laissent voir l'interieur de l'eglise
+    occupe par une longue procession de pretres en habits de ceremonie
+    et precedes de bannieres. Claude Frollo, en costume sacerdotal,
+    est en tete de la procession. Il s'avance vers la condamnee.]
+
+                           LE PEUPLE.
+
+                Vive aujourd'hui, morte demain!
+                Doux Jesus, tendez-lui la main!
+
+                          LA ESMERALDA.
+
+                C'est mon Phoebus qui m'appelle
+                Dans la demeure eternelle
+                Ou Dieu nous tient sous son aile.
+                Beni soit mon sort cruel!
+                Au fond de tant de misere,
+                Mon coeur qui se brise espere.
+                Je vais mourir pour la terre,
+                Je vais naitre pour le ciel!
+
+                         CLAUDE FROLLO.
+
+                Mourir si jeune, si belle!
+                Helas! le pretre infidele
+                Est bien plus condamne qu'elle!
+                Mon supplice est eternel.
+                Pauvre fille de misere,
+                Que j'ai prise dans ma serre,
+                Tu vas mourir pour la terre;
+                Moi, je suis mort pour le ciel!
+
+                           LE PEUPLE.
+
+                Helas! c'est une infidele!
+                Le ciel, qui tous nous appelle,
+                N'a point de portes pour elle.
+                Son supplice est eternel.
+                La mort, oh! quelle misere!
+                La tient dans sa double serre;
+                Elle est morte pour la terre,
+                Elle est morte pour le ciel!
+
+     [La procession s'approche, Claude aborde la Esmeralda.]
+
+               LA ESMERALDA, [glacee de terreur.]
+
+    C'est le pretre!
+
+                      CLAUDE FROLLO, [bas.]
+
+                    Oui, c'est moi; je t'aime et je t'implore.
+            Dis un seul mot, je puis encore,
+            Je puis encore te sauver.
+            Dis-moi: Je t'aime.
+
+                          LA ESMERALDA.
+
+                               Je t'abhorre!
+    Va-t'en!
+
+                         CLAUDE FROLLO.
+
+            Alors meurs donc! j'irai te retrouver.
+
+      [Il se tourne vers la foule.]
+
+    Peuple, au bras seculier nous livrons cette femme.
+    A ce supreme instant, puisse sur sa pauvre ame
+            Passer le souffle du Seigneur!
+
+  [Au moment ou les hommes de justice mettent la main sur la Esmeralda,
+    Quasimodo saute dans la place, repousse les archers, saisit la
+    Esmeralda dans ses bras, et se jette dans l'eglise avec elle.]
+
+                           QUASIMODO.
+
+                    Asile! asile! asile!
+
+                           LE PEUPLE.
+
+                    Asile! asile! asile!
+                    Noel, gens de la ville!
+                    Noel au bon sonneur!
+                        O destinee!
+                        La condamnee
+                        Est au Seigneur.
+                        Le gibet tombe,
+                        Et l'Eternel,
+                        Au lieu de tombe,
+                        Ouvre l'autel.
+                        Bourreaux, arriere,
+                        Et gens du roi!
+                        Cette barriere
+                        Borne la loi.
+                        C'est toi qui changes
+                        Tout en ce lieu.
+                        Elle est aux anges,
+                        Elle est a Dieu!
+
+       CLAUDE FROLLO, [faisant faire silence d'un geste.]
+
+    Elle n'est pas sauvee, elle est egyptienne.
+    Notre-Dame ne peut sauver qu'une chretienne.
+    Meme embrassant l'autel les paiens sont proscrits.
+
+      [Aux gens du roi.]
+
+    Au nom de monseigneur l'eveque de Paris,
+            Je vous rends cette femme impure.
+
+                    QUASIMODO, [aux archers.]
+
+            Je la defendrai, je le jure!
+            N'approchez pas!
+
+                  CLAUDE FROLLO, [aux archers.]
+
+                            Vous hesitez!
+            Obeissez a l'instant meme.
+    Arrachez du saint lieu cette fille boheme.
+
+[Les archers s'avancent. Quasimodo se place entre eux et la Esmeralda.]
+
+                           QUASIMODO.
+
+            Jamais!
+
+      [On entend UN CAVALIER accourir et crier du dehors:]
+
+                   Arretez!
+
+                                            [La foule s'ecarte.]
+
+  PHOEBUS, [apparaissant a cheval, pale, haletant, epuise comme
+    un homme qui vient de faire une longue course.]
+
+                                                   Arretez!
+
+                          LA ESMERALDA.
+
+            Phoebus!
+
+               CLAUDE FROLLO, [a part, terrifie.]
+
+                    La trame se dechire!
+
+              PHOEBUS, [se jetant a bas du cheval.]
+
+                Dieu soit loue! je respire.
+                J'arrive a temps. Celle-ci
+                Est innocente, et voici
+                Mon assassin!
+
+                                     [Il designe Claude Frollo.]
+
+                              TOUS.
+
+                             Ciel! le pretre!
+
+                            PHOEBUS.
+
+    Le pretre est seul coupable, et je le prouverai.
+    Qu'on l'arrete.
+
+                           LE PEUPLE.
+
+                   O surprise!
+
+                          [Les archers entourent Claude Frollo.]
+
+                         CLAUDE FROLLO.
+
+                              Ah! Dieu seul est le maitre!
+
+                          LA ESMERALDA.
+
+    Phoebus!
+
+                            PHOEBUS.
+
+            Esmeralda!
+
+                 [Ils se jettent dans les bras l'un de l'autre.]
+
+                          LA ESMERALDA.
+
+                      Mon Phoebus adore!
+    Nous vivrons.
+
+                            PHOEBUS.
+
+                 Tu vivras.
+
+                          LA ESMERALDA.
+
+                           Pour nous le bonheur brille.
+
+                           LE PEUPLE.
+
+    Vivez tous deux!
+
+                          LA ESMERALDA.
+
+                    Entends ces joyeuses clameurs!
+            A tes pieds recois l'humble fille.--
+            Ciel! tu palis! Qu'as-tu?
+
+                     PHOEBUS, [chancelant.]
+
+                                     Je meurs.
+
+[Elle le recoit dans ses bras. Attente et anxiete dans la foule.]
+
+        Chaque pas que j'ai fait vers toi, ma bien-aimee,
+        A rouvert ma blessure a peine encor fermee.
+        J'ai pris pour moi la tombe et te laisse le jour.
+                J'expire. Le sort te venge;
+                Je vais voir, o mon pauvre ange,
+                Si le ciel vaut ton amour!
+        --Adieu!
+
+                          [Il expire.]
+
+                          LA ESMERALDA.
+
+            Phoebus! il meurt! en un instant tout change!
+
+                   [Elle tombe sur son corps.]
+
+                Je te suis dans l'eternite!
+
+                         CLAUDE FROLLO.
+
+                Fatalite!
+
+                           LE PEUPLE.
+
+                         Fatalite!
+
+
+
+
+
+End of the Project Gutenberg EBook of La Esmeralda, by Victor Hugo
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LA ESMERALDA ***
+
+***** This file should be named 13628.txt or 13628.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.net/1/3/6/2/13628/
+
+Produced by PG Distributed Proofreaders from images generously made
+available by the Bibliotheque nationale de France (BnF/Gallica) at
+http://gallica.bnf.fr
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

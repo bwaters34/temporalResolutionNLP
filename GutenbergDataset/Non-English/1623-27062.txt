@@ -1,0 +1,5219 @@
+ï»¿The Project Gutenberg EBook of Romeo i Julia, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Romeo i Julia
+       Tragedya w 5 Aktach
+
+Author: William Shakespeare
+
+Translator: JÃ³zef Paszkowski
+
+Release Date: October 27, 2008 [EBook #27062]
+
+Language: Polish
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ROMEO I JULIA ***
+
+
+
+
+Produced by Jimmy O'Regan (This file was produced from
+images generously made available by CBN Polona
+http://www.polona.pl)
+
+
+
+
+
+
+
+    WILIAM SZEKSPIR
+
+
+    ROMEO I JULIA
+    TRAGEDYA W 5 AKTACH
+
+
+    J. PASZKOWSKIEGO.
+
+    NAKÅAD GEBETHNERA I WOLFFA
+    WARSZAWA--LUBLIN--ÅÃDÅ¹
+    KRAKÃW--G. GEBETHNER I SPÃÅKA
+    NEW YORK--THE POLISH BOOK IMPORT. CO, INC.
+
+    KRAKÃW.--DRUK W. L. ANCZYCA I SPÃÅKI
+    1913
+
+
+
+
+    ROMEO I JULIA
+
+    PRZEKÅAD
+
+    J. PASZKOWSKIEGO.
+
+
+        OSOBY:
+
+*Eskalus,* ksiÄÅ¼Ä panujÄcy w Weronie.
+*Parys,* mÅody WeroneÅczyk, szlachetnego rodu, krewny
+  ksiÄcia.
+*Monteki,* } naczelnicy dwÃ³ch domÃ³w nieprzyjaznych sobie.
+*Kapulet,* }
+*Starzec,* stryjeczny brat Kapuleta.
+*Romeo,* syn Montekiego.
+*Merkucio,* krewny ksiÄcia,      } przyjaciele Romea.
+*Benwolio,* synowiec Montekiego, }
+*Tybalt,* krewny Pani Kapulet.
+*Laurenty,* Ojciec Franciszkanin.
+*Jan,* brat z tegoÅ¼ zgromadzenia.
+*Baltazer,* sÅuÅ¼Äcy Romea.
+*Samson,*   } sÅudzy Kapuleta.
+*Grzegorz,* }
+*Abraham,* sÅuÅ¼Äcy Montekiego.
+*Aptekarz.*
+*Trzech muzykantÃ³w.*
+*PaÅº Parysa.*
+*Piotr.*
+*DowÃ³dca warty.*
+*Pani Montekio,* maÅÅ¼onka Montekiego.
+*Pani Kapulet,* maÅÅ¼onka Kapuleta.
+*Julia,* cÃ³rka KapuletÃ³w.
+*Marta,* mamka Julii.
+
+Obywatele weroneÅscy, rÃ³Å¼ne osoby pÅci obojej, liczÄce
+siÄ do przyjaciÃ³Å obu domÃ³w, maski, straÅ¼ wojskowa
+i inne osoby.
+
+Rzecz odbywa siÄ przez wiÄkszÄ czÄÅÄ sztuki w Weronie,
+przez czÄÅÄ piÄtego aktu w Mantui.
+
+
+        PROLOG
+
+Dwa rody, jasne jednako i sÅawne,
+Tam, gdzie siÄ rzecz ta rozgrywa, w Weronie,
+Do nowej zbrodni pchajÄ zÅoÅci dawne,
+PamiÄc szlachetnÄ krwiÄ szlachetne dÅonie.
+
+Z Åez tych dwu wrogÃ³w wziÄÅo bowiem Å¼ycie,
+Pod najstrazliwszÄ z gwiazd, kochankÃ³w dwoje;
+Po peÅnym przygÃ³d nieszczÄÅliwych bycie,
+ÅmierÄ ich stÅumiÅa rodzicielskie boje.
+
+Tej ich miÅoÅci przebieg zbyt bolesny,
+I jak siÄ ojcÃ³w nienawiÅÄ nie zmienia,
+AÅ¼ jÄzakoÅczy dzieci zgon przedwczesny,
+
+Dwugodzinnego treÅciÄ przedstawienia,
+KtÃ³re otoczcie cierpliwymi wzglÄdy,
+Jest w nim co zÅego, my usuniem bÅÄdy...
+
+
+
+
+ROMEO I JULIA
+
+
+
+
+AKT PIERWSZY.
+
+
+SCENA I.
+
+    Plac publiczny.
+
+    _(WchodzÄ: Samson i Grzegorz, uzbrojeni w tarcze i miecze)._
+
+*Samson.* Dalipan, Grzegorzu, nie bÄdziem darli pierza.
+
+*Grzegorz.* Ma siÄ rozumieÄ, bobyÅmy byli zdziercami.
+
+*Samson.* Ale bÄdziemy darli koty, jak z nami zadrÄ.
+
+*Grzegorz.* Kto zechce zadrzeÄ z nami, bÄdzie musiaÅ zadrÅ¼eÄ.
+
+*Samson.* Mam zwyczaj drapaÄ zaraz, jak miÄ kto rozrucha.
+
+*Grzegorz.* Tak, ale nie zaraz zwykÅeÅ siÄ daÄ rozruchaÄ.
+
+*Samson.* Te psy z domu Montekich rozruchaÄ miÄ mogÄ
+bardzo Åatwo.
+
+*Grzegorz.* RozruchaÄ siÄ tyle znaczy, co ruszyÄ siÄ z miejsca;
+byÄ walecznym, jest to staÄ nieporuszenie: pojmujÄ
+wiÄc, Å¼e skutkiem rozruchania siÄ twego bÄdzie â
+drapniÄcie.
+
+*Samson.* Te psy z domu Montekich rozruchaÄ miÄ mogÄ
+tylko do stania na miejscu. BÄdÄ jak mur dla kaÅ¼dego
+mÄÅ¼czyzny i dla kaÅ¼dej kobiety z tego domu.
+
+*Grzegorz.* To wÅaÅnie pokazuje twojÄ sÅabÄ stronÄ: mur
+dla nikogo niestraszny i tylko sÅabi go siÄ trzymajÄ.
+
+*Samson.* Prawda, dlatego to kobiety, jako najsÅabsze, tulÄ
+siÄ zawsze do muru. Ja teÅ¼ odtrÄcÄ od muru ludzi
+Montekich, a kobiety Montekich przyprÄ do muru.
+
+*Grzegorz.* SpÃ³r jest tylko miÄdzy naszymi panami i miÄdzy
+nami, ich ludÅºmi.
+
+*Samson.* Mniejsza mi o to: bÄdÄ nieubÅagany. Pobiwszy
+ludzi, wywrÄ wÅciekÅoÅÄ na kobiety: rzeÅº miÄdzy nimi
+sprawiÄ.
+
+*Grzegorz.* RzeÅº kobiet chcesz przedsiÄbraÄ?
+
+*Samson.* Nieinaczej: wtÅoczÄ miecz w kaÅ¼dÄ po kolei.
+Wiadomo, Å¼e siÄ do lwÃ³w liczÄ.
+
+*Grzegorz.* Tem lepiej, Å¼e siÄ liczysz do zwierzÄt; bo gdybyÅ
+siÄ liczyÅ do ryb, to byÅbyÅ pewnie sztokfiszem.
+WeÅºno siÄ za instrument, bo oto nadchodzi dwÃ³ch
+domownikÃ³w Montekiego.
+
+    _(WchodzÄ: Abraham i Baltazar)._
+
+*Samson.* MÃ³j giwer juÅ¼ dobyty: zaczep ich, ja stanÄ z tyÅu.
+
+*Grzegorz.* Gwoli drapania?
+
+*Samson.* Nie bÃ³j siÄ.
+
+*Grzegorz.* Jabym siÄ miaÅ baÄ z twojej przyczyny?
+
+*Samson.* Miejmy prawo za sobÄ, niech oni zacznÄ.
+
+*Grzegorz.* Marsa im nastawiÄ, przechodzÄc; niech go sobie,
+jak chcÄ, tÅÃ³maczÄ.
+
+*Samson.* Nie jak chcÄ, ale jak ÅmiÄ. Ja im gÄbÄ wykrzywiÄ;
+haÅba im, jeÅli to ÅcierpiÄ.
+
+*Abraham.* SkrzywiÅeÅ siÄ na nas, moÅci panie?
+
+*Samson.* Nieinaczej, skrzywiÅem siÄ.
+
+*Abraham.* Czy na nas siÄ skrzywiÅeÅ, moÅci panie?
+
+*Samson* _(do Grzegorza)._ BÄdziemyÅ¼ mieli prawo za sobÄ,
+jak powiem: tak jest?
+
+*Grzegorz.* Nie.
+
+*Samson* _(do Abrahama)._ Nie, moÅci panie; nie skrzywiÅem
+siÄ na was, tyÅko skrzywiÅem siÄ tak sobie.
+
+*Grzegorz* _(do Abrahama)._ Zaczepki waÅÄ szukasz?
+
+*Abraham.* Zaczepki? nie.
+
+*Samson.* JeÅ¼eli jej szukasz, to jestem na waÅcine usÅugi.
+MÃ³j pan tak dobry, jak i wasz.
+
+*Abraham.* Nie lepszy.
+
+*Samson.* Niech i tak bÄdzie.
+
+    _(Benwolio ukazuje siÄ w gÅÄbi)._
+
+*Grzegorz* _na stronie do Samsona)._ Powiedz: lepszy. Oto
+nadchodzi jeden z krewnych mego pana.
+
+*Samson.* Nieinaczej; powiedz: lepszy.
+
+*Abraham.* KÅamiesz.
+
+*Samson.* DobÄdÅºcie mieczÃ³w, jeÅli macie serca. Grzegorzu,
+pamiÄtaj o swoim pchniÄciu. _(BijÄ siÄ)._
+
+*Benwolio.* OdstÄpcie, gÅupcy; schowajcie miecze do pochew!
+Sami nie wiecie, co robicie.
+
+    _(Rozdziela ich swoim mieczem)._
+
+    _(Wchodzi Tybalt)._
+
+*Tybalt.* CÃ³Å¼ to? krzyÅ¼ujesz orÄÅ¼ z parobkami?
+Do mnie, Benwolio! pilnuj swego Å¼ycia.
+
+*Benwolio.* Przywracam tylko pokÃ³j. WÅÃ³Å¼ miecz nazad
+Albo wraz ze mnÄ rozdziel nim tych ludzi.
+
+*Tybalt.* Z goÅym orÄÅ¼em pokÃ³j? NienawidzÄ
+Tego wyrazu, tak jak nienawidzÄ
+Szatana, wszystkich Montekich i ciebie.
+BroÅ siÄ, nikczemny tchÃ³rzu.
+
+    _(WalczÄ)._
+
+_Nadchodzi kilku przyjaciÃ³Å obu partyi i mieszajÄ siÄ do
+zwady; wkrÃ³tce potem wchodzÄ mieszczanie z paÅkami)._
+
+*Pierwszy obywatel.* Hola! berdyszÃ³w! paÅek! Dalej po nich!
+Precz z Montekimi, precz z Kapuletami!
+
+_(WchodzÄ: Kapulet i pani Kapulet)._
+
+*Kapulet.* Co to za haÅas? Podajcie mi dÅugi
+MÃ³j miecz! hej!
+
+*Pani Kapulet.* Raczej kulÄ: co ci z miecza?
+
+*Kapulet.* Miecz, mÃ³wiÄ! Stary Monteki nadchodzi
+I szydnie swojÄ klingÄ mi urÄga.
+
+    _(WchodzÄ: Monteki i pani Monteki)._
+
+*Monteki.* Ha! nÄdzny Kapulecie! _(Do Å¼ony)._ PuÅÄ miÄ, pani.
+
+*Pani Monteki.* Nie puszczÄ ciÄ na krok, gdy wrÃ³g przed tobÄ.
+
+_(Wchodzi KsiÄÅ¼Ä z orszakiem)._
+
+*KsiÄÅ¼Ä.* ZapamiÄtali, niesforni poddani,
+BezczeÅciciele bratniej stali! CÃ³Å¼ to,
+Czy nie sÅyszycie? Ludzie czy zwierzÄta,
+Co wÅciekÅych swoich gniewÃ³w Å¼ar gasicie
+W wÅasnych Å¼yÅ swoich ÅºrÃ³dle purpurowym:
+Pod karÄ tortur, wypuÅÄcie natychmiast
+Z zawziÄtych dÅoni tÄ broÅ buntowniczÄ
+I posÅuchajcie tego, co niniejszym
+Wasz rozjÄtrzony ksiÄÅ¼Ä postanawia.
+Domowe starcia, z marnych sÅÃ³w zrodzone
+Przez was, Monteki oraz Kapulecie,
+TrzykroÄ juÅ¼ spokÃ³j miasta zakÅÃ³ciÅy,
+Tak, Å¼e powaÅ¼ni wiekiem i zasÅugÄ
+Obywatele weroÅscy musieli
+PorzuciÄ swoje wygodne przybory,
+I w stare dÅonie stare ujÄÄ miecze,
+By zardzewiaÅym ostrzem zardzewiaÅe
+NiechÄci wasze przecinaÄ. JeÅ¼eli
+Wzniecicie jeszcze kiedyÅ waÅÅ podobnÄ,
+ZamÄt pokoju opÅacicie Å¼yciem.
+A teraz wszyscy ustÄpcie niezwÅocznie.
+Ty, Kapulecie, pÃ³jdziesz ze mnÄ razem;
+Ty zaÅ, Monteki, przyjdziesz po poÅudniu
+Na ratusz, gdzie ci dokÅadnie w tym wzglÄdzie
+Dalsza ma wola oznajmiona bÄdzie.
+Jeszcze raz, wzywam wszystkich tu obecnych
+Pod karÄ Åmierci, aby siÄ rozeszli.
+
+    _(KsiÄÅ¼Ä z orszakiem wychodzi; podobnieÅ¼ Kapulet, pani Kapulet,
+      Tybalt, obywatele i sÅudzy)._
+
+*Monteki.* Kto wszczÄÅ tÄ nowÄ zwadÄ? MÃ³w, synowcze,
+ByÅÅ¼eÅ tu wtedy, gdy siÄ to zaczÄÅo?
+
+*Benwolio.* Nieprzyjaciela naszego pachoÅcy
+I wasi juÅ¼ siÄ bili, kiedym nadszedÅ;
+DobyÅem broni, aby ich rozdzieliÄ:
+Wtem wpadÅ szalony Tybalt z goÅym mieczem,
+I harde zionÄc mi w uszy wyzwanie,
+JÄÅ siÄ wywijaÄ nim i siec powietrze,
+KtÃ³re ÅwiszczaÅo tylko, szydzÄc z marnych
+Jego zamachÃ³w. GdyÅmy tak ze sobÄ
+CiÄcia i pchniÄcia zamieniali, zbiegÅ siÄ
+WiÄkszy tÅum ludzi, z obu stron walczono,
+AÅ¼ ksiÄÅ¼Ä nadszedÅ i rozdzieliÅ wszystkich.
+
+*Pani Monteki.* Lecz gdzieÅ¼ Romeo? WidziaÅÅ¼eÅ go dzisiaj?
+JakÅ¼e siÄ cieszÄ, Å¼e nie byÅ w tem starciu.
+
+*Benwolio.* GodzinÄ pierwej, nim wspaniaÅe sÅoÅce
+W zÅotych siÄ oknach wschodu ukazaÅo,
+Troski wygnaÅy miÄ z dala od domu
+W sykomorowy Ã³w gaj, co siÄ ciÄgnie
+Ku poÅudniowi od naszego miasta.
+Tam, juÅ¼ tak rano, syn wasz siÄ przechadzaÅ.
+Ledwiem go ujrzaÅ, pobiegÅem ku niemu;
+Lecz on, spostrzegÅszy miÄ, skrÄciÅ natychmiast,
+I w najciemniejszej ukryÅ siÄ gÄstwinie.
+PociÄg ten jego do odosobnienia
+MierzÄc mym wÅasnym, (serce nasze bowiem
+Jest najczynniejsze, kiedyÅmy samotni)
+Nie przeszkadzaÅem mu w jego dumaniach
+I w innÄ stronÄ siÄ udaÅem, chÄtnie
+StroniÄc od tego, co rad mnie unikaÅ.
+
+*Monteki.* Nieraz o Åwicie juÅ¼ go tam widziano
+Åzami porannÄ mnoÅ¼Äcego rosÄ,
+A chmury swego oblicza chmurami.
+AliÅci, ledwo na najdalszym wschodzie
+WesoÅe sÅoÅce z przed ÅoÅ¼a Aurory
+ZaczÄÅo ÅciÄgaÄ cienistÄ kotarÄ,
+On, uciekajÄc od widoku ÅwiatÅa,
+Co tchu zamykaÅ siÄ w swoim pokoju,
+ZasÅaniaÅ okna przed jasnym dnia blaskiem
+I sztucznÄ sobie ciemnicÄ utwarzaÅ.
+W czarne bezdroÅ¼e dusza jego zajdzie,
+JeÅli siÄ na to lekarstwo nie znajdzie.
+
+*Benwolio.* Szanowny stryju, znaszÅ¼e powÃ³d tego?
+
+*Monteki.* Nie znam i z niego wydobyÄ nie mogÄ.
+
+*Benwolio.* WybadywaÅÅ¼eÅ go jakim sposobem?
+
+*Monteki.* WybadywaÅem i sam, i przez drugich:
+Lecz on, jedyny powiernik swych smutkÃ³w,
+Tak im jest wierny, tak zamkniÄty w sobie,
+Od otwartoÅci wszelkiej tak daleki,
+Jak pÄczek kwiatu, co go robak gryzie,
+Nim Åwiatu wonny swÃ³j kielich roztoczyÅ
+I peÅnoÅÄ swojÄ rozwinÄÅ przed sÅoÅcem.
+GdybyÅmy mogli dojÅÄ tych trosk zarodka,
+Nie zbrakÅoby nam zaradczego Årodka.
+
+    _(Romeo ukazuje siÄ w gÅÄbi)._
+
+*Benwolio.* Oto nadchodzi. OdstÄpcie na stronÄ:
+WyrwÄ mu z piersi cierpienia tajone.
+
+*Monteki.* ObyÅ w tej sprawie, co nam serce rani,
+MÃ³gÅ byÄ szczÄÅliwszym od nas! PÃ³jdÅºmy, pani.
+
+    _(WychodzÄ: Monteki i pani Monteki)._
+
+*Benwolio.* DzieÅ dobry, bracie.
+
+*Romeo.*                         JeszczeÅ¼ nie poÅudnie?
+
+*Benwolio.* DziewiÄta biÅa dopiero.
+
+*Romeo.*                            Jak nudnie
+WlokÄ siÄ chwile! MoiÅ¼-to rodzice
+Tak spiesznie w tamtÄ zboczyli ulicÄ?
+
+*Benwolio.* Tak jest. Lecz cÃ³Å¼ tak chwile twoje dÅuÅ¼y?
+
+*Romeo.* Nieposiadanie tego, co je skraca.
+
+*Benwolio.* MiÅoÅÄ wiÄc?
+
+*Romeo.*                 Brak jej.
+
+*Benwolio.* Jakto? brak miÅoÅci?
+
+*Romeo.* Brak jej tam, skÄdbym pragnÄÅ wzajemnoÅci.
+
+*Benwolio.* Niestety! CzemuÅ¼, zdajÄc siÄ niebiankÄ,
+MiÅoÅÄ jest w gruncie tak srogÄ tyrankÄ?
+
+*Romeo.* Niestety! CzemuÅ¼ z zasÅonÄ na skroni,
+MiÅoÅÄ na oÅlep zawsze cel swÃ³j goni!
+GdzieÅ¼ dziÅ jeÅÄ bÄdziem? Ach! ByÅ tu podobno
+JakiÅ spÃ³r? Nie mÃ³w mi o nim, wiem wszystko.
+W grze tu nienawiÅÄ wielka, lecz i miÅoÅÄ.
+O! wy sprzecznoÅci niepojÄte dziwa:
+Szorstka miÅoÅci! nienawiÅci tkliwa!
+CoÅ narodzone z niczego! Pieszczoto
+OdpychajÄca! PowaÅ¼na pustoto!
+Szpetny chaosie wdziÄkÃ³w! CiÄÅ¼ki puchu!
+Jasna mgÅo! Zimny Å¼arze! Martwy ruchu!
+Ånie bez snu! TakÄ-to w sobie zawiÅoÅÄ,
+TakÄ nieÅÄcznoÅÄ ÅÄczy moja miÅoÅÄ.
+Czy siÄ nie Åmiejesz?
+
+*Benwolio.*           Nie, pÅakaÅbym raczej.
+
+*Romeo.* Nad czem, poczciwa duszo?
+
+*Benwolio.*                        Nad uciskiem
+Poczciwej duszy twojej.
+
+*Romeo.*                A wiÄc strzaÅa
+MiÅoÅci nawet przez odbitkÄ dziaÅa?
+DoÅÄ mi juÅ¼ ciÄÅ¼yÅ mÃ³j smutek, ty jego
+BrzemiÄ powiÄkszasz przewyÅ¼kÄ twojego;
+WspÃ³Åczucie twoje nad mojem cierpieniem
+Nie ulgÄ, ale nowym jest kamieniem
+Dla mego serca. MiÅoÅÄ, przyjacielu,
+To dym, co z parÄ westchnieÅ siÄ unosi;
+To Å¼ar, co w oku szczÄÅliwego pÅonie;
+Morze Åez, w ktÃ³rym nieszczÄÅliwy tonie.
+CzemÅ¼e jest wiÄcej? Istnym amalgamem:
+Å»Ã³ÅciÄ trawiÄcÄ i zbawczym balsamem.
+BÄdÅº zdrÃ³w. _(Chce odejÅÄ)._
+
+*Benwolio.*     Zaczekaj! krzywdÄbyÅ mi sprawiÅ,
+GdybyÅ mÄ przyjaÅºÅ z kwitkiem tak zostawiÅ.
+
+*Romeo.* Ach! ja nie jestem tu, nie jestem sobÄ;
+To nie Romeo, co rozmawia z tobÄ.
+
+*Benwolio.* KogÃ³Å¼ to kochasz? mÃ³w.
+
+*Romeo.*                          PrzestaÅ miÄ drÄczyÄ
+MamÅ¼e wraz jÄczyÄ i mÃ³wiÄ?
+
+*Benwolio.*                Nie jÄczyÄ,
+Tylko mi klucz daÄ do tego problemu.
+KogÃ³Å¼ to kochasz? powiedz!
+
+*Romeo.*                  KaÅ¼ choremu
+PisaÄ testament: bÄdzieÅ¼ to wezwanie
+Dobre dla tego, co jest w tak zÅym stanie?
+A wiÄc kobietÄ kocham.
+
+*Benwolio.*            Celniem mierzyÅ,
+Gdym to pomyÅlaÅ, nimeÅ mi powierzyÅ.
+
+*Romeo.* Biegle celujesz. I ta, ktÃ³rÄ kocham,
+Jest piÄkna.
+
+*Benwolio.* W piÄkny cel trafiÄ najÅatwiej.
+
+*Romeo.* A wÅaÅnieÅ chybiÅ. Niczem tu koÅczany
+Kupida; ona ma naturÄ Dyany:
+Pod twardÄ zbrojÄ wstydliwoÅci swojÃ©j
+GrotÃ³w miÅoÅci wcale siÄ nie boi;
+Szydzi z nawaÅu zaklÄÄ oblÄÅ¼niczych;
+Odpiera szturmy spojrzeÅ napastniczych;
+Nawet jej zÅota wszechwÅadztwo nie zjedna.
+Bogata w wdziÄki, w tem jedynie biedna,
+Å»e, kiedy umrze, do grobu z niÄ zstÄpi
+CaÅe bogactwo, ktÃ³rego tak skÄpi.
+
+*Benwolio.* WiecznieÅ¼ chce sama zostaÄ z swem bogactwem?
+
+*Romeo.* Tak jest; i skÄpstwo to jest marnotrawstwem,
+Bo piÄknoÅÄ, ktÃ³rÄ wÅasna srogoÅÄ strawia,
+CaÅÄ potomnoÅÄ piÄknoÅci pozbawia.
+
+Zbyt ona piÄkna, zbyt mÄdra zarazem;
+Zbyt mÄdrze piÄkna: stÄd istnym jest gÅazem.
+PrzysiÄgÅa nigdy nie kochaÄ, i dziÄki
+Temu, skazany-m wiecznie cierpieÄ mÄki.
+
+*Benwolio.* Jest na to rada: przestaÅ myÅleÄ o niej.
+
+*Romeo.* DoradÅºÅ¼e takÅ¼e, jakimbym sposobem
+MÃ³gÅ przestaÄ myÅleÄ.
+
+*Benwolio.* DajÄc oczom wolnoÅÄ
+Rozpatrywania siÄ w innych piÄknoÅciach.
+
+*Romeo.* To byÅby tylko sposÃ³b przywoÅania
+Jej cudnych wdziÄkÃ³w tem Å¼ywiej na pamiÄÄ.
+Maska, kryjÄca lica piÄknej damy,
+ChoÄ czarna, nÄci nas, bo przeczuwamy
+Pod niÄ zbiÃ³r ponÄt; ten, co wzrok postradaÅ,
+ZapomniÅ¼ kiedy, jaki skarb posiadaÅ?
+PokaÅ¼ mi jaki ideaÅ dziewczÄcy,
+BÄdzieÅ¼ on dla mnie w istocie czem wiÄcÃ©j,
+Jak przypomnieniem, Å¼e jest piÄknoÅÄ inna,
+[Page 13]
+Przed ktÃ³rÄ ta-by uklÄknÄÄ powinna.
+BÄdÅº zdrÃ³w: niewczesnÄ podajesz mi radÄ.
+
+*Benwolio.* NajpraktyczniejszÄ, Å¼ycie w zastaw kÅadÄ.
+
+    _(WychodzÄ.)_
+
+
+SCENA II.
+
+    Ulica.
+
+    _(WchodzÄ: Kapulet i Parys, za nimi sÅuÅ¼Äcy)._
+
+*Kapulet.* PodobnÄ, jak mnie, karÄ zagroÅ¼ono
+I Montekiemu; aleÅ¼ w wieku naszym
+Spokojnie siedzieÄ rzecz nie trudna.
+
+*Parys.*                             Oba
+Szanownych szczepÃ³w jesteÅcie odroÅle;
+Tem-ci Å¼aÅoÅniej, Å¼e od tyÅa czasu,
+Å»yjecie w takiem rozdwojeniu z sobÄ.
+Co mÃ³wisz, panie, na moje zabiegi?
+
+*Kapulet.* To samo, co juÅ¼ dawniej powiedziaÅem:
+Mojemu dziecku Åwiat jest jeszcze obcy,
+Ledwie czternastu lat wysnuÅa przÄdzÄ;
+ParÄ jej wiosen jeszcze przeÅ¼yÄ trzeba,
+Nim maÅÅ¼eÅskiego zakosztuje chleba.
+
+*Parys.* Z mÅodszych bywaÅy nieraz szczÄsne matki.
+
+*Kapulet.* Lecz prÄdko wiÄdnÄ przedwczesne mÄÅ¼atki.
+Ziemia schÅonÄÅa wszystkie me nadzieje,
+OprÃ³cz tej jednej; ona jest, Parysie,
+PrzyszÅÄ, jedynÄ moich ziem dziedziczkÄ.
+Staraj siÄ jednak, skarb sobie jej serce,
+ChÄÄ ma z jej chÄciÄ nie bÄdzie w rozterce;
+JeÅli ciÄ przyjmie, gÅos ojca w tym wzglÄdzie
+Jej pozwolenia echem tylko bÄdzie.
+DajÄ dziÅ wieczÃ³r, na ktÃ³ry niemaÅo
+GoÅci sprosiÅem; gdyby ci siÄ daÅo
+ByÄ jednym wiÄcej, w nader miÅy sposÃ³b
+ZwiÄkszyÅbyÅ przez to zbiÃ³r miÅych mi osÃ³b.
+W biednym mym domu, jednoczeÅnie z nocÄ,
+Takie dziÅ gwiazdy ziemskie zamigocÄ,
+Å»e od ich blasku blask niebieskich zblednie.
+Uciechy, mÅodym ludziom odpowiednie,
+Podobne do tych, jakie kwiecieÅ sprawia,
+Gdy w starym progu zimy siÄ pojawia;
+Takie uciechy, w caÅej swojej mocy,
+WÅrÃ³d hoÅ¼ych dziewic stanÄ siÄ tej nocy
+UdziaÅem twoim w domu KapuletÃ³w.
+PrzyjdÅº, przejrz i wybierz sobie z tych bukietÃ³w
+Kwiat najpiÄkniejszy. I mÃ³j tam kwiat luby
+Wejdzie do liczby, choÄ nie do rachuby.
+IdÅºmy. _(Do sÅugi)._ A wasze obejdÅº w krÄg WeronÄ,
+WynajdÅº osoby tu wyszczegÃ³lnione
+
+    _(oddaje mu papier)._
+
+I powiedz kaÅ¼dej, Å¼e mÃ³j dom otworem
+Na ich usÅugi stanie dziÅ wieczorem.
+
+    _(WychodzÄ: Kapulet i Parys)._
+
+*SÅuÅ¼Äcy.* Mam wynaleÅºÄ osoby tu wyszczegÃ³lnione: to siÄ
+znaczy, wedÅug tego, co tu napisano... A cÃ³Å¼ tu napisano?
+Oto: Å¼e szewc ma pilnowaÄ Åokcia, a krawiec
+kopyta; rybak pÄdzla, a malarz wiÄcierza. JakÅ¼e wynajdÄ
+osoby tu wyszczegÃ³lnione, kiedy nie mogÄ wynaleÅºÄ
+Årodka na wyczytanie tego, co osoba piszÄca tu wyszczegÃ³lniÅa?
+Kazano mi jednak; muszÄ siÄ udaÄ do
+uczonych. Oto jacyÅ ichmoÅcie; moÅ¼e mi poradzÄ.
+
+    _(Wchodzi Romeo i Benwolio)._
+
+*Benwolio.* Tak, bracie, pÅomieÅ spÄdza siÄ pÅomieniem,
+BÃ³l dawny nowym leczy siÄ cierpieniem;
+KrÄÄ siÄ na odwrÃ³t, gdy masz zawrÃ³t gÅowy;
+Klin wyrugujesz, klin wbijajÄc nowy;
+Zaczerpnij nowej zarazy do Åona,
+A jad dawniejszej niewÄtpliwie skona.
+
+*Romeo.* LiÅÄ pokrzywiany wyborny jest na to.
+
+*Benwolio.* Na cÃ³Å¼ to, proszÄ?
+
+*Romeo.*                       Na oparzeliznÄ;
+SprÃ³bujno tylko.
+
+*Benwolio.*      Powiedz mi, Romeo,
+CzyÅ ty oszalaÅ?
+
+*Romeo.*          Nie, nie oszalaÅem,
+Lecz wpadÅem w gorszy stan niÅ¼ szalonego.
+W loch siÄ dostaÅem, jestem pastwÄ gÅodu,
+ChÅost i mÄk. -- Dobry wieczÃ³r, przyjacielu.
+
+*SÅuÅ¼Äcy.* Nawzajem, panie. Czy umiesz pan czytaÄ?
+
+*Romeo.* Niestety! umiem w moim przeznaczeniu
+CzytaÄ niedolÄ.
+
+*SÅuÅ¼Äcy.*      Tego siÄ bez ksiÄÅ¼ki
+MoÅ¼na nauczyÄ; ale ja siÄ pytam,
+Czy pan pisane rzeczy umie czytaÄ?
+
+*Romeo.* MaÅej mi rzeczy do tego potrzeba,
+To jest znaÄ tylko jÄzyk i litery.
+
+*SÅuÅ¼Äcy.* SÅusznie pan mÃ³wisz, bÄdÅºÅ¼e zdrÃ³w i wesÃ³Å.
+
+    _(Chce odejÅÄ)._
+
+*Romeo.* Czekajno wasze, umiem czytaÄ. _(Czyta)._
+Â»Sinior Martino, jego maÅÅ¼onka i cÃ³rki. Hrabia Anzelm
+ze swemi piÄknymi siostrami. Siniora wdowa po Witruwiuszu.
+Sinior Placentio i jego miÅe siostrzenice. Merkucyusz
+i jego brat Walenty. MÃ³j brat Kapulet z maÅÅ¼onkÄ
+i cÃ³rkami. Moja Åliczna siostrzenica Rozalina.
+Liwia, sinior Valentio i nasz kuzyn Tybalt. Lucjusz
+i nadobna Helena.Â«
+WspaniaÅe grono! _(Oddaje kartÄ)._ GdzieÅ¼ oni przyjÅÄ majÄ?
+
+*SÅuÅ¼Äcy.* Owdzie.
+
+*Romeo.* Gdzie?
+
+*SÅuÅ¼Äcy.* Do naszego paÅacu, na wieczerzÄ.
+
+*Romeo.* Do czyjego paÅacu?
+
+*SÅuÅ¼Äcy.* Mojego pana.
+
+*Romeo.* W istocie, powinienem siÄ byÅ przedewszystkim
+spytaÄ, kto nim jest.
+
+*SÅuÅ¼Äcy.* OznajmiÄ to panu bez pytania: moim panem
+jest moÅ¼ny, bogaty Kapulet; jeÅ¼eli panowie nie jesteÅcie
+z domu Montekich, to was zapraszam do niego
+na kubek wina. BÄdÅºcie weseli.
+
+    _(Wychodzi)._
+
+*Benwolio.* Na tym wieczorze Kapuleta bÄdzie
+BoÅ¼yszcze twoje, piÄkna Rozalina,
+Obok najpierwszych piÄknoÅci weroÅskich.
+PÃ³jdÅº tam i okiem bezstronnem porÃ³wnaj
+Jej twarz z obliczem tych, ktÃ³re ci wskaÅ¼Ä:
+Wnet nowe bÃ³stwo Ålad dawnego zmaÅ¼e.
+
+*Romeo.* Gdyby rzetelny mÃ³j wzrok tak faÅszywe
+MiaÅ daÄ Åwiadectwo, Åzy staÅcie siÄ Å¼arem!
+Wy, zalewane wciÄÅ¼, a jeszcze Å¼ywe
+Przezrocza, spÅoÅcie pod kÅamstwa nadmiarem!
+ZatrzeÄ jej wdziÄki! Nigdy wszechwidzÄce
+RÃ³wnej piÄknoÅci nie widziaÅo sÅoÅce.
+
+*Benwolio.* Wielbisz jÄ, boÅ jÄ jednÄ na oboich
+WaÅ¼yÅ dotychczas szalach oczu swoich;
+Lecz umieÅÄ na tej wadze krysztaÅowÃ©j
+Obok niej innÄ, ktÃ³rÄ ci gotowy
+BÄdÄ dziÅ wskazaÄ, a rÄczÄ, Å¼e owa
+NieporÃ³wnana w kÄt siÄ przed tÄ schowa.
+
+*Romeo.* PÃ³jdÄ tam, ale z obojÄtnem okiem,
+Jednej wyÅÄcznie poiÄ siÄ widokiem.
+
+    _(WychodzÄ)._
+
+
+SCENA III.
+
+    PokÃ³j w domu KapuletÃ³w.
+
+    _(Wchodzi pani Kapulet i Marta)._
+
+*Pani Kapulet.* Gdzie moja cÃ³rka? IdÅº jÄ tu przywoÅaÄ.
+
+*Marta.* Na mojÄ cnotÄ! juÅ¼em jÄ woÅaÅa.
+Julciu! pieszczotko moja! moje zÅotko!
+BoÅ¼e, zmiÅuj siÄ! GdzieÅ¼ ona jest? Julciu!
+
+    _(Wchodzi Julia)._
+
+*Julia.* Czy mnie kto woÅaÅ?
+
+*Marta.* Mama.
+
+*Julia.* Jestem, pani.
+Co mi rozkaÅ¼esz?
+
+*Pani Kapulet.* SÅuchaj. OdejdÅº, Marto;
+Mam z niÄ sam na sam coÅ do pomÃ³wienia.
+Marto, pozostaÅ: przychodzi mi na myÅl,
+Å»e twa obecnoÅÄ moÅ¼e byÄ potrzebna.
+Julka ma piÄkny juÅ¼ wiek, wszakÅ¼e prawda?
+
+*Marta.* Ba, mogÄ wiek jej policzyÄ na palcach.
+
+*Pani Kapulet.* CzternaÅcie ma juÅ¼ lat, jak mi siÄ zdaje.
+
+*Marta.* CzternaÅcie moich zÄbÃ³w w zakÅad stawiÄ,
+(ChociaÅ¼ wÅaÅciwie mam ich tylko cztery)
+Å»e jeszcze nie ma. RychÅoÅ¼ bÄdzie ÅwiÄto
+Piotra i PawÅa?
+
+*Pani Kapulet.*  Za parÄ tygodni,
+Mniej wiÄcej.
+
+*Marta.* Mniej czy wiÄcej, czy okrÄgÅo,
+Ale dopiero w wieczÃ³r na ÅwiÄtego
+Piotra i PawÅa skoÅczy lat czternaÅcie.
+Ona z ZuzankÄ -- BoÅ¼e zbaw nas grzesznych! --
+ByÅy rÃ³wieÅne. Zuzanka u Boga â-
+ByÅÅ¼e to anioÅ! -- ale, jak mÃ³wiÅam,
+Julcia dopiero na ÅwiÄtego Piotra
+I PawÅa skoÅczy speÅna lat czternaÅcie,
+Tak, tak; pamiÄtam dobrze. Mija teraz
+Rok jedenasty od trzÄsienia ziemi;
+WÅaÅnie od piersi byÅa odsadzona.
+Z pomiÄdzy wszystkich dni boÅ¼ego roku
+Tego jednego nigdy nie zapomnÄ.
+PioÅunem sobie wtedy pierÅ potarÅam,
+SiedzÄc na sÅoÅcu tuÅ¼ pod goÅÄbnikiem.
+PaÅstwo byliÅcie tego dnia w Mantui.
+A co? mam pamiÄÄ? Ale, jak mÃ³wiÅam,
+Skoro pieszczotka moja na brodawce
+PoczuÅa gorycz, trzeba byÅo widzieÄ,
+Jak siÄ skrzywiÅa, szarpnÄÅa od piersi;
+GoÅÄbnik za mnÄ: skrzyp! a ja co Å¼ywo
+Na rÃ³wne nogi: hyc! nie myÅlÄc czekaÄ,
+AÅ¼ mi kto kaÅ¼e. UpÅynÄÅo odtÄd
+Lat jedenaÅcie. UmiaÅa juÅ¼ wtedy
+O wÅasnej sile staÄ, co mÃ³wiÄ, biegaÄ,
+DyrdaÄ. Dniem pierwej zbiÅa sobie czoÅo.
+MÃ³j mÄÅ¼ -- ÅwieÄ Panie, jego duszy! -- podniÃ³sÅ
+Z ziemi niebogÄ; byÅ to wielki figlarz.
+_Â»PlackiemÂ«,_ rzekÅ, _Â»padasz teraz, a jak przyjdzie
+WiÄkszy rozumek, to na wznak upadniesz,
+NieprawdaÅ¼, Julciu?Â«_ A ten maÅy Åotrzyk,
+Jak mi BÃ³g miÅy! przestaÅ zaraz krzyczeÄ
+I odpowiedziaÅ: _Â»takÂ«_. ChociaÅ¼bym Å¼yÅa
+TysiÄc lat, nigdy tego nie zapomnÄ.
+_Â»NieprawdaÅ¼, JulciuÂ«_ rzekÅ, _Â»Å¼e padniesz wznak?Â«_
+A maÅy urwis odpowiedziaÅ _Â»takÂ«_.
+
+*Pani Kapulet.* DoÅÄ tego, Marto, skoÅcz juÅ¼ tÄ historyÄ,
+ProszÄ ciÄ.
+
+*Marta.*    Dobrze, miÅoÅciwa pani.
+Ale nie mogÄ wstrzymaÄ siÄ od Åmiechu,
+Kiedy przypomnÄ sobie, jak to ona
+PrzestaÅa krzyczeÄ i odpowiedziaÅa:
+_Â»TakÂ«_. MiaÅa jednak guz jak kurze jaje,
+Siniec porzÄdny i pÅakaÅa gorzko;
+Ale gdy mÄÅ¼ mÃ³j rzekÅ: _Â»plackiem dziÅ padasz,
+A jak doroÅniesz, to na wznak upadniesz,
+NieprawdaÅ¼, Julciu?Â«_ tak i nieboÅ¼Ätko
+Zaraz ucichÅo i odrzekÅo: _Â»takÂ«_.
+
+*Julia.* Ucichnij teÅ¼ i ty, proszÄ ciÄ, nianiu.
+
+*Marta.* JuÅ¼em ucichÅa przecie. Pan BÃ³g z tobÄ!
+Ty jesteÅ perÅÄ ze wszystkich niemowlÄt,
+Jakie karmiÅam. Gdybym jeszcze mogÅa
+PatrzeÄ na twoje zamÄÅcie!...
+
+*Pani Kapulet.*                  ZamÄÅcie!
+To jest punkt wÅaÅnie, o ktÃ³rym chcÄ mÃ³wiÄ.
+Powiedz mi, Julio, co myÅlisz i jakie
+SÄ chÄci twoje we wzglÄdzie maÅÅ¼eÅstwa?
+
+*Julia.* O tym zaszczycie jeszcze nie myÅlaÅam.
+
+*Marta.* O tym zaszczycie! Gdybym nie ja byÅa
+TwÄ karmicielkÄ, rzekÅabym, Å¼eÅ mÄdroÅÄ
+WyssaÅa z mlekiem.
+
+*Pani Kapulet.*      MyÅlÅ¼e o tem teraz.
+MÅodsze od ciebie dziewczÄta z szlachetnych
+DomÃ³w w Weronie wczeÅnie stan zmieniajÄ;
+Ja sama byÅam juÅ¼ matkÄ w tym wieku,
+W ktÃ³rym tyÅ jeszcze pannÄ. KrÃ³tko mÃ³wiÄc,
+Waleczny Parys stara siÄ o ciebie.
+
+*Marta.* To mi kawaler! panniuniu, to brylant
+Taki kawaler: chÅopiec gdyby z wosku!
+
+*Pani Kapulet.* Nie ma w Weronie rÃ³wnego mu kwiatu.
+
+*Marta.* Co to, to prawda: kwiat to, kwiat prawdziwy.
+
+*Pani Kapulet.* CÃ³Å¼, Julio? BÄdzieszÅ¼e mogÅa go kochaÄ?
+DziÅ w wieczÃ³r ujrzysz go wÅrÃ³d naszych goÅci.
+Wczytaj siÄ w ksiÄgÄ jego lic, na ktÃ³rych
+PiÃ³ro piÄknoÅci wypisaÅo miÅoÅÄ;
+Przypatrz siÄ jego rysom, jak uroczo,
+Zgodnie siÄ schodzÄ z sobÄ i jednoczÄ;
+A co w tej ksiÄdze wyda ci siÄ mrocznem,
+To w jego oczach stanie-Ä siÄ widocznem.
+Do upiÄknienia tej zaprawdÄ rzadkiej
+Edycyi mÄÅ¼a brak tylko okÅadki.
+RoÅlina w ziemi, ryba w wodzie Å¼yje;
+MiÅo, gdy piÄknÄ treÅÄ piÄkny wierzch kryje;
+I tem wspanialsza, tem wiÄcej jest warta
+ZÅota myÅl w zÅotej oprawie zawarta.
+Tak wiÄc z nim wszystkÄ jego wÅaÅÄ posiÄdziesz
+I w niczem sama ujmy mieÄ nie bÄdziesz.
+
+*Marta.* Ujmy? Ba, owszem przyrost, boÄ to przecie
+ZawÅ¼dy z mÄÅ¼czyznÄ przybywa kobiecie.
+
+*Pani Kapulet.* ChceszÅ¼e go? powiedz krÃ³tko, wÄzÅowato.
+
+*Julia.* ZobaczÄ, jeÅli patrzenia doÅÄ na to;
+Nie gÅÄbiej jednak myÅlÄ w tÄ rzecz wglÄdaÄ,
+Jak tobie, pani, podoba siÄ Å¼ÄdaÄ.
+
+    _(Wchodzi SÅuÅ¼Äcy)._
+
+*SÅuÅ¼Äcy.* Pani, goÅcie juÅ¼ przybyli; wieczerza zastawiona,
+czekajÄ na paniÄ, pytajÄ o pannÄ JuliÄ, przeklinajÄ
+w kuchni paniÄ MartÄ -- sÅowem, niecierpliwoÅÄ powszechna.
+Niech panie raczÄ poÅpieszyÄ. _(Wychodzi)._
+
+*Pani Kapulet.* PÃ³jdÅº, Julio; w hrabi serce tam dygoce.
+
+*Marta.* IdÅº i po bÅogich dniach bÅogie znajdÅº noce.
+
+    _(WychodzÄ)._
+
+
+SCENA IV.
+
+    Ulica.
+
+    _(WchodzÄ: Romeo, Merkucio i Benwolio w towarzystwie piÄciu
+czy szeÅciu masek. Ludzie z pochodniami i inne osoby)._
+
+*Romeo.* MamyÅ¼ przy wejÅciu z przemowÄ wystÄpiÄ,
+Czy teÅ¼ poprostu wejÅÄ?
+
+*Benwolio.* WyszÅy juÅ¼ z mody
+Te ceremonie: nie bÄdziemy z sobÄ
+Wiedli Kupida z bindÄ wkoÅo skroni,
+Åuk malowany z gontu niosÄcego
+I straszÄcego dziewczÄta jak ptaki;
+Ani teÅ¼ owych prawili oracyi,
+MdÅo za suflerem cedzonych na wstÄpie.
+Niech sobie o nas pomyÅlÄ, co zechcÄ;
+Wejdziem, pokrÄcim siÄ i znikniem potem.
+
+*Romeo.* KrÄÄcie siÄ, kiedy chcecie, jam do tego
+DziÅ niesposobny.
+
+*Merkucio.*       Kochany Romeo,
+Musisz potaÅczyÄ takÅ¼e.
+
+*Romeo.*                Nie, doprawdy.
+Wy macie lekkie trzewiki, to taÅczcie;
+Mnie oÅÃ³w serce tÅoczy, ledwie mogÄ
+RuszyÄ siÄ z miejsca.
+
+*Merkucio.*           Zakochany jesteÅ;
+PoÅ¼ycz strzelistych od Kupida skrzydeÅ
+I wznieÅ siÄ niemi nad poziomÄ sferÄ.
+
+*Romeo.* Nie mnie, tkniÄtemu srodze jego strzaÅÄ,
+StrzeliÅcie wzbijaÄ siÄ na jego skrzydÅach;
+Nie mnie siÄ wznosiÄ nad poziom, co, noszÄc
+BrzemiÄ miloÅci, na poziom upadam.
+
+*Merkucio.* A gdybyÅ upadÅ z niÄ, jÄ-byÅ obrzemiÅ,
+Tak delikatnÄ rzecz przygniÃ³tÅbyÅ srodze.
+
+*Romeo.* Nazywasz miÅoÅÄ rzeczÄ delikatnÄ?
+Zbyt owszem twarda, szorstka i kolÄca.
+
+*Merkucio.* Twarda li dla ciÄ, bÄdÅº i dla niej twardy;
+Kol jÄ, gdy kole, a zwalisz jÄ Åatwo.
+Hola, podajcie mi na twarz pokrowiec!
+MaskÄ na maskÄ!
+
+    _(wkÅada maskÄ)._
+
+                    Niechaj sobie teraz
+Ciekawe oko nicuje mÄ szpetnoÅÄ!
+Ta larwa za mnie bÄdzie siÄ rumieniÄ.
+
+*Benwolio.* IdÅºmy, panowie; zadzwoÅmy, a potem
+Ostro juÅ¼ tylko poleÄmy siÄ nogom.
+
+*Romeo.* Niech trzpioty ÅechcÄ nieczuÅÄ posadzkÄ!
+Pochodni dla mnie! bom ja dziÅ skazany,
+Jak Ã³w pachoÅek, co Åwieci swej pani,
+StaÄ nieruchomie i martwym byÄ widzem.
+
+*Merkucio.* StÃ³j, jak chcesz, byÅeÅ tylko nie staÅ o to,
+Co ciÄ tak martwi, a w czem (z caÅym winnym
+Uszanowaniem dla twojej miÅoÅci)
+Jak w bÅocie, widzÄ, po uszy zagrzÄzÅeÅ.
+NuÅ¼e, nie palmy Åwiec w dzieÅ.
+
+*Romeo.*                       PalmyÅ¼ teraz,
+Bo noc jest.
+
+*Merkucio.*   Mniemam, panie, Å¼e, czas tracÄc,
+ZarÃ³wno psujem Åwiece bez potrzeby,
+Jak w dzieÅ je palÄc. Przyjmij tÄ uwagÄ,
+Bo w niej piÄÄ razy wiÄcej jest logiki,
+NiÅ¼ w naszych piÄciu zmysÅach.
+
+*Romeo.*                       UwaÅ¼amy
+Za rzecz stosownÄ pÃ³jÅÄ tam na ten festyn,
+ChociaÅ¼ logiki w tem niema.
+
+*Merkucio.*                 Dlaczego?
+
+*Romeo.*  MiaÅem tej nocy marzenie.
+
+*Merkucio.*                        Ja takÅ¼e.
+
+*Romeo.*  CÃ³Å¼ ci siÄ ÅniÅo?
+
+*Merkucio.* To, Å¼e marzyciele
+NajczÄÅciej zwykli kÅamaÄ.
+
+*Romeo.*                   Przez sen, w ÅÃ³Å¼ku,
+Gdy w gruncie marzÄ o rzeczach prawdziwych.
+
+*Merkucio.* SnadÅº siÄ krÃ³lowa Mab widziaÅa z tobÄ:
+Ta, co to babi wieszczkom i w postaci
+Kobietki, maÅo co wiÄkszej niÅ¼ agat
+Na wskazujÄcym palcu aldermana,
+CiÄgniona cugiem drobniuchnym atomÃ³w,
+TuÅ¼, tuÅ¼ ÅpiÄcemu przeciÄga pod nosem.
+Szprychy jej wozu z dÅugich nÃ³g pajÄczych;
+OsÅona z lÅniÄcych skrzydeÅek szaraÅczy;
+SprzÄÅ¼aj z plecionych nitek pajÄczyny;
+Lejce z wilgotnych ksiÄÅ¼yca promykÃ³w;
+Bicz z cienkiej Å¼yÅki na Åwierszcza szkielecie;
+A jej forszpanem maÅa, szara muszka,
+Przez pÃ³Å tak wielka, jak Ã³w krÄgÅy owad,
+Co siedzi w palcu leniwej dziewczyny;
+Wozem zaÅ prÃ³Å¼ny laskowy orzeszek,
+DzieÅo wiewiÃ³rki lub majstra robaka,
+Tych z dawien dawna akredytowanych
+StelmachÃ³w wieszczek. W takich to przyborach
+Co noc harcuje po gÅowach kochankÃ³w,
+KtÃ³rzy natenczas marzÄ o miÅoÅci;
+Albo po giÄtkich kolanach dworakÃ³w,
+KtÃ³rzy natenczas o ukÅonach marzÄ;
+Albo po chudych palcach adwokatÃ³w,
+KtÃ³rym siÄ wtedy rojÄ honorarya;
+Albo po ustach romansowych damul,
+KtÃ³rym siÄ wtedy marzÄ pocaÅunki;
+CzÄsto atoli Mab na te ostatnie
+ZsyÅa przedwczesne zmarszczki, gdy ich oddech
+Za bardzo znajdzie cukrem przesycony.
+Czasem teÅ¼ wjeÅ¼dÅ¼a na nos dworakowi:
+Wtedy ÅniÄ mu siÄ nowe Åaski paÅskie;
+Czasem i ksiÄdza plebana odwiedzi,
+Gdy ten spokojnie drzemie i ogonem
+DziesiÄcinnego wieprza w nos go Åechce:
+Wtedy mu nowe ÅniÄ siÄ beneficya.
+Czasem wkÅusuje na kark Å¼oÅnierzowi:
+Ten wtedy marzy o ciÄciach i pchniÄciach,
+O szturmach, breszach, o hiszpaÅskich klingach,
+O czynach wielkich na parÄset sÄÅ¼ni;
+Wtem mu zatrÄbi w ucho: nasz bohater
+Truchleje, zrywa siÄ, klnÄc zmawia pacierz
+I znÃ³w zasypia. Taka jest Mab: ona,
+Ona-to w nocy zlepia grzywy koniom
+I wÅos ich gÅadki w szpetne kudÅy zbija,
+KtÃ³re rozczesaÄ niebezpiecznie; ona
+Jest owÄ zmorÄ, co na wznak leÅ¼Äce
+DziewczÄta dusi i wczeÅnie je uczy
+DÅºwigaÄ ciÄÅ¼ary, by siÄ z czasem mogÅy
+ZawoÅanemi staÄ gospodyniami.
+Ona-to, ona...
+
+*Romeo.* SkoÅcz juÅ¼, skoÅcz, Merkucio!
+Prawisz o niczem.
+
+*Merkucio.* PrawiÄ o marzeniach,
+KtÃ³re w istocie niczem innem nie sÄ,
+Jak wylÄgÅymi w chorobliwym mÃ³zgu
+DzieÄmi fantazyi; ta zaÅ jest pierwiastku
+Tak subtelnego wÅaÅnie, jak powietrze,
+Bardziej niestaÅa, niÅ¼ wiatr, ktÃ³ry juÅ¼to
+MroÅºnÄ caÅuje pÃ³Ånoc, juÅ¼to z wstrÄtem
+Rzuca jÄ, dÄÅ¼Äc w objÄcia poÅudnia.
+
+*Benwolio.* CoÅ ten wiatr zawiaÅ, zdaje siÄ, i na nas.
+Wieczerza stoi, spÃ³Åºnimy siÄ na niÄ.
+
+*Romeo.* BojÄ siÄ, czyli nie przyjdziem zawczeÅnie:
+Bo moja dusza przeczuwa, Å¼e jakieÅ
+NieszczÄÅcie, jeszcze wpoÅrÃ³d gwiazd wiszÄce,
+ZÅowrogi bieg swÃ³j rozpocznie od daty
+Uciech tej nocy, i kres zamkniÄtego
+W mej piersi, zbyt juÅ¼ nieznoÅnego Å¼ycia
+PrzyÅpieszy jakimÅ strasznym Åmierci ciosem.
+Lecz niech ten, ktÃ³ry ma ster mÃ³j w swym rÄku,
+Kieruje moim Å¼aglem! Dalej! IdÅºmy! _(WychodzÄ)._
+
+
+SCENA V.
+
+    Sala w domu KapuletÃ³w.
+
+    _(WchodzÄ: muzykanci i sÅudzy)._
+
+*Pierwszy sÅuga.* Gdzie Potpan? Czemu nie pomaga sprzÄtaÄ?
+GÄsi mu paÅÄ, nie sÅuÅ¼yÄ.
+
+*Drugi sÅuga.* Tak to, kiedy waÅ¼ne obowiÄzki lokaja powierzajÄ
+ludziom zÅej maniery; na dyabÅa siÄ to zdaÅo.
+
+*Pierwszy sÅuga.* PowynoÅcie stoÅki! usuÅcie na bok bufet!
+Pozbierajcie srebra! Schowajno tam dla mnie, braciszku,
+kawaÅek marcepana i szepnij na ucho odÅºwiernemu,
+Å¼eby wpuÅciÅ ZuzannÄ Grindston i Nelly; jak
+miÄ kochasz. -- Antoni! Potpan!
+
+    _(WchodzÄ dwaj inni sÅudzy)._
+
+*Trzeci sÅuga.* CzegoÅ¼ tam? Co za gwaÅt?
+
+*Pierwszy sÅuga.* WoÅajÄ was, pytajÄ o was, czekajÄ na
+was, niecierpliwiÄ siÄ na was w wielkiej sali.
+
+*Czwarty sÅuga.* Nie moÅ¼emy byÄ tu i tam razem. Dalej,
+chÅopcy! pohulajmyÅ¼ dzisiaj! Kto umie czekaÄ, wszystkiego
+siÄ doczeka. _(OddalajÄ siÄ)._
+
+    _(Kapulet i inny wchodzÄ z goÅÄmi i maskami)._
+
+*Kapulet.* Witaj, cna mÅodzi! Wolne od nagniotkÃ³w
+Damy rachujÄ na waszÄ ruchawoÅÄ.
+Åliczne panienki, ktÃ³raÅ¼ z was odmÃ³wi
+StanÄÄ do taÅca? O, takiej wrÄcz powiem
+Å»e ma nagniotki. A co? tom was zaÅ¼yÅ!
+Dalej, panowie! I ja kiedyÅ takÅ¼e
+MaskÄ nosiÅem i umiaÅem szeptaÄ
+W ucho piÄknoÅciom jedwabne powieÅci,
+Co szÅy do serca; przeszÅo to juÅ¼, przeszÅo.
+NuÅ¼e, panowie! Grajki, zaczynajcie!
+Miejsca! rozstÄpmy siÄ! dalej, dziewczÄta!
+
+    _(Muzyka gra. MÅodzieÅ¼ taÅczy.)_
+
+Hej! wiÄcej ÅwiatÅa! wynieÅcie te stoÅy!
+I zgaÅcie ogieÅ, bo zbyt juÅ¼ gorÄco.
+SiadajÅ¼e, siadaj, bracie Kapulecie!
+Dla nas dwÃ³ch czasy plÄsÃ³w juÅ¼ minÄÅy.
+JakÅ¼e to dawno byliÅmy obydwaj
+Po raz ostatni w maskach?
+
+*Drugi Kapulet.*          BÄdzie temu
+Lat ze trzydzieÅci.
+
+*Kapulet.*         Co? co! nie tak dawno.
+ByÅo to, pomnÄ, na godach Lucencia;
+Na te Zielone ÅwiÄtki, da BÃ³g doÅ¼yÄ,
+BÄdzie dwadzieÅcia piÄÄ lat.
+
+*Drugi Kapulet.*             Dawniej, dawniej,
+Wszak juÅ¼ syn jego jest trzydziestoletni.
+
+*Kapulet.* Co mi waÅÄ prawisz? Przede dwoma laty
+Syn jego nie byÅ jeszcze peÅnoletnim.
+
+*Romeo* _(do jednego ze sÅug)._ Co to za dama, co w tej chwili taÅczy
+Z tym kawalerem?
+
+*SÅuga.* Nie wiem, jaÅnie panie.
+
+*Romeo.* Ona zawstydza Åwiec jarzÄcych blaski!
+PiÄknoÅÄ jej wisi u nocnej opaski,
+Jak drogi klejnot u uszu Etyopa.
+Nie tknÄÅa ziemi wytworniejsza stopa.
+Jak ÅnieÅ¼ny goÅÄb wÅrÃ³d kawek, tak ona
+Åwieci wÅrÃ³d swoich towarzyszek grona.
+Zaraz po taÅcu przybliÅ¼Ä siÄ do niÃ©j
+I dÅoÅ mÄ uczczÄ dotkniÄciem jej dÅoni.
+KochaÅÅ¼em dotÄd? O! zaprzecz, mÃ³j wzroku!
+BoÅ jeszcze nie znaÅ rÃ³wnego uroku.
+
+*Tybalt.* SÄdzÄc po gÅosie, z Montekich to ktÃ³ryÅ.
+Dajno mi rapir, chÅopcze. Jak siÄ waÅ¼y
+Ten Åotr tu wchodziÄ i kÅamanÄ larwÄ
+Szyderczo naszej urÄgaÄ zabawie?
+Na krew szlachetnÄ, co mi wzdyma serce,
+Nie bÄdzie grzechu, jeÅli go uÅmiercÄ.
+
+*Kapulet.* Tybalcie, co ci to? Czego siÄ zÅ¼ymasz?
+
+*Tybalt.* Ujmy tej, stryju, pewno nie wytrzymasz:
+Jeden z Montekich, twych Åmiertelnych wrogÃ³w,
+Åmie tu zniewaÅ¼aÄ goÅcinnoÅÄ twych progÃ³w.
+
+*Kapulet.* Czy to Romeo?
+
+*Tybalt.* Tak, ten-to nikczemnik.
+
+*Kapulet.* Daj mu waÅÄ pokÃ³j; nie wychodzi przecie
+Z granic wytkniÄtych dobrym wychowaniem;
+I prawdÄ mÃ³wiÄc, caÅa go Werona
+Ma za mÅodzieÅca peÅnego przymiotÃ³w:
+Nie chciaÅbym za nic w Åwiecie w moim domu
+CzyniÄ mu krzywdy. UspokÃ³j siÄ zatem,
+MiÅy synowcze, nie zwaÅ¼aj na niego;
+Taka ma wola; jeÅli jÄ szanujesz,
+OkaÅ¼ uprzejmoÅÄ i spÄdÅº precz z oblicza
+Ten mars niezgodny z weselem tej doby.
+
+*Tybalt.* Taki goÅÄ w domu nabawia choroby;
+Nie ÅcierpiÄ go tu.
+
+*Kapulet.* ChcÄ go mieÄ cierpianym.
+CÃ³Å¼ to, zuchwalcze? MÃ³wiÄ, Å¼e chcÄ! CÃ³Å¼ to?
+Czy ja tu jestem, czy waÅÄ jesteÅ panem?
+WaÅÄ go tu nie chcesz ÅcierpieÄ! BoÅ¼e odpuÅÄ!
+WaÅÄ mi chcesz goÅci porozpÄdzaÄ? koÅki
+Na Åbie mi strugaÄ? przewodziÄ w mym domu?
+
+*Tybalt.* Stryju, to zakaÅ.
+
+*Kapulet.*                 Cicho! burdÄ jesteÅ.
+Z tÄ porywczoÅciÄ doigrasz siÄ waszmoÅÄ.
+Zawsze mi musisz siÄ sprzeciwiaÄ! -- Brawo,
+Kochana mÅodzi! -- UrwipoÅeÄ z waÅci!
+SiedÅº cicho, albo... -- Hola! wiÄcej ÅwiatÅa! --
+Ja ciÄ uciszÄ. Patrz go! -- Å»wawo, chÅopcy!
+
+*Tybalt.* Gniew dobrowolny z flegmÄ przymuszonÄ,
+Na krzyÅ¼ siÄ schodzÄc, wstrzÄsajÄ mi Åono.
+MuszÄ ustÄpiÄ; wkrÃ³tce siÄ atoli
+W gorzkÄ Å¼Ã³ÅÄ zmieni ta sÅodycz wbrew woli.
+
+    _(Oddala siÄ)._
+
+*Romeo* _(do Julii)._ JeÅli dÅoÅ moja, co tÄ ÅwiÄtoÅÄ trzyma,
+BluÅºni dotkniÄciem: zuchwalstwo takowe
+OdpokutowaÄ usta me gotowe
+PocaÅowaniem poboÅ¼nem pielgrzyma.
+
+*Julia* _(do Romea)._ MoÅci pielgrzymie, bluÅºnisz swojej dÅoni,
+KtÃ³ra nie grzeszy zdroÅ¼nym dotykaniem;
+Jestli ujÄcie rÄk pocaÅowaniem,
+Nikt go ze ÅwiÄtych pielgrzymom nie broni.
+
+*Romeo* _(jak pierwej)._ Nie majÄÅ¼ ÅwiÄci ust, tak jak pielgrzymi?
+
+*Julia* _(jak pierwej)._ MajÄ ku modÅom lub kornej podziÄce.
+
+*Romeo.* NiechÅ¼e ich usta czyniÄ to, co rÄce;
+Moje siÄ modlÄ, przyjm modÅy ich, przyjmij.
+
+*Julia.* Niewzruszonymi pozostajÄ ÅwiÄci,
+ChoÄ gwoli modÅom niewzbronne ich chÄci.
+
+*Romeo.* ZiÅÄ wiÄc cel moich, stojÄc niewzruszenie,
+I z ust swych moim daj wziÄÄ rozgrzeszenie.
+
+    _(CaÅuje jÄ)._
+
+*Julia.* Moje wiÄc teraz obciÄÅ¼a grzech zdjÄty.
+
+*Romeo.* Z mych ust? O! grzechu, zbyt peÅen ponÄty!
+NiechÅ¼e go nazad rozgrzeszony zdejmie!
+PozwÃ³l. _(CaÅuje jÄ znowu)._
+
+*Julia.* Jak z ksiÄÅ¼ki caÅujesz, pielgrzymie.
+
+*Marta.* Panienko, jejmoÅÄ pani matka prosi.
+
+*Romeo.* KtÃ³Å¼ jest jej matkÄ?
+
+*Marta.* Jej matkÄ? Bajbardzo!
+Nikt inny, jeno pani tego domu;
+I dobra pani, mÄdra a cnotliwa.
+Ja byÅam mamkÄ tej, coÅ z niÄ pan mÃ³wiÅ.
+Smaczny by kÄsek miaÅ, ktoby jÄ zÅowiÅ.
+
+*Romeo.* Julia Kapulet! O, dolo zbyt sroga!
+Å»ycie me jest wiÄc w rÄku mego wroga.
+
+*Benwolio.* WychodÅºmy, wieczÃ³r dobiega juÅ¼ koÅca.
+
+*Romeo.* Niestety! z wschodem dla mnie zachÃ³d sÅoÅca.
+
+*Kapulet* _(do rozchodzÄcych siÄ goÅci)._
+EjÅ¼e, panowie, pozostaÅcie jeszcze;
+MajÄ nam wkrÃ³tce daÄ maÅÄ przekÄskÄ.
+Chcecie koniecznie? MuszÄ wiÄc ustÄpiÄ.
+DziÄki wam, mili panowie i panie.
+Dobranoc. ÅwiatÅa! IdÅºmyÅ¼ spaÄ.
+
+    _(Do drugiego Kapuleta)._
+
+                               Braciszku,
+ZapÃ³ÅºniliÅmy siÄ; idÄ wypoczÄÄ.
+
+    _(WychodzÄ wszyscy, prÃ³cz Julii i Marty)._
+
+*Julia.* Czy nie wiesz, nianiu, kto jest ten pan?
+
+*Marta.*                                         Ten, tu?
+To syn starego Tyberya.
+
+*Julia.*                A tamten,
+Co wÅaÅnie ku drzwiom zmierza.
+
+*Marta.*                      To podobno
+MÅody Petrycy.
+
+*Julia.*       A Ã³w, tam na prawo,
+Co nie chciaÅ taÅczyÄ?
+
+*Marta.*               Nie wiem.
+
+*Julia.*                         Spytaj, proszÄ,
+Jak siÄ nazywa. JeÅ¼eli Å¼onaty,
+CaÅun miÄ czeka zamiast Ålubnej szaty.
+
+*Marta.* Zwie siÄ Romeo, jest z rodu Montekich,
+Synem waszego najwiÄkszego wroga.
+
+*Julia.* Jako obcego zawczeÅnie ujrzaÅam!
+Jako lubego za pÃ³Åºno poznaÅam!
+Dziwny miÅoÅci traf siÄ na mnie iÅci,
+Å»e muszÄ kochaÄ przedmiot nienawiÅci.
+
+*Marta.* Co to jest? co to takiego?
+
+*Julia.*                            To wiersze,
+KtÃ³rych miÄ jeden tancerz dziÅ nauczyÅ.
+
+*Marta.* PÃ³jdÅº spaÄ, waÄpanna.
+
+*GÅos* _(za scenÄ)_. Julio!
+
+*Marta.* Dalej! dalej!
+WoÅajÄ panny i pusto juÅ¼ w sali.
+
+    _(WychodzÄ)._
+
+
+CHÃR
+
+(PrzekÅad J. Kasprowicza).
+
+Dawna namiÄtnoÅÄ juÅ¼ w caÅunach leÅ¼y,
+W jej miejscu wÅadnie siÅa Å¼Ädzy nowÃ©j;
+PiÄknÄ przestaÅa byÄ przy Julii ÅwieÅ¼Ã©j
+PiÄknoÅÄ, dla ktÃ³rej umrzeÄ byÅ gotowy.
+
+DziÅ jest Romeo kochany i kocha,
+W oczach obojga Å¼ar jednaki pÅonie;
+Lecz on, w niej wroga przypuszczajÄc, szlocha,
+A ona miÅoÅÄ z wÄdki grozy chÅonie.
+
+On siÄ nie zbliÅ¼y i przed niÄ nie zÅoÅ¼y
+PrzysiÄg serdecznych, uwaÅ¼an za wroga;
+I jej, choÄ w Åonie namiÄtnoÅÄ siÄ sroÅ¼y,
+ZejÅcia siÄ z lubym zamkniÄtÄ jest droga.
+
+Lecz w Å¼Ädzy siÅa: po wielkich katuszach
+WielkÄ im radoÅÄ czas zgotuje w duszach.
+
+
+
+
+AKT DRUGI.
+
+
+SCENA I.
+
+    Pusty plac, przytykajÄcy do ogrodu KapuletÃ³w.
+
+    _(Wchodzi Romeo)._
+
+*Romeo.* MamÅ¼e iÅÄ dalej, gdy tu moje serce?
+Cofnij siÄ, ziemio, wynajdÅº sobie centrum!
+
+    _(Wchodzi na mur i spuszcza siÄ do ogrodu)._
+
+    _(WchodzÄ Merkucio i Benwolio)._
+
+*Benwolio.* Romeo! bracie! Romeo!
+
+*Merkucio.*                       Ma rozum;
+Powietrze chÅodne, wiÄc dyrnÄÅ do ÅÃ³Å¼ka.
+
+*Benwolio.* PobiegÅ tÄ drogÄ i przeÅazÅ przez parkan.
+WoÅaj, Merkucio!
+
+*Merkucio.*      UÅ¼yjÄ naÅ zaklÄÄ:
+Romeo! gachu! cietrzewiu! wariacie!
+UkaÅ¼ siÄ w lotnej postaci westchnienia,
+Powiedz choÄ jeden wiersz, a doÅÄ mi bÄdzie;
+JÄknij: ach! poÅÄcz w rym: kochaÄ i szlochaÄ;
+Szepnij Wenerze jakie piÄkne sÅÃ³wko;
+Daj jaki nowy epitet Ålepemu
+Jej synalkowi, co tak celnie strzelaÅ
+Za owych czasÃ³w, gdy krÃ³l Kofetua
+W zaloty chodziÅ do cÃ³rki Å¼ebraczej.
+Nie sÅucha; ani piÅnie, ani trunie;
+ZdechÅ robak; musze zaklÄÄ go inaczej.
+KlnÄ ciÄ na Å¼ywe oczy Rozaliny,
+Na jej wysokie czoÅo, krasne usta,
+WysmukÅe nÃ³Å¼ki i toczone biodra
+Z przylegÅoÅciami, abyÅ siÄ przed nami
+W wÅaÅciwej sobie postaci ukazaÅ.
+
+*Benwolio.* GniewaÄ siÄ bÄdzie, jeÅli ciÄ usÅyszy.
+
+*Merkucio.* Co siÄ ma gniewaÄ? MÃ³gÅby siÄ rozgniewaÄ,
+Gdyby za sprawÄ mojego zaklÄcia
+W zaczarowane koÅo jego pani
+Inny duch wkroczyÅ, i staÅ tam dopÃ³ty,
+DopÃ³kiby go nie zmogÅa: to byÅby
+PowÃ³d do uraz; moja inwokacya
+Jest przyjacielskÄ i godziwÄ razem,
+Bo wywoÅuje w imiÄ jego pani
+Jego jedynie naturalnÄ postaÄ.
+
+*Benwolio.* PÃ³jdÅº! skryÅ siÄ owdzie pomiÄdzy drzewami,
+By siÄ tam zbrataÅ Å¼ tajemniczÄ nocÄ:
+Ålepym w miÅoÅci ciemnoÅÄ jest najmilsza.
+
+*Merkucio.* MoÅ¼eÅ¼ w cel trafiÄ miÅoÅÄ, bÄdÄc ÅlepÄ?
+NiechÅ¼e tam sobie po ciemnoÅci maca,
+Jak dÅuo zechce. Dobranoc, Romeo!
+IdÄ lecz w mojem ÅÃ³Å¼ku za kotarÄ,
+Bo to polowe tu dla mnie za chÅodne.
+Czy idziesz takÅ¼e?
+
+*Benwolio.* IdÄ; prÃ³Å¼no szukaÄ
+Takiego, co byÄ nie chce znalezionym.
+
+    _(WychodzÄ)._
+
+
+SCENA II.
+
+    OgrÃ³d KapuletÃ³w.
+
+    _(Wchodzi Romeo)._
+
+*Romeo.* Drwi z blizn, kto nigdy nie doÅwiadczyÅ rany.
+
+    _Julia ukazuje siÄ w oknie)._
+
+Lecz cicho! Co za blask strzeliÅ tam z okna!
+Ono jest wschodem, a Julia jest sÅoÅcem!
+WnijdÅº cudne sÅoÅce, zgÅadÅº zazdrosnÄ lunÄ,
+KtÃ³ra aÅ¼ zbladÅa z gniewu, Å¼e ty jesteÅ
+Od niej piÄkniejszÄ; ukarz jÄ zaÄmieniem
+Za tÄ jej zazdroÅÄ; zetrzyj jÄ do reszty!
+To moja pani, to moja kochanka!
+O! gdyby mogÅa wiedzieÄ, czem jest dla mnie!
+Przemawia, chociaÅ¼ nic nie mÃ³wi; cÃ³Å¼ stÄd?
+Jej oczy mÃ³wiÄ, oczom wiÄc odpowiem.
+Za ÅmiaÅy jestem; mÃ³wiÄ, lecz nie do mnie.
+Ptaki ocknÄÅyby siÄ i ÅpiewaÅy,
+MyÅlÄc, Å¼e to juÅ¼ nie noc, lecz dzieÅ biaÅy.
+Patrz, jak na dÅoni smutnie wsparÅa liczko!
+O! gdybym mÃ³gÅ byÄ tylko rÄkawiczkÄ,
+Co tÄ dÅoÅ kryje!
+
+*Julia.*         Ach!
+
+*Romeo.*              Cicho! coÅ mÃ³wi.
+O! mÃ³w, mÃ³w dalej, uroczy aniele;
+Bo ty mi w noc tÄ tak wspaniale Åwiecisz,
+Dwie najjaÅniejsze, najpiÄkniejsze gwiazdy
+Z caÅego nieba, gdzieindziej zajÄte,
+ProsiÅy oczu jej, aby zastÄpczo
+StaÅy w ich sferach, dopÃ³ki nie wrÃ³cÄ.
+Lecz choÄby oczy jej byÅy na niebie,
+A owe gwiazdy w oprawie jej oczu:
+Blask jej oblicza zawstydziÅby gwiazdy,
+WÅrÃ³d eterycznej zabÅysÅy przezroczy,
+Jak lotny goniec niebios rozwartemu
+Od podziwienia oku ÅmiertelnikÃ³w,
+KtÃ³re siÄ wlepia w niego, aby patrzeÄ,
+Jak on po ciÄÅ¼kich chmurach siÄ przesuwa
+I po powietrznej Å¼egluje przestrzeni.
+
+*Julia.* Romeo! czemuÅ¼ ty jesteÅ Romeo!
+Wyrzecz siÄ swego rodu, rzuÄ tÄ nazwÄ!
+Lub, jeÅli tego nie moÅ¼esz uczyniÄ,
+To przysiÄÅ¼ wiernym byÄ mojej miÅoÅci,
+A ja przestanÄ byÄ z krwi KapuletÃ³w.
+
+*Romeo.* MamÅ¼e przemÃ³wiÄ, czy teÅ¼ sÅuchaÄ dalej?
+
+*Julia.* Nazwa twa tylko jest mi nieprzyjaznÄ,
+BoÅ ty w istocie nie Montekim dla mnie.
+JestÅ¼e Monteki choÄby tylko rÄkÄ,
+Ramieniem, twarzÄ, zgoÅa jakÄkolwiek
+CzÄÅciÄ czÅowieka? O! weÅº innÄ nazwÄ!
+CzemÅ¼e jest nazwa? To, co zowiem rÃ³Å¼Ä,
+Pod innÄ nazwÄ rÃ³wnieby pachniaÅo;
+Tak i Romeo, bez nazwy Romea
+PrzecieÅ¼by caÅÄ swÄ wartoÅÄ zatrzymaÅ.
+Romeo! porzuÄ tÄ nazwÄ, a w zamian
+Za to, co nawet czÄstkÄ ciebie nie jest,
+WeÅº miÄ, ach! caÅÄ!
+
+*Romeo.* BiorÄ ciÄ za sÅowo:
+Zwij miÄ kochankiem, a krzyÅ¼mo chrztu tego
+Sprawi, Å¼e odtÄd nie bÄdÄ Romeem.
+
+*Julia.* KtoÅ ty jest, co siÄ nocÄ osÅaniajÄc,
+Podchodzisz mojÄ samotnoÅÄ?
+
+*Romeo.*                     Z nazwiska
+Nie mÃ³gÅbym tobie powiedzieÄ, kto jestem:
+Nazwisko moje jest mi nienawistnem,
+Bo jest, o! ÅwiÄta, nieprzyjaznem tobie;
+ZdarÅbym je, gdybym miaÅ je napisane.
+
+*Julia.* Jeszcze me ucho stu sÅÃ³w nie wypiÅo
+Z tych ust, a przecieÅ¼ dÅºwiÄk juÅ¼ ich mi znany.
+JestÅ¼eÅ Romeo, mÃ³w? jestÅ¼eÅ Monteki?
+
+*Romeo.* Nie jestem ani jednym, ani drugim,
+Jednoli z dwojga jest niemiÅem tobie.
+
+*Julia.* JakÅ¼eÅ tu przyszedÅ, powiedz, i dlaczego?
+Mur jest wysoki i trudny do przejÅcia,
+A miejsce zgubne; gdyby ciÄ kto z moich
+Krewnych tu zastaÅ...
+
+*Romeo.*              Na skrzydÅach miÅoÅci
+Lekko, bezpiecznie mur ten przesadziÅem,
+Bo miÅoÅÄ nie zna Å¼adnych tam i granic;
+A co potrafi, na to siÄ i waÅ¼y;
+Krewni wiÄc twoi nie trwoÅ¼Ä miÄ wcale.
+
+*Julia.* Zabiliby ciÄ, gdyby ciÄ ujrzeli.
+
+*Romeo.* Ach! wiÄcej groÅºby leÅ¼y w oczach twoich,
+NiÅ¼ w ich dwudziestu mieczach: patrz Åaskawie,
+A bÄdÄ silny przeciw ich gniewowi.
+
+*Julia.* Na Boga! niech ciÄ oni tu nie ujrzÄ!
+
+*Romeo.* Ciemny pÅaszcz nocy skryje miÄ przed nimi.
+Lecz niech miÄ znajdÄ, jeÅli ty miÄ kochasz.
+Lepszy kres Å¼ycia skutkiem ich niechÄci,
+NiÅ¼ przedÅuÅ¼ony zgon w braku twych uczuÄ.
+
+*Julia.* Kto ci dopomÃ³gÅ znaleÅºÄ to ustronie?
+
+*Romeo.* MiÅoÅÄ, co mi go doradziÅa szukaÄ:
+Ona mi instynkt, ja jej oczy daÅem.
+Nie jestem sternik, gdybyÅ jednak byÅa
+RÃ³wnie daleko, jak Ã³w brzeg, ktÃ³rego
+Morze najdalsze podmywa krawÄdzie,
+ÅmiaÅo po taki klejnotbym popÅynÄÅ.
+
+*Julia.* Gdyby nie ciemnoÅÄ, co mi twarz maskuje,
+WidziaÅbyÅ na niej rozlany rumieniec
+Po tem, co z ust mych sÅyszaÅeÅ tej nocy.
+Radabym form siÄ trzymaÄ, rada cofnÄÄ
+To, co wyrzekÅam; ale precz udanie!
+Czy miÄ ty kochasz? Wiem, Å¼e powiesz: -- tak jest;
+I jaÄ uwierzÄ; mimo przysiÄg jednak
+MoÅ¼esz miÄ zawieÅÄ. Z wiaroÅomstwa mÄÅ¼czyzn
+Åmieje siÄ, mÃ³wiÄ, Jowisz. O! Romeo!
+JeÅli miÄ kochasz, wyrzecz to rzetelnie;
+Lecz jeÅli masz miÄ za podbÃ³j zbyt Åatwy,
+To zmarszczÄ czoÅo i przewrotnÄ bÄdÄ
+I na miÅosne twoje oÅwiadczenia
+Powiem: -- nie, w innym razie za nic w Åwiecie.
+Za czuÅa moÅ¼e jestem, o! Monteki,
+StÄd moÅ¼esz sÄdziÄ me obejÅcie pÅochem;
+Ufaj mi jednak, bÄdÄ ja wierniejsza
+Od tych, co bieglej umiejÄ siÄ droÅ¼yÄ.
+ByÅabym ja siÄ byÅa, prawdÄ mÃ³wiÄc,
+TakÅ¼e droÅ¼yÅa, gdybyÅ byÅ tajnego
+GÅosu miÅoÅci mojej nie podchwyciÅ.
+Nie wiÅ miÄ przeto, ani teÅ¼ przypisuj
+PÅochoÅci tego wylania mych uczuÄ,
+KtÃ³re zdradziÅa noc ciemna.
+
+*Romeo.*                    O! Julio,
+PrzysiÄgam na ten ksiÄÅ¼yc, co wspaniale
+Powleka srebrem tamtych drzew wierzchoÅki...
+
+*Julia.* O! nie przysiÄgaj na ksiÄÅ¼yc, bo ksiÄÅ¼yc
+Co tydzieÅ zmienia ksztaÅt swej piÄknej tarczy;
+I miÅoÅÄ twoja po takiej przysiÄdze
+MogÅaby rÃ³wnieÅ¼ zmiennÄ siÄ okazaÄ.
+
+*Romeo.* Na cÃ³Å¼ mam przysiÄdz?
+
+*Julia.* Nie przysiÄgaj wcale;
+Lub wreszcie przysiÄÅ¼ na samego siebie:
+Na ten uroczy przedmiot mych uwielbieÅ,
+To ci uwierzÄ.
+
+*Romeo.*  JeÅli szczera miÅoÅÄ
+Mojego serca...
+
+*Julia.*         Daj pokÃ³j przysiÄgom.
+Lubo siÄ cieszÄ z twojej obecnoÅci,
+Te nocne Åluby nie cieszÄ mnie jakoÅ:
+Za nagÅe one sÄ, za nierozwaÅ¼ne,
+Podobne niby do blasku, co znika,
+Nim czÅowiek zdÄÅ¼y powiedzieÄ: -- bÅysnÄÅo.
+Dobranoc, luby! Oby nam ten wonny
+MiÅoÅci pÄczek przyniÃ³sÅ kwiat niepÅonny!
+BÄdÅº zdrÃ³w! i zaÅnij z tak bÅogim spokojem,
+Jaki, z twej Åaski, czujÄ w sercu mojem.
+
+*Romeo.* TakÅ¼e mam odejÅÄ niezaspokojony?
+
+*Julia.* JakiegoÅ¼ wiÄcej chcesz zaspokojenia?
+
+*Romeo.* Zamiany twoich zapewnieÅ za moje.
+
+*Julia.* JuÅ¼em ci daÅa je, nimeÅ zaÅ¼ÄdaÅ;
+Radabym jednak one mieÄ na powrÃ³t.
+
+*Romeo.* ChciaÅaÅ¼byÅ cofnÄÄ je? Dlaczego? luba!
+
+*Julia.* AÅ¼ebym mogÅa oddaÄ ci je znowu.
+A przecieÅ¼ jest to Å¼Ädanie zbyteczne,
+Bo moja miÅoÅÄ rÃ³wnie jest gÅÄboka,
+Jak morze, rÃ³wnie jak ono bez koÅca;
+Im wiÄcej ci jej udzielam, tem wiÄcej
+CzujÄ jej w sercu.
+
+    _(SÅychaÄ w pokojach gÅos Marty)._
+
+
+                      WoÅajÄ miÄ. -- Zaraz.
+BÄdÅº zdrÃ³w, kochanku drogi! -- Zaraz, zaraz.
+-- Najmilszy, pomnij byÄ staÅym! -- Zaczekaj,
+Zaczekaj trochÄ, powrÃ³cÄ za chwilÄ.
+
+    _(Wychodzi)._
+
+*Romeo.* BÅogosÅawiona, o! bÅogosÅawiona
+Po dwakroÄ nocy! Ale czy to wszystko,
+DziejÄc siÄ w nocy, nie jest marÄ tylko?
+CoÅ tak lubego moÅ¼eÅ¼ byÄ istotnem?
+
+*Julia* _(ukazujÄc siÄ znowu)._ Jeszcze sÅÃ³w parÄ, a potem dobranoc,
+Drogi Romeo! jeÅli twoja skÅonnoÅÄ
+Jest prawÄ, twoim zamiarem maÅÅ¼eÅstwo,
+To miÄ uwiadom jutro przez osobÄ,
+KtÃ³rÄ do ciebie przyÅlÄ, gdzie i kiedy
+Zechcesz dopeÅniÄ obrzÄdu; a wtedy
+CaÅÄ mÄ przyszÅoÅÄ u nÃ³g twoich zÅoÅ¼Ä
+I w Åwiat za tobÄ pÃ³jdÄ w imiÄ BoÅ¼e.
+
+*Marta* _(za scenÄ)._ Panienko!
+
+*Julia.* IdÄ. -- Lecz jeÅli miÄ zwodzisz,
+To ciÄ zaklinam...
+
+*Marta* _(za scenÄ)._ Julciu!
+
+*Julia.*                      Zaraz idÄ.
+-- JeÅli miÄ zwodzisz, o! to ciÄ zaklinam,
+SkoÅcz te zabiegi i zostaw miÄ Å¼alom.
+-- Jutro wiÄc przyÅlÄ.
+
+*Romeo.* Jak pragnÄ zbawienia...
+
+*Julia.* Po tysiÄc razy dobranoc.
+
+    _(Odchodzi)._
+
+*Romeo.*                          Po tysiÄc
+Razy niedobra tam, gdzie ty nie Åwiecisz.
+Jak Å¼ak, gdy rzuca ksiÄÅ¼kÄ, tak kochanek
+Do celu swego pospiesza wesoÅy;
+A gdy nadejdzie z kochankÄ rozstanek,
+Wlecze siÄ smutnie, jak Ã³w Å¼ak do szkoÅy.
+
+    _(Odchodzi)._
+
+*Julia* _(ukazuje siÄ znowu)._ Pst! pst! Romeo! O, gdybym mieÄ mogÅa
+GÅos sokolnika, by tego maiÅ¼a
+Nazad przywoÅaÄ! Przymus jest ochrypÅy,
+Nie moÅ¼e gÅoÅno mÃ³wiÄ; gdyby nie to,
+WstrzÄsÅabym gÃ³ry, gdzie siÄ echo kryje,
+I gÅosbym jego zrobiÅa chrapliwszym,
+NiÅ¼ mÃ³j, od rozbrzmieÅ imienia Romeo!
+
+*Romeo.* Moja to dusza dzwoni imiÄ moje,
+Jak srebrny dÅºwiÄk ma nocÄ gÅos kochanki!
+I jestÅ¼e sÅodsza muzyka na Åwiecie?
+
+*Julia.* Romeo!
+
+*Romeo.*        Luba!
+
+*Julia.*               O ktÃ³rej godzinie
+Jutro mam przysÅaÄ?
+
+*Romeo.*               O dziewiÄtej.
+
+*Julia.*                            Dobrze.
+Dwudziestoletni to termin. Nie pomnÄ,
+Pocom tu ciebie znowu przywoÅaÅa.
+
+*Romeo.* PozwÃ³l mi czekaÄ, aÅ¼ sobie przypomnisz.
+
+*Julia.* ZapomnÄ znowu, po co czekasz, pomnÄc
+O twojej tylko lubej obecnoÅci.
+
+*Romeo.* A ja wciÄÅ¼ czekaÄ bÄdÄ, abyÅ ciÄgle
+ZapominaÅa, sam zapominajÄc,
+Å»e mam gdzie inny dom jak tutaj.
+
+*Julia.*                          WkrÃ³tce
+DnieÄ bÄdzie: radabym, Å¼ebyÅ juÅ¼ odszedÅ;
+Nie dalej jednak, jak Ã³w biedny ptaszek,
+Co go swawolne dziecko z rÄk wypuszcza,
+I wnet zazdroszczÄc mu krÃ³tkiej wolnoÅci,
+Jak niewolnika trzymanego w wiÄzach,
+Jedwabnym sznurkiem przyciÄga napowrÃ³t.
+
+*Romeo.* ChciaÅbym byÄ biednym ptaszkiem w twoich rÄku.
+
+*Julia.* O! jabym zbytkiem pieszczot ciÄ zabiÅa.
+Dobranoc, luby! jeszcze raz dobranoc!
+Takam w Å¼yczeniach niepohamowana,
+Å»eby dobranoc woÅaÅa do rana.
+
+    _(Odchodzi)._
+
+*Romeo.* Sen na twe oczy, pokÃ³j w pierÅ niech spÅynie;
+Obym byÅ nimi w tej bÅogiej godzinie!
+SpieszÄ do ojca Laurentego celi,
+On mi pomocy i rady udzieli.
+
+    _(Wychodzi)._
+
+
+SCENA III.
+
+    Cela Ojca Laurentego.
+
+    _(Wchodzi Ojciec Laurenty z koszykiem w rÄku)._
+
+*O. Laurenty.* Szary poranek spÄdza mrok ponury,
+Pasami ÅwiatÅa znaczÄc wschodnie mury,
+I noc siÄ na bok chyli jak pijana
+Z drÃ³g dnia ubitych stopami Tytana.
+Nim oko sÅoÅca peÅnym blaskiem strzeli,
+RosÄ wypije i Åwiat rozweseli,
+MuszÄ uzbieraÄ w ten koszyk z sitowia
+RoÅlin tak zbawczych jak zgubnych dla zdrowia.
+Ziemia jest matkÄ natury i grobem,
+Grzebie i Å¼ycia obdziela zasobem.
+I mnÃ³stwo dzieci jej Åona widzimy
+CiÄgnÄcych pokarm z jej piersi rodzimÃ©j;
+Niejedno w skutkach swoich wyÅmienite,
+KaÅ¼de do czegoÅ, wszystko rozmaite.
+O! moc to peÅna cudÃ³w, co siÄ mieÅci
+W sokach ziÃ³Å, krzewÃ³w, w martwej kruszcÃ³w treÅci!
+Bo niema rzeczy tak podÅych na ziemi,
+Aby nie mogÅy staÄ siÄ przydatnemi;
+Ni tak przydatnych, aby, miasto sÅuÅ¼yÄ,
+Nie zaszkodziÅy pod wpÅywem naduÅ¼yÄ.
+WszakÅ¼e i cnota moÅ¼e zajÅÄ w bezdroÅ¼e,
+A bÅÄd siÄ czynem uszlachetniÄ moÅ¼e.
+W mdÅym kwiatku, w ziÃ³Åku jednym i tem samem
+Ma nieraz miejsce jad wespÃ³Å z balsamem,
+Co zmysÅy razi, i to co im sprzyja,
+Bo jego zapach rzeÅºwi, smak zabija.
+Podobnie sprzeczna i w czÅowieku goÅci
+DwÃ³jca pierwiastkÃ³w: dobroci i zÅoÅci;
+A kÄdy gÃ³rÄ gorsza weÅºmie strona,
+Tam ÅmierÄ przychodzi i roÅlina kona.
+
+    _(Wchodzi Romeo)._
+
+*Romeo.* DzieÅ dobry, ojcze mÃ³j!
+
+*O. Laurenty.*                   _Benedicite!_
+CÃ³Å¼ to za ranny gÅos tak mnie pozdrawia!
+MÅody mÃ³j synu, zÅy to znak, kto ÅoÅ¼e
+PrÃ³Å¼ne zostawia o tak wczesnej porze.
+Troska odbywa straÅ¼ w oczach starego,
+A sen tych mija, ktÃ³rych troski strzegÄ;
+Ale gdzie czerstwa, wolna od kÅopotÃ³w
+MÅÃ³dÅº gÅowÄ zÅoÅ¼y, sen zawÅ¼dy przyjÅÄ gotÃ³w.
+To wiÄc tak ranne twe przybycie zdradza
+JakiÅ niepokÃ³j, ktÃ³remu snu wÅadza
+Ulec musiaÅa. Czy tylko siÄ kÅadÅeÅ?
+MoÅ¼eÅ do ÅÃ³Å¼ka i nie zajrzaÅ?
+
+*Romeo.*                      ZgadÅeÅ;
+BÅoÅ¼ej niÅ¼ w ÅÃ³Å¼ku przeszÅy mi godziny.
+
+*O. Laurenty.* Grzeszniku, pewnieÅ byÅ u Rozaliny.
+
+*Romeo.* U Rozaliny? Nie, ojcze; to imiÄ
+W pamiÄci mojej wiecznym snem juÅ¼ drzymie.
+
+*O. Laurenty.* Brawo, mÃ³j synu! Lecz gdzieÅ¼eÅ to bywaÅ?
+
+*Romeo.* Zaraz ci powiem: prÃ³Å¼nobyÅ zgadywaÅ;
+ByÅem na balu w domu mego wroga,
+Gdziem zostaÅ ranny, lecz zbÃ³jczyni sroga
+Czuje cios wzajem przeze mnie zadany,
+Tak, Å¼e na nasze zobopÃ³lne rany
+ÅwiÄty wpÅyw tylko twej, ojcze, opieki
+PoradziÄ zdoÅa i daÄ zbawcze leki.
+Po chrzeÅcijaÅsku, jak widzisz, przemawiam,
+Skoro siÄ nawet za mym wrogiem wstawiam.
+
+*O. Laurenty.* MÃ³w jaÅniej, synu; zagadkowa spowiedÅº
+DwuznacznÄ takÅ¼e znajduje odpowiedÅº.
+
+*Romeo.* Dowiedz siÄ zatem, Å¼e anioÅ kobieta,
+KtÃ³rÄm ukochaÅ, jest z krwi Kapuleta.
+Jego to dziecko i nadzieja caÅa;
+Jak ja jÄ, tak mnie ona ukochaÅa.
+I do jednoÅci, ktÃ³ra nas juÅ¼ splata,
+Brakuje tylko, byÅ nas ty dla Åwiata
+StuÅÄ zjednoczyÅ. Gdzie, o jakiej dobie
+Zejdziem siÄ skrycie i przysiÄgniem sobie,
+Powiem ci, idÄc, czcigodny kapÅanie;
+BÅagam ciÄ tylko, niech siÄ to dziÅ stanie.
+
+*O. Laurenty.* ÅwiÄty Franciszku! CÃ³Å¼ to za przemiana!
+ToÅ¼ Rozalina, owa ukochana,
+Niczym juÅ¼ dla ciÄ? MiÅoÅÄ wiÄc mÅodzieÅ¼y
+W oczach jedynie, a nie w sercu leÅ¼y?
+Jezus! Marya! IleÅ¼ to solanki
+ÅciekÅo z twych oczu dla owej kochanki!
+I nadaremnie, bowiem twe zapaÅy
+WciÄÅ¼ zalewane, wciÄÅ¼ siÄ powiÄkszaÅy.
+Jeszcze twych westchnieÅ nie rozwiaÅ Fawoni;
+Jeszcze twÃ³j dawny jÄk w uszach mi dzwoni,
+I na twych licach, bladoÅciÄ pokrytych,
+Widoczny jeszcze Ålad Åez nieobmytych,
+Wszystko, coÅ cierpiaÅ z miÅosnej przyczyny,
+CierpiaÅeÅ tylko gwoli Rozaliny.
+A teraz! nie dziw, gdy mdÅa pÅeÄ upadnie,
+Kiedy miÄÅ¼czyÅºni szwankujÄ tak snadnie.
+
+*Romeo.* Gdym kochaÅ tamtÄ, takÅ¼eÅ nie pochwalaÅ.
+
+*O. Laurenty.* Nie, Å¼eÅ jÄ kochaÅ, lecz Å¼eÅ za niÄ szalaÅ.
+
+*Romeo.* PogrzeÅÄ tÄ miÅoÅÄ kazaÅeÅ.
+
+*O. Laurenty.*                        Nie w grobie:
+By tÄ pochowaÄ, a innÄ wziÄÄ sobie.
+
+*Romeo.* Nie Åaj miÄ, proszÄ; ta, co mi dziÅ luba,
+MiÅoÅÄ mÄ pÅaci miÅoÅciÄ Cheruba;
+Z tamtÄ inaczej byÅo.
+
+*O. Laurenty.*           Bo odgadÅa,
+Å»e w rzeczach serca nie znasz abecadÅa,
+Tylko z rutyny czytasz. PÃ³jdÅº, wietrzniku;
+Do sankcyi tego nowego wybryku
+Jeden i jeden tylko wzglÄd miÄ skÅania:
+To jest, Å¼e moÅ¼e z tego zawiÄzania
+Wyniknie wÄzeÅ, ktÃ³ry wasze rody
+Zawistne zÅÄczy w piÄkny ÅaÅcuch zgody.
+
+*Romeo.* O! prÄdzej! pilno mi!
+
+*O. Laurenty.*                 _Festina lente!_
+Zdradne sÄ kroki za spiesznie podjÄte.
+
+    _(WychodzÄ)._
+
+
+SCENA IV.
+
+    Ulica.
+
+    _(WchodzÄ: Merkucio i Benwolio)._
+
+*Merkucio.* GdzieÅ¼ u dyabÅa ugrzÄzÅ Romeo! Czy byÅ tej
+nocy w domu?
+
+*Benwolio.* Nie w domu swego ojca przynajmniej; mÃ³wiÅem
+z jego sÅuÅ¼Äcym.
+
+*Merkucio.* Ta blada sekutnica Rozalina
+Na waryata go wnet wykieruje.
+
+*Benwolio.* Tybalt, starego Kapuleta krewny,
+PisaÅ do niego list.
+
+*Merkucio.*          Z wyzwaniem, rÄczÄ.
+
+*Benwolio.* Romeo mu odpowie.
+
+*Merkucio.*                   KaÅ¼dy czÅowiek
+PiÅmienny moÅ¼e na list odpowiedzieÄ.
+
+*Benwolio.* On mu odpowie odpowiednio.
+
+*Merkucio.* Biedny Romeo! juÅ¼ trup z niego! ZakÅuty
+czarnemi oczyma biaÅogÅowy; przestrzelony na wskroÅ
+uszu romansowÄ piosnkÄ; ugodzony w sam rdzeÅ serca
+postrzaÅem Ålepego malca Åucznika; potrafiÅ¼ on Tybaltowi
+stawiÄ czoÅo?
+
+*Benwolio.* A cÃ³Å¼ to takiego Tybalt?
+
+*Merkucio.* CoÅ wiÄcej, niÅ¼ ksiÄÅ¼Ä kotÃ³w; moÅ¼esz mi wierzyÄ!
+Nieustraszony rÄbacz, bije siÄ jak z nut, zna czas,
+odlegÅoÅÄ i miarÄ; pauzuje w sam raz jak potrzeba: raz,
+dwa, a trzy to juÅ¼ w pierÅ. Å»aden jedwabny guzik nie
+wykrÄci mu siÄ od Åmierci. Duelista to, duelista pierwszej
+klasy. Owe nieÅmiertelne _passado!_ Owe _punto reverso!_
+Owe _ha!_
+
+*Benwolio.* Co takiego?
+
+*Merkucio.* Niech kaci porwÄ to plemiÄ Åmiesznych, sepleniÄcych,
+przesadnych fantastykÃ³w, z ich nowokutymi
+terminami! Nie jestÅ¼e to rzecz opÅakana, Å¼e nas
+i obsiadÅy te zagraniczne muchy, te modne sroki, te
+_pardonnez-moi_, ktÃ³rym tak bardzo idzie o nowÄ formÄ,
+Å¼e nawet na starej Åawce wygodnie siedzieÄ nie mogÄ;
+te bÄki, co bÄkajÄ: _bon! bon!_
+
+_(Wchodzi Romeo)._
+
+*Benwolio.* Oto Romeo, nasz Romeo idzie.
+
+*Merkucio.* Bez mlecza, jak ÅledÅº suszony. O! czÅowieku!
+[Page 38]
+jakÅ¼eÅ siÄ w rybÄ przedzierzgnÄÅ! Teraz go rymy Petrarki
+rozczulajÄ. Laura naprzeciw jego bÃ³stwa jest prostÄ
+pomywaczkÄ, lubo tamta miaÅa kochanka, co jÄ
+opiewaÅ; Dydona flÄdrÄ; Kleopatra cygankÄ; Helena
+i Hero szurgotami i otÅukami; Thisbe kopciuchem, lub
+czymÅ podobnym, ale zawsze nie dystyngowanem. _Bon-jour,
+signor_ Romeo! Oto masz francuskie pozdrowienie
+na czeÅÄ twoich francuskich pantalonÃ³w. PiÄknie nas
+zaÅ¼yÅeÅ tej nocy.
+
+*Romeo.* DzieÅ dobry wam, moi drodzy. JakÅ¼eto was zaÅ¼yÅem?
+
+*Merkucio.* PokazaÅeÅ nam odwrotnÄ stronÄ medalu, odwrotnÄ
+stronÄ swego medalu.
+
+*Romeo.* To siÄ znaczy, Å¼em wam zdezerterowaÅ. Wybacz,
+kochany Merkucio; miaÅem pilny interes, a w takim
+przypadku czÅowiek moÅ¼e zgrzeszyÄ na polu uprzejmoÅci.
+
+*Merkucio.* To siÄ znaczy, Å¼e w takim przypadku czÅowiek
+mÃ³gÅ byÄ zniewolony zgiÄÄ kolana.
+
+*Romeo.* Ma siÄ rozumieÄ -- z uprzejmoÅci.
+
+*Merkucio.* BardzoÅ zgrabnie trafiÅ w sedno.
+
+*Romeo.* A ty bardzoÅ zgrabnie to wyÅoÅ¼yÅ.
+
+*Merkucio.* Ja bo jestem kwiatem uprzejmoÅci.
+
+*Romeo.* JeÅ¼eliÅ ty kwiatem, to moje trzewiki sÄ w kwitnÄcym
+stanie.
+
+*Merkucio.* Brawo! pielÄgnuj mi ten dowcip, aÅ¼eby, skoro
+ci siÄ do reszty zedrze podeszwa u trzewikÃ³w, twÃ³j
+dowcip mÃ³gÅ tam po prostu figurowaÄ.
+
+*Romeo.* O! godny zdartej podeszwy dowcipie! O! figuro
+peÅna prostoty, z powodu swego prostactwa!
+
+*Merkucio.* Na pomoc, Benwolio! moje koncepta dech
+tracÄ.
+
+*Romeo.* PejczÄ je i ostrogÄ! pejczÄ je i ostrogÄ, inaczej
+nazwÄ je hetkami.
+
+*Merkucio.* JeÅ¼eli twÃ³j dowcip poluje na dzikie gÄsi, to
+kapitulujÄ; bo on ma wiÄcej kwalifikacyi ku temu, niÅ¼
+wszystkie moje umysÅowe wÅadze. Czy ja ci siÄ zdajÄ
+na to, Å¼ebym miaÅ z gÄsiami do czynienia?
+
+*Romeo.* TyÅ mi siÄ nigdy na nic nie zdaÅ, wyjÄwszy, kiedy
+miaÅem do czynienia z gÄsiami.
+
+*Merkucio.* Za ten koncept ugryzÄ ciÄ w ucho.
+
+*Romeo.* Chyba udziobiesz!
+
+*Merkucio.* TwÃ³j dowcip jest gorzkÄ konfiturÄ, dyabelnie
+ostrym sosem.
+
+*Romeo.* Stosownym do gÄsi.
+
+*Merkucio.* To koncept z koÅºlej skÃ³rki, ktÃ³rej cal da siÄ
+rozciÄgnaÄ tak, Å¼e nim opaszesz caÅÄ gÅowÄ.
+
+*Romeo.* RozciÄgnÄ go do wyrazu _gÅowÄ_, ktÃ³ry poÅÄczywszy
+z _gÄsiÄ_, bÄdziesz miaÅ gÄsiÄ gÅowÄ.
+
+*Merkucio.* Nie jestÅ¼e to lepiej, niÅ¼ jÄczeÄ z miÅoÅci? Teraz
+to co innego; teraz mi jesteÅ towarzyskim, jesteÅ
+Romeem, jesteÅ tem, czem jesteÅ; miÅoÅÄ zaÅ jest podobna
+do owego gapia, co siÄ szwenda, wywiesiwszy
+jÄzyk, szukajÄc dziury, gdzieby mÃ³gÅ palec wÅcibiÄ.
+
+*Romeo.* StÃ³j! StÃ³j!
+
+*Merkucio.* Chcesz, aby siÄ mÃ³j dowcip zastanowiÅ w samym
+Årodku weny?
+
+*Romeo.* Z obawy, abyÅ tej weny zbyt nie rozszerzyÅ.
+
+*Merkucio.* Mylisz siÄ, wÅaÅnie byÅem bliski jÄ ÅcieÅniÄ, bo
+juÅ¼em byÅ doszedÅ do jej dna i nie miaÅem zamiaru
+dÅuÅ¼ej wyczerpywaÄ materyi.
+
+*Romeo.* Patrzcie, co za dziwadÅa!
+
+    _(Wchodzi Marta z Piotrem)._
+
+*Merkucio.* Å»agiel! Å¼agiel! Å¼agiel!
+
+*Benwolio.* Dwa, dwa: spodnie i spÃ³dnica.
+
+*Marta.* Piotrze.
+
+*Piotr.* SÅucham.
+
+*Marta.* Piotrze, gdzie mÃ³j wachlarz?
+
+*Merkucio.* ProszÄ ciÄ, mÃ³j Piotrze, zakryj wachlarzem
+twarz jejmoÅci, bo z dwojga tego jej wachlarz jest
+piÄkniejszy.
+
+*Marta.* Å»yczÄ panom dnia dobrego.
+
+*Merkucio.* Å»yczymy ci dobrego poÅudnia, piÄkna signoro.
+
+*Marta.* Czy to juÅ¼ poÅudnie?
+
+*Merkucio.* Nieinaczej; bo nieczysta rÄka wskazÃ³wki na
+kompasie trzyma juÅ¼ poÅudnie za ogon.
+
+*Marta.* Chryste Panie! CÃ³Å¼ to za czÅowiek z waÄpana?
+
+*Romeo.* CzÅowiek, ktÃ³rego Pan BÃ³g skazaÅ na zepsucie.
+
+*Marta.* DobrzeÅ pan powiedziaÅ, na poczciwoÅÄ! Nie wie
+teÅ¼ czasem ktÃ³ry z panÃ³w, gdziebym mogÅa znaleÅºÄ
+mÅodego Romea?
+
+*Romeo.* Ja wiem czasem, ale mÅodego Romea znajdziesz
+waÄpani starszym, niÅ¼ byÅ, kiedyÅ go szukaÄ zaczÄÅa.
+Jestem najmÅodszy z tych, co noszÄ to imiÄ w braku
+gorszego.
+
+*Marta.* Ach, to dobrze!
+
+*Merkucio.* MoÅ¼eÅ¼ byÄ dobrym to, co jest gorszem?
+
+*Marta.* JeÅ¼eli waÄpan nim jesteÅ, to radabym z nim
+pomÃ³wiÄ sam na sam.
+
+*Benwolio.* Zaprosi go na jakiÅ wieczorynek.
+
+*Merkucio.* PoÅredniczka to Wenery. HuÅº, ha!
+
+*Romeo.* CÃ³Å¼ to, czyÅ kota upatrzyÅ?
+
+*Merkucio.* KotlinÄ, panie, nie kota; i to w starym piecu,
+nie w polu.
+
+    Bodaj to kotlina,
+    Gdzie siedzi kocina:
+        Ta nie osmali...
+    Lecz zmykaj, chudzino,
+    Przed takÄ kotlinÄ,
+        Gdzie dyabeÅ pali!
+
+Romeo, czy bÄdziesz u ojca na obiedzie? My tam idziemy.
+
+*Romeo.* PoÅpieszÄ za wami.
+
+*Merkucio.* Do widzenia, staroÅ¼ytna damo; damo, damo,
+damo! _(WychodzÄ: Merkucio i Benwolio)._
+
+*Marta.* Tak, tak, do widzenia! Co to za infamis, proszÄ
+pana, co siÄ tak powaÅ¼yÅ rozpuÅciÄ cugle swemu grubiaÅstwu?
+
+*Romeo.* Jest to panicz zakochany w swym jÄzyku, zdolny
+wypowiedzieÄ wiÄcej w ciÄgu jednej minuty, niÅ¼ milczeÄ
+przez caÅy miesiÄc.
+
+*Marta.* JeÅ¼eli on na mnie co powiedziaÅ, dam ja mu, chociaÅ¼by
+byÅ zuchwalszy, niÅ¼ jest, i miaÅ ze sobÄ dwudziestu
+sobie podobnych drabÃ³w; a jeÅ¼eli mi ujdzie,
+to znajdÄ takich, co to potrafiÄ. A, hultaj! czy to ja
+jestem jego kochanicÄ, jego poniewieradÅem! _(Do Piotra)._
+I ty tu staÅeÅ takÅ¼e i mogÅeÅ ÅcierpieÄ, Å¼eby mnie
+lada gbur uÅ¼ywaÅ wedle upodobania za przedmiot
+swych bezwstydnych Å¼artÃ³w?
+
+*Piotr.* Nie widziaÅem jeszcze, Å¼eby kto uÅ¼ywaÅ jejmoÅci
+wedle upodobania; gdybym byÅ to widziaÅ, byÅbym byÅ
+pewnie zaraz giwer wydobyÅ, rÄczÄ za to. Umiem siÄ
+najeÅ¼yÄ tak dobrze, jak kto inny, kiedy mam sposobnoÅÄ
+po temu i prawo za sobÄ.
+
+*Marta.* Dla Boga! tak jestem rozdraÅ¼niona, Å¼e siÄ wszystko
+we mnie trzÄsie. A, hultaj! OtÃ³Å¼, proszÄ pana, tak jak
+powiedziaÅam, mÅoda moja pani kazaÅa mi siÄ wywiedzieÄ
+o panu; co mi kazaÅa powiedzieÄ, to sobie zachowujÄ;
+ale przedewszystkim oÅwiadczam panu, Å¼e
+jeÅ¼elibyÅ jÄ osadziÅ na koszu, jak to mÃ³wiÄ, bo panienka,
+o ktÃ³rej mÃ³wiÄ, jest mÅodÄ, i dlatego, gdybyÅ
+jÄ pan wywiÃ³dÅ w pole, byÅoby to tak ciÄÅ¼kim psikusem,
+jaki tylko mÅodej panience moÅ¼na wyrzÄdziÄ.
+
+*Romeo.* PozdrÃ³w jÄ waÄpani ode mnie, i powiedz, Å¼e jej
+dajÄ _rendez-vous_...
+
+*Marta.* PoczciwoÅci! oÅwiadczÄ jej to, oÅwiadczÄ. NieboÅ¼Ä,
+nie posiÄdzie siÄ z radoÅci.
+
+*Romeo.* Co jej waÄpani chcesz oÅwiadczyÄ? Nie wiesz, co
+mÃ³wiÄ miaÅem.
+
+*Marta.* OÅwiadczÄ jej, Å¼e pan dajesz randewu; co jest,
+jeÅ¼eli siÄ nie mylÄ, ofiarÄ godnÄ prawdziwego szlachcica.
+
+*Romeo.* Powiedz jej, aby, pod pozorem spowiedzi, przyszÅa
+za parÄ godzin do celi Ojca Laurentego: tam Ålub
+weÅºmiemy. Oto masz waÄpani za swoje trudy.
+
+*Marta.* Nie, panie; ani fenika.
+
+*Romeo.* No, no, bez ceremonii.
+
+*Marta.* Za parÄ godzin wiÄc; dobrze, nie zaniedba siÄ
+stawiÄ.
+
+*Romeo.* WaÄpani staniesz za murem klasztornym,
+Tam ci mÃ³j czÅowiek przyniesie drabinkÄ
+Z sznurkÃ³w skrÄconÄ, ktÃ³ra mi w noc pÃ³ÅºnÄ
+Do szczytu mego szczÄÅcia wstÄp uÅatwi.
+BÄdÅº zdrowa! WiernoÅÄ twa znajdzie nagrodÄ.
+PoleÄ miÄ swojej mÅodej pani.
+
+*Marta.* Niech wam BÃ³g bÅogosÅawi! Ale, ale...
+
+*Romeo.* CÃ³Å¼ mi waÄpani jeszcze powiesz?
+
+*Marta.* Czy czÅowiek paÅski dobry do sekretu?
+Bo gdzie siÄ skrycie prowadzÄ ukÅady,
+Tam dwÃ³ch juÅ¼, mÃ³wiÄ, za wiele do rady.
+
+*Romeo.* RÄczÄ za niego: jest to wiernoÅÄ sama.
+
+*Marta.* A wiÄc wszystko dobrze. Co teÅ¼ to za miÅe stworzenie
+ta moja panienka! Co to nie wyprawiaÅo, jak
+byÅo maÅem! Chryste Panie! Ale, ale, jest tu na mieÅcie
+jeden pan, niejaki Parys: ten ma na niÄ dyabli
+apetyt; ale ona, poczciwina, wolaÅaby patrzeÄ na bazyliszka,
+niÅ¼ na niego. Przekomarzam siÄ z niÄ nieraz
+i mÃ³wiÄ, Å¼e ten Parys, to wcale przystojny mÄÅ¼czyzna;
+wtedy ona, powiadam panu, za kaÅ¼dym razem aÅ¼ blednie,
+zupeÅnie tak jak ponsowa chusta na sÅoÅcu. ProszÄ
+teÅ¼ pana, czy rozmaryn i Romeo nie zaczyna siÄ
+od takiej samej litery?
+
+*Romeo.* Nieinaczej: jedno i drugie od R.
+
+*Marta.* Tak i mnie siÄ zdawaÅo, tylko Romeo inne ma
+zakoÅczenie. Co teÅ¼ ona o tem prawi, to jest o rozmarynie
+i o panu: radabym, Å¼ebyÅ pan to sÅyszaÅ.
+
+*Romeo.* PoleÄ jej sÅuÅ¼by moje.
+
+    _(Wychodzi)._
+
+*Marta.* UczyniÄ to, uczyniÄ po tysiÄc razy. -- Piotrze!
+
+*Piotr.* Jestem.
+
+*Marta.* Piotrze, naÅci mÃ³j wachlarz i idÅº przodem.
+
+    _(WychodzÄ)._
+
+
+SCENA V.
+
+    OgrÃ³d KapuletÃ³w.
+
+    _(Wchodzi Julia)._
+
+*Julia.* DziewiÄta biÅa, kiedym jÄ posÅaÅa;
+PrzyrzekÅa wrÃ³ciÄ siÄ za pÃ³Å godziny.
+Nie znalazÅa go moÅ¼e? Nie, to nie to.
+SÅabe ma nogi. Heroldem miÅoÅci
+Powinnaby byÄ myÅl, ktÃ³ra o dziesiÄÄ
+Razy mknie prÄdzej, niÅ¼ promienie sÅoÅca,
+Kiedy z pochyÅych wzgÃ³rkÃ³w cieÅ spÄdzajÄ.
+Niedarmo lotne goÅÄbie sÄ w cugach
+BÃ³stwa miÅoÅci i niedarmo Kupid
+Ma skrzydÅa z wiatrem idÄce w zawody.
+JuÅ¼ teraz sÅoÅce jest w samej poÅowie
+Dzisiejszej drogi swojej; od dziewiÄtej
+AÅ¼ do dwunastej trzy juÅ¼ upÅynÄÅy
+DÅugie godziny, a jeszcze jej niema.
+Gdyby krew miaÅa mÅodÄ i uczucia,
+Jak piÅka byÅaby chyÅ¼Ä i lekkÄ,
+I sÅowa moje do mego kochanka,
+A jego do mnie, w lot-by jÄ popchnÄÅy;
+Lecz starzy wczeÅnie sÄ jakby nieÅ¼ywi;
+Jak oÅÃ³w ciÄÅ¼cy, zimni, wiÄc leniwi.
+
+    _(WchodzÄ Marta i Piotr)._
+
+Ha! otÃ³Å¼ idzie. I cÃ³Å¼, zÅota nianiu?
+CzyÅ siÄ widziaÅa z nim? KaÅ¼ odejÅÄ sÅudze.
+
+*Marta.* IdÅº, staÅ za progiem, Piotrze.
+
+    _(Wychodzi Piotr)._
+
+*Julia.* MÃ³w, droga, luba nianiu! AleÅ¼ przebÃ³g!
+Czemu tak smutno wyglÄdasz? ChociaÅ¼byÅ
+ZÅe wieÅci miaÅa, powiedz je wesoÅo;
+JeÅli zaÅ dobre przynosisz, ta mina
+FaÅszywy miesza ton do ich muzyki.
+
+*Marta.* Tchu nie mam, pozwÃ³l mi trochÄ odpoczÄÄ;
+Ach! moje koÅci! To byÅ harc nielada!
+
+*Julia.* WeÅº moje koÅci, a daj mi wieÅÄ swojÄ.
+MÃ³wÅ¼e, mÃ³w prÄdzej, mÃ³w, nianiuniu droga.
+
+*Marta.* Co za gwaÅt! Folguj dla Boga, choÄ chwilkÄ,
+CzyliÅ¼ nie widzisz, Å¼e ledwie oddycham?
+
+*Julia.* Ledwie oddychasz, kiedy masz doÅÄ tchnienia
+Do powiedzenia, Å¼e ledwie oddychasz?
+To tÅÃ³maczenie siÄ twoje jest dÅuÅ¼sze
+Od wieÅci, ktÃ³rej zwÅokÄ nim tÅÃ³maczysz;
+Maszli wieÅÄ dobrÄ czy zÅÄ? niech przynajmniej
+Tego siÄ dowiem, poczekam, na resztÄ;
+Tylko mi powiedz: czy jest zÅÄ, czy dobrÄ?
+
+*Marta.* Tak, tak, piÄknyÅ panna wybÃ³r zrobiÅa! pannie
+wÅaÅnie mÄÅ¼a wybieraÄ. Romeo! Å¼al siÄ BoÅ¼e! Co mi
+to za gagatek! Ma wprawdzie twarz gÅadszÄ, niÅ¼ niejeden,
+ale oczy, niech siÄ wszystkie inne schowajÄ; co
+siÄ zaÅ tyczy rÄk i nÃ³g, i caÅej budowy, chociaÅ¼ o tem
+niema co wspominaÄ, przyznaÄ trzeba, Å¼e nieporÃ³wnane.
+Nie jest to wprawdzie galant caÅÄ gÄbÄ, ale sÅodziuchny
+jak baranek. No, no, dziewczyno! BÃ³g pomagaj!
+A czy jedliÅcie juÅ¼ obiad?
+
+*Julia.* Nie. Ale o tem wszystkiem juÅ¼ wiedziaÅam.
+CÃ³Å¼ o maÅÅ¼eÅstwie naszym mÃ³wiÅ? powiedz.
+
+*Marta.* Ach! jak mnie gÅowa boli! tak w niej Åupie,
+Jakby siÄ miaÅa w kawaÅki rozlecieÄ.
+A krzyÅ¼! krzyÅ¼! biedny krzyÅ¼! niechaj waÄpannie
+BÃ³g nie pamiÄta, Å¼eÅ miÄ posyÅaÅa,
+Aby mi przez ten kurs Åmierci przyÅpieszyÄ.
+
+*Julia.* Doprawdy, przykro mi, Å¼e jesteÅ sÅabÄ.
+Nianiu, nianiuniu, nianiunieczko droga,
+Powiedz mi, co ci mÃ³wiÅ mÃ³j kochanek?
+
+*Marta.* MÃ³wiÅ, jak dobrze wychowany mÅodzian,
+Grzeczny, stateczny, a przytem, upewniam,
+PeÅen zacnoÅci. Gdzie waÄpanny matka?
+
+*Julia.* Gdzie moja matka? GdzieÅ¼ ma byÄ? jest w domu.
+Co teÅ¼ nie pleciesz, nianiu: mÃ³j kochanek
+_MÃ³wiÅ, jak dobrze wychowany mÅodzian,
+Gdzie moja matka?_
+
+*Marta.* O, mÃ³j miÅy Jezu!
+TakÅ¼eÅ mi AÅÄka w ukropie kÄpana!
+I takÄÅ¼ to jest maÅÄ na moje koÅci?
+BÄdÅºÅ¼e na przyszÅoÅÄ sama sobie posÅem.
+
+*Julia.* O mÄki! Co ci powiedziaÅ Romeo?
+
+*Marta.* Masz pozwoleÅstwo iÅÄ dziÅ do spowiedzi?
+
+*Julia.* Mam je.
+
+*Marta.* Åpiesz wiÄc do celi Ojca Laurentego;
+Tam znajdziesz kogoÅ, co-Ä pojmie za Å¼onÄ.
+Jak ci jagÃ³dki pokraÅniaÅy! Czekaj!
+Zaraz je w szkarÅat zmieniÄ innÄ wieÅciÄ:
+IdÅº do koÅcioÅa, ja tymczasem pÃ³jdÄ
+PrzynieÅÄ drabinkÄ, po ktÃ³rej twÃ³j ptaszek
+Ma siÄ do gniazdka wÅliznÄÄ, jak siÄ Åciemni.
+Jak tragarz, muszÄ byÄ ci ku pomocy;
+Ty za to ciÄÅ¼ar dÅºwigaÄ bÄdziesz w nocy;
+IdÅº; trza mi zjeÅÄ co po takim zmachaniu.
+
+*Julia.* IdÄ raj posiÄÅÄ. Adieu, zÅota nianiu.
+
+    _(WychodzÄ)._
+
+
+SCENA VI.
+
+    Cela Ojca Laurentego.
+
+    _(Ojciec Laurenty i Romeo)._
+
+*O. Laurenty.* Oby ten ÅwiÄty akt byÅ miÅy niebu,
+I przyszÅoÅÄ smutkiem nas nie ukaraÅa.
+I zbytkiem smaku zabija apetyt.
+Miarkuj wiÄc miÅoÅÄ twojÄ: zbyt skwapliwy
+Tak samo spÃ³Åºnia siÄ, jak zbyt leniwy.
+
+    _(Wchodzi Julia)._
+
+OtÃ³Å¼ i panna mÅoda. Mech najcieÅszy
+Nie ugiÄÅby siÄ pod tak lekkÄ stopÄ.
+Kochankom mogÅyby do jazdy sÅuÅ¼yÄ
+Owe sÅoneczne pyÅki, co igrajÄ
+Latem w powietrzu; tak lekkÄ jest marnoÅÄ.
+
+*Romeo.* Amen! lecz choÄby przyszedÅ nawaÅ smutku,
+Nie przeciwwaÅ¼yÅby on tej radoÅci,
+JakÄ miÄ darzy jedna przy niej chwila.
+ZÅÄcz tylko nasze dÅonie ÅwiÄtym wÄzÅem;
+Niech go ÅmierÄ potem przetnie, kiedy zechce:
+DoÅÄ, Å¼e wprzÃ³d bÄdÄ mÃ³gÅ jÄ nazwaÄ mojÄ.
+
+*O. Laurenty.* GwaÅtownych uciech i koniec gwaÅtowny:
+SÄ one naksztaÅt prochu zatlonego,
+Co, wystrzeliwszy, gaÅnie. MiÃ³d jest sÅodki,
+Lecz sÅodkoÅÄ jego graniczy z ckliwoÅciÄ
+
+*Julia.* Czcigodny spowiedniku, bÄdÅº pozdrowion.
+
+*O. Laurenty.* Romeo, cÃ³rko, podziÄkuje tobie
+Za nas obydwu.
+
+*Julia.* Pozdrawiam go rÃ³wnieÅ¼,
+By dziÄki jego zbytnimi nie byÅy.
+
+*Romeo.* O! Julio, jeÅli miara twej radoÅci
+RÃ³wna siÄ mojej, a dar jej skreÅlenia
+WiÄkszy od mego: to osÅÃ³dÅº twym tchnieniem
+Powietrze, i niech muzyka ust twoich
+Objawi obraz szczÄÅcia, jakie spÅywa
+Na nas oboje w tem bÅogim spotkaniu.
+
+*Julia.* Czucie bogatsze w osnowÄ niÅ¼ w sÅowa,
+Pyszni siÄ z swojej wartoÅci, nie z ozdÃ³b;
+Å»ebracy tylko rachujÄ swe mienie.
+Mojej miÅoÅci skarb jest tak niezmierny,
+Å»e i pÃ³Å sumy tej nie zdoÅam zliczyÄ.
+
+*O. Laurenty.* PÃ³jdÅºcie, zaÅatwim rzecz w krÃ³tkich wyrazach,
+Nie wprzÃ³d bÄdziecie sobie zostawieni,
+AÅ¼ was sakrament z dwojga w jedno zmieni.
+
+    _(WychodzÄ)._
+
+
+
+
+AKT TRZECI.
+
+
+SCENA I.
+
+    Plac publiczny.
+
+    _(WchodzÄ: Benwolio, Merkucio, paÅº i sÅudzy)._
+
+*Benwolio.* Oddalmy siÄ stÄd, proszÄ ciÄ, Merkucio.
+DzieÅ dziÅ gorÄcy, Kapuleci krÄÅ¼Ä;
+Jak ich zdybiemy, nie unikniem zajÅcia,
+Bo w tak gorÄce dni krew nie jest lodem.
+
+*Merkucio.* PodobnyÅ do owego burdy, co, wchodzÄc do
+winiarni rzuca szpadÄ i mÃ³wi: _Daj BoÅ¼e, abym ciÄ nie
+potrzebowaÅ!_ a po wyprÃ³Å¼nieniu drugiego kubka dobywa
+jej na dobywacza korkÃ³w bez najmniejszej w Åwiecie
+potrzeby.
+
+*Benwolio.* Masz miÄ za takiego burdÄ?
+
+*Merkucio.* Mam ciÄ za tak wielkiego zawadiakÄ, jakiemu
+chyba rÃ³wny jest we WÅoszech; bardziej zaiste skÅonnego
+do breweryi, niÅ¼ do brewiarza.
+
+*Benwolio.* CÃ³Å¼ dalej?
+
+*Merkucio.* GdybyÅmy mieli dwÃ³ch takich, tobyÅmy wkrÃ³tce
+nie mieli Å¼adnego, bo jeden-by drugiego zagryzÅ. TyÅ
+gotÃ³w czÅowieka napastowaÄ za to, Å¼e ma w brodzie
+jeden wÅos mniej lub wiÄcej od ciebie. TyÅ gotÃ³w
+napastowaÄ czÅowieka za to, Å¼e piwo pije, bo w tem
+upatrzysz przytyk do swoich piwnych oczu, chociaÅ¼
+Å¼adne inne oko, jak piwne, nie upatrzyÅoby w tem
+przytyku. W twojej gÅowie tak siÄ lÄgnÄ swary, jak
+bekasy w Åugu, toÅ teÅ¼ nieraz za to beknÄÅ i gÅowÄ ci
+zmyto bez Åugu. PobiÅeÅ raz czÅowieka za to, Å¼e
+kaszlnÄÅ na ulicy i przebudziÅ przez to twego psa,
+ktÃ³ry siÄ wysypiaÅ przed domem. Nie napastowaÅÅ¼eÅ
+raz krawca za to, Å¼e wdziaÅ na siebie nowy kaftan
+w dzieÅ powszedni? kogoÅ innego za to, Å¼e miaÅ stare
+wstÄÅ¼ki u nowych trzewikÃ³w? I ty miÄ chcesz moralizowaÄ
+za kÅÃ³tliwoÅÄ?
+
+*Benwolio.* Gdybym byÅ tak skory do kÅÃ³tni, jak ty jesteÅ,
+niktby mi Å¼ycia na piÄÄ kwadransÃ³w nie zarÄczyÅ.
+
+*Merkucio.* Å»ycie twoje przeszÅoby zatem bez zarÄczyn.
+
+	_(Wchodzi Tybalt z poplecznikami swymi)._
+
+*Benwolio.* Patrz, oto idÄ Kapuleci.
+
+*Merkucio.* Zamknij oczy! Co mi do tego!
+
+*Tybalt* _(do swoich)._ PÃ³jdÅºcie tu, bo chcÄ z nimi siÄ rozmÃ³wiÄ.
+
+    _(Do tamtych)._
+
+MoÅci panowie, sÅowo.
+
+*Merkucio.* SÅowo tylko?
+I samo sÅowo? PoÅÄcz je z czemÅ drugiem,
+Z pchniÄciem naprzykÅad.
+
+*Tybalt.* Znajdziesz miÄ ku temu
+Gotowym, panie, jeÅli dasz okazyÄ.
+
+*Merkucio.* Sam jÄ wziÄÄ moÅ¼esz bez mego dawania.
+
+*Tybalt.* Pan jesteÅ w dobrej harmonii z Romeem?
+
+*Merkucio.* W harmonii? Maszli nas za muzykusÃ³w!
+JeÅli tak, to siÄ nie spodziewaj sÅyszeÄ
+Czego innego, jedno dysonanse.
+Oto mÃ³j smyczek: zaraz ci on gotÃ³w
+ZagraÄ do taÅca. Patrzaj go! w harmonii!
+
+*Benwolio.* JesteÅmy w miejscu publicznym, panowie;
+Albo usuÅcie siÄ gdzie na ustronie,
+Albo teÅ¼ zimnÄ krwiÄ poÅÃ³Å¼cie tamÄ
+Tej kÅÃ³tni. Wszystkich oczy w nas wlepione.
+
+*Merkucio.* Oczy sÄ na to, aÅ¼eby patrzaÅy;
+Niech robiÄ swoje, a my rÃ³bmy swoje.
+
+    _(Wchodzi Romeo)._
+
+*Tybalt.* Z panem nic nie mam do mÃ³wienia. Oto
+Nadchodzi wÅaÅnie ten, ktÃ³rego szukam.
+
+*Merkucio.* JeÅ¼eli szukasz guza, mogÄ rÄczyÄ,
+Å»e siÄ z nim spotkasz.
+
+*Tybalt.* Romeo, nienawiÅÄ
+Moja do ciebie nie moÅ¼e siÄ zdobyÄ
+Na lepszy wyraz jak ten: -- jesteÅ podÅy.
+
+*Romeo.* Tybalcie, powÃ³d do kochania ciebie,
+Jaki mam, tÅumi gniew sÅusznie wzbudzony
+TakÄ przemowÄ. Nie jestem ja podÅy;
+BÄdÅº wiÄc zdrÃ³w, widzÄ, Å¼e miÄ nie znasz.
+
+*Tybalt.* Smyku,
+Nie zatrzesz takim tÅumaczeniem obelg
+Mi uczynionych: staÅ wiÄc i wyjm szpadÄ.
+
+*Romeo.* KlnÄ siÄ, Å¼em nigdy obelg ci nie czyniÅ;
+Sprzyjam ci owszem bardziej, niÅ¼eÅ zdolny
+PomyÅleÄ o tem, nie znajÄc powodu.
+UspokÃ³j siÄ wiÄc, zacny Kapulecie,
+KtÃ³rego imiÄ milsze mi, niÅ¼ moje.
+
+*Merkucio.* Spokojna, nÄdzna, niegodna submisyo!
+_A la stoccata_ wnet jej kres poÅoÅ¼y.
+
+    _(Dobywa szpady)._
+
+PÃ³jdÅº tu, Tybalcie, pÃ³jdÅº tu, dusiszczurze!
+
+*Tybalt.* Czego ten czÅowiek chce ode mnie?
+
+*Merkucio.* Niczego, mÃ³j ty kocikrÃ³lu, chcÄ ci wziÄÄ tylko
+jedno Å¼ycie z pomiÄdzy dziewiÄciu, jakie masz, abym
+siÄ niem trochÄ popieÅciÅ; a za nowym spotkaniem
+uskubnÄÄ ci i tamte oÅm jedno po drugiem. Dalej!
+wyciÄgnij za uszy szpadÄ z powijaka, inaczej moja
+gwiÅºnie ci koÅo uszu, nim wyciÄgniesz swojÄ.
+
+*Tybalt.* SÅuÅ¼Ä WaÄpanu. _(Dobywa szpady)._
+
+*Romeo.* Merkucio, schowaj szpadÄ, jak miÄ kochasz.
+
+*Merkucio.* PokaÅ¼no swoje _passado_.
+
+    _(BijÄ siÄ)._
+
+*Romeo.* Benwolio,
+Rozdziel ich! WstydÅºcie siÄ, moÅci panowiel
+Wybaczcie sobie. Tybalcie! Merkucio!
+KsiÄÅ¼Ä wyraÅºnie zabroniÅ podobnych
+StarÄ na ulicach. Merkucio! Tybalcie!
+
+    _(Tybalt odchodzi ze swoimi)._
+
+*Merkucio.* ZraniÅ miÄ. Kaduk zabierz wasze domy!
+Nie wybrnÄ z tego. Czy odszedÅ ten hultaj
+I nie oberwaÅ nic?
+
+*Benwolio.*        JestÅ¼eÅ raniony?
+
+*Merkucio.* Tak, tak, draÅniÄtym trochÄ, ale rdzennie.
+Gdzie mÃ³j paÅº? ChÅopcze, biegnij po chirurga.
+
+    _(Wychodzi paÅº)._
+
+*Romeo.* Zbierz mÄstwo, rana nie musi byÄ wielka.
+
+*Merkucio.* Zapewne, nie tak gÅÄboka, jak studnia,
+Ani szeroka tak, jak drzwi koÅcielne,
+Ale wystarcza w sam raz, rÄczÄ za to.
+Znajdziesz miÄ jutro spokojnym, jak trusia.
+JuÅ¼ siÄ dla tego Åwiata na nic nie zdam.
+Bierz licho wasze domy! Å»eby taki
+Pies, szczur, kot na ÅmierÄ zadrapaÅ czÅowieka!
+Taki cap, taki warchoÅ, taki ciura,
+Co siÄ biÄ umie jak z arytmetyki!
+Po kiego czorta ci siÄ byÅo mieszaÄ
+MiÄdzy nas! ZraniÅ miÄ pod bokiem twoim.
+
+*Romeo.* ChciaÅem, BÃ³g widzi, jak najlepiej.
+
+*Merkucio.* Benwolio, pomÃ³Å¼ mi wejÅÄ gdzie do domu.
+SÅabnÄ. Bierz licho oba wasze domy!
+One miÄ daÅy na strawÄ robakom:
+BÄdÄ niÄ i to wnet. Kaduk was zabierz!
+
+    _(WychodzÄ Merkucio i Benwolio)._
+
+*Romeo.* Ten dzielny czÅowiek, bliski krewny ksiÄcia,
+I mÃ³j najlepszy przyjaciel, Åmiertelny
+PoniÃ³sÅ cios za mnie; mojÄ dobrÄ sÅawÄ
+Tybalt zniewaÅ¼yÅ; Tybalt, ktÃ³ry niema
+Godziny jeszcze, jak zostaÅ mym krewnym.
+O, Julio! wdziÄki twe miÄ zniewieÅciÅy
+I z hartu zwykÅej wyzuÅy miÄ siÅy.
+
+    _(Benwolio powraca)._
+
+*Benwolio.* Romeo, Romeo, Merkucio skonaÅ!
+MÄÅ¼ny duch jego uleciaÅ wysoko,
+GardzÄc przedwczeÅnie swÄ ziemskÄ powÅokÄ.
+
+*Romeo.* DzieÅ ten fatalny, wiÄcej takich wrÃ³Å¼y;
+Gdy siÄ raz zacznie zÅe, zwykle trwa dÅuÅ¼ej.
+
+    _(Tybalt powraca)._
+
+*Benwolio.* Oto szalony Tybalt wraca znowu.
+
+*Romeo.* On Å¼yw! zwyciÄzca! a Merkucio trupem!
+Precz pobÅaÅ¼liwa teraz ÅagodnoÅci!
+PÅomiennooka furyo, ty mnÄ kieruj!
+Tybalcie, odbierz nazad swoje _podÅy_;
+Zwracam ci, co mi daÅeÅ! Duch Merkucia
+Wznosi siÄ ponad naszemi gÅowami,
+DopominajÄc siÄ za swojÄ twojej.
+Ty lub ja, albo oba musim legnÄÄ.
+
+*Tybalt.* Nikczemny chÅystku, tyÅ mu tu byÅ druhem,
+BÄdÅºÅ¼e i owdzie.
+
+*Romeo.* To siÄ tym rozstrzygnie.
+
+    _(WalczÄ. Tybalt pada)._
+
+*Benwolio.* Romeo, uchodÅº, oddal siÄ, uciekaj!
+Rozruch siÄ wszczyna i Tybalt nie Å¼yje.
+Nie stÃ³j jak wryty; jeÅli ciÄ schwytajÄ,
+KsiÄÅ¼Ä ciÄ na ÅmierÄ skaÅ¼e; chroÅ siÄ zatem!
+
+*Romeo.* Jestem igraszkÄ losu!
+
+*Benwolio.* PrÄdzej! prÄdzej!
+
+    _(Romeo wychodzi)._
+
+    _(WchodzÄ obywatele i t. d.)._
+
+*Pierwszy obywatel.* Gdzie on? Gdzie uszedÅ zabÃ³jca Merkucia?
+ZabÃ³jca Tybalt w ktÃ³rÄ uszedÅ stronÄ?
+
+*Benwolio.* Tybalt tu leÅ¼y.
+
+*Pierwszy obywatel.* Za mnÄ, moÅci panie;
+W imieniu ksiÄcia kaÅ¼Ä-Ä byÄ posÅusznym.
+
+    _(WchodzÄ: ksiÄÅ¼Ä z orszakiem, Monteki i Kapulet z maÅÅ¼onkami
+    swymi i inne osoby).
+
+*KsiÄÅ¼Ä.* Gdzie sÄ nikczemni sprawcy tej rozterki?
+
+*Benwolio.* Dostojny ksiÄÅ¼Ä, ja mogÄ objaÅniÄ
+CaÅy bieg tego nieszczÄsnego starcia:
+Oto tu leÅ¼y, przez Romea zgÅadzon,
+ZabÃ³jca twego krewnego, Merkucia.
+
+*Pani Kapulet.* Tybalt! mÃ³j krewny! syn mojego brata!
+BoÅ¼e! tak marnie zgÅadzony ze Åwiata!
+O moÅci ksiÄÅ¼Ä, bÅagam twej opieki,
+Niech za krew naszÄ odda krew Monteki.
+
+*KsiÄÅ¼Ä.* Benwolio, powiedz, kto ten spÃ³r zapaliÅ?
+
+*Benwolio.* Tybalt, ktÃ³rego Romeo powaliÅ.
+Romeo darmo przekÅadaÅ, jak prÃ³Å¼nÄ
+ByÅa ta kÅÃ³tnia, przypominaÅ zakaz
+Waszej KsiÄÅ¼Äcej MoÅci, ale wszystkie
+Te przedstawienia, uczynione grzecznie,
+Spokojnym gÅosem, nawet w korny sposÃ³b,
+Nie mogÅy wpÅynÄÄ na zawziÄty umysÅ
+Tybalta. Zamiast skÅoniÄ siÄ do zgody,
+Zwraca morderczÄ stal w Merkucia piersi,
+KtÃ³ry, podobnieÅ¼ uniesiony, ostrze
+Odpiera ostrzem i, uszedÅszy Åmierci,
+Åle jÄ nawzajem Tybaltowi: ale
+Bez skutku, dziÄki zrÄcznoÅci tamtego.
+Romeo woÅa: _Â»Hola! przyjaciele!
+StÃ³jcie! odstÄpcie!Â«_ i ramieniem szybszem
+Od sÅÃ³w rozdziela skrzyÅ¼owane klingi,
+WpadajÄc miÄdzy nich; lecz w tejÅ¼e chwili
+Cios wymierzony z boku przez Tybalta
+PrzeciÄÅ Merkucia Å¼ycie. Tybalt zniknÄÅ;
+WkrÃ³tce atoli ukazaÅ siÄ znowu,
+Kiedy Romeo juÅ¼ byÅ zemstÄ zawrzaÅ.
+Starli siÄ w okamgnieniu, i nim szpadÄ
+WyjÄÄ zdoÅaÅem, by wstrzymaÄ tÄ zwadÄ,
+JuÅ¼ mÄÅ¼ny Tybalt polegÅ, wskroÅ przeszyty
+Z rÄki Romea, a Romeo uszedÅ.
+Tak siÄ rzecz miaÅa: jeÅ¼elim siÄ minÄÅ
+Z prawdÄ bodajem ciÄÅ¼kÄ ÅmierciÄ zginÄÅ.
+
+*Pani Kapulet.* On jest Montekich krewnym, przywiÄzanie
+Czyni go kÅamcÄ, nie wierz mu, o panie!
+Ich tu przynajmniej ze dwudziestu byÅo;
+Dwudziestu przeciw jednemu walczyÅo.
+SprawiedliwoÅci, panie! Kto ÅmierÄ zadaÅ,
+SÅuszna, by ÅmierciÄ za to odpowiadaÅ.
+
+*KsiÄÅ¼Ä.* Tybalt jÄ zadaÅ wprzÃ³d Merkuciuszowi,
+Romeo jemu; ktÃ³Å¼ sÅusznie odpowie?
+
+*Monteki.* Nie mÃ³j syn, panie; o, nie wyrzecz tego!
+On byÅ Merkucia najlepszym kolegÄ
+I przyjacielem; w tem jedynie zgrzeszyÅ,
+Å»e Tybaltowi nieprawnie przyÅpieszyÅ
+Rygoru prawa.
+
+*KsiÄÅ¼Ä.* I za ten-to bÅÄd
+Banitujemy go na zawsze stÄd.
+Z bliska miÄ wasze dotknÄÅy niesnaski,
+Skoro mÃ³j wÅasny dom cierpi z ich Åaski
+Ale ja takie znajdÄ Årodki na nie,
+Å»e wam spÃ³r kaÅ¼dy obmierzÅym siÄ stanie,
+Wszelkie wykrÄty na nic siÄ nie zdadzÄ:
+Ni Åzy, ni proÅby winnym nie poradzÄ,
+[Page 51]
+Uprzedzam! Niechaj Romeo ucieka,
+Bo gdy schwytany bÄdzie, ÅmierÄ go czeka.
+KaÅ¼cie stÄd zabraÄ te zwÅoki. ÅaskawoÅÄ
+ZbrodniÄ jest, kiedy oszczÄdza nieprawoÅÄ.
+
+    _(WychodzÄ)._
+
+
+SCENA II.
+
+    PokÃ³j w domu KapuletÃ³w.
+
+    (Julia sama).
+
+*Julia.* PÄdÅºcie, ognistokopyte rumaki.
+Ku paÅstwom Feba; oby nowy jaki
+Faeton dodaÅ wam bodÅºca i rÄczÃ©j
+PognaÅ was owdzie, gdzie siÄ szlak dnia koÅczy!
+Wierna kochankom nocy, spuÅÄ zasÅonÄ,
+By siÄ wznieÅÄ mogÅy oczy w dzieÅ spuszczone,
+I w te objÄcia niedostrzeÅ¼onego
+SprowadÅº, ach! sprowadÅº mi Romea mego!
+MiÅoÅci Åwieci pod twÄ czarnÄ krepÄ
+Jej wÅasna piÄknoÅÄ, a jeÅli jest ÅlepÄ,
+Tem stosowniejszy mrok dla niej. O nocy!
+Cicha matrono, w ciemnej twej karocy
+PrzybÄdÅº i naucz miÄ niemym wyrazem,
+Jak siÄ to traci i wygrywa razem
+WÅrÃ³d gry niewinnej dwojga serc dziewiczych;
+Skryj w pÅaszcza twego zwojach tajemniczych
+Krew, co mi do lic bije z gÅÄbi Åona;
+AÅ¼ nieÅwiadoma miÅoÅÄ oÅmielona
+Za skromnoÅÄ weÅºmie czyn swej ÅwiadomoÅci.
+PrzyjdÅº, ciemna nocy! PrzyjdÅº, mÃ³j dniu w ciemnoÅci!
+To twÃ³j blask, o mÃ³j luby, jaÅnieÄ bÄdzie
+Na skrzydÅach nocy, jak piÃ³ro ÅabÄdzie
+Na grzbiecie kruka. WstÄp, o, wstÄp w te progi!
+Daj mi Romea, a po jego zgonie
+Rozsyp go w gwiazdki! A niebo zapÅonie
+Tak, Å¼e siÄ caÅy Åwiat w tobie zakocha,
+I czci odmÃ³wi sÅoÅcu. Ach, jam sobie
+KupiÅa piÄkny przybytek miÅoÅci,
+A w posiadanie jego wejÅÄ nie mogÄ;
+NabytÄ jestem takÅ¼e, a nabywca
+Jeszcze miÄ nie ma! DzieÅ ten ml nieznoÅny,
+Jak noc, co ÅwiÄto jakowe poprzedza,
+Niecierpliwemu dziecku, ktÃ³re nowe
+DostaÅo szaty, a nie moÅ¼e zaraz
+W nie siÄ przystroiÄ. A! niania kochana
+
+    _(Wchodzi Marta z drabinkÄ sznurowÄ w rÄku)._
+
+Niesie mi wieÅci o nim, a kto tylko
+Wymawia imiÄ Romea, ten boski
+Ma dar wymowy. CÃ³Å¼ tam, moja nianiu?
+Co to masz? Czy to ta drabinka, ktÃ³rÄ
+Romeo przynieÅÄ kazaÅ?
+
+*Marta.* Tak, drabinka!
+
+    _(Rzuca jÄ)._
+
+*Julia.* Dlaboga! czego zaÅamujesz rÄce?
+
+*Marta.* Ach! on nie Å¼yje, nie Å¼yje! nie Å¼yje!
+Biada nam! biada nam! wszystko stracone!
+On zginÄÅ! on nie Å¼yje! on zabity!
+
+*Julia.* MoÅ¼eÅ¼ byÄ niebo tak okrutnem?
+
+*Marta.* Niebo
+Nie jest okrutnem, lecz Romeo; on to,
+On jest okrutnym. O Romeo! ktÃ³Å¼by
+SiÄ byÅ spodziewaÅ! Romeo! Romeo!
+
+*Julia.* CÃ³Å¼eÅ za szatan, Å¼e tak miÄ udrÄczasz?
+Taki gÅos w piekle-by tylko brzmieÄ winien.
+CzyliÅ¼ Romeo odjÄÅ sobie Å¼ycie?
+Powiedz: _tak!_ a te trzy litery gorszy
+Jad bÄdÄ miaÅy, niÅ¼ wzrok bazyliszka.
+JeÅ¼eli takie _tak_ istnieje, Julia
+IstnieÄ nie bÄdzie; zawrÄ siÄ na zawsze
+Te usta, ktÃ³re to _tak_ wywoÅaÅy.
+ZginÄÅli, powiedz: _tak_, jeÅ¼eli nie -- _nie_;
+W krÃ³tkich wyrazach zbaw albo mnie zabij.
+
+*Marta.* WidziaÅam ranÄ na me wÅasne oczy.
+BoÅ¼e, zmiÅuj siÄ nad nim, tu, tu oto,
+Tu w samym Årodku mÄÅ¼nej jego piersi.
+Straszny trup! straszny trup! blady, jak popiÃ³Å;
+CaÅy zbroczony, caÅy krwiÄ zbryzgany,
+ZgÄstÅÄ krwiÄ: aÅ¼em wzdrygnÄÅa siÄ, patrzÄc.
+
+*Julia.* O pÄknij, serce! pÄknij w tym przeskoku
+Z bogactw do nÄdzy! Do wiÄzienia, wzroku!
+JuÅ¼ ty nie zaznasz swobody uroku.
+Jak nas na ziemi zÅÄczyÅ jeden Ålub,
+Tak niech nas w ziemi zÅÄczy jeden grÃ³b!
+
+*Marta.* Tybalcie! mÃ³j najlepszy przyjacielu!
+Luby Tybalcie! dziarski, walny chÅopcze!
+CzemuÅ¼ mi, czemuÅ¼ przyszÅo przeÅ¼yÄ ciebie?
+
+*Julia.* CÃ³Å¼ to za wicher dmie z dwÃ³ch stron przeciwnych?
+Romeo zginÄÅ? i Tybalt zabity?
+OgÅoÅ wiÄc, straszna trÄbo, koniec Åwiata!
+Bo gdzieÅ¼ sÄ Å¼ywi, gdy ci dwaj nie Å¼yjÄ?
+
+*Marta.* Tybalt nie Å¼yje, Romeo wygnany.
+Romeo zabiÅ go, jest wiÄc wygnany.
+
+*Julia.* BoÅ¼e! Romeo przelaÅ krew Tybalta?
+
+*Marta.* On to, niestety, on, on to uczyniÅ.
+
+*Julia.* O serce Å¼mii pod kwiecistÄ maskÄ!
+KryÅÅ¼e siÄ kiedy smok w tak piÄknym lochu?
+Luby tyranie, anielski szatanie!
+Kruku w goÅÄbich pierzach! wilku w runie!
+Nikczemny wÄtku w niebiaÅskiej postaci!
+We wszystkim sprzeczny z tem, czem siÄ wydajesz:
+Szlachetny zbrodniu! potÄpieÅcze ÅwiÄty!
+O, cÃ³Å¼eÅ miaÅa do czynienia w piekle,
+Naturo, kiedyÅ taki duch szataÅski
+W raj tak piÄknego ciaÅa wprowadziÅa?
+ByÅaÅ¼ gdzie ksiÄÅ¼ka tak ohydnej treÅci
+W oprawie tak ozdobnej? TrzebaÅ¼, aby
+FaÅsz zamieszkiwaÅ tak przepyszny paÅac!
+
+*Marta.* Niema czci, niema wiary, niema prawdy,
+Niema sumienia w ludziach; sama zmiennoÅÄ,
+Sama przewrotnoÅÄ, chytroÅÄ i obÅuda.
+Pietrze! dajno mi trochÄ akwawity.
+Te smutki, te zgryzoty, te cierpienia
+RobiÄ miÄ starÄ. PrzeklÄty Romeo!
+HaÅba mu!
+
+*Julia.* Bodaj ci jÄzyk oniemiaÅ
+Za to przekleÅstwo! Romeo nie zrodzon
+Do haÅby; haÅba-by wstydem spÅonÄÅa
+Na jego czole, bo ono jest tronem,
+Na ktÃ³rym honor ÅmiaÅoby mÃ³gÅ zostaÄ
+Koronowanym na monarchÄ Åwiata.
+O, jakÅ¼e mogÅam mu zÅorzeczyÄ!
+
+*Marta.* ChceszÅ¼e
+ZbÃ³jcÄ krewnego twego uniewinniaÄ?
+
+*Julia.* MamÅ¼e potÄpiaÄ mojego maÅÅ¼onka?
+O biedny! ktÃ³Å¼by popieÅciÅ twe imiÄ,
+Gdybym ja, od trzech godzin twoja Å¼ona,
+MiaÅa je szarpaÄ? AleÅ¼, niegodziwy,
+Za co ty mego zabiÅeÅ krewnego!
+Za to, Å¼e krewny niegodziwy zabiÄ
+ChciaÅ mego mÄÅ¼a. Precz, precz, Åzy niewczesne!
+SpÅyÅcie do ÅºrÃ³dÅa, ktÃ³re was wydaÅo;
+DaÅ waszych kropel przypada Å¼alowi,
+A nie radoÅci, ktÃ³rej jÄ pÅacicie,
+MÃ³j mÄÅ¼, co Tybalt go chciaÅ zabiÄ, Å¼yje,
+A Tybalt, co chciaÅ zabiÄ mego mÄÅ¼a,
+ÅmierÄ poniÃ³sÅ; w tem pociecha. CzegÃ³Å¼ pÅaczÄ?
+Ha! doszÅo do mych uszu coÅ gorszego,
+NiÅ¼ ÅmierÄ Tybalta; co miÄ wskroÅ przeszyÅo.
+ChÄtniebym o tem zapomniaÅa, ale
+To coÅ wcisnÄÅo siÄ tak w mojÄ pamiÄÄ,
+Jak karygodny czyn w umysÅ grzesznika.
+_Tybalt nie Å¼yje -- Romeo wygnany!_
+To jedno sÅowo: Â»wygnanyÂ«, zabiÅo
+TysiÄc TybaltÃ³w. ÅmierÄ Tybalta byÅa
+Sama juÅ¼ przez siÄ dostatecznym ciosem;
+JeÅli zaÅ ciosy lubiÄ towarzystwo
+I gwaÅtem muszÄ mieÄ za sobÄ ÅwitÄ,
+DlaczegÃ³Å¼ w Ålad tych sÅÃ³w: _Tybalt nie Å¼yje!_
+Nie nastÄpiÅo: twÃ³j ojciec nie Å¼yje,
+Lub matka, albo i ojciec i matka?
+Å»al byÅby wtenczas nie tyle ogÃ³lny;
+Lecz gdy Tybalta ÅmierÄ ma za nastÄpstwo
+To przeraÅºliwe: _Romeo wygnany!_
+O, jednoczeÅnie z tym wykrzykiem Tybalt,
+Matka i ojciec, Romeo i Julia,
+Wszyscy nie Å¼yjÄ. Romeo wygnany!
+Z zbÃ³jczego tego wyrazu pÅynÄca
+ÅmierÄ nie ma granic, ni miary, ni koÅca,
+I Å¼aden jÄzyk nie odda boleÅci,
+JakÄ to straszne sÅowo w sobie mieÅci.
+Gdzie moja matka i ojciec?
+
+*Marta.* Przy zwÅokach
+Tybalta jÄczÄ i Åzy wylewajÄ.
+Chcesz tam panienka iÅÄ, to zaprowadzÄ.
+
+*Julia.* Nie mnie oblewaÄ Åzami jego rany:
+Moich przedmiotem Romeo wygnany.
+WeÅº tÄ drabinkÄ. Biedna ty plecionko!
+Ty zawÃ³d dzielisz z Romea maÅÅ¼onkÄ;
+Obie nas chybiÅ los oczekiwany,
+Bo on wygnany, Romeo wygnany!
+Ty pozostajesz puÅciznÄ jaÅowÄ,
+A ja w panieÅskim stanie jestem wdowÄ.
+PÃ³jdÅº, nianiu, prowadÅº miÄ w maÅÅ¼eÅskie ÅoÅ¼e,
+Nie mÄÅ¼, juÅ¼ tylko ÅmierÄ w nie wstÄpiÄ moÅ¼e.
+
+*Marta.* Czekajno, pÃ³jdÄ sprowadziÄ Romea,
+By ciÄ pocieszyÅ. Wiem, gdzie on jest teraz.
+Nie pÅacz: uÅ¼yjem jeszcze tych plecionek,
+I twÃ³j Romeo wnet przed tobÄ stanie.
+
+*Julia.* O, znajdÅº go! daj mu w zakÅad ten pierÅcionek
+I na ostatnie proÅ go poÅ¼egnanie.
+
+    _(WychodzÄ)._
+
+
+SCENA III.
+
+    Cela Ojca Laurentego.
+
+    _(Wchodzi O. Laurenty i Romeo)._
+
+*O. Laurenty* _(wchodzÄc)_. Romeo! PÃ³jdÅº tu, pognÄbiony czÅeku!
+Smutek zakochaÅ siÄ w umyÅle twoim,
+I poÅlubiony jesteÅ niefortunnie.
+
+*Romeo.* CÃ³Å¼ tam, cny ojcze? JakiÅ¼ wyrok ksiÄcia?
+I jakaÅ¼ dola nieznana ma zostaÄ
+MÄ towarzyszkÄ?
+
+*O. Laurenty.* Zbyt juÅ¼ oswojony
+Jest mÃ³j syn drogi z takim towarzystwem.
+PrzynoszÄ-Ä wieÅci o wyroku ksiÄcia.
+
+*Romeo.* JakiÅ¼by mÃ³gÅ byÄ Åaskawszy, prÃ³cz Åmierci?
+
+*O. Laurenty.* Z ust jego padÅo Åagodniejsze sÅowo:
+Wygnanie ciaÅa, nie ÅmierÄ ciaÅa, wyrzekÅ.
+
+*Romeo.* Wygnanie? ZmiÅuj siÄ, jeszcze ÅmierÄ dodaj!
+Wygnanie bowiem wyglÄda okropniej,
+NiÅ¼ ÅmierÄ. Zaklinam ciÄ, nie mÃ³w: wygnanie.
+
+*O. Laurenty.* Wygnany jesteÅ z obrÄbu Werony,
+Zbierz mÄstwo, Åwiat jest dÅugi i szeroki.
+
+*Romeo.* ZewnÄtrz Werony niema, niema Åwiata,
+Tylko tortury, czyÅciec, piekÅo samo!
+StÄd byÄ wygnanym, jest to byÄ wygnanym
+Ze Åwiata; byÄ zaÅ wygnanym ze Åwiata,
+Jest to ÅmierÄ ponieÅÄ; wygnanie jest zatem
+ÅmierciÄ barwionÄ. MieniÄc ÅmierÄ wygnaniem,
+ZÅotym toporem ucinasz mi gÅowÄ,
+Z uÅmiechem patrzÄc na ten cios Åmiertelny.
+
+*O. Laurenty.* O ciÄÅ¼ki grzechu! O, niewdziÄczne serce!
+BÅÄd twÃ³j pociÄga z prawa ÅmierÄ za sobÄ:
+KsiÄÅ¼Ä, ujmujÄc siÄ jednak za tobÄ,
+Prawo Å¼yczliwie usuwa na stronÄ,
+I groÅºny wyraz: ÅmierÄ, w wygnanie zmienia.
+Åaska to, i ty tego nie uznajesz?
+
+*Romeo.* Katusza to, nie Åaska. Niebo tu jest,
+Gdzie Julia Å¼yje; lada pies, kot, lada
+Mysz marna, lada nikczemne stworzenie
+Å»yje tu w niebie, moÅ¼e na niÄ patrzeÄ,
+Tylko Romeo nie moÅ¼e. MdÅa mucha
+WiÄcej ma mocy, wiÄcej czci i szczÄÅcia,
+NiÅºli Romeo; jej wolno dotykaÄ
+BiaÅego cudu, drogiej rÄki Julii,
+I nieÅmiertelne z ust jej kraÅÄ zbawienie;
+Z tych ust, co peÅne westalczej skromnoÅci
+Bez przerwy pÅonÄ i pocaÅowanie
+Grzechem byÄ sÄdzÄ; mucha ma tÄ wolnoÅÄ,
+Ale Romeo nie ma: on wygnany.
+I mÃ³wisz, Å¼e wygnanie nie jest ÅmierciÄ?
+Nie maszli Å¼adnej trucizny, Å¼adnego
+Ostrza, Å¼adnego Årodka nagÅej Åmierci,
+Aby miÄ zabiÄ, tylko ten fatalny
+Wyraz -- wygnanie? O ksiÄÅ¼e, zÅe duchy
+WyjÄ, gdy w piekle usÅyszÄ ten wyraz:
+I tyÅ¼ masz serce, ty, ÅwiÄty spowiednik,
+RozgrzeÅca grzechÃ³w i szczery przyjaciel,
+Pasy drzeÄ ze mnie tem sÅowem: wygnanie?
+
+*O. Laurenty.* Sentymentalny szaleÅcze, posÅuchaj!
+
+*Romeo.* Znowu mi bÄdziesz prawiÅ o wygnaniu.
+
+*O. Laurenty.* Dam ci broÅ przeciw temu wyrazowi;
+Balsamem w przeciwnoÅciach -- filozofia;
+W tej wiÄc otuchÄ czerp, bÄdÄc wygnanym.
+
+*Romeo.* Wygnanym jednak! -- o, precz z filozofiÄ!
+CzyÅ¼ filozofia zdoÅa stworzyÄ JuliÄ?
+PrzestawiÄ miasto? ZmieniÄ wyrok ksiÄcia?
+Nic z niej: bezsilna ona, nie mÃ³w o niej.
+
+*O. Laurenty.* Szaleni sÄ wiÄc gÅuchymi, jak widzÄ.
+
+*Romeo.* Jak majÄ nie byÄ, gdy mÄdrzy nie widzÄ.
+
+*O. Laurenty.* DajÅ¼e mi mÃ³wiÄ; przyjm sÅowa rozsÄdku.
+
+*Romeo.* Nie moÅ¼esz mÃ³wiÄ tam, gdzie nic nie czujesz.
+[Page 57]
+BÄdÅº jak ja mÅodym, posiÄdÅº miÅoÅÄ Julii,
+ZaÅlub jÄ tylko co, zabij Tybalta,
+BÄdÅº zakochanym jak ja i wygnanym
+A wtedy bÄdziesz mÃ³gÅ mÃ³wiÄ; o, wtedy
+BÄdziesz mÃ³gÅ sobie z rozpaczy rwaÄ wÅosy
+I rzucaÄ siÄ na ziemiÄ, jak ja teraz,
+Na grÃ³b zawczasu biorÄc sobie miarÄ.
+
+    _(Rzuca siÄ na ziemiÄ. SÅychaÄ koÅatanie)._
+
+*O. Laurenty.* Cicho, ktoÅ puka; ukryj siÄ, Romeo.
+
+*Romeo.* Nie; chyba para powstaÅa z mych jÄkÃ³w,
+Jak mgÅa, ukryje miÄ przed ludzkim wzrokiem.
+
+    _(KoÅatanie)._
+
+*O. Laurenty.* SÅyszysz? pukajÄ znowu. Kto tam? PowstaÅ,
+PowstaÅ, Romeo! Chcesz byÄ wziÄtym? PowstaÅ;
+
+    _(KoÅatanie)._
+
+WnijdÅº do pracowni mojej. Zaraz, zaraz.
+CÃ³Å¼ to za upÃ³r!
+
+    _(KoÅatanie)._
+
+                  IdÄ, idÄ, ktÃ³Å¼ to
+Tak na gwaÅt puka? SkÄd wy? Czego chcecie?
+
+*Marta* _(zewnÄtrz)._ WpuÅÄcie miÄ, wnet siÄ o wszystkim dowiecie.
+Julia przysyÅa miÄ.
+
+*O. Laurenty.* WitajÅ¼e, witaj.
+
+    _(Wchodzi Marta)._
+
+*Marta.* O! ÅwiÄtobliwy ojcze, powiedz, proszÄ,
+Gdzie jest mÄÅ¼ mojej pani, gdzie Romeo?
+
+*O. Laurenty.* Tu, na podÅodze, Åzami upojony.
+
+*Marta.* Ach, on jest wÅaÅnie w stanie mojej pani,
+WÅaÅnie w jej stanie.
+
+*O. Laurenty.*        NieszczÄsna sympatio!
+Smutne zbliÅ¼enie!
+
+*Marta.*          I ona tak leÅ¼y
+PÅaczÄc i ÅkajÄc, szlochajÄc i pÅaczÄc.
+PowstaÅ pan, powstaÅ, jeÅli jesteÅ mÄÅ¼em!
+O, powstaÅ, podnieÅ siÄ, przez wzglÄd na JuliÄ!
+Dlaczego daÄ siÄ przygnÄbiaÄ tak srodze?
+
+*Romeo.* Marto!
+
+*Marta.* Ach, panie! Wszystko na tym Åwiecie
+KoÅczy siÄ ÅmierciÄ.
+
+*Romeo.*             MÃ³wiÅaÅ o Julii?
+CÃ³Å¼ siÄ z niÄ dzieje? O, pewnie miÄ ona
+Ma za mordercÄ zakamieniaÅego,
+Kiedym mÃ³gÅ naszych rozkoszy dzieciÅstwo
+SplamiÄ krwiÄ, jeszcze tak bliskÄ jej wÅasnej,
+Gdzie ona? Jak siÄ miewa i co mÃ³wi
+Na zawÃ³d w ÅwieÅ¼o bÅysÅym nam zawodzie?
+
+*Marta.* Nic, tylko szlocha i szlocha i szlocha;
+To siÄ na ÅÃ³Å¼ko rzuca, to powstaje,
+To woÅa: Tybalt!, to krzyczy: Romeo!
+I znowu pada.
+
+*Romeo.*      Jak gdyby to imiÄ,
+Z Åmiertelnej paszczy dziaÅa wystrzelone,
+MiaÅo jÄ zabiÄ, tak jak jej krewnego
+ZabiÅa rÄka tego, co je nosi.
+O! powiedz, powiedz mi, ojcze, przez litoÅÄ,
+W ktÃ³rym zakÄtku tej nÄdznej budowy
+Mieszka me imiÄ; powiedz, abym zburzyÅ
+To nienawistne siedlisko.
+
+    _(Dobywa miecza)._
+
+*O. Laurenty.* StÃ³j! Wstrzymaj
+DÅoÅ rozpaczliwÄ! Czy jesteÅ ty mÄÅ¼em?
+PostaÄ wskazuje twoja, Å¼e nim jesteÅ;
+Åzy twe niewieÅcie, dzikie twoje czyny
+CechujÄ wÅciekÅoÅÄ bezrozumnÄ zwierza.
+W pozornym mÄÅ¼u ukryta niewiasto!
+Zwierzu, przybrany w pozÃ³r tego dwojga!
+Ty mnie w zdumienie wprawiasz. Jakem kapÅan!
+MyÅlaÅem, Å¼e masz wiÄcej hartu w sobie.
+TybaltaÅ zabiÅ, chcesz zabiÄ sam siebie.
+I przez haniebny ten na siebie zamach
+ZabiÄ chcesz takÅ¼e tÄ, co Å¼yje tobÄ?
+Przecz tak uwÅaczasz swemu urodzeniu,
+Niebu i ziemi, skoro urodzenie,
+Niebo i ziemia ci siÄ ÅmiejÄ? WstydÅº siÄ!
+Krzywdzisz swÄ postaÄ, swÄ miÅoÅÄ, swÃ³j rozum,
+BoÅ ty jak lichwiarz bogaty w to wszystko,
+Ale niczego tego nie uÅ¼ywasz
+W sposÃ³b mogÄcy te dary ozdobiÄ.
+KsztaÅtna twa postaÄ jest figurÄ z wosku,
+Skoro nie z mÄskÄ cnotÄ idzie w parze;
+MiÅoÅÄ twa w gruncie czczem krzywoprzysiÄstwem,
+Skoro chcesz zabiÄ tÄ, ktÃ³rejÅ jÄ ÅlubiÅ.
+TwÃ³j rozum, chluba ksztaÅtÃ³w i miÅoÅci,
+NiezrÄczny w korzystaniu z tego dwojga,
+Jest jak proch w flaszce pÅochego Å¼oÅnierza,
+Co siÄ zapala z wÅasnej jego winy
+I razi tego, ktÃ³rego miaÅ broniÄ.
+OtrzÄÅ siÄ, czÅeku! Julia twoja Å¼yje;
+Julia, dla ktÃ³rej umrzeÄ byÅeÅ gotÃ³w;
+W temeÅ szczÄÅliwy. Tybalt chciaÅ ciÄ zabiÄ,
+TyÅ jego zabiÅ; w tem szczÄÅliwyÅ takÅ¼e.
+Prawo, groÅ¼Äce ci ÅmierciÄ, zamienia
+ÅmierÄ na wygnanie, i w temeÅ szczÄÅliwy.
+Stosy na gÅowie bÅogosÅawieÅstw dÅºwigasz,
+SzczÄÅcie najwabniej wdziÄczy siÄ do ciebie,
+A ty, jak dziewka zepsuta, kapryÅna,
+Fochasz siÄ na tÄ szczodrotÄ fortuny.
+StrzeÅ¼ siÄ, bo tacy marnie umierajÄ.
+TerazÅ¼e idÅº do Å¼ony, jak to byÅo
+WprzÃ³d umÃ³wione, i pociesz niebogÄ.
+Pomnij wyjÅÄ jednak przed wart rozstawieniem;
+Bo pÃ³Åºniej przejÅÄ-byÅ nie mÃ³gÅ do Mantui,
+Gdzie masz przebywaÄ tak dÅugo, aÅ¼ znajdziem
+Czas do odkrycia waszego maÅÅ¼eÅstwa,
+Do pojednania waszych nieprzyjaciÃ³Å,
+Do przebÅagania ksiÄcia, naostatek
+Do sprowadzenia ciÄ nazad, z radoÅciÄ
+DziesiÄÄkroÄ sto tysiÄcy razy wiÄkszÄ,
+NiÅ¼ teraÅºniejszy twÃ³j smutek. WaÄpani
+IdÅº naprzÃ³d; pozdrÃ³w ode mnie swÄ paniÄ;
+I kaÅ¼ jej nagliÄ wszystkich do spoczynku,
+Ku czemu Å¼al ich uÅatwi namowÄ,
+Romeo przyjdzie niebawem.
+
+*Marta.*                  O panie!
+MogÅabym caÅÄ noc staÄ tu i sÅuchaÄ,
+Co teÅ¼ to moÅ¼e nauczonoÅÄ! BiegnÄ
+UprzedziÄ mojÄ paniÄ, Å¼e pan przyjdziesz.
+
+*Romeo.* IdÅº, proÅ jÄ, niech siÄ gotuje miÄ zgromiÄ.
+
+*Marta.* Oto pierÅcionek, ktÃ³ry mi kazaÅa
+DorÄczyÄ panu. Spiesz siÄ pan, juÅ¼ pÃ³Åºno.
+
+    _(Wychodzi Marta)._
+
+*Romeo.* O, jakÅ¼e mi ten dar dodaÅ otuchy!
+
+*O. Laurenty.* IdÅº juÅ¼; dobranoc! a pamiÄtaj
+WyjÅÄ jeszcze dzisiaj, nim zaciÄgnÄ warty,
+Albo w przebraniu wyjÅÄ jutro o Åwicie.
+OsiÄdÅº w Mantui. Jeden z naszych braci
+NosiÄ ci bÄdzie od czasu do czasu
+Zawiadomienie o kaÅ¼dym wypadku,
+Jaki na twojÄ korzyÅÄ tu siÄ zdarzy.
+Daj rÄkÄ; pÃ³Åºno juÅ¼, bÄdÅº zdrÃ³w, dobranoc.
+
+*Romeo.* Gdyby nie radoÅÄ, co miÄ czeka, wczesny
+Ten rozdziaÅ z tobÄ byÅby zbyt bolesny.
+Å»egnam ciÄ, ojcze.
+
+    _(WychodzÄ)._
+
+
+SCENA IV.
+
+    PokÃ³j w domu KapuletÃ³w.
+
+    _(WchodzÄ: Kapulet, pani Kapulet i Parys)._
+
+*Kapulet.* Tak smutny, panie, dotknÄÅ nas wypadek,
+Å»eÅmy nie mieli czasu mÃ³wiÄ z JuliÄ.
+Krewny nasz, Tybalt, byÅ jej nader drogim,
+Nam takÅ¼e, ale rodzim siÄ, by umrzeÄ.
+DziÅ ona juÅ¼ nie zejdzie, bo juÅ¼ pÃ³Åºno.
+Gdyby nie twoje, hrabio, odwiedziny,
+Ja sam-bym w ÅÃ³Å¼ku byÅ juÅ¼ od godziny.
+
+*Parys.* Pora Å¼aÅoby nie sprzyja zalotom;
+Dobranoc, pani, poleÄ mnie swej cÃ³rce.
+
+*Pani Kapulet.* NajchÄtniej, zaraz jutro jÄ wybadam;
+Na dziÅ zamknÄÅa siÄ, by Å¼al swÃ³j spÅakaÄ.
+
+*Kapulet.* Hrabio, za miÅoÅÄ naszego dzieciÄcia
+MogÄ ci rÄczyÄ; mniemam, Å¼e siÄ skÅoni
+Do mych przeÅoÅ¼eÅ, co wiÄcej, nie wÄtpiÄ.
+PÃ³jdÅº do niej, Å¼ono, nim siÄ spaÄ poÅoÅ¼ysz;
+Oznajm jej cnego Parysa zamiary
+I powiedzÅ¼e jej, uwaÅ¼asz, iÅ¼ w ÅrodÄ...
+Zaczekaj, cÃ³Å¼ to dzisiaj?
+
+*Parys.*                   PoniedziaÅek.
+
+*Kapulet.* A! poniedziaÅek! ZawczeÅnie we ÅrodÄ;
+OdÅÃ³Å¼my to na czwartek; w ten wiÄc czwartek
+Zostanie Å¼onÄ szlachetnego hrabi.
+BÄdzieszli gotÃ³w? Czy ci to dogadza?
+Cicho siÄ sprawim; jeden, dwÃ³ch przyjaciÃ³Å...
+GdybyÅmy bowiem po tak ÅwieÅ¼ej stracie
+Bardzo hulali, ludzie, widzisz, hrabio,
+Mogliby myÅleÄ, Å¼e za lekko bierzem
+Zgon tak bliskiego krewnego; dlatego
+Wezwiem przyjaciÃ³Å z jakie pÃ³Å tuzina,
+I na tem koniec. CÃ³Å¼ mÃ³wisz na czwartek?
+
+*Parys.* Radbym, o panie, Å¼eby juÅ¼ byÅ jutro.
+
+*Kapulet.* To dobrze. BÄdÅº nam zdrÃ³w. A wiÄc we czwartek.
+WstÄpÅ¼e do Julii, Å¼ono, nim spaÄ pÃ³jdziesz;
+Przygotuj jÄ do Ålubu. BÄdÅº zdrÃ³w, hrabio.
+ÅwiatÅa! hej! ÅwiatÅa do mego pokoju!
+Tak juÅ¼ jest pÃ³Åºno, Å¼ebyÅmy nieledwie
+Mogli powiedzieÄ: tak rano. Dobranoc.
+
+    _(WychodzÄ)._
+
+
+SCENA V.
+
+    PokÃ³j Julii.
+
+    _(Wchodzi Romeo i Julia)._
+
+*Julia.* Chcesz juÅ¼ iÅÄ? Jeszcze ranek nie tak bliski,
+SÅowik to, a nie skowronek siÄ zrywa
+I Åpiewem przeszyÅ trwoÅ¼ne ucho twoje.
+Co noc on Åpiewa owdzie na gaÅÄzce
+Granatu: wierzaj mi, Å¼e to byÅ sÅowik.
+
+*Romeo.* Skowronek to, Ã³w czujny herold ranku,
+Nie sÅowik; widzisz te zazdrosne smugi,
+Co tam na wschodzie zÅocÄ chmur krawÄdzie?
+Pochodnie nocy juÅ¼ siÄ wypaliÅy
+I dzieÅ siÄ wspina raÅºnie na gÃ³r szczyty.
+ChcÄc Å¼yÄ, iÅÄ muszÄ, lub zostajÄc -- umrzeÄ.
+
+*Julia.* Owo ÅwiateÅko nie jest Åwitem; jest to
+JakiÅ meteor od sÅoÅca wysÅany,
+Aby ci sÅuÅ¼yÅ w noc za przewodnika
+I do Mantui rozjaÅniaÅ ci drogÄ;
+ZostaÅ wiÄc, nie masz potrzeby siÄ spieszyÄ.
+
+*Romeo.* Niech miÄ schwytajÄ, na ÅmierÄ zaprowadzÄ,
+Rad temu bÄdÄ, bo Julia chce tego.
+Nie, ten brzask nie jest zapowiedziÄ ranku,
+To tylko blady odblask lica Luny;
+To nie skowronek, co owdzie piosenkÄ
+BijÄc w niebiosa, wznosi siÄ nad nami.
+WiÄcej miÄ wzglÄdÃ³w skÅania tu pozostaÄ,
+NiÅ¼ nagle odejÅÄ. O, Åmierci, przybywaj!
+ChÄtnie ciÄ przyjmÄ, bo Julia chce tego.
+CÃ³Å¼, luba? prawda, Å¼e jeszcze nie dnieje?
+
+*Julia.* O, dnieje, dnieje! IdÅº, spiesz siÄ, uciekaj!
+GÅos to skowronka brzmi tak przeraÅºliwie
+I niestrojnymi, ostrymi dÅºwiÄkami
+Razi me ucho. MÃ³wiÄ, Å¼e skowronek
+MiÅo wywodzi; z tym siÄ ma przeciwnie,
+Bo on wywodzi nas z objÄÄ wzajemnych.
+Skowronek, mÃ³wiÄ, z obrzydÅÄ ropuchÄ
+ZamieniÅ oczy, o, radabym teraz,
+Å»eby byÅ takÅ¼e i gÅos z niÄ zamieniÅ,
+Bo ten gÅos, w smutnej rozstania potrzebie,
+DzieÅ przywoÅujÄc, wywoÅuje ciebie.
+IdÅº juÅ¼, idÅº: ciemnoÅÄ coraz to siÄ zmniejsza.
+
+*Romeo.* A dola nasza coraz to ciemniejsza!
+
+    _(Wchodzi Marta)._
+
+*Marta.* Pst! pst!
+
+*Julia.*            Co?
+
+*Marta.*                 Starsza pani tu nadchodzi.
+DzieÅ Åwita. BacznoÅÄ, bo siÄ narazicie!
+
+    _(Wychodzi)._
+
+*Julia.* O, okno, wpuÅÄÅ¼e dzieÅ, a wypuÅÄ Å¼ycie!
+
+*Romeo* _(wychodzÄc przez okno)._
+BÄdÅº zdrowa! Jeszcze jeden uÅcisk krÃ³tki.
+
+*Julia.* JuÅ¼ idziesz; o mÃ³j drogi! mÃ³j milutki!
+MuszÄ mieÄ co dzieÅ wiadomoÅÄ o tobie;
+A kaÅ¼da chwila rÃ³wnÄ bÄdzie dobie.
+ZgrzybiejÄ liczÄc podÅug tej rachuby,
+Nim ciÄ zobaczÄ znowu, o mÃ³j luby.
+
+*Romeo.* IlekroÄ bÄdÄ mÃ³gÅ, tylekroÄ twojÄ
+DrogÄ troskliwoÅÄ pewnie zaspokojÄ.
+
+    _(Znika za oknem)._
+
+*Julia.* Jak myÅlisz, czy siÄ znÃ³w ujrzymy kiedy?
+
+*Romeo.* Nie wÄtpiÄ o tem, najmilsza, a wtedy
+Wszystkie cierpienia nasze kwiatem tkanÄ
+KanwÄ do sÅodkich rozmÃ³w nam siÄ stanÄ.
+
+*Julia.* BoÅ¼e! przeczuwam jakÄÅ ciÄÅ¼kÄ dolÄ;
+Wydajesz mi siÄ teraz tam na dole,
+Jak trup, z ktÃ³rego znikÅy Å¼ycia Ålady.
+Czy miÄ wzrok myli? JakiÅ¼eÅ ty blady!
+
+*Romeo.* I twoja takÅ¼e twarz jak pogrobowa.
+Smutek nas trawi. BÄdÅº zdrowa! bÄdÅº zdrowa!
+
+*Julia* _(odstÄpujÄc od okna)._ O losie! ludzie mieniÄ ciÄ niestaÅym;
+ToÅ¼ wiÄc przez zawiÅÄ tylko przeÅladujesz
+Tych, co kochajÄ stale? BÄdÅº niestaÅy,
+Bo wtedy bÄdÄ mogÅa mieÄ nadziejÄ,
+Ze go niedÅugo bÄdziesz zatrzymywaÅ
+I wrÃ³cisz nazad.
+
+*Pani Kapulet* _(za scenÄ)._ Julio! czyÅ juÅ¼ wstaÅa?
+
+*Julia.* KtÃ³Å¼ to miÄ woÅa? GÅos-Å¼e to mej matki?
+Nie spaÅaÅ¼ ona, czy wstaÅa tak rano?
+JakiÅ¼ niezwykÅy powÃ³d jÄ sprowadza?
+
+    _(Wchodzi pani Kapulet)._
+
+*Pani Kapulet.* Jak siÄ masz, Julciu?
+
+*Julia.* Niedobrze mi, matko!
+
+*Pani Kapulet.* WciÄÅ¼ jeszcze pÅaczesz nad stratÄ Tybalta?
+ChceszÅ¼e go Åzami dobyÄ z grobu? ChoÄbyÅ
+DopiÄÅa tego, wskrzesiÄ go nie zdoÅasz.
+PrzestaÅ wiÄc: pewien Å¼al moÅ¼e dowodziÄ
+Wielkiej miÅoÅci, ale wielkoÅÄ Å¼alu
+Dowodzi pewnej pÅytkoÅci pojÄcia.
+
+*Julia.* Trudno na takÄ stratÄ nie byÄ czuÅÄ.
+
+*Pani Kapulet.* Tak, ale pÅaczÄc, czujesz tylko stratÄ,
+Nie tego, po kim pÅaczesz, moje dziecko.
+
+*Julia.* Tak czujÄc stratÄ, mogÄ tylko pÅakaÄ.
+
+*Pani Kapulet.* Przyznaj siÄ jednak, Å¼e nie tyle pÅaczesz
+Nad jego ÅmierciÄ, jako raczej nad tem,
+Å»e jeszcze Å¼yje ten Åotr, co go zabiÅ.
+
+*Julia.* Jaki Åotr, pani?
+
+*Pani Kapulet.* Tenci Åotr, Romeo.
+
+*Julia.* On i Åotr Å¼yjÄ daleko od siebie.
+Przebacz mu, BoÅ¼e, tak jak ja przebaczam.
+A przecieÅ¼ niema na Åwiecie czÅowieka,
+KtÃ³ryby bardziej ciÄÅ¼yÅ mi na sercu.
+
+*Pani Kapulet.* Å»e mimo swoich niecnÃ³t jeszcze Å¼yje.
+
+*Julia.* Å»e go nie mogÄ dosiÄc tym ramieniem,
+Radabym sama mÃ³dz siÄ na nim zemÅciÄ.
+
+*Pani Kapulet.* Dozna on zemsty; nie troszcz siÄ i nie pÅacz,
+ZlecÄ ja pewnej osobie w Mantui,
+Gdzie ten wygnany renegat siÄ schroniÅ,
+DaÄ mu traktament tak zniewalajÄcy,
+Å»e wnet poÅpieszy za Tybaltem. Wtedy
+BÄdziesz, spodziewam siÄ, zaspokojonÄ.
+
+*Julia.* Nie zaspokoi miÄ Romeo nigdy,
+DopÃ³ki tylko Å¼yÄ bÄdzie; tak silnie
+BoleÅÄ po krewnym rozjÄtrza mi serce.
+O, pani, jeÅli tylko znajdziesz kogo,
+Co siÄ podejmie podaÄ mu truciznÄ,
+Ja jÄ przyrzÄdzÄ, by po jej wypiciu
+Romeo zasnÄÄ mÃ³gÅ jak najspokojniej.
+JakÅ¼e miÄ korci sÅyszeÄ jego imiÄ,
+I nie mÃ³dz zaraz dostaÄ siÄ do niego,
+By przywiÄzaniu memu do Tybalta
+DaÄ odwet na tym, co go zamordowaÅ.
+
+*Pani Kapulet.* ZnajdÅº ty sposoby, ja znajdÄ czÅowieka.
+TerazÅ¼e mam ci udzieliÄ, dziewczyno,
+WesoÅych nowin.
+
+*Julia.*        WesoÅe nowiny
+PoÅ¼Ädanymi sÄ w tak smutnych czasach.
+JakaÅ¼ tych nowin treÅÄ, kochana matko?
+
+*Pani Kapulet.* Masz troskliwego ojca, moje dzieciÄ;
+On to, aÅ¼eby smutek twÃ³j rozproszyÄ,
+UmyÅliÅ i wyznaczyÅ dzieÅ na radoÅÄ,
+Tak dla ciÄ jak i dla mnie niespodzianÄ.
+
+*Julia.* CÃ³Å¼ to za radoÅÄ, matko? mogÄÅ¼ wiedzieÄ?
+
+*Pani Kapulet.* Ta a nie inna, Å¼e w ten czwartek z rana
+PiÄkny, szlachetny, mÅody hrabia Parys
+Ma ciÄ uczyniÄ szczÄÅliwÄ maÅÅ¼onkÄ
+W ÅwiÄtego Piotra koÅciele.
+
+*Julia.*                    Na koÅciÃ³Å
+ÅwiÄtego Piotra i Piotra samego!
+Nigdy on, nigdy tego nie uczyni!
+Å»dumiewa miÄ ten poÅpiech. Mam iÅÄ za mÄÅ¼,
+Nim ten, co moim ma byÄ mÄÅ¼em, zaczÄÅ
+StaraÄ siÄ o mnie, nim mi siÄ daÅ poznaÄ?
+ProszÄ ciÄ, matko, powiedz memu ojcu,
+Å»e jeszcze nie chcÄ iÅÄ za mÄÅ¼, a gdybym
+Koniecznie miaÅa iÅÄ, to bym wolaÅa
+PÃ³jÅÄ za Romea, ktÃ³ry, jak wiesz dobrze,
+Jest mi z caÅego serca nienawistny,
+NiÅ¼ za Parysa. Ha! to mi nowina!
+
+    _(Wchodzi Kapulet i Marta)._
+
+*Pani Kapulet.* Oto twÃ³j ojciec; powiedz mu to sama:
+Zobaczym, jak on przyjmie twÄ odpowiedÅº.
+
+*Kapulet.* Kiedy dzieÅ kona, niebo spuszcza rosÄ;
+Ale po skonie naszego krewnego
+Pada ulewny deszcz. CÃ³Å¼ to, dziewczyno?
+Czy jesteÅ cebrem? CiÄgle jeszcze we Åzach?
+CiÄgÅe wezbranie? W maÅej swej istotce
+Przedstawiasz obraz Åodzi, morza, wiatru:
+Bo twoje oczy, jakby morze, ciÄgle
+FalujÄ Åzami; biedne twoje ciaÅo
+Jak ÅÃ³dÅº Å¼egluje po tych sÅonych falach.
+Wiatrem nakoniec sÄ westchnienia twoje,
+KtÃ³re, ze Åzami walczÄc, a Åzy z niemi,
+JeÅ¼eli nagÅa nie nastÄpi cisza,
+StrzaskajÄ twojÄ ÅÃ³dkÄ. I cÃ³Å¼, Å¼ono?
+CzyÅ jej zamiary nasze objawiÅa?
+
+*Pani Kapulet.* Tak; ale nie chce i dziÄkuje za nie.
+Bodajby byÅa z grobem zaÅlubiona!
+
+*Kapulet.* Co? Jak to? Nie chce? Nie chce? Nie chce, mÃ³wisz?
+Nie jest nam wdziÄcznÄ? Nie pyszni siÄ z tego?
+Nie poczytuje sobie za szczyt szczÄÅcia,
+Niegodna, Å¼eÅmy jej najgodniejszego
+Z weroÅskich chÅopcÃ³w wybrali za mÄÅ¼a?
+
+*Julia.* Nie pysznam z tego, alem wdziÄczna za to.
+PysznÄ, zaiste, nie mogÄ byÄ z tego,
+Co nienawidzÄ; lecz wdziÄczna byÄ winnam
+I za nienawiÅÄ w postaci miÅoÅci.
+
+*Kapulet.* CÃ³Å¼ to znÃ³w? cÃ³Å¼ to? Logika w spÃ³dnicy!
+Pysznam i wdziÄcznam, i zasiÄ niewdziÄcznam,
+Jednak nie pysznam! SÅuchaj, ÅwidrzygÅÃ³wko!
+Nie dziÄkuj wdziÄcznie, ni siÄ pyszÅ z niepyszna,
+Lecz zbierz swe sprytne klepki na ten czwartek,
+By pÃ³jÅÄ z Parysem do ÅwiÄtego Piotra;
+Albo ciÄ kaÅ¼Ä zawlec tam na smyczy.
+Rozumiesz? Ty biaÅaczko! ty szuswale;
+Lalko Åojowa!
+
+*Pani Kapulet.* WstydÅº siÄ! czyÅ oszalaÅ?
+
+*Julia.* BÅagam ciÄ, ojcze, na klÄczkach ciÄ bÅagam,
+PozwÃ³l powiedzieÄ sobie tylko sÅowo.
+
+*Kapulet.* Precz, wszetecznico! dziewko nieposÅuszna!
+Ja ci powiadam: gotuj siÄ w ten czwartek
+IÅÄ do koÅcioÅa, lub nigdy, przenigdy
+Na oczy mi siÄ wiÄcej nie pokazuj.
+Nic nie mÃ³w, ani piÅnij, ani trunij:
+Palce miÄ ÅwierzbiÄ. MyÅleliÅmy, Å¼ono,
+Å»e nas za skÄpo BÃ³g pobÅogosÅawiÅ,
+DajÄc nam jedno dziecko; teraz widzÄ,
+Å»e i to jedno jest jednem za wiele,
+I Å¼e w niej mamy bicz BoÅ¼y. Precz, plucho!
+Cyganko jakaÅ!
+
+*Marta.* BÅogosÅaw jej, BoÅ¼e!
+JegomoÅÄ grzeszy, tak fukajÄc na niÄ.
+
+*Kapulet.* Doprawdy! Czy tak sÄdzi wasza mÄdroÅÄ?
+IdÅº waÅÄ pytlowaÄ gÄbÄ z kumoszkami.
+
+*Marta.* Nie mÃ³wiÄÄ bluÅºnierstw.
+
+*Kapulet.*                       Terefere kuku!
+
+*Marta.* CzyÅ¼ mÃ³wiÄ zbrodnia?
+
+*Kapulet.*                    Milcz, stara trajkotko!
+Schowaj swÃ³j rozum na babskie sejmiki:
+Tu niepotrzebny.
+
+*Pani Kapulet.* Za gorÄcy jesteÅ.
+
+*Kapulet.* Na miÅoÅÄ boskÄ, to trzeba oszaleÄ!
+W dzieÅ, w noc, wieczorem, rano, w domu, w mieÅcie,
+Sam, w towarzystwie, we Ånie i na jawie
+CiÄgle i ciÄgle rozmyÅlaÅem tylko
+O jej zamÄÅciu; i teraz, gdym znalazÅ
+DlaÅ oblubieÅca ksiÄÅ¼Äcego rodu,
+Pana rozlegÅych majÄtkÃ³w, mÅodego,
+UksztaÅconego, uposaÅ¼onego
+DokolusieÅka, jak mÃ³wiÄ, w przymioty,
+Jakich siÄ moÅ¼na od mÄÅ¼czyzny Å¼ÄdaÄ;
+Trzeba, aÅ¼eby mi jedna smarkata,
+Mazgajowata gÄÅ odpowiadaÅa:
+_Nie chcÄ iÅÄ za mÄÅ¼, nie mogÄ pokochaÄ,
+Jestem za mÅoda, wybaczcie mi, proszÄ._
+Nie chcesz iÅÄ za mÄÅ¼? a to nie idÅº, zgoda;
+Ale mi nie wÅaÅº w oczy; Å¼eruj sobie,
+Gdzie tylko zechcesz, byle nie w mym domu.
+ZwaÅ¼ to, pamiÄtaj; nie zwykÅem Å¼artowaÄ.
+Czwartek za pasem; przyÅÃ³Å¼ dÅoÅ do serca;
+NamyÅl siÄ dobrze; bÄdzieszli powolna,
+Znajdziesz dobrego we mnie przyjaciela;
+A nie, to marniej, Å¼ebrz, jÄcz, mrzyj pod pÅotem;
+Bo, jak BÃ³g w niebie, nigdy ciÄ nie uznam
+Za moje dziecko i z mojego mienia
+Nawet ÅºdÅºbÅo nigdy ci siÄ nie oberwie.
+Com rzekÅ, dotrzymam. Wiesz, Å¼e jestem sÅowny.
+
+    _(Wychodzi)._
+
+*Julia.* Nie masz litoÅci w niebie, ktÃ³re widzi
+CaÅÄ gÅÄbokoÅÄ mojego cierpienia?
+Ty miÄ przynajmniej nie odpychaj, matko!
+Zwlecz to maÅÅ¼eÅstwo na miesiÄc, na tydzieÅ,
+Albo mi poÅciel oblubieÅcze ÅoÅ¼e
+W tymÅ¼e grobowcu, w ktÃ³rym Tybalt leÅ¼y.
+
+*Pani Kapulet.* Nie mÃ³w nic do mnie, nic ci nie odpowiem;
+RÃ³b, co chcesz, wszystko mi to obojÄtne.
+
+    _(Wychodzi)._
+
+*Julia.* O, BoÅ¼e! O ty, moja karmicielko!
+PoradÅº mi, powiedz, jak temu zaradziÄ?
+MÃ³j mÄÅ¼ na ziemi, moja wiara w niebie;
+JakÅ¼eÅ¼ ta wiara ma na ziemiÄ wrÃ³ciÄ,
+Nim mÃ³j mÄÅ¼ sam mi jÄ powrÃ³ci z nieba
+Po opuszczeniu ziemi? Daj mi radÄ.
+Niestety! Å»e teÅ¼ nieba mogÄ nÄkaÄ
+Tak mdÅÄ istotÄ jak ja! Nic nie mÃ³wisz?
+Nie maszÅ¼e Å¼adnej pociechy, Å¼adnego
+Na to lekarstwa?
+
+*Marta.*         Mam-ci, a to takie:
+Romeo na wygnaniu, i o wszystko
+MoÅ¼na iÅÄ w zakÅad, Å¼e ciÄ juÅ¼ nie przyjdzie
+NagabaÄ wiÄcej, chybaby ukradkiem.
+PoniewaÅ¼ tedy rzecz tak stoi, sÄdzÄ,
+Ze nic lepszego nie masz do zrobienia,
+Jak pÃ³jÅÄ za hrabiÄ. Dalipan, to wcale,
+Co siÄ nazywa, przystojny mÄÅ¼czyzna.
+Romeo koÅek przy nim; orzeÅ, pani,
+Nie ma tak piÄknych, Å¼ywych, bystrych oczu,
+Jak Parys. Nazwij miÄ hetkÄ-pÄtelkÄ,
+JeÅli nie bÄdziesz z kretesem szczÄÅliwa
+W tem nowem stadle; bo ono jest stokroÄ
+Lepsze, niÅ¼ pierwsze; a choÄby nie byÅo,
+To i tak tamten pierwszy juÅ¼ nie Å¼yje;
+Tak, jakby nie Å¼yÅ; przynajmniej dla ciebie,
+Skoro, choÄ Å¼yje, nie masz zeÅ poÅ¼ytku.
+
+*Julia.* Czy z serca mÃ³wisz?
+
+*Marta.* Ba, i z duszy caÅej!
+JeÅli nie z serca i nie z duszy, to je
+Przeklnij oboje.
+
+*Julia.*         Amen!
+
+*Marta.*               Na co amen?
+
+*Julia.* BardzoÅ mi przez to dodaÅa otuchy.
+IdÅºÅºe i powiedz teraz mojej matce,
+Ze naraziwszy siÄ na gniew rodzica,
+PoszÅam do celi ojca Laurentego,
+OdprawiÄ spowiedÅº i wziÄÄ rozgrzeszenie.
+
+*Marta.* O, idÄ; to mi piÄknie i roztropnie.
+
+    _(Wychodzi)._
+
+*Julia.* Stara niecnoto! Zdradziecki szatanie!
+CÃ³Å¼ jest niegodniej, cÃ³Å¼ jest wiÄkszym grzechem:
+Czy tak miÄ kusiÄ do krzywoprzysiÄstwa?
+Czy lÅ¼yÄ maÅÅ¼onka mego temi usty,
+KtÃ³rymi tyle razy go pod niebo
+WznosiÅam, chwalÄc? Precz, uwodzicielko!
+Serce me odtÄd zamkniÄte dla ciebie.
+PÃ³jdÄ poprosiÄ ojca Laurentego,
+By mi daÅ radÄ, a jeÅli Å¼adnego
+Na tÄ przeciwnoÅÄ nie bÄdzie sposobu,
+ZnajdÄ moc w sobie wstÄpienia do grobu.
+
+    _(Wychodzi)._
+
+
+
+
+AKT CZWARTY.
+
+
+SCENA I.
+
+    Cela Ojca Laurentego.
+
+    _(Ojciec Laurenty i Parys)._
+
+*O. Laurenty.* W ten czwartek zatem? to bardzo poÅpiesznie.
+
+*Parys.* MÃ³j teÅÄ, Kapulet, Å¼yczy sobie tego:
+A ja powodu nie mam rzecz odwlekaÄ.
+
+*O. Laurenty.* Nie znasz pan, mÃ³wisz, uczuÄ swojej przyszÅej;
+Krzywa to droga, ja takich nie lubiÄ.
+
+*Parys.* Bez miary pÅacze nad ÅmierciÄ Tybalta,
+MaÅom jej przeto mÃ³wiÅ o miÅoÅci,
+Bo Wenus w domu Åez siÄ nie uÅmiecha,
+Ojciec jej, majÄc to za niebezpieczne,
+Å»e siÄ tak bardzo poddaje Å¼alowi,
+W mÄdroÅci swojej przyÅpiesza nasz zwiÄzek,
+By zatamowaÄ ÅºrÃ³dÅo tych Åez, ktÃ³re
+W odosobnieniu ciekÄ za obficie,
+A w towarzystwie prÄdzej mogÄ ustaÄ.
+Znasz teraz, ojcze, powÃ³d tej nagÅoÅci.
+
+*O. Laurenty.* _(na str.)._ Obym mÃ³gÅ nie znaÄ powodÃ³w do
+zwÅoki!
+_(GÅoÅno)._ Patrz, hrabio, oto twa przyszÅa nadchodzi.
+
+    _(Wchodzi Julia)._
+
+*Parys.* SzczÄsny traf dla mnie, piÄkna przyszÅa Å¼ono!
+
+*Julia.* ByÄ moÅ¼e, przyszÅoÅÄ jest nieodgadnionÄ.
+
+*Parys.* To _moÅ¼e ma_ byÄ juÅ¼ w ten czwartek z rana.
+
+*Julia.* Co _ma_ byÄ, bÄdzie.
+
+*O. Laurenty.* Prawda to zbyt znana.
+
+*Parys.* PrzyszÅaÅ siÄ, pani, spowiadaÄ przed ojcem?
+
+*Julia.* MÃ³wiÄc to, panu-bym siÄ spowiadaÅa.
+
+*Parys.* Nie zaprzecz przed nim, pani, Å¼e miÄ kochasz.
+
+*Julia.* Å»e _jego_ kocham, to wyznam i panu.
+
+*Parys.* Wyznasz mi takÅ¼e, tuszÄ, Å¼e _mnie_ kochasz.
+
+*Julia.* Gdyby tak byÅo, wiÄkszÄ-by to miaÅo
+WartoÅÄ wyznane z daleka, niÅ¼ w oczy.
+
+*Parys.* Biedna! Åzy bardzo twarz twÄ oszpeciÅy.
+
+*Julia.* Nie wielkie przez to odniosÅy zwyciÄstwo;
+DosyÄ juÅ¼ byÅa ubogÄ przed niemi.
+Nie jest to krzywda, panie, ale prawda,
+I w oczy sobie jÄ mÃ³wiÄ.
+
+*Parys.*                 Twarz twoja
+Do mnie naleÅ¼y, a ty jej uwÅaczasz.
+
+*Julia.* Nie przeczÄ, moja bowiem byÅa inna.
+Maszli czas teraz, mÃ³j ojcze duchowny,
+Czyli teÅ¼ mam przyjÅÄ wieczÃ³r po nieszporach?
+
+*O. Laurenty.* Nie brak mi teraz czasu, smÄtne dzieciÄ.
+Racz, panie hrabio, zostawiÄ nas samych.
+
+*Parys.* Niech miÄ BÃ³g broni ÅwiÄtym obowiÄzkom
+StaÄ na przeszkodzie! Julio, w czwartek z rana
+PrzyjdÄ ciÄ zbudziÄ. BÄdÅº zdrowa tymczasem
+I przyjm poboÅ¼ne to pocaÅowanie.
+
+    _(Wchodzi)._
+
+*Julia.* O! zamknij, ojcze, drzwi; a jak je zamkniesz,
+PrzyjdÅº pÅakaÄ ze mnÄ. Niema juÅ¼ nadziei!
+Niema ratunku! Niema ocalenia!
+
+*O. Laurenty.* Ach, Julio! Znam twÄ boleÅÄ; mnie samego
+Nabawia ona prawie odurzenia.
+SÅyszaÅem, i nic tego nie odwlecze,
+Å»e w przyszÅy czwartek wziÄÄ masz Ålub z tym hrabiÄ.
+
+*Julia.* Nie mÃ³w mi, ojcze, Å¼e o tym sÅyszaÅeÅ;
+Chyba Å¼e powiesz, jak tego uniknÄÄ,
+JeÅ¼eli w swojej mÄdroÅci nie znajdziesz
+Å»adnego na to Årodka, to przynajmniej
+Postanowienie moje nazwij mÄdrem,
+A w tym sztylecie zaraz znajdÄ Årodek.
+BÃ³g zÅÄczyÅ moje i Romea serce,
+Ty nasze dÅonie; i nim ta dÅoÅ, ÅwiÄtÄ
+PieczÄciÄ twojÄ z Romeem spojona,
+Inny akt stwierdzi, nim to wierne serce
+W zdradzieckim buncie odda siÄ innemu,
+To ostrze zada ÅmierÄ sercu i dÅoni.
+Daj mi wiÄc jakÄ radÄ zaczerpniÄtÄ
+Z dÅugoletniego doÅwiadczenia twego,
+Albo bÄdÅº Åwiadkiem, jak ten nÃ³Å¼ rozstrzygnie
+SprawÄ pomiÄdzy mnÄ a moim losem,
+Wnet zaradzajÄc temu, czego ani
+Wiek, ani rozum nie mÃ³gÅ doprowadziÄ
+Do rozwiÄzania zgodnego z honorem.
+MÃ³w prÄdko; pilno mi wstÄpiÄ do grobu,
+JeÅli mi powiesz, Å¼e niema sposobu.
+
+*O. Laurenty.* StÃ³j, cÃ³rko! Mam ja w myÅli pewien Årodek,
+WymagajÄcy rÃ³wnie rozpaczliwej
+Determinacyi, jak jest rozpaczliwem
+To, czemu chcemy zapobiec. JeÅ¼eli,
+Dla uniknienia maÅÅ¼eÅstwa z Parysem,
+Masz siÅÄ woli odjÄÄ sobie Å¼ycie,
+To siÄ odwaÅ¼ysz, snadÅº, na coÅ takiego,
+Co, bÄdÄc tylko podobnem do Åmierci,
+Uwolni ciÄ od haÅby, jakiej chciaÅaÅ
+UjÅÄ przez zadanie jej sobie naprawdÄ,
+Masz li odwagÄ, to-Ä wskaÅ¼e ten Årodek.
+
+*Julia.* O! kaÅ¼ mi, zamiast byÄ Å¼onÄ Parysa,
+SkoczyÄ ze szczytu wieÅ¼y; w rozbÃ³jniczych
+GoÅciÄ jaskiniach, w legowiskach wÄÅ¼Ã³w;
+Zamknij miÄ w jednÄ klatkÄ z niedÅºwiedziami,
+Albo miÄ wepchnij nocÄ do kostnicy,
+ZewszÄd pokrytej szczÄtkami szkieletÃ³w,
+PoczerniaÅemi koÅÄmi i czaszkami,
+KaÅ¼ mi wejÅÄ Å¼ywcem w grÃ³b ÅwieÅ¼o kopany
+I w jeden caÅun z trupem siÄ obwinÄÄ;
+Wszystko to dawniej dreszcz budziÅo we mnie,
+Ale bez trwogi uczyniÄ to zaraz,
+Bylebym tylko pozostaÅa czystÄ
+MaÅÅ¼onkÄ mego lubego kochanka.
+
+*O. Laurenty.* SÅuchaj wiÄc: idÅº do domu, bÄdÅº wesoÅÄ,
+PrzystaÅ na zwiÄzek z hrabiÄ. Jutro Åroda;
+Staraj siÄ jutro na noc zostaÄ sama;
+Niech Marta nie Åpi ten raz w twym pokoju.
+Masz tu flaszeczkÄ: weÅºmiesz jÄ do ÅÃ³Å¼ka,
+I filtrowany likwor ten wypijesz;
+A wnet po wszystkich Å¼yÅach ciÄ przebiegnie
+UsypiajÄcy dreszcz, ktÃ³ry owÅadnie
+WszelkÄ Å¼ywotnÄ funkcjÄ; wszystkie pulsa
+WstrzymajÄ w tobie swe zwyczajne bicie;
+Ni dech, ni ciepÅo nie wskaÅ¼e, Å¼e Å¼yjesz.
+RÃ³Å¼e ust twoich i policzkÃ³w zblednÄ,
+Jak popiÃ³Å; oczu zasÅony zapadnÄ,
+Jak gdy dÅoÅ Åmierci zakrywa dzieÅ Å¼ycia;
+KaÅ¼dy twÃ³j czÅonek, pozbawiony wÅadzy,
+ZdrÄtwieje, zstÄgnie, zziÄbnie jak u trupa.
+I w tym pozornym stanie nagÅej Åmierci
+ZostawaÄ bÄdziesz czterdzieÅci dwie godzin,
+Wtedy siÄ ockniesz jak ze snu bÅogiego.
+Gdy wiÄc nazajutrz z rana narzeczony
+Przyjdzie ciÄ zbudziÄ, znajdzie ciÄ umarÅÄ;
+Poczem, jak kaÅ¼e zwyczaj, przystrojona
+W godowe szaty, w odsÅoniÄtej trumnie,
+ZÅoÅ¼onÄ bÄdziesz pod owem sklepieniem,
+Gdzie leÅ¼Ä wszyscy ze krwi KapuletÃ³w.
+Uwiadomiony tymczasem przeze mnie
+O naszym planie Romeo przybÄdzie;
+Wraz ze mnÄ czekaÄ bÄdzie w owym lochu
+Na twe ocknienie i tej samej nocy
+Uprowadzi ciÄ skrycie do Mantui.
+To ciÄ uchroni od haÅby groÅ¼Äcej,
+JeÅli brak woli lub niewieÅcia bojaÅºÅ
+Od wykonania tego ciÄ nie wstrzyma.
+
+*Julia.* O, daj mi, daj mi! nie mÃ³w o bojaÅºni!
+
+*O. Laurenty.*Masz, idÅº, bÄdÅº niewzruszonÄ i szczÄÅliwÄ
+W tem przedsiÄwziÄciu! WyprawiÄ natychmiast
+Jednego z naszych braci do Mantui,
+Z listem do twego mÄÅ¼a.
+
+*Julia.* O nadziejo!
+Ty mi bÄdÅº bodÅºcem, a hasÅem Romeo!
+BÄdÅº zdrÃ³w, mÃ³j ojcze!
+
+    _(Odchodzi)._
+
+
+SCENA II.
+
+    PokÃ³j w domu KapuletÃ³w.
+
+    _(WchodzÄ: Kapulet, pani Kapulet, Marta i sÅudzy)._
+
+*Kapulet* _(do sÅuÅ¼Äcego)._ ProÅ te osoby, co tu sÄ spisane.
+
+    _(SÅuÅ¼Äcy wychodzi)._
+
+A waÅÄ dwudziestu biegÅych zbierz kucharzy.
+
+*Drugi sÅuÅ¼Äcy.* Nie bÄdzie zÅy ani jeden, jaÅnie panie, bo
+siÄ przekonam wprzÃ³d o kaÅ¼dym, czy umie sobie oblizywaÄ
+palce.
+
+*Kapulet.* A to na co?
+*Drugi sÅuÅ¼Äcy.* ZÅy to kucharz, jaÅnie panie, co nie oblizuje
+sobie palcÃ³w; o ktÃ³rym siÄ wiÄc przekonam, Å¼e
+tego nie umie, tego nie sprowadzÄ.
+
+*Kapulet.* Ruszaj! _(Wychodzi sÅuÅ¼Äcy)._
+WÄtpiÄ, czy wszystko na czas wygotujem.
+Bodaj ciÄ! PrawdaÅ¼ to, Å¼e Julia poszÅa
+Do ojca Laurentego?
+
+*Marta.* PoszÅa, panie.
+
+*Kapulet.* To dobrze; moÅ¼e on co na niej wskÃ³ra.
+CiÄta, uparta to skÃ³ra na buty.
+
+    _(Wchodzi Julia)._
+
+*Marta.* Patrz pan, jak raÅºnie wraca od spowiedzi.
+
+*Kapulet.* No, sekutnico, gdzieÅ¼eÅ to bywaÅa?
+
+*Julia.* Gdzie miÄ Å¼aÅowaÄ nauczono, panie,
+Za grzech uporu i nieposÅuszeÅstwa
+Naprzeciw woli twojej. ÅwiÄtobliwy
+KapÅan Laurenty kazaÅ mi siÄ rzuciÄ
+Do twych nÃ³g i o przebaczenie prosiÄ.
+Przebacz mi, ojcze! bÄdÄ juÅ¼ ulegÅa.
+
+*Kapulet.* Niech tam kto pÃ³jdzie prosiÄ pana hrabiÄ:
+Jutro mieÄ muszÄ spleciony ten wÄzeÅ.
+
+*Julia.* SpotkaÅam hrabiÄ w celi Laurentego
+I okazaÅam mu miÅoÅÄ, jak mogÅam,
+Nie przekraczajÄc granicy skromnoÅci.
+
+*Kapulet.* To co innego; tak, to dobrze, powstaÅ;
+Tak byÄ powinno; tak cÃ³rce przystoi.
+ProsiÄ tu hrabiÄ, Å¼eby przyszedÅ zaraz.
+Dalipan, ÅwiÄty to czÅek z tego mnicha:
+SÅusznie mu caÅe miasto czeÅÄ oddaje.
+
+*Julia.* Marto, pÃ³jdÅº ze mnÄ do mego pokoju.
+Wszak mi pomoÅ¼esz przymierzaÄ przyborÃ³w,
+Jakie na jutro uznasz za stosowne?
+
+*Pani Kapulet.* Po co dziÅ? jutro bÄdzie dosyÄ czasu.
+
+*Kapulet.* IdÅº z niÄ waÅÄ: jutro pÃ³jdziem do koÅcioÅa.
+
+    _(Julia z MartÄ wychodzi)._
+
+*Pani Kapulet.* Nie wiem, czy zdÄÅ¼ym z przygotowaniami:
+JuÅ¼ wieczÃ³r.
+
+*Kapulet.* Nie troszcz siÄ; dojrzÄ wszystkiego,
+I wszystko bÄdzie dobrze, za to rÄczÄ.
+IdÅº do Juleczki, pomÃ³Å¼ jej siÄ przybraÄ.
+Ja siÄ tej nocy nie poÅoÅ¼Ä; bÄdÄ
+Na ten raz peÅniÅ urzÄd gospodyni.
+Hej, sÅuÅ¼ba! CÃ³Å¼ to? wszyscy siÄ rozeszli?
+Mniejsza z tem, pÃ³jdÄ sam hrabiÄ uprzedziÄ
+O zaszÅej zmianie. Lekko mi na sercu,
+Ze siÄ ten kozioÅ przecie opamiÄtaÅ.
+
+    _(WychodzÄ)._
+
+
+SCENA III.
+
+    PokÃ³j Julii.
+
+    _(Wchodzi Julia i Marta)._
+
+*Julia.* Tak, ten strÃ³j wezmÄ. Ale, zÅota nianiu,
+ProszÄ ciÄ, zostaw miÄ na tÄ noc samÄ;
+Bo duÅ¼o muszÄ pacierzy odmÃ³wiÄ
+Dla uproszenia sobie wzglÄdÃ³w niebios
+Nad moim stanem, jak wiesz, peÅnym grzechu.
+
+    _(Wchodzi Pani Kapulet)._
+
+*Pani Kapulet.* TakeÅ zajÄta? MamÅ¼e ci dopomÃ³dz?
+
+*Julia.* Nie, pani; juÅ¼eÅmy we dwie wybraÅy,
+Co mi na jutro moÅ¼e byÄ potrzebnem.
+PozwÃ³l, bym teraz sama pozostaÅa,
+I niechaj Marta spÄdzi tÄ noc z tobÄ.
+Pewnam, Å¼e wszyscy macie doÅÄ roboty,
+Przy tym tak nagÅym obchodzie.
+
+*Pani Kapulet.*                Dobranoc!
+PoÅÃ³Å¼ siÄ, spocznij; potrzebujesz tego.
+
+    _(WychodzÄ: pani Kapulet i Marta)._
+
+*Julia.* Dobranoc! BÃ³g wie kiedy siÄ zobaczym.
+Zimny dreszcz trwogi na wskroÅ miÄ przejmuje,
+I jakby mrozi we mnie ciepÅo Å¼ycia.
+ZawoÅam na nie, by ochÅonÄÄ nieco;
+Nianiu! I pocÃ³Å¼ tu ona? Straszliwy
+Ten czyn wymaga wÅaÅnie samotnoÅci.
+Ha! pÃ³jdÅº flakonie!
+Gdyby jednakÅ¼e ten pÅyn nie skutkowaÅ?
+MiaÅaÅ¼bym gwaÅtem z hrabiÄ byÄ zÅÄczona?
+Nie, nie; ucieczka w tem: leÅ¼ tu w odwodzie.
+
+    _(KÅadzie na stole sztylet)._
+
+A gdyby teÅ¼ to miaÅa byÄ trucizna,
+KtÃ³rÄ mi ksiÄdz ten zrÄcznie ÅmierÄ chce zadaÄ,
+By ujÅÄ zarzutu, Å¼e daÅ Ålub kobiecie,
+KtÃ³rÄ juÅ¼ pierwej zaÅlubiÅ z kim innym?
+Toby byÄ mogÅo; ale nie, tak nie jest,
+Bo jego ÅwiÄtoÅÄ jest wyprÃ³bowana,
+I nawet myÅli tej nie chcÄ przypuszczaÄ.
+Lecz gdybym w grobie siÄ ocknÄÅa pierwej,
+Nim miÄ Romeo przyjdzie oswobodziÄ?
+To byÅoby okropne!
+Nie udusiÅaÅ¼bym siÄ wÅrÃ³d tych sklepieÅ,
+Gdzie nigdy zdrowe nie wnika powietrze,
+I nie umarÅaÅ¼bym wprzÃ³d, nim Romeo
+Przyjdzie na pomoc? A choÄbym i Å¼yÅa,
+CzyliÅ¼by straszny wpÅyw nocy i Åmierci,
+KtÃ³rÄ dokoÅa bÄdÄ otoczona,
+Obok wraÅ¼enia, jakie sprawiaÄ musi
+SamaÅ¼ miejscowoÅÄ tego sklepionego
+StaroÅ¼ytnego lochu, w ktÃ³rym koÅci
+ZmarÅych mych przodkÃ³w od lat niepamiÄtnych
+Nagromadzone leÅ¼Ä: kÄdy ÅwieÅ¼o
+ZÅoÅ¼ony Tybalt gnije pod caÅunem;
+I kÄdy nocÄ o pewnych godzinach,
+Duchy, jak mÃ³wiÄ, odbywajÄ schadzki;
+Niestety! czyliÅ¼by prawdopodobnie
+To wszystko, gdybym wczeÅniej siÄ ocknÄÅa--
+A potem zapach trupi, krzyk podobny
+Do tego, jaki wydaje Ã³w korzeÅ
+Ziela pokrzyku, gdy siÄ go wyrywa;
+Krzyk wprawiajÄcy ludzi w obÅÄkanie,--
+CzyliÅ¼by wszystko to, w razie ocknienia,
+Nie pomieszaÅo mi zmysÅÃ³w? CzyliÅ¼bym
+Po szalonemu nie igraÅa wtedy
+Z koÅÄmi mych przodkÃ³w? nie poszÅa siÄ pieÅciÄ
+Z trupem Tybalta? i w tem rozstrojeniu
+Nie rozbtÅaÅ¼bym sobie rozpaczliwie
+GÅowy piszczelÄ ktÃ³rego z pradziadÃ³w,
+Jak paÅkÄ? Patrzcie! patrzcie! zdaje mi siÄ,
+Å»e duch Tybalta widzÄ ÅcigajÄcy
+Romea za to, Å¼e go wygnaÅ z ciaÅa.
+StÃ³j! stÃ³j, Tybalcie!
+
+    _(Przytyka flakon do ust)._
+
+                      Do ciebie, mÃ³j luby,
+SpeÅniam ten toast zbawienia lub zguby.
+
+    _(Wypija napÃ³j i rzuca siÄ na ÅÃ³Å¼ko)._
+
+
+SCENA IV.
+
+    Sala w domu KapuletÃ³w.
+
+    _(Wchodzi pani Kapulet i Marta)._
+
+*Pani Kapulet.* WeÅº te pÃ³Åmiski i wydaj korzeni.
+
+*Marta.* Piekarz o pigwy woÅa i daktyle.
+
+    _(Wchodzi Kapulet)._
+
+*Kapulet.* Åpieszcie siÄ, Åpieszcie! JuÅ¼ drugi kur zapiaÅ;
+Poranny dzwonek ozwaÅ siÄ: to trzecia,
+Dojrzyj ciast, moja Marto; nie szczÄdÅº przypraw.
+
+*Marta.* Co to za wÅcibstwo! IdÅºÅ¼e siÄ pan przespaÄ.
+Dalipan, jutro siÄ nam rozchorujesz
+Z tego niewczasu.
+
+*Kapulet.*    Ani krzty! Do licha!
+Nie wysypiaÅem siÄ dla spraw mniej waÅ¼nych,
+A przecieÅ¼ nigdy nie zachorowaÅem.
+
+*Pani Kapulet.* Wiem-ci ja dobrze, wiem: umiaÅ jegomoÅÄ
+Swojego czasu myszkowaÄ; lecz teraz
+Ja czuwam nad tem, abyÅ pan nie czuwaÅ.
+
+    _(WychodzÄ pani Kapulet i Marta)._
+
+*Kapulet.* Zazdrosna sztuka!
+
+    _(WchodzÄ sÅudzy z rÃ³Å¼nymi, koszami i drzewem)._
+
+                             Hej! co tam niesiecie?
+
+*Pierwszy sÅuga.* Rzeczy do kuchni, ale nie wiem jakie.
+
+*Kapulet.* Åpiesz siÄ.
+
+    _(Wychodzi sÅuÅ¼Äcy)._
+
+                       IdÅº wasze suchszych szczap narÄbaÄ;
+Piotr ci kloc wskaÅ¼e po temu.
+
+*Drugi SÅuga.*           JeÅ¼eli
+O kloca idzie, to doÅÄ mnie samego;
+Nie potrzebujÄ siÄ zwracaÄ do Piotra.
+
+    _(Wychodzi)._
+
+*Kapulet.* Masz sÅusznoÅÄ. Å»ywo! Dalipan, juÅ¼ dnieje,
+I hrabia bÄdzie tu zaraz z muzykÄ.
+Tak przyrzekÅ.
+
+    _(SÅychaÄ muzykÄ)._
+
+               OtÃ³Å¼ idzie; juÅ¼ go sÅychaÄ.
+Hej! Å»ono! Marto! ChodÅºcie tu! Hej! Marto!
+
+    _(Wchodzi Marta)._
+
+IdÅº, obudÅº JulkÄ, ubierz jÄ co Å¼ywo,
+Ja pogawÄdzÄ tymczasem z Parysem.
+Spiesz siÄ, nie marudÅº; pan mÅody juÅ¼ przyszedÅ.
+Co tchu siÄ zwijaj.
+
+    _(Wychodzi)._
+
+
+SCENA V.
+
+    PokÃ³j Julii. Julia w ÅÃ³Å¼ku.
+
+    _(Wchodzi Marta)._
+
+*Marta.* Panienko! Julciu!--Jak siÄ to zaspaÅo!--
+Wstawaj, goÅÄbku! Wstawaj! WstydÅº siÄ, Åpiochu!
+Panienko! duszko! rybko!--Ani mrumru!--
+Chcesz, widzÄ, wyspaÄ siÄ za caÅy tydzieÅ,
+JakbyÅ wiedziaÅa, Å¼e ci hrabia Parys
+NastÄpnej nocy nie da oka zmruÅ¼yÄ.
+OdpuÅÄ mi, Panie, amen! Jak Åpi smacznie!
+MuszÄ jÄ jednak zbudziÄ.--Julciu! Julciu!
+Niechno ciÄ hrabia Parys tak zastanie,
+To siÄ dopiero zerwiesz.--CÃ³Å¼ to? w sukni?
+JuÅ¼eÅ ubrana i znÃ³w siÄ pokÅadÅaÅ?
+DosyÄ juÅ¼ tego! Julciu! Panno Julio!-â
+Ha! przez BÃ³g Å¼ywy! Na pomoc! na pomoc!
+Ona nie Å¼yje! O, ja nieszczÄÅliwa!
+Po co mi byÅo siÄ rodziÄ?--Na pomoc!
+ChoÄ trochÄ akwawity!--Panie! Pani!
+
+    _(Wchodzi pani Kapulet)._
+
+*Pani Kapulet.* Co to za haÅas?
+
+*Marta.*                        O dniu niefortunny!
+
+*Pani Kapulet.* MÃ³w, co siÄ staÅo?
+
+*Marta.*            Patrz, pani.
+
+*Pani Kapulet.*                  O, nieba!
+O, moje dzieciÄ! o, moja pociecho!
+WstaÅ, odÅ¼yj, albo umrÄ razem z tobÄ!
+Na pomoc! woÅaj pomocy!
+
+    _(Wchodzi Kapulet)._
+
+*Kapulet.* Co za guzdralstwo! Pan mÅody juÅ¼ czeka.
+
+*Marta.* Ona nie Å¼yje; rozstaÅa siÄ z Å¼yciem!
+O, dniu Å¼aÅosny!
+
+*Pani Kapulet.*   O dniu opÅakany!
+Ona nie Å¼yje, nie Å¼yje, nie Å¼yje!
+
+*Kapulet.* PuÅÄcie miÄ, niech zobaczÄ... Jak lÃ³d zimna;
+Krew w niej zastygÅa; czÅonki jej zdrÄtwiaÅy...
+Dawno juÅ¼ Å¼ycie z tych ust uleciaÅo.
+ÅmierÄ jÄ zwarzyÅa, jak mrÃ³z najpiÄkniejszy
+Pierwiosnek w maju. NieszczÄsny ja starzec!
+
+*Marta.* O niefortunny dniu!
+
+*Pani Kapulet.*              O, dniu boleÅci!
+
+*Kapulet.* ÅmierÄ ta, niszczÄca wszystkie me nadzieje,
+GÅos mi tamuje i zamyka usta.
+
+    _(Wchodzi O. Laurenty i Parys z muzykantami)._
+
+*O. Laurenty.* Czy panna mÅoda juÅ¼ jest w pogotowiu
+IÅÄ do koÅcioÅa?
+
+*Kapulet.*   IÅÄ, ale nie wrÃ³ciÄ.
+O, synu, w wiliÄ dnia twojego Ålubu
+ÅmierÄ zaÅlubiÅa twÄ oblubienicÄ.
+Patrz, oto leÅ¼y ten kwiat w jej uÅcisku.
+ÅmierÄ jest mym ziÄciem, ÅmierÄ jest mym dziedzicem,
+UmrÄ i wszystko jej oddam, bo wszystko
+Oddaje Åmierci, kto oddaje ducha.
+
+*Parys.* Tak dawnom wzdychaÅ do tego poranku,
+I takiÅ¼ widok czekaÅ miÄ u mety!
+
+*Pani Kapulet.* Dniu nienawistny, przeklÄty, ohydny,
+StokroÄ obmierzÅy, jakiemu rÃ³wnego
+W obiegu swoim czas jeszcze nie widziaÅ!
+Jedno mieÄ tylko, jedno biedne dziecko,
+JednÄ uciechÄ i jednÄ pociechÄ,
+I tÄ zabiera ÅmierÄ nielitoÅciwa!
+
+*Marta.* O smutny, smutny dniu! o dniu Å¼aÅosny!
+NajopÅakaÅszy, najniefortunniejszy,
+Jaki widziaÅam w Å¼yciu kiedykolwiek!
+O, dniu! o, smutny dniu! O, dniu Å¼aÅosny!
+Nie byÅo nigdy jeszcze dnia takiego.
+O! stokroÄ smutny dniu, stokroÄ Å¼aÅosny.
+
+*Parys.* Okrutna, sroga, ÅwiÄtokradzka Åmierci!
+TyÅ miÄ podeszÅa, obdarÅa, zgnÄbiÅa,
+Przez ciebiem niebo straciÅ, okrutnico!
+O Julio! luba! Å¼ycie! juÅ¼ nie Å¼ycie,
+Niemniej jednakÅ¼e luba i po Åmierci!
+
+*Kapulet.* Zawistny, twardy, niecny, zbÃ³jczy losie!
+Po cÃ³Å¼ ci, po co byÅo tak tyraÅsko
+Wniwecz obracaÄ naszÄ uroczystoÅÄ?
+O, moje dziecko! raczej duszo moja,
+Nie moje dziecko; bo dziecko jest trupem;
+I wraz z niem caÅa pociech mych ostoja,
+CaÅy wdziÄk Å¼ycia staÅ siÄ Åmierci Åupem!
+
+*O. Laurenty.* PrzestaÅcie! Rozpacz nie leczy rozpaczy.
+Nadobne dzieciÄ to byÅo wÅasnoÅciÄ
+ZarÃ³wno nieba jak i waszÄ; niebo
+ZabraÅo swojÄ czÄÅÄ; tem lepiej dla niej:
+WyÅcie nie mogli waszej czÄÅci ziemskiej
+Ustrzedz od Åmierci, ale czÄÅÄ jej lepszÄ
+Niebo zachowa w wiekuistym Å¼yciu.
+Jej wywyÅ¼szenie byÅo szczytem waszych
+Å»yczeÅ i dÄÅ¼eÅ; W niem zakÅadaliÅcie
+SwÃ³j raj na ziemi, i pÅaczecieÅ¼ teraz
+I rozpaczacieÅ¼, widzÄc jÄ wzniesionÄ
+Ponad obÅoki do istnego raju?
+O, zÅa to miÅoÅÄ jÄczeÄ z Å¼alu wtedy,
+Kiedy tym, ktÃ³rych kochamy, jest dobrze.
+Nie ta dziewica dobrze poszÅa za mÄÅ¼,
+Co dÅugie lata przeÅ¼yÅa w zamÄÅciu,
+Lecz ta, co mÅodo zamÄÅ¼nÄ umiera.
+PoÅÃ³Å¼cie tamÄ Åzom i, umaiwszy
+To piÄkne ciaÅo liÅÄmi rozmarynu,
+KaÅ¼cie je, wedle zwyczaju, niebawem
+W ÅwiÄtecznych szatach zanieÅÄ do koÅcioÅa.
+ÅwiÄtymi wprawdzie sÄ boleÅci prawa,
+PrzecieÅ¼ rozsÄdek z Åez siÄ naigrawa.
+
+*Kapulet.* CoÅmy na gody poprzysposabiali,
+To musi teraz posÅuÅ¼yÄ na pogrzeb:
+Weselna uczta zamieni siÄ w stypÄ,
+DÅºwiÄk strun w jÄk dzwonÃ³w, pieÅni w smÄtne treny,
+Mirtowy wieniec martwÄ skroÅ otoczy,
+SÅowem, wszystko siÄ w opak przeistoczy.
+
+*O. Laurenty.* WyjdÅºcie stÄd paÅstwo, i ty, hrabio, takÅ¼e.
+Niech siÄ gotuje kaÅ¼dy odprowadziÄ
+Te piÄkne zwÅoki na wieczny spoczynek.
+SnadÅº niebo na was o coÅ zagniewane;
+Nie jÄtrzcieÅ¼ jego gniewu jeszcze gorzej
+Oporem przeciw ÅwiÄtej woli BoÅ¼ej.
+
+    _(WychodzÄ: Kapulet, pani Kapulet, Parys i O. Laurenty)._
+
+*Pierwszy muzykant.* Trzeba nam podobno schowaÄ dudy
+w miech i wynieÅÄ siÄ za drzwi.
+
+*Marta.* Tak, tak, schowajcie swoje instrumenty,
+Poczciwi ludzie, niema tu co robiÄ.
+
+*Druugi muzykant.* MoÅ¼e-Ä siÄ jeszcze co znajdzie.
+
+    _(Wchodzi Piotr)._
+
+*Piotr.* Zagrajcie mi na basetli, panowie muzykanci, zagrajcie
+mi na basetli, jeÅ¼eli mi dobrze Å¼yczycie.
+
+*Pierwszy muzykant.* Dlaczego na basietli?
+
+*Piotr.* Bo moja dusza gra teraz na drumli. Zagrajcie mi
+co smÄtnie skocznego dla rozweselenia.
+
+*Pierwszy muzykant.* Daj nam waÅÄ pokÃ³j; nie pora teraz
+do gÄdÅºby.
+
+*Piotr.* Nie chcecie zatem?
+
+*Muzykanci.* Nie.
+
+*Piotr.* Czekajcie, zapÅacÄ wam za to.
+
+*Pierwszy muzykant.* Czem takiem?
+
+*Piotr.* Nie brzÄczÄcÄ monetÄ, jak mi BÃ³g miÅy! ale bitÄ
+monetÄ: monetÄ godnÄ rzÄpoÅÃ³w.
+
+*Pierwszy muzykant.* To my siÄ waÄpanu rÃ³wnÄ monetÄ
+odpÅacimy: monetÄ godnÄ lokajÃ³w.
+
+*Piotr.* WprzÃ³d ja wam lokajskÄ klingÄ zagram po brzuchu.
+
+*Drugi muzykant.* Schowaj waÄpan swÃ³j roÅ¼en, a wydobÄdÅº
+lepiej swÃ³j dowcip.
+
+*Piotr.* StrzeÅ¼cie siÄ ostrza mego dowcipu, bo was przeszyje
+na wylot. BacznoÅÄ!
+
+    _(Åpiewa)._
+
+    Gdy z piersi pÅynie jÄk,
+    A serce Å¼al rozkrwawia,
+    Muzyki srebrny dÅºwiÄk...
+Dlaczego _srebrny dÅºwiÄk?_ Dlaczego _muzyki srebrny
+dÅºwiÄk?_ CÃ³Å¼ waÅÄ na to, moÅci prymusie gajdo?
+
+*Pierwszy muzykant.*  JuÅ¼ci dlatego, Å¼e srebro ma dÅºwiÄk
+miÅy.
+
+*Piotr.* Brawo! a waÅÄ co na to, moÅci klawicymbale?
+
+*Drugi muzykant.* Dlatego, sÄdzÄ, Å¼e muzykanci grajÄ za
+srebro.
+
+*Piotr.* Brawo takÅ¼e! A waÅÄ co o tem sÄdzisz, moÅci
+kaleczy-uchu?
+
+*Trzeci muzykant.* Nie wiem doprawdy, co o tem sÄdziÄ.
+
+*Piotr.* No, to ja ci powiem: _Muzyki srebrny dÅºwiÄk_ mÃ³wi
+siÄ dlatego, Å¼e takie jak wy niedoÅÄgi rzadko kiedy
+zÅota za muzykÄ dostajÄ.
+
+    _(Wychodzi, ÅpiewajÄc)._
+
+    Muzyki srebrny dÅºwiÄk
+    Natychmiast ulgÄ sprawia.
+
+*Pierwszy muzykant.* CÃ³Å¼ to za bezczelny Åotr z tego
+hultaja?
+
+*Drugi muzykant.* Pal go kaci! ZejdÅºmy tam na dÃ³Å wmieszaÄ
+siÄ miÄdzy orszak Å¼aÅobny i czekaÄ, rychÅo co
+spadnie z pÃ³Åmiska.
+
+    _(WychodzÄ)._
+
+
+
+
+AKT PIÄTY.
+
+
+SCENA I.
+
+    Mantua. Ulica.
+
+    _Wchodzi Romeo)._
+
+*Romeo.* JeÅ¼eli moÅ¼na ufaÄ sennym wrÃ³Å¼bom,
+WkrÃ³tce miÄ czeka jakaÅ wieÅÄ radosna.
+KrÃ³l mego Åona oddycha swobodnie,
+I duch mÃ³j przez dzieÅ caÅy niezwyczajnie
+Lekkim nad ziemiÄ wznosi siÄ polotem.
+ÅniÅem, Å¼e moja ukochana przyszÅa
+I Å¼e znalazÅa miÄ nieÅ¼ywym (dziwny
+Sen, co pozwala myÅleÄ umarÅemu!),
+Lecz ona swymi pocaÅowaniami
+Tyle tchu wlaÅa w martwe moje usta,
+Å»em nagle odÅ¼yÅ i zostaÅ cesarzem.
+Ach, jakÅ¼e sÅodkÄ jest miÅoÅÄ naprawdÄ,
+Kiedy jej mara takÄ rozkosz sprawia!
+
+    _(Wchodzi Baltazar)._
+
+WieÅci z Werony!--CÃ³Å¼ tam, Baltazarze?
+Czy mi przynosisz list od Laurentego?
+Co robi Julia? Czy zdrÃ³w jest mÃ³j ojciec?
+Jak siÄ ma Julia? Po raz drugi pytam,
+Bo nie ma zÅego, jeÅli jej jest dobrze.
+
+*Baltazar.* Wszystko wiÄc dobrze, bo jej juÅ¼ Åºle nie jest,
+CiaÅo jej leÅ¼y w lochach KapuletÃ³w,
+A duch jej goÅci miÄdzy anioÅami.
+WidziaÅem, jak jÄ zÅoÅ¼ono do sklepieÅ,
+I wziÄÅem pocztÄ, aby o tem panu
+DonieÅÄ czemprÄdzej. Przebacz pan, Å¼e takÄ
+ZÅÄ wieÅÄ przynoszÄ; wszakÅ¼e uwiadamiaÄ
+Pana o wszystkim byÅem w obowiÄzku.
+
+*Romeo.* MaÅ¼ to byÄ prawdÄ? ZgaÅnijcie wiÄc, gwiazdy!
+Wszak wiesz, gdzie mieszkam? PrzynieÅ mi papieru
+I atramentu, idÅº potem na pocztÄ
+ZamÃ³wiÄ konie. WyjeÅ¼dÅ¼am tej nocy.
+
+*Baltazar.* Wybacz pan, ale tak go nie zostawiÄ;
+WyglÄdasz blado, ponuro i wzrok twÃ³j
+CoÅ niedobrego zapowiada.
+
+*Romeo.*                  Cicho
+Mylisz siÄ; zostaw miÄ, zrÃ³b, com kazaÅ.
+Czy nie masz listu od ksiÄdza?
+
+*Baltazar.*                    Nie, panie.
+
+*Romeo.* Mniejsza mi o to. IdÅº zamÃ³wiÄ konie:
+WkrÃ³tce pospieszÄ za tobÄ.
+
+    _(Wychodzi Baltazar)._
+
+                           Tak, Julio!
+Tej jeszcze nocy spocznÄ przy twym boku;
+O Årodek tylko idzie.--O, jak prÄdko
+ZÅy zamiar wnika w myÅl zrozpaczonego!
+GdzieÅ niedaleko stÄd mieszka aptekarz;
+Przed paru dniami widziaÅem go, pomnÄ,
+Jak zasÄpiony, w podartem odzieniu,
+PrzebieraÅ zioÅa; zapadÅe miaÅ oczy,
+CiaÅo od wielkiej nÄdzy jak wiÃ³r wyschÅe.
+W nikczemnym jego sklepiku Å¼Ã³Åw wisiaÅ,
+Wypchany aligator obok szczÄtkÃ³w
+Dziwnego ksztaÅtu ryb; na jego pÃ³Åkach
+LeÅ¼aÅa tu i Ã³wdzie zbieranina
+PrÃ³Å¼nych flasz, sÅojÃ³w, zielonych czerepÃ³w,
+PÄcherzÃ³w, stÄchÅych nasion; resztki sznurkÃ³w
+I zapleÅniaÅe kawaÅki lukrecyi.
+Na widok tego pomyÅlaÅem sobie:
+Komuby byÅa potrzebna trucizna,
+KtÃ³rej w Mantui sprzedaÅ¼ gardÅem karzÄ,
+Niechajby przyszedÅ do tego hoÅysza,
+On-by dostarczyÅ mu jej. MyÅl ta byÅa,
+Niestety! wrÃ³Å¼bÄ mej potrzeby wÅasnej;
+Sam w niej dziÅ jestem i tenÅ¼e sam czÅowiek
+Z potrzeby bÄdzie musiaÅ jej zaradziÄ.
+JeÅ¼eli siÄ nie mylÄ, tu on mieszka;
+Z powodu ÅwiÄta kram jego zamkniÄty.--
+Hej! aptekarzu!
+
+    _(Wchodzi aptekarz)._
+
+*Aptekarz.* KtÃ³Å¼ to woÅa takim
+DonoÅnym gÅosem?
+
+*Romeo.*         ZbliÅ¼ siÄ tu, czÅowieku.
+WidzÄ, Å¼e jesteÅ w niezamoÅ¼nym stanie;
+WeÅº te czterdzieÅci dukatÃ³w, a daj mi
+DrachmÄ trucizny takiej, coby mogÅa
+Po wszystkich Å¼yÅach rozejÅÄ siÄ od razu
+I nienawistne Å¼ycie odjÄÄ temu,
+Co jej zaÅ¼yje; coby tak gwaÅtownie
+WygnaÅa oddech z piersi, jak gwaÅtownie
+Lontem dotkniÄty proch wypÄdza pocisk
+Z czeluÅci dziaÅa.
+
+*Aptekarz.*        Mam ja taki Årodek;
+Ale w Mantui prawo ÅmierciÄ karze
+KaÅ¼dego, co siÄ waÅ¼y go udzieliÄ.
+
+*Romeo.* Tak bardzo jesteÅ biedny, tak ciÄ srodze
+Los upoÅledza i boisz siÄ umrzeÄ?
+GÅÃ³d z twych lic, z oczu patrzy niedostatek;
+Åatana nÄdza wisi na twym grzbiecie;
+Åwiat ci nie sprzyja, ani prawo Åwiata,
+Bo Åwiat nie daje-Ä prawa byÄ bogatym;
+Drwij wiÄc z praw, przyjm to i przestaÅ byÄ biednym.
+
+*Aptekarz.* UbÃ³stwo, a nie chÄÄ skÅania mnie uledz.
+
+*Romeo.* UbÃ³stwo twoje teÅ¼, nie chÄÄ opÅacam.
+
+*Aptekarz.* WeÅº pan to, rozczyÅ w jakimkolwiek pÅynie
+I pÅyn ten wypij, a choÄbyÅ miaÅ siÅÄ
+Trzydziestu ludzi, wnet wyzioniesz ducha!
+
+*Romeo.* Oto masz zÅoto, tÄ truciznÄ zgubnÄ
+Dla duszy ludzkiej, ktÃ³ra wiÄcej zabÃ³jstw
+Na tym obmierzÅym Åwiecie dokonywa,
+NiÅ¼ owe marne preparata, ktÃ³rych
+Pod karÄ Åmierci sprzedaÄ ci nie wolno.
+Nie ty mnie, ja ci sprzedaÅem truciznÄ.
+BÄdÅº zdrÃ³w: kup strawy i odziej siÄ w miÄso.--
+Kordyale, nie trucizno, pÃ³jdÅº mi sÅuÅ¼yÄ
+U grobu Julii, bo tam ciÄ mam uÅ¼yÄ.
+
+    _(RozchodzÄ siÄ)._
+
+
+SCENA II.
+
+    Cela O. Laurentego.
+
+    _(O. Laurenty sam)._
+
+*Brat Jan* _(za scenÄ)._ OtwÃ³rz, wielebny ojcze franciszkanie.
+
+*O. Laurenty.* ToÄ nie czyj inny glos jak brata Jana.
+
+    _(Otwiera drzwi)._
+
+Witaj z Mantui! CÃ³Å¼ Romeo? Masz-li
+UstnÄ odpowiedz jego, czy na piÅmie?
+
+    _(Wchodzi Brat Jan)._
+
+*Brat Jan.* Kiedy za jednym bosym zakonnikiem
+Naszej reguÅy, ktÃ³ry miaÅ iÅÄ ze mnÄ,
+I byÅ przy chorym, poszedÅem na miasto
+I juÅ¼em znalazÅ go, miejscy pachoÅcy,
+PodejrzewajÄc, Å¼eÅmy byli w domu
+TkniÄtym zarazÄ, opieczÄtowali
+Drzwi i nie chcieli nas puÅciÄ na zewnÄtrz.
+Nie mogÅem siÄ wiÄc udaÄ do Mantui.
+
+*O. Laurenty.* KtÃ³Å¼ tedy zaniÃ³sÅ mÃ³j list do Romea?
+
+*Brat Jan.* Nikt go nie zaniÃ³sÅ--oto jest; nie mogÅem
+Ani go posÅaÄ do Mantui, ani
+Wam go odesÅaÄ, tak nas pilnowano.
+
+*O. Laurenty.* NieszczÄsny trafie! ten list byÅ tak waÅ¼ny!
+NiedorÄczenie go moÅ¼e fatalne
+Skutki sprowadziÄ. Biegnij, bracie Janie;
+Postarajno siÄ gdzie o drÄg Å¼elazny
+I tu go przynieÅ.
+
+*Brat Jan.* Natychmiast przyniosÄ.
+
+    _(Wychodzi)._
+
+*O. Laurenty.* MuszÄ czemprÄdzej spieszyÄ do grobowca.
+W ciÄgu trzech godzin Julia siÄ przebudzi.
+GniewaÄ siÄ na mnie bÄdzie, Å¼em Romea
+Nie uwiadomiÅ o tem, co siÄ staÅo;
+Ale napiszÄ do niego raz jeszcze
+I tu jÄ skryjÄ do jego przybycia.
+Biedny ty prochu: w grobie juÅ¼ za Å¼ycia!
+
+    _(Wychodzi)._
+
+
+SCENA III.
+
+Cmentarz; na nim grobowiec rodziny KapuletÃ³w.
+
+    _(Wchodzi Parys z Paziem, niosÄcym kwiaty i pochodniÄ)._
+
+*Parys.* Daj mi pochodniÄ, chÅopcze, i idÅº z Bogiem.
+Lub zgaÅ jÄ, nie chcÄ, Å¼eby miÄ widziano.
+IdÅº siÄ poÅoÅ¼yÄ owdzie pod cisami
+I ucho przyÅÃ³Å¼ do ziemi, a skoro
+UsÅyszysz czyje kroki na cmentarzu,
+KtÃ³rego ryty grunt Åatwo je zdradzi,
+Wtedy zagwizdnij na znak, Å¼e ktoÅ idzie.
+Daj mi te kwiaty. IdÅº, zrÃ³b, jakem kazaÅ.
+
+*PaÅº.* Strasznie mi bÄdzie pozostaÄ samemu
+WpoÅrÃ³d cmentarza; jednakÅ¼e sprÃ³bujÄ.
+*/
+
+    _(Oddala siÄ)._
+
+*Parys.* Drogi mÃ³j kwiecie, kwieciem posypujÄ
+Twe oblubieÅcze ÅoÅ¼e; drogi grobie,
+KtÃ³ry w obrÄbie swoim przechowujesz
+Najdoskonalszy wzÃ³r utworu Boga!
+Urocza Julio, towarzyszko niebian!
+Przyjm tÄ ostatniÄ ofiarÄ ode mnie,
+Com ciÄ za Å¼ycia wielbiÅ i po Åmierci
+CzciÄ niewygasÅa ÅwiÄcÄ twÃ³j grobowiec.
+
+    _(PaÅº gwiÅ¼dÅ¼e)._
+
+ChÅopiec mÃ³j daje hasÅo; ktoÅ siÄ zbliÅ¼a.
+CzyjaÅ¼ to stopa Åmie nocÄ tu zmierzaÄ
+I ten Å¼aÅobny mÃ³j przerywaÄ obrzÄd?
+Z pochodniÄ nawet! OdstÄpmy na chwilÄ.
+
+    _(Oddala siÄ)._
+
+    _(Wchodzi Romeo i Baltazar z pochodniÄ, oskardem, i t. p.)._
+
+*Romeo.* Podaj mi oskard i drÄg. WeÅº to pismo;
+Oddasz je memu ojcu jak najraniej.
+Daj no pochodniÄ. Co bÄdÅº tu usÅyszysz,
+Albo zobaczysz, pamiÄtaj, jeÅ¼eli
+MiÅe ci Å¼ycie, pozostaÄ z daleka
+I nie przerywaÄ biegu mej czynnoÅci.
+W to ÅoÅ¼e Åmierci wejÅÄ chcÄ czÄÅciÄ po to,
+Aby zobaczyÄ tÄ, co w niem spoczywa,
+Lecz gÅÃ³wnie po to, aby zdjÄÄ z jej palca
+Szacowny pierÅcieÅ, ktÃ³ry mi do czegoÅ
+WaÅ¼nego nieodbicie jest potrzebny.
+[Page 85]
+IdÅº wiÄc, zastosuj siÄ do moich Å¼yczeÅ.
+GdybyÅ zaÅ pÅochÄ zdjÄty ciekawoÅciÄ
+WrÃ³ciÅ podglÄdaÄ dalsze moje kroki,
+Na Boga, wszystkie koÅci-bym ci roztrzÄsÅ
+I posiaÅ niemi ten niesyty cmentarz.
+UmysÅ mÃ³j dziko jest usposobiony,
+Niepowstrzymaniej i nieubÅaganiej,
+NiÅ¼ gÅodny tygrys lub wzburzone morze.
+
+*Baltazar.* OdejdÄ, panie, i bÄdÄ-Ä posÅuszny.
+
+*Romeo.* OkaÅ¼esz mi tem przyjaÅºÅ. WeÅº ten worek,
+Poczciwy chÅopcze, bÄdÅº zdrÃ³w i szczÄÅliwy.
+
+*Baltazar.* BÄdÅº co bÄdÅº, stanÄ tu gdzie na uboczu,
+Bo mu zÅy jakiÅ zamiar patrzy z oczu.
+
+    _(Oddala siÄ)._
+
+*Romeo.* Czarna pieczaro, o! ty wnÄtrze Åmierci,
+Tuczne najdroÅ¼szym na tej ziemi szczÄtkiem,
+OtwÃ³rz mi swojÄ zardzewiaÅÄ paszczÄ,
+A ja ci nowÄ Å¼ertwÄ rzucÄ za to.
+
+    _(Odbija drzwi grobowca)._
+
+*Parys.* To ten wygnany, zuchwaÅy Monteki,
+Co zamordowaÅ Tybalta, po ktÃ³rym
+Å»al, jak mniemajÄ, sprowadziÅ ÅmierÄ Julii;
+I on tu przyszedÅ knuÄ jeszcze zamachy
+Przeciw umarÅym; muszÄ go przytrzymaÄ.
+
+    _(PostÄpuje naprzÃ³d)._
+
+SpuÅÄ ÅwiÄtokradzkÄ dÅoÅ, niecny Monteki!
+MoÅ¼eÅ¼ siÄ zemsta aÅ¼ za grÃ³b rozciÄgaÄ?
+Skazany zbrodniu, aresztujÄ ciebie;
+BÄdÅº mi posÅuszny i pÃ³jdÅº; musisz umrzeÄ.
+
+*Romeo.* MuszÄ zaprawdÄ, i po tom tu przyszedÅ.
+MÅodzieÅcze, nie draÅ¼Å czÅowieka w rozpaczy;
+Zostaw miÄ, odejdÅº; pomyÅl o tych zmarÅych
+I zadrÅ¼yj. BÅagam ciÄ na wszystkie wzglÄdy,
+Nie wal nowego grzechu na mÄ gÅowÄ,
+PrzyprowadzajÄc miÄ do pasyi; odejdÅº!
+Na Boga, Å¼yczÄ ci lepiej, niÅ¼ sobie;
+Bom ja tu przyszedÅ przeciw sobie zbrojny.
+O! odejdÅº, odejdÅº! Å¼yj i powiedz potem:
+Â»Z Åaski szaleÅca cieszÄ siÄ Å¼ywotem.Â«
+
+*Parys.* Za nic mam wszelkie twoje przeÅoÅ¼enia
+I aresztujÄ ciÄ jako zÅoczyÅcÄ.
+
+*Romeo.* Wyzywasz mojÄ wÅciekÅoÅÄ, broÅ siÄ zatem.
+
+    _(WalczÄ)._
+
+*PaÅº.* O nieba! bijÄ siÄ, biegnÄ po wartÄ.
+
+    _(Wychodzi)._
+
+*Parys* _(padajÄc)._ Zabity jestem. O, jeÅli masz litoÅÄ,
+OtwÃ³rz grobowiec i zÅÃ³Å¼ miÄ przy Julii.
+
+    _(Umiera)._
+
+*Romeo.* Stanie-Ä siÄ zadoÅÄ. Lecz ktÃ³Å¼ to jest taki?
+To hrabia Parys, Merkucia plemiennik!
+CÃ³Å¼ to mi w drodze prawiÅ mÃ³j sÅuÅ¼Äcy?
+Lecz wtedy moja nieprzytomna dusza
+Uwagi na to nie zwrÃ³ciÅa; Parys,
+MÃ³wiÅ, podobno miaÅ zaÅlubiÄ JuliÄ.
+Czy on to mÃ³wiÅ? czy mi siÄ to ÅniÅo?
+Czyli teÅ¼ jestem w obÅÄkaniu myÅlÄc,
+Å»e jego wzmianka o Julii tak brzmiaÅa?
+Daj mi uÅcisnÄÄ twÄ dÅoÅ, o, ty w jednÄ
+KsiÄgÄ niedoli ze mnÄ zapisany!
+ZÅoÅ¼Ä twe zwÅoki w tryumfalnym grobie.
+W grobie?--nie, mÅoda ofiaro, nie w grobie,
+W latarni raczej, bo tu Julia leÅ¼y;
+A blask jej wdziÄkÃ³w zmienia to sklepienie
+W przybytek ÅwiatÅa. Spoczywaj w pokoju,
+Trupie, rÄkami trupa pogrzebiony!
+
+    _(SkÅada ciaÅo Parysa w grobowcu)._
+
+MÃ³wiÄ, Å¼e nieraz ludzie bliscy Åmierci
+Miewali chwile wesoÅe; ich strÃ³Å¼e
+ZwÄ to ostatnim przedÅmiertnym wybÅyskiem;
+CoÅ podobnego i u mnieÅ¼ siÄ zdarza?--
+Julio! kochanko moja! moja Å¼ono!
+ÅmierÄ, co wyssaÅa miÃ³d twojego tchnienia,
+WdziÄkÃ³w twych zatrzeÄ nie zdoÅaÅa jeszcze.
+Nie jesteÅ jeszcze zwyciÄÅ¼onÄ: karmin,
+Ten sztandar wdziÄkÃ³w, nie przestaÅ powiewaÄ
+Na twoich licach i bladej swej flagi
+Zniszczenie na nich jeszcze nie zatknÄÅo.
+Tybalcie, tyÅ¼ to Åpisz pod tym caÅunem?
+MogÄÅ¼ czem lepszem zadoÅÄ ci uczyniÄ,
+Jak, Å¼e tÄ rÄkÄ, co zabiÅa ciebie,
+PrzetnÄ dni tego, co byÅ twoim wrogiem?
+Przebacz mi, przebacz, Tybalcie! Ach, Julio!
+JakÅ¼eÅ ty jeszcze piÄkna! MamÅ¼e myÅleÄ,
+Å»e bezcielesna nawet ÅmierÄ ulega
+WpÅywom miÅoÅci? Å¼e chudy ten potwÃ³r
+W ciemnicy tej ciÄ trzyma jak kochankÄ?
+BojÄc siÄ tego, zostanÄ przy tobie,
+I nigdy, nigdy juÅ¼ nie wyjdÄ z tego
+PaÅacu nocy; tu, tu mieszkaÄ bÄdÄ
+PoÅrÃ³d twojego orszaku--robactwa.
+Tu sobie staÅÄ zaÅoÅ¼Ä siedzibÄ,
+Gdy z tego ciaÅa znuÅ¼onego Åwiatem
+OtrzÄsnÄ jarzmo gwiazd zawistnych. Oczy,
+Spojrzyjcie po raz ostatni! ramiona,
+Po raz ostatni zegnijcie siÄ w uÅcisk!
+A wy, podwoje tchu, zapieczÄtujcie
+PocaÅowaniem akt sojuszu z ÅmierciÄ,
+Na wieczne czasy majÄcy siÄ zawrzeÄ!
+PÃ³jdÅº, ty niesmaczny, cierpki przewodniku!
+Blady sterniku, pÃ³jdÅº rzuciÄ o skaÅy
+Falami Å¼ycia skoÅatanÄ ÅÃ³dkÄ!
+Do ciebie, Julio! _(Pije)._ Walny aptekarzu!
+PÅyn twÃ³j skutkuje. CaÅujÄc--umieram.
+
+    _(Umiera)._
+
+    _(Wchodzi O. Laurenty z przeciwnej strony cmentarza, z latarniÄ,
+    drÄgiem Å¼elaznym i rydlem)._
+
+*O. Laurenty.* ÅwiÄty Franciszku, wspieraj miÄ! Jak czÄsto
+O takiej porze stare moje stopy
+O gÅazy grobÃ³w potrÄcaÅy! Kto tu?
+KtÃ³Å¼ to tak pÃ³Åºno obcuje z zmarÅymi?
+
+*Baltazar.* Przyjaciel, ktÃ³ry was dobrze zna, ojcze.
+
+*O. Laurenty.* BÃ³g z tobÄ! Powiedz mi, mÃ³j przyjacielu,
+Co znaczy owa pochodnia ÅwiecÄca
+Chyba robakom i bezocznym czaszkom?
+Nie tlejeÅ¼ ona w grobach KapuletÃ³w?
+
+*Baltazar.* Tam wÅaÅnie; jest tam i mÃ³j pan, ktÃ³remu
+Sprzyjacie, ojcze.
+
+*O. Laurenty.*     Kto taki?
+
+*Baltazar.*                   Romeo.
+
+*O. Laurenty.* Jak dawno on tam jest?
+
+*Baltazar.*                           Od pÃ³Ågodziny.
+
+*O. Laurenty.* PÃ³jdÅº ze mnÄ, bracie, do tych sklepieÅ.
+
+*Baltazar.* Nie Åmiem;
+Bo mi pan kazaÅ odejÅÄ i straszliwie
+ZagroziÅ ÅmierciÄ, jeÅli tu zostanÄ
+I kroki jego waÅ¼Ä siÄ podglÄdaÄ.
+
+*O. Laurenty.* ZostaÅ wiÄc, ja sam pÃ³jdÄ. DrÅ¼Ä z obawy,
+Czy siÄ nie staÅo co nieszczÄÅliwego.
+
+*Baltazar.* Gdym drzymaÅ, leÅ¼Äc owdzie pod cisami,
+MarzyÅo mi siÄ, ze mÃ³j pan z kimÅ walczyÅ
+I Å¼e pokonaÅ tamtego.
+
+*O. Laurenty.* _(postÄpujÄc naprzÃ³d)._ Romeo!
+Na miÅoÅÄ boskÄ, czyjaÅ¼ to krew broczy
+Kamienne wnijÅcie do tego grobowca?
+CzyjeÅ¼ to miecze samopas rzucone
+LeÅ¼Ä u tego siedliska pokoju?
+
+    _(wchodzi do grobowca)._
+
+Romeo! blady!--Parys! i on takÅ¼e!
+I krwiÄ zalany? Ach! cÃ³Å¼ za fatalnoÅÄ
+Tak opÅakany zrzÄdziÅa wypadek!--
+Julia siÄ budzi.
+
+*Julia* _(budzÄc siÄ i podnoszÄc)._ O, pocieszycielu!
+Gdzie mÃ³j kochanek? Wiem, gdzie byÄ powinnam,
+I tam teÅ¼ jestem; lecz gdzie mÃ³j Romeo?
+
+    _(HaÅas za scenÄ)._
+
+*O. Laurenty.* CÃ³Å¼ to za haÅas? Julio, wyjdÅºmy z tego
+Mieszkania Åmierci, zgrozy i zniszczenia.
+PotÄga, ktÃ³rej nikt z nas siÄ nie oprze,
+W niwecz zamiary nasze obrÃ³ciÅa.
+PÃ³jdÅº: twÃ³j mÄÅ¼ leÅ¼y martwy obok ciebie.
+I Parys takÅ¼e. PÃ³jdÅº; pÃ³jdÅº, zaprowadzÄÄ
+Do monasteru ÅwiÄtych siÃ³str zakonnych.
+Nie zwÅÃ³cz, nie pytaj, bo warta nadchodzi.
+PÃ³jdÅº, biedna Julio! _(Znowu haÅas)._ Nie mogÄ juÅ¼ czekaÄ.
+
+    _(Wychodzi)._
+
+*Julia.* IdÅº z Bogiem, starcze; idÅº, ja tu zostanÄ.
+CÃ³Å¼ to jest? Czara w zaciÅniÄtej dÅoni
+Mego kochanka? TruciznÄ wiÄc zaÅ¼yÅ!
+O, skÄpiec! WypiÅ wszystko; ani kropli
+Nie pozostawiÅ dla mnie! PrzytknÄ usta
+Do twych kochanych ust, moÅ¼e tam jeszcze
+Znajdzie siÄ jaka odrobina jadu,
+Co miÄ zabije w upojeniu bÅogim. _(CaÅuje go)._
+Twe usta ciepÅe.
+
+*DowÃ³dcz warty* _(za scenÄ)._ Gdzie to? pokaÅ¼, chÅopcze.
+
+*Julia.* IdÄ; czas koÅczyÄ. _(ChwytajÄc sztylet Romea)._
+                                 Zbawczy puginale!
+Tu twoja pochwa. _(Przebija siÄ)._ Tkwij w tym futerale.
+
+    _(Pada na ciaÅo Romea i umiera)._
+
+    _(Wchodzi warta z paziem Parysa)._
+
+*PaÅº.* Tu, tu, w tem miejscu, gdzie pÅonie pochodnia.
+
+*DowÃ³dca.* Ziemia zbroczona: obejdÅºcie w krÄg cmentarz
+I przytrzymajcie, kogo napotkacie.
+
+    _(Wychodzi kilku ludzi z warty)._
+
+Smutny widoku! tu hrabia zabity,
+Tu Julia we krwi pÅywa, jeszcze ciepÅa,
+Tylko co zmarÅa: ona, co przed dwoma
+Dniami w tym grobie byÅa pochowana.
+IdÅºcie powiedzieÄ o tem ksiÄciu; Åpieszcie,
+Wy do Montekich, wy do KapuletÃ³w,
+A wy odbÄdÅºcie przeglÄd w innej stronie.
+
+    _(Wychodzi kilku innych wartownikÃ³w)._
+
+Widzimy miejsce, gdzie zaszÅa tu zgroza,
+Lecz w jaki ona sposÃ³b miaÅa miejsce,
+Tego nie moÅ¼em pojÄÄ bez objaÅnieÅ.
+
+    _(Wchodzi kilku innych wartownikÃ³w z Baltazarem)._
+
+*Pierwszy wartownik.* Oto Romea sÅuga, znaleÅºliÅmy
+Go na cmentarzu.
+
+*DowÃ³dca.* Niech bÄdzie pod straÅ¼Ä,
+DopÃ³ki ksiÄÅ¼Ä nie nadejdzie.
+
+    _(Wchodzi kilku innych wartownikÃ³w, prowadzÄc O. Laurentego)._
+
+*Drugi wartownik.* Oto mnich jakiÅ drÅ¼Äcy i pÅaczÄcy;
+OdebraliÅmy mu ten drÄg i rydel,
+Kiedy siÄ bokiem cmentarza wykradaÅ.
+
+*DowÃ³dca.* To jakiÅ ptaszek; trzymajcie go takÅ¼e.
+
+    _(Wchodzi ksiÄÅ¼Ä ze swym orszakiem)._
+
+*KsiÄÅ¼Ä.* Co za nieszczÄÅcie o tak rannej porze
+Sen nasz przerwaÅo i aÅ¼ tu nas wzywa?
+
+    _(Wchodzi Kapulet, pani Kapulet i inne osoby)._
+
+*Kapulet.* JakiÅ¼ byÄ moÅ¼e powÃ³d tego zgieÅku?
+
+*Pani Kapulet.* Lud po ulicach wykrzykuje: Julia!
+Parys! Romeo!, i jedni przez drugich
+TÅumnie tu dÄÅ¼Ä do naszego grobu.
+
+*KsiÄÅ¼Ä.* CÃ³Å¼ to za postrach rozruch ten sprowadza!
+Odpowiadajcie!
+
+*DowÃ³dca.* MiÅoÅciwy panie!
+Oto zabity leÅ¼y hrabia Parys!
+Romeo martwy i Julia wprzÃ³d zmarÅa,
+A teraz ciepÅa, z puginaÅem w piersi.
+
+*KsiÄÅ¼Ä.* Szukajcie, ÅledÅºcie sprawcÃ³w tego mordu.
+
+*DowÃ³dca.* Oto mnich jakiÅ i Romea sÅuga,
+KtÃ³rych tu moi ludzie przytrzymali,
+I ktÃ³rzy mieli przy sobie narzÄdzia
+Do odbijania grobÃ³w.
+
+*Kapulet.* O, nieba! Å¼ono, patrz, jak jÄ krew broczy!
+PuginaÅ zbÅÄdziÅ z drogi;--oto bowiem
+Pochwa od niego wisi przy Montekim;
+Zamiast w niÄ trafiÄ, trafiÅ w pierÅ mej cÃ³rki.
+
+*Pani Kapulet.* Niestety! widok ten, jak odgÅos dzwonu,
+Ostrzega staroÅÄ mÄ o chwili zgonu.
+
+    _(Wchodzi Monteki i inne osoby)._
+
+*KsiÄÅ¼Ä.* Monteki, wczeÅnie wstaÅeÅ, aby ujrzeÄ
+Nadziei swoich wczeÅniejszy upadek!
+
+*Monteki.* Ach! miÅoÅciwy ksiÄÅ¼Ä, Å¼ona moja
+ZmarÅa tej nocy z tÄsknoty za synem;
+JakiÅ¼ cios jeszcze niebo mi przeznaczaÄ?
+
+*KsiÄÅ¼Ä.* Patrz, a zobaczysz!
+
+*Monteki.*                    O, niedobry synu!
+Jak siÄ waÅ¼yÅeÅ w grÃ³b uprzedziÄ ojca?
+
+*KsiÄÅ¼Ä.* Zamknijcie usta Å¼alowi na chwilÄ,
+PÃ³ki zagadki tej nie rozwiÄÅ¼emy
+I nie zbadamy jej ÅºrÃ³dÅa i wÄtku:
+Wtedy sam stanÄ na skarg waszych czele
+I bÄdÄ waszej boleÅci heroldem.
+Stawcie, na kogo pada podejrzenie.
+
+*O. Laurenty.* Ja to, o panie! lubo najmniej zdolny
+Do popeÅnienia czegoÅ podobnego,
+Jestem, ze wzglÄdu na okolicznoÅci,
+Poszlakowany najprawdopodobniej
+O dzieÅo tego okropnego mordu;
+StajÄ wiÄc jako wÅasny oskarÅ¼yciel
+I jako wÅasny obroÅca w tej sprawie,
+By siÄ potÄpiÄ i usprawiedliwiÄ.
+
+*KsiÄÅ¼Ä.* MÃ³w, czegoÅ Åwiadom.
+
+*O. Laurenty.* ZwiÄÅºle rzecz opowiem,
+Bo tchnieÅ mych pasmo krÃ³tszem jest zaiste,
+NiÅ¼ dÅuga powieÅÄ. Romeo, ktÃ³rego
+ZwÅoki tu leÅ¼Ä, byÅ maÅÅ¼onkiem Julii,
+A Julia byÅa prawÄ jego Å¼onÄ;
+Jam ich zaÅlubiÅ, a dniem tajemnego
+Ich poÅÄczenia byÅ Ã³w dzieÅ nieszczÄsnej
+Tybalta Åmierci, ktÃ³ra nowoÅ¼eÅca
+WygnaÅa z miasta; i ten to byÅ powÃ³d
+Cierpienia Julii, nie Å¼al po Tybalcie.
+
+    _(Do KapuletÃ³w)._
+
+Wy, chcÄc oddaliÄ od niej chmury smutku,
+ZarÄczyliÅcie jÄ i do maÅÅ¼eÅstwa
+Z hrabiÄ Parysem chcieliÅcie jÄ zmusiÄ.
+W tej alternacie przyszÅa ona do mnie
+I nalegaÅa usilnemi proÅby
+O doradzenie jej jakiego Årodka,
+Coby od tego powtÃ³rnego zwiÄzku
+MÃ³gÅ jÄ uwolniÄ; w przeciwnym zaÅ razie
+ChciaÅa w mej celi Å¼ycie sobie odjÄÄ.
+DaÅem jej tedy, ufny w mojej sztukÄ,
+UsypiajÄce krople, ktÃ³rych skutek
+Bynajmniej miÄ nie zawiÃ³dÅ, bo jej nadaÅ
+PozÃ³r umarÅej. NapisaÅem przytem
+List do Romea, wzywajÄc go, aby
+Dzisiejszej nocy, o tÄ porÄ, w ktÃ³rej
+DziaÅanie owych kropel miaÅo ustaÄ,
+ZszedÅ siÄ tu ze mnÄ, dla wyswobodzenia
+Tej, co mu daÅa taki dowÃ³d wiary,
+Z tymczasowego jej grobu. Traf zrzÄdziÅ,
+Å»e brat Jan, ktÃ³ry z listem byÅ wysÅany,
+Nie mÃ³gÅ siÄ z miasta wydostaÄ i wczoraj
+List ten mi zwrÃ³ciÅ. O godzinie zatem
+Na jej ocknienie ÅciÅle naznaczonej
+Sam pospieszyÅem wyrwaÄ jÄ z tych sklepieÅ,
+ChcÄc jÄ nastÄpnie umieÅciÄ w mej celi,
+PÃ³ki Romeo nie przybÄdzie; ale
+Kiedym tu przyszedÅ (na niewiele minut
+Przed jej zbudzeniem), juÅ¼ szlachetny Parys
+LeÅ¼aÅ bez duszy, i Romeo takÅ¼e.
+Ona siÄ budzi, jam siÄ jÄÅ przekÅadaÄ,
+By poszÅa ze mnÄ i to dopuszczenie
+Nieba przyjÄÅa z kornÄ ulegÅoÅciÄ;
+Gdy wtem zgieÅk nagÅy spÅoszyÅ miÄ od grobu,
+A ona, gÅucha na moje namowy,
+RozpaczÄ zdjÄta, pozostaÅa w miejscu,
+I, jak siÄ zdaje, cios zadaÅa sobie.
+Oto jest wszystko, co wiem; o maÅÅ¼eÅstwie
+Marta zaÅwiadczy. JeÅli to nieszczÄÅcie
+ChoÄ najmniej z mojej nastÄpiÅo winy,
+Niech mÃ³j sÄdziwy wiek odpowie za to,
+Na kilka godzin przed bliskim juÅ¼ kresem,
+Wedle rygoru praw jak najsurowszych.
+
+*KsiÄÅ¼Ä.* Jako mÄÅ¼ ÅwiÄty zawszeÅ nam byÅ znany.
+Gdzie jest Romea sÅuga? CÃ³Å¼ on powie?
+
+*Baltazar.* ZaniosÅem panu wieÅÄ o Åmierci Julii;
+Wraz on wziÄÅ pocztÄ i z Mantui przybyÅ
+Prosto w to miejsce, do tego grobowca.
+Ten list mi kazaÅ rano oddaÄ ojcu;
+I, w grÃ³b wstÄpujÄc zagroziÅ mi ÅmierciÄ,
+JeÅli nie pÃ³jdÄ precz lub nazad wrÃ³cÄ.
+
+*KsiÄÅ¼Ä.* Daj mi to pismo, przejrzÄ je.--A teraz,
+Gdzie paÅº hrabiego, co wartÄ sprowadziÅ?
+Co twÃ³j pan, chÅopcze, porabiaÅ w tem miejscu?
+
+*PaÅº.* PrzyszedÅ kwiatami ubraÄ grÃ³b swej przyszÅej;
+KazaÅ mi stanÄÄ zdala, com teÅ¼ zrobiÅ;
+Wtem ktoÅ ze ÅwiatÅem przyszedÅ grÃ³b otwieraÄ,
+I mÃ³j pan dobyÅ szpady przeciw niemu;
+Co zobaczywszy, pobiegÅem po wartÄ.
+
+*KsiÄÅ¼Ä.* List ten potwierdza sÅowa zakonnika,
+Bieg ich miÅoÅci i Romea rozpacz.
+Biedny mÅodzieniec pisze oprÃ³cz tego,
+Å»e sobie kupiÅ gdzieÅ u aptekarza
+Trucizny, ktÃ³rÄ postanowiÅ zaÅ¼yÄ
+W tym tu grobowcu, by umrzeÄ przy Julii.
+Rzecz jasna! Gdzie sÄ ci nieprzyjaciele?
+Patrzcie, Monteki! Kapulecie! jaka
+ChÅosta spotyka wasze nienawiÅci,
+Niebo obraÅo miÅoÅÄ za narzÄdzie
+Zabicia pociech waszego Å¼ywota;
+I ja za moje zbytnie pobÅaÅ¼anie
+Waszym niesnaskom straciÅem dwÃ³ch krewnych.
+Wszyscy jesteÅmy ukarani.
+
+*Kapulet.* Monteki, bracie mÃ³j, podaj mi rÄkÄ:
+Niech to oprawÄ bÄdzie dla mej cÃ³rki;
+WiÄcej nie mogÄ Å¼ÄdaÄ.
+
+*Monteki.*            Lecz ja mogÄ
+WiÄcej daÄ tobie nad to: kaÅ¼Ä bowiem
+PosÄg jej ulaÄ ze szczerego zÅota,
+By siÄ nie znalazÅ szacowniejszy pomnik
+Po wszystkie czasy istnienia Werony,
+Jak ten, pamiÄci Julii poÅwiÄcony.
+
+*Kapulet.* Tak i Romeo stanie przy swej Å¼onie;
+DzielÄc za Å¼ycia, zÅÄczmy ich po zgonie.
+
+*KsiÄÅ¼Ä.* PonurÄ zgodÄ ranek ten skojarzyÅ;
+SÅoÅce siÄ z Å¼alu w chmur zasÅonÄ tuli,
+Smutniejszej bowiem los jeszcze nie zdarzyÅ,
+NiÅ¼ ta historia Romea i Julii.
+
+    _(WychodzÄ)._
+
+
+
+
+
+End of the Project Gutenberg EBook of Romeo i Julia, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ROMEO I JULIA ***
+
+***** This file should be named 27062-0.txt or 27062-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/7/0/6/27062/
+
+Produced by Jimmy O'Regan (This file was produced from
+images generously made available by CBN Polona
+http://www.polona.pl)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

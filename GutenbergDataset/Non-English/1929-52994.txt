@@ -1,0 +1,2489 @@
+The Project Gutenberg EBook of Uhrilauluja, by Rabindranath Tagore
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: Uhrilauluja
+
+Author: Rabindranath Tagore
+
+Translator: Eino Leino
+
+Release Date: September 6, 2016 [EBook #52994]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK UHRILAULUJA ***
+
+
+
+
+Produced by Jari Koivisto
+
+
+
+
+
+
+UHRILAULUJA
+
+Kirj.
+
+Rabindranath Tagore
+
+
+Suom. Eino Leino
+
+
+
+
+
+Helsingissä,
+Kustannusosakeyhtiö Kirja,
+1917.
+
+
+
+
+Rabindranath Tagoren runoudesta.
+
+
+I.
+
+Englantilaiseen painokseen on kirjailija _William Butler Yeats_
+kirjoittanut seuraavan esipuheen:
+
+Muutamia päiviä sitten sanoin eräälle huomattavassa asemassa olevalle
+lääketieteen tohtorille Bengalista, Indiasta: "En osaa saksaa, mutta
+jos käännös jostakin Saksan runoilijan teoksesta tekisi minuun
+vaikutuksen, menisin British Museumin kirjastoon hakemaan
+englanninkielisistä kirjoista joitakin tietoja hänen elämästään ja
+hänen elämänymmärryksensä kehittymisestä. Mutta vaikka nämä
+suorasanaiskäännökset Rabindranath Tagoren runoista ovat panneet vereni
+kiertämään kiivaammin kuin vuosiin on tapahtunut, en voi saada mitään
+tietoja hänen elämästään enkä siitä ajatusten työskentelystä, joka on
+tehnyt ne mahdollisiksi, ellei joku Indian tuntija minulle niistä
+kerro." Saamani vaikutelmat, tuntuivat hänestä luonnollisilta, sillä
+hän sanoi: "Luen Rabindranath Tagorea joka päivä; rivinen hänen
+runoudestaan saa unhottamaan kaikki maailman huolet." Sanoin tähän:
+"Jos joku englantilainen, joka asui Lontoossa Rikhard II:sen aikana,
+olisi saanut nähdä käännöksiä Petrarcan tahi Danten teoksista, niin ei
+hänellä olisi ollut käytettävänään mitään kirjallisuutta, josta hakea
+vastausta kysymyksiinsä, vaan olisi hän kääntynyt jonkun firenzeläisen
+tai lombardialaisen kauppiaan puoleen kuten minä Teidän puoleenne.
+Sillä, mikäli minä voin sanoa, niin rikasta yksinkertaisuudessaan on
+tämä runous, että uusi renessanssi on lähtenyt Teidän maastanne, ja
+siitä voin saada tietoja ainoastaan suusanallisesti." Hän vastasi:
+"Meillä on muitakin runoilijoita, mutta ei ainoatakaan hänen
+vertaistaan. Europassa ei ainoakaan sen runoilijoista tunnu
+olevan niin kuuluisa kuin hän on meidän keskuudessamme. Hän on yhtä
+etevä säveltäjä kuin runoilija, ja hänen laulujansa lauletaan Indian
+länsiosista aina Birmaan saakka, missä ikinä bengalin kieltä
+puhutaan. Hän tuli kuuluisaksi jo yhdeksäntoista vanhana, jolloin hän
+kirjoitti ensimmäisen kertomuksensa; näytelmiä, jotka hän kirjoitti
+tultuaan hiukan vanhemmaksi, esitetään vieläkin Kalkuttassa. Minä
+ihailen hänen elämänsä täydellisyyttä; kun hän oli vielä hyvin
+nuori, kirjoitti hän paljon luonnosta, istuen kaiket päivät
+puutarhassaan; viidennestäkolmatta vuodestaan tai niiltä paikoin noin
+viidenteenneljättä saakka, jolloin häntä kohtasi suuri suru, kirjoitti
+hän ihaninta lemmenrunoutta mitä ikinä on kielellämme tunnettu."
+-- Ja kertojani sanoi tässä syvän liikutuksen valtaamana: "Sanoilla en
+voi koskaan tulkita, mitä seitsentoistavuotiaana sain hänen
+lemmenrunoistaan. Tämän jälkeen hänen taiteensa syveni, muuttuen
+aiheeltaan uskonnolliseksi, filosofiseksi; hänen hymneissään kuvastuvat
+kaikki ihmiskunnan toivomukset. Hän on ensimmäinen meidän
+pyhimyksistämme, joka ei ole kieltänyt elämää, vaan on itse lähtenyt
+Elämän ytimestä, ja siksi me häntä rakastamme." Mahdollista on, että
+olen muistissani muuttanut hänen sanojansa, mutta en hänen
+ajatuksiansa. "Joku aika sitten", jatkoi kertojani, "piti hänen
+toimittaa jumalanpalvelus eräässä kirkoistamme -- me Brahma Saraaj'n
+palvelijat olemme ottaneet kielessämme käytäntöön sanan 'kirkko' --;
+vaikka se on Kalkuttan suurin, niin kansanjoukko ei siihen kuitenkaan
+mahtunut, vaan täytti akkunat ja läheiset kadutkin, pysähdyttäen
+liikenteen."
+
+Olen puhutellut muitakin Indiasta tulleita, ja se kunnioitus, jolla he
+puhuvat tästä miehestä, tuntuu oudolta meidän oloissamme, jossa sekä
+suuret että pienet ilmiöt peittyvät saman yleisen pilanteon ja
+halventamishalun alle. Kun rakensimme kirkkojamme, muistimmeko
+samallaisella kunnioituksella suuria miehiämme? "Joka aamu kello 3 --
+tiedän, koska olen itse nähnyt", sanoi eräs kertojistani, -- "hän istuu
+liikkumattomana, vaipuneena mietiskelyyn, eikä herää kahteen tuntiin
+Jumalan luontoa tutkivista unelmistaan. Hänen isänsä Maha Rishi saattoi
+joskus istua tällä tavalla koko nousevan päivänkin; matkustaessaan
+kerran eräällä joella hän vaipui mietiskelyihin maiseman kauneuden
+johdosta, ja soutajat saivat odottaa kahdeksan tuntia, ennenkuin
+päästiin matkaa jatkamaan." Hän kertoi sitten minulle Tagoren
+perheestä, kuinka sen kehdoista on neljän sukupolven aikana tullut vain
+kuuluisia miehiä. "Nyt elävistä", jatkoi hän, "on mainittava
+Gogonendranath ja Abanindranath Tagore, jotka ovat taiteilijoita; ja
+Dwijendranath, Rabindranathin veli, joka on suuri filosofi. Oravat
+laskeutuvat puiden oksilta hänen olkapäilleen, ja linnut istahtavat
+hänen kädelleen." Huomaan näiden miesten ajatuksissa tunteen siitä,
+että on näkyväistä kauneutta; on kuin he kannattaisivat Nietzschen
+oppia, ettei saa uskoa siveelliseen tai älylliseen kauneuteen, ellei se
+ennemmin tai myöhemmin lyö leimaansa fyysillisiin esineisiin. Vastasin:
+"Itämailla osaatte pitää yllä kuuluisain perheitten mainetta. Eräänä
+päivänä osoitti minulle muutaman museon johtaja pientä mustaa miestä,
+joka parhaillaan järjesteli museon kiinalaista kirjatuotekokoelmaa, ja
+sanoi: 'Hän on Mikadon erikoistuntija tällä alalla, jo neljästoista
+polvi samasta perheestä tällä paikalla!' Hän vastasi: 'Pojasta
+saakka on Rabindranathilla ollut ympäristössään kirjallisuutta ja
+musiikkia'." Muistin runojen sisällyksen yltäkylläisyyden ja
+yksinkertaisuuden ja kysyin: "Harjoitetaanko teidän maassanne paljon
+kansanvalistus-kirjoittelua ja arvostelutyötä? Meillä, erittäinkin
+minun maassani, on niin paljon työtä, että henkemme luomiskyky
+asteittain ehtyy, ja kuitenkaan ei työmme näytä kantavan hedelmää.
+Ellei elämämme olisi alituista sodankäyntiä, meillä ei olisi mitään
+makua, emme tietäisi, mikä on hyvää, eikä meillä olisi kuulijoita eikä
+lukijoita. Neljä viidesosaa tarmostamme kuluu taisteluun huonoa makua
+vastaan, esiintyipä se sitten meissä itsessämme tahi muissa." "Minä
+ymmärrän", vastasi hän, "meilläkin on valistuskirjallisuutemme.
+Maakylissä luetaan pitkiä jumaltarurunoja, jotka ovat kotoisin
+keskiajalta, sanskritin kielestä, ja joissa on usein kohtia, jotka
+kehoittavat kansaa tekemään velvollisuutensa."
+
+
+II.
+
+Olen pitänyt mukanani näiden käännösten käsikirjoituksia päiväkausia,
+lukien niitä rautatievaunuissa, raitioteiden katoilla ja ravintoloissa,
+ja usein olen ollut pakotettu panemaan ne pois, etteivät syrjäiset
+huomaisi niiden aiheuttamaa liikutusta. Näissä lyriikan paloissa, jotka
+alkukielisessä asussaan -- niin ovat indialaiset ystäväni kertoneet --
+ovat säe säkeeltä paljasta ylevää kauneutta ja rytmiä, värihienoutta,
+jota on mahdotonta kääntäen tulkita, täynnä runomitallisia uutuuksia,
+niiden ajatussisällössä esiintyy se kauneusmaailma, josta olen ikäni
+kaiken unelmoinut. Vaikka se onkin ylhäisen kulttuurin työtä, tuntuu se
+kuitenkin tavallisessa maaperässä kasvaneelta, kuin kukka rikkaruohon
+keskellä. Vuosisatain läpi on säilynyt perintätieto, jolle uskonto ja
+runous on sama asia, joka on koonnut tunteensa ja ilmitulomuotonsa
+oppineilta ja oppimattomilta, ja tuonut ne yhteiselle kansalle
+takaisin. Jos Bengalin sivistys säilyy särkymättä, jos tuo yhteinen
+elämänymmärrys pääsee kehittymään yhtäläisen vallitsevaksi,
+hajautumatta kuten meillä tusinaan eri maailmankatsomukseen, jotka
+eivät tiedä mitään toisistaan, niin sekin, mikä on näissä runoissa
+salatuimman kaunista, muuttuu muutamien sukupolvien aikana
+maantienkulkijankin omaisuudeksi. Silloin kun koko Englannissa oli vain
+yksi ainoa henkinen vastaanottokyky, kirjoitti Chaucer runoelmansa
+Troilus ja Cressida, ja vaikka hän kirjoitti sen luettavaksi, lauloivat
+sitä kuitenkin pian runolaulajat. Kuten Chaucerin edeltäjät, kirjoittaa
+Rabindranath Tagorekin musiikkia sanoihinsa, ja jokainen ymmärtää, että
+hänen ylitsevuotavaisuutensa, ilmaisun helppoutensa, intohimonsa
+rohkeus ja yllätystensä monilukuisuus johtuu siitä, ettei hän koskaan
+esitä mitään, joka on outoa, luonnotonta tai puolustuksen tarpeessa.
+Nämä runot eivät jää pieninä hyvin painettuina kirjasina naisten
+pöydille, jossa välinpitämättömät kädet niitä kääntelevät hakeakseen
+aihetta huoata tarkoituksettoman elämän vuoksi, mikä on kuitenkin
+kaikki, mitä he elämästä tietävät; ne eivät ole sellaista ylioppilaan
+lukemista, joka unohtuu, kun tosi elämä alkaa, vaan sukupolvesta
+toiseen maanteiden matkalaiset ja jokien soutajat niitä laulavat.
+Odottaessaan toisiaan huomaavat rakastavaiset kuiskaillessaan niiden
+säkeitä, että niiden synnyttämä Jumalan rakkaus on kuin taikakylpy,
+jossa heidän oma maallisempi intohimonsa voi jälleen saada nuoruutensa.
+Joka hetki tulvii tämän runoilijan sydän yli äyräittensä kastelemaan
+näitä kaikkia, ilman tunkeilua, ilman alentuvaisuutta, sillä se tietää,
+että häntä tahdotaan ymmärtää; se on täyttynyt heidän elämällänsä.
+Matkustaja punaruskeassa vaipassaan, jota hän pitää tomun suojana,
+tyttö, joka poimii vuoteestaan kuninkaallisen rakastajansa
+kukkaseppeleestä pudonneita terälehtiä, palvelija tahi morsian odottaen
+tyhjässä talossa isäntänsä kotiintuloa, ne ovat kuvia sydämen
+kääntymisestä Jumalan puoleen. Kukat ja joet, soitto näkinkengällä,
+Indian rankka heinäkuun sade, tahi paahtava kuumuus, ne ovat kuvia
+niistä mielialoista, jolloin sydän on joko yhtymässä tahi eroamassa; ja
+tuo mies tuolla joella, joka istuu venheessään soittaen kanneltaan, hän
+on kuin joku salaperäinen olio kiinalaisessa maalauksessa, täynnä
+salamyhkäistä tarkoitusta, hän on Jumala Itse. Tämä mielikuvitus
+näyttää sulattaneen itseensä koko kansan, koko sivistysmuodon, joka on
+meille mittaamattoman outo; ja kuitenkaan se ei liikuta meitä siksi,
+että se on outoa, vaan siksi, että olemme kohdanneet siellä oman
+kuvamme, kuin olisimme vaeltaneet Rossetti'in salavametsässä, tai
+kuulleet -- kenties ensi kertaa kirjallisuudessa -- äänemme kuin
+unessa.
+
+Renessanssin jälkeen on Europan pyhimysten sana -- niin tuttuja kuin
+heidän kuvansa ja heidän ajatusmaailmansa rakenne ovatkin -- lakannut
+kiinnittämästä meidän huomiotamme. Me tiedämme, että meidän täytyy
+lopuksikin luopua maailmasta, ja me olemme tottuneet mietiskelemään
+väsymyksen tai innostuksen hetkinä vapaaehtoista luopumista siitä,
+mutta kuinka voimme me, jotka olemme lukeneet niin paljon runoutta,
+nähneet niin monta maalausta, kuunnelleet niin paljon musiikkia, jossa
+lihan ja sielun huuto tuntuu yhtyvän yhdeksi, jättää sen äkkiä ja
+jyrkästi? Mitä yhteistä on meillä pyhän Bernhardin kanssa, joka peitti
+silmänsä, etteivät ne näkisi Sveitsin järvien kauneutta, tai
+Ilmestyskirjan hurjan kaunopuheisuuden kanssa? Me käyttäisimme, jos
+voisimme, mitä miellyttävimpiä sanoja, kuten tässä kirjassa. "Olen
+sanonut jäähyväiset. Hyvästelkää tekin minua, veljet! Minä kumarran
+teille kaikille ja lähden. Tässä annan takaisin oveni avaimet -- luovun
+kaikista oikeuksistani huoneeseeni. Pyydän teiltä vain viimeisiä
+ystävällisiä sanoja. Olimme naapureina kauan, mutta minä sain enemmän
+kuin voin antaa. Nyt on päivä koittanut ja lamppu, joka on valaissut
+huonettani, on sammunut. Käsky on tullut, ja minä olen valmis
+matkalle." Ja näinhän huutaa meidän oma sydämemme, kun se on kauimpana
+Tuomas Kempiläisestä tai Bunyanista, kristityn vaelluksen miehestä: "Ja
+koska minä rakastan tätä elämää, niin tiedän rakastavani kuolemaa yhtä
+paljon." Mutta tämä kirja ei sisällä kaikkea ainoastaan silloin, kun
+aatoksemme askaroi eron tunnelmissa. Emmehän olleet tienneet, että
+rakastimme Jumalaa, tuskinpa lienemme Häneen uskoneetkaan; mutta
+katsoessamme kulunutta elämäämme, kun olemme etsineet polkuja sen
+tiheiköistä, kun olemme iloinneet vuorten yksinäisyydessä, kun olemme
+vaatineet salaisesta käskystä omiksemme niitä naisia, joita olemme
+rakastaneet, me huomaamme tuon liikutuksen, joka luo sydämiimme tämän
+salaperäisen sulouden. "Astuen sydämeeni pyytämättä, kuin joku
+tavallisesta joukosta, tuntemattomana minulle, painoit sinä,
+kuninkaani, ijankaikkisuuden sinetin moneen häipyvään hetkeen." Tämä ei
+ole enää kammion tai ruoskan hurskautta; on kuin kohoaisimme
+ymmärtämään maalarin taidenäkemyksen entisestään kasvanutta voimaa, kun
+hän kuvaa tomua ja aurinkoa, ja kokeaksemme samallaista saamme mennä
+aina Pyhään Franciscukseen ja William Blakeen, jotka ovat näyttäneet
+niin vierailta väkivaltaisessa historiassamme.
+
+
+III.
+
+Me kirjoitamme laajoja teoksia, joista ei kenties ainoakaan sivu ole
+tuottanut syntyessään tekijälleen mielihyvää, luottaen jonkun yleisen
+suunnitelmamme pätevyyteen, aivan samoin kuin ponnistelemme
+ansaitaksemme rahaa, tai ahdamme päämme täyteen politiikkaa -- kaikki
+ikäviä asioita, silloin kun ne on käytännössä suoritettava -- kun
+sitävastoin Tagore, aivan samoin kuin Indian sivistysmuotokin, on
+tyytynyt siihen, että on löytänyt elämän sielun ja antautunut sen
+itsetahtoisen ilmitulon tulkiksi. Hän näyttää usein panevan elämänsä
+niiden rinnalle, jotka elävät enemmän meidän tapaamme ja joilla on
+maailmassa näennäistä arvovaltaa, ja tämän hän tekee nöyrästi ja
+vaatimattomasti, ikäänkuin hän olisi varma ainoastaan siitä, että tämä
+tie on paras hänelle: "Kotiin mennessään vilkaisevat ihmiset minuun,
+hymyilevät ja minä häpeän syvästi. Istun kuin kerjäläistyttö, peittäen
+kasvoni vaipallani, ja kun minulta kysytään, mitä tahdon, katson maahan
+enkä vastaa." Toisen kerran, muistaessaan, miten erilainen hänen
+elämänsä muinoin oli, hän sanoo: "Monta hetkeä olen viettänyt ottelussa
+hyvän ja pahan välillä, mutta nyt on leikkitoverilleni tyhjyyden
+päiviltäni mieluista saattaa sydämeni luoksensa; enkä tiedä, miksi tämä
+äkillinen kutsu siihen, mikä on hyödytöntä epäjohdonmukaisuutta."
+Viattomuudellaan ja yksinkertaisuudellaan, jolla ei ole vertaistaan
+kirjallisuudessa, saattaa hän linnut ja lehdet lukijalle yhtä
+läheisiksi kuin lapsille, ja tekee vuodenaikojen vaihdokset yhtä
+suuriksi tapauksiksi kuin ne olivat, ennenkuin ajatuksemme astuivat
+väliin. Toisin ajoin ihmettelen, lieneekö hän perinyt tuon kaiken
+Bengalin kirjallisuudesta tai uskonnosta, kunnes minua taas toisekseen,
+muistaessani, että taivaan linnut istahtavat hänen veljensä kädelle,
+miellyttää kuvitella, että se on perinnöllistä, että se on salaisilmiö,
+joka on kasvanut vuosisatojen kuluessa kuin jonkun Tristanin ja
+Pelanoren kohteliaisuus. Ja tosiaankin, kun hän puhuu lapsista, niin ei
+voi varmaan sanoa, ottaen huomioon kuinka outo tämä ala on hänelle,
+kirjoittaako hän kuitenkin pyhimyksistä: "He rakentavat huoneensa
+hiekasta ja leikkivät näkinkengän kuorilla. He köynnöstävät venheensä
+kuihtuneilla lehdillä ja liukuvat hymyillen avaroilla syvyyksillä.
+Maailmojen merenrannoilla lapset leikkivät. He eivät osaa uida, eivätkä
+laskea verkkoja. Helmenpyytäjät sukeltavat helmiänsä hakemaan,
+kauppiaat purjehtivat laivoillaan, mutta lapset kokoilevat kirjavia
+kiviä ja viskaavat ne taas syrjään. He eivät hae salattuja aarteita,
+eivätkä osaa laskea verkkojansa."
+
+(Suomentanut _Osmo Iisalo_.)
+
+
+
+
+
+
+UHRILAULUJA
+
+
+1.
+
+Sinä teit minut äärettömäksi, sinua miellytti tehdä niin. Tämän hauraan
+astian sinä tyhjensit jälleen ja jälleen ja täytit sen aina tuoreella
+elämällä.
+
+Tämän pienen ruokohuilun sinä kiidätit yli laaksojen ja kukkuloiden ja
+puhalsit sen kautta aina uusia säveliä.
+
+Sinun kättesi kuolematon kosketus saattaa pienen sydämeni rajat riemuun
+raukenemaan ja se synnyttää sanoja, joita ei voi lausua ihmiskieli.
+
+Sinun äärettömät lahjasi otan minä vastaan vain näillä varsin
+vähäisillä käsilläni. Aikakaudet vierivät, ja sinä vuodatat yhä
+edelleen, ja aina on tilaa täyttämiselle.
+
+
+2.
+
+Jos sinä käsket minua laulamaan, on minusta kuin sydämeni tahtoisi
+haljeta ylpeydestä. Katson kasvoihin sinua, ja silmäni käyvät
+kyyneliin.
+
+Kaikki, mikä on kovaa ja epäsointuista elämässäni, sulaa silloin
+suloiseen harmoniaan. Ja minun hartauteni kohottaa siipensä niinkuin
+lieto lintu, joka lentää järven yli.
+
+Tiedän, että lauluni ilahduttaa sinua. Tiedän, että voin päästä sinun
+eteesi vain laulajana.
+
+Laulun laajojen siipien palteilla kosketan sinun jalkojasi, joihin en
+koskaan voisi edes pyrkiä ylettymään.
+
+Laulamisen hurmasta humaltuneena minä unohdan itseni kokonaan ja
+nimitän ystäväksi sinua, joka olet minun valtiaani.
+
+
+3.
+
+En tiedä, kuinka laulat, mestarini. Kuuntelen aina äänettömässä
+kummastuksessa.
+
+Säveltesi valkeus valaisee maailman. Säveltesi elämänhenkäys käy
+taivaasta taivaaseen. Sävelten pyhä virta särkee tieltään kaikki
+paatiset padot ja vyöryy edelleen.
+
+Sydämeni ikävöi liittyä laulantaasi ja etsii turhaan ääntä itselleen.
+Tahtoisin puhua, mutta puheeni ei soinnu yhteen laulun kanssa, siksi
+huudan pettyneenä. Olet vanginnut sieluni laulusi määrättömillä
+silmukoilla, oi mestarini!
+
+
+4.
+
+Sinä elämäni elämä! Olen aina koettava pitää ruumiini puhtaudessa,
+tietäen, että elävä henkäyksesi lepää jäsenilläni.
+
+Olen aina koettava pitää valheen kaukana ajatuksistani, tietäen, että
+sinä olet totuus, joka olet sytyttänyt järjen valon sielussani.
+
+Olen aina koettava karkoittaa kaiken pahan ja halvan sydämestäni ja
+pitää rakkauteni kukoistuksessa, tietäen, että sinä vallitset sydämeni
+kaikkeinpyhimmässä.
+
+Ja on oleva aina minun pyrkimykseni sinua kaikissa minun teoissani
+todistaa, tietäen, että saan tarmon toimia sinun voimastasi.
+
+
+5.
+
+Pyydän tuokion kärsivällisyyttä saadakseni istua sinun vierelläsi.
+Työn, jota teen, olen myöhemmin lopettava.
+
+Ei lepoa eikä rauhaa saa sydämeni täällä kasvojesi katsonnasta, ja
+minun työni tuntuu rajattomalta vaivalta rannattomalla vaivan ulapalla.
+
+Tänään tuli kesä suristen ja suhisten ikkunaani. Ja mehiläiset
+lauloivat kukkivan lehden pihoilla lemmenlaulujaan.
+
+Nyt on aika istua hiljaa kasvoista kasvoihin sinun kanssasi ja laulaa
+sinulle elämän omistusta tällä vaikenevalla, yli tulvehtivalla
+lomahetkellä.
+
+
+6.
+
+Poimi tämä pieni kukkanen ja ota se äläkä viivyttele, minä pelkään sen
+kuihtuvan ja tomuksi raukenevan.
+
+Se ei ole saapa sijaa sinun kiehkurassasi, mutta kunnioita sitä kätesi
+tuskanpuristuksella ja poimi se pois! Pelkään, että päivä on päättyvä
+ennen kuin huomaankaan ja loppuva aika uhraamisen.
+
+Vaikka sen väri ei ole syvä eikä sen tuoksu väkevä, käytä tämä kukkanen
+palvelukseesi ja poimi se niin kauan kuin aika on.
+
+
+7.
+
+Lauluni on luopunut koruistaan. Se ei upeile puvuin eikä somistimin.
+Koristeet voisivat häiritä yhteyttämme, ne muodostuisivat muuriksi
+meidän välillemme. Sinun kuiskauksesi voisi hukkua sanahelinään.
+
+Runoilijaylpeyteni kuolee häpeään sinun kasvojesi edessä. Olen istunut
+jalkojesi juureen, oi mestari-runoilija! Salli minun tehdä elämäni
+vilpittömäksi ja yksinkertaiseksi kuin huilu, jonka sinä täytät
+sävelillä!
+
+
+8.
+
+Lapsi, joka on puettu ruhtinaalliseen vaatteukseen ja kantaa jalokiviä
+kaulassaan, kadottaa kaiken leikki-ilonsa, sillä hänen pukunsa vaivaa
+häntä joka askeleella.
+
+Pelosta, että se voisi revetä tai tomuun tahrautua, hän pysyttelee
+kaukana maailmasta eikä tohdi tuskin liikkuakaan.
+
+Äiti, sinun pakkokoreutesi ei ole mikään etu, jos se sulkee meidät pois
+maan terveellisestä tomusta, jos se riistää meiltä oikeuden astua
+suuren, yhteisen, inhimillisen elämän turulle.
+
+
+9.
+
+Houkka, joka koetat kantaa itseäsi omilla hartioillasi! Kerjäläinen,
+joka tulet omille ovillesi kerjäämään!
+
+Laske taakkasi hänen käsiinsä, joka kaikki kantaa, äläkä katso taaksesi
+murhemielin!
+
+Himosi sammuttaa heti lampun valon, jota sen henkäys koskettaa. Se on
+epäpyhä -- älä ota vastaan sen saastaisista käsistä mitään antimia. Ota
+vain, mitä pyhä rakkaus sinulle tarjoaa!
+
+
+10.
+
+Tässä on sinun astinlautasi, siellä lepäävät sinun jalkasi, missä
+elävät köyhimmät ja kurjimmat ja kadotetut.
+
+Jos koetan sinuun päin kumartua, ei pääni saavuta syvyyttä, missä
+jalkasi lepäävät keskellä köyhimpiä ja kurjimpia ja kadotettuja.
+
+Ylpeä ei voi koskaan sinua lähestyä nöyrien vaatteissa vaeltaessasi
+keskellä köyhimpiä ja kurjimpia ja kadotettuja.
+
+Minun sydämeni ei löydä koskaan tietään sinne, missä sinä pidät
+ystävyyttä kera ystävättömien, keskellä köyhimpiä ja kurjimpia ja
+kadotettuja.
+
+
+11.
+
+Jätä tuo rukousnauhan ruikutus, helkytys ja kalistaminen! Ketä rukoilet
+sinä tässä yksinäisessä, himmeässä templinsopessa, sen suljetussa
+portissa? Avaa silmäsi ja katso, Jumalasi ei seiso edessäsi.
+
+Hän on siellä, missä kyntäjä kyntää kovaa maankamaraansa ja missä
+kivenhakkaaja murtaa kiviään. Hän on heidän kansaan sateessa ja
+päivänpaisteessa ja hänen pukunsa on pölyyntynyt. Riisu pyhä vaippasi
+ja astu alas hänen luokseen maan tomuun!
+
+Vapautus? Mistä on vapaus löydettävissä? Meidän mestarimme on
+riemumielin ottanut päälleen luomisen kahleet, hän on sidottu meihin
+ainiaaksi.
+
+Tule tänne, jätä mietiskelysi, heitä kukkaset ja suitsutukset! Mitä se
+tekee, vaikka vaatteesi menisivät rikki ja tahrautuisivat? Mene vastaan
+hänelle, auta häntä hänen työssään hikiotsaisena.
+
+
+12.
+
+Aika, jota matkani vaatii, on pitkä ja tie on pitkä.
+
+Minä tulin vaunuilla valon ensimmäisessä välähdyksessä ja jatkoin
+matkaani halki maailman erämaan ja jätin jälkeni moneen tähteen ja
+kiertotähteen.
+
+Se tie on pisin, joka johtaa lähimmä itseäsi, ja se harjoitus on
+vaikein, jolla yksinkertaisin sävel saavutetaan.
+
+Jokaiselle etäisimmälle ovelle täytyy vaeltajan kolkuttaa, siksi kuin
+hän saapuu omalleen, ja kaikkien ulkopuolisten maailmoiden läpi täytyy
+taivaltaa tullakseen vihdoin sisimpään pyhäkköön.
+
+Ja minun katseeni liitelivät ja lentelivät laajalle, ennen kuin minä
+suljin silmäni ja sanoin: "Täällä sinä olet!"
+
+Kysymys ja huuto: "Oi missä?" sulaa tuhansiin kyynelvirtoihin ja
+hukuttaa maailman tuohon tulvehtivaan vakuutukseen: "Minä olen!"
+
+
+13.
+
+Laulu, jota tulin laulamaan, jää tähän päivään saakka laulamattomaksi.
+
+Minä käytin päiväni virittääkseni ja uudesta-virittääkseni soitintani.
+
+En saanut siitä poljentoa, sanat eivät oikein sattuneet, vain
+toivomisen tuska on sydämessäni.
+
+Kukka ei ole auennut, vain tuuli ohitse humisee.
+
+En ole nähnyt hänen kasvojaan, en kuullut hänen ääntään, vain hänen
+hiljaisen askeleensa olen kuullut kadulla taloni edessä.
+
+Pitkä päivä meni siihen, että koetin valmistaa hänelle istuinta
+permannolle. Mutta lamppu ei ole vielä sytytetty, enkä minä voi pyytää
+häntä huoneeseeni.
+
+Elän toivossa saada tavata häntä, mutta vielä ei ole hetki tapaamisen.
+
+
+14.
+
+Minun toiveeni ovat monet, minun huutoni anelee armahdusta. Mutta sinä
+olet minut yhäti pelastanut tuolla jäykällä epäämiselläsi. Tuolla
+tuimalla armollasi olet sinä läpitunkenut elämäni.
+
+Päivästä päivään teet minut suurten, yksinkertaisten armolahjojesi
+arvoiseksi, jotka minulle annoit pyytämättä -- taivaan valon, ruumiin,
+elämän ja hengen -- ja pelastat minut liiallisista toivomuksista.
+
+On aikoja, jolloin viivyttelen ja vitkastelen, ja toisia aikoja,
+jolloin herään ja riennän päämäärääni etsimään. Mutta julmana kätkeydyt
+sinä minun edestäni.
+
+Päivästä päivään teet, minulta aina kieltäen itsesi, minut arvoiseksi
+sinua täysin vastaanottamaan ja pelastat minut heikkojen, epävarmojen
+toiveiden vaarasta.
+
+
+15.
+
+Tässä olen sinulle lauluja laulaakseni. Minun paikkani on sinun salisi
+sopessa.
+
+Minulla ei ole mitään tehtävää sinun maailmassasi. Hyödytön elämäni voi
+vain virrata säveliin vailla tarkoitusta.
+
+Kun lyö äänettömän palveluksesi hetki keskiyön tummassa temppelissä,
+käske minua, mestarini, eteesi laulamaan!
+
+Kun kultainen harppu on aamunkoitossa viritetty, tee minulle se kunnia,
+että käsket minun eteeni astua!
+
+
+16.
+
+Minulla on ollut kutsu tämän maailman juhlaan, ja niin on siunaus yllä
+elämäni. Minun silmäni ovat nähneet, minun korvani kuulleet.
+
+Minun osani tässä juhlassa oli soittaa soitintani, ja minä olen tehnyt
+kaikki, mitä osasin.
+
+Nyt kysyn minä, onko vihdoinkin tullut aika sisälle astua tohtiakseni
+ja sinun kasvosi nähdäkseni ja kumartaakseni sinua äänettömällä
+kunnioituksella.
+
+
+17.
+
+Minä varron vain rakkautta sen käsiin vihdoinkin antautuakseni. Siksi
+olen minä niin myöhäinen ja siksi olen minä niin moneen laiminlyöntiin
+vikapää.
+
+Ne tulevat lakikirjoineen ja pykälineen minua sitoakseen, mutta minä
+pujahdan heiltä pakoon alati, sillä minä varron vain rakkautta,
+vihdoinkin sen käsiin antautuakseni.
+
+Ihmiset moittivat minua ja nimittävät minua ajattelemattomaksi, enkä
+epäile, että he ovat oikeassa minua moittiessaan.
+
+Toripäivä on ohitse, työteliäät ovat kaikki askareensa toimittaneet.
+Ne, jotka turhaan tulivat minua kutsumaan, menivät pois vihastuneina.
+Mutta minä varron vain rakkautta sen käsiin vihdoinkin antautaakseni.
+
+
+18.
+
+Pilvet saartavat päälle pilvien, ilma pimenee. Rakkaani, miksi annat
+minun vartoa ypöyksin ovesi ulkopuolella?
+
+Keskipäivän työn ahertavalla ajalla vetoan ihmisiin, mutta tänä
+himmeänä, yksinäisenä päivänä on toivoni vain sinussa.
+
+Ellet näytä minulle kasvojasi, jos jätät minut tien oheen, niin en
+tiedä, kuinka pitkiä sadehetkiäni kuluttaa.
+
+Tuijotan pilven etäiseen punerrukseen, ja minun sydämeni vaeltaa
+valittaen rauhattoman tuulen kera.
+
+
+19.
+
+Ellet sinä puhu, tahdon täyttää sydämeni sinun vaitiolollasi ja olla
+kärsivällinen, Tahdon odottaa ja olla hiljaa kuin yö tähtisine
+valvojineen, pää syvään kärsivällisyyteen kumartuneena.
+
+Aamu on varmasti sarastava, pimeys haihtuva, sinun äänesi kultaisina
+virtoina vilisevä ja pilvistä alas kohiseva.
+
+Silloin tulevat sinun sanasi kaikkien minun linnunpesieni laulussa
+sinkoamaan ja sinun säveleesi tulevat minun tuuheiden lehtojeni
+kukkasina puhkeamaan.
+
+
+20.
+
+Henkeni harhautui, ah, lotoksen kukintapäivänä, enkä minä tiennyt
+siitä. Minun korini oli tyhjä ja kukka jäi hoitamatta.
+
+Vain silloin tällöin lankesi murhe minun päälleni, minä valvahdin
+unestani ja tunsin oudon, ohimenevän tuoksun henkäyksen hyvähajuisessa
+etelätuulessa.
+
+Tuo haihtuva sulous teki minun sydämeni kaihosta kipeäksi, ja minusta
+tuntui, että se oli kesän kiimainen henki, joka etsi täyttymystään.
+
+Minä en tiennyt vielä, että se oli niin lähellä, että se oli minun ja
+että täydellinen sulous oli puhjennut kukkaan minun oman sydämeni
+syvyydessä.
+
+
+21.
+
+Minun on venhoni vesille lykättävä. Haikein hetkin vierii aika
+rantamalla -- voi minua!
+
+Kevät kuihtuu kukkineen ja jättää jäähyväisensä. Ja minä varron ja
+vitkastelen turhien, lakastuneiden lehtien taakan alla.
+
+Aallot hyrskyävät ja keltaiset lehdet lentelevät pitkin viimeisen
+ruohotörmän rantaa ja putoavat.
+
+Mihin tuijotat tyhjyyteen! Etkö tunne vavistuksen ilmoja vaeltavan kuin
+kaukolaulun, jonka sävel tänne aaltojen tuolta puolen ajelehtii?
+
+
+22.
+
+Sateisen heinäkuun syvässä varjossa sinä astut askelin äänettömin,
+vaieten niinkuin yö ja pettäen vartijoita.
+
+Tänään on aamu sulkenut silmänsä äänekkään itätuulen vaativasta
+huudosta huolimatta. Tiheä huntu on kattanut aina valppaan, siintävän
+taivaankannen.
+
+Metsät ovat laanneet laulustaan ja kaikki talot ovat ovensa teljenneet.
+Sinä olet yksinäinen kulkija autioilla kaduilla. Oi, sinä ainut
+ystäväni, sinä rakkahin, minun taloni ukset ovat auki -- älä mene
+ohitse kuin unelma!
+
+
+23.
+
+Ystäväni, oletko ulkona myrskyisessä yössä rakkautesi rataa samoamassa?
+Taivas ähkii niinkuin se, joka on toivonsa kadottanut.
+
+En saa unta tänä yönä. Avaan oveni aina jälleen ja katson pimeyteen,
+ystäväni.
+
+En voi nähdä eteeni ollenkaan. Minä kysyn: missä on tiesi?
+
+Minkä pikimustan virran pimeitä rantoja pitkin, minkä uhkaavan
+kaukokorven rajaa, minkä eksyttävien varjojen onkaloitse etsit tietäsi
+minun luokseni, ystäväni?
+
+
+24.
+
+Kun päivä on ohitse, kun linnut vaikenevat ja tuuli uupuneena uinahtaa,
+heitä hämyn huntu silloin taajaan ylitseni, niinkuin olet kattanut
+kaiken maan unen peitteellä ja sulkenut suloisesti kaihoisat lotoskukat
+illan himmetessä.
+
+Ota vaeltajalta, jonka eväspussi on tyhjä ennen matkan päättymistä,
+jonka puku on pölyinen ja repaleinen ja jonka voimat ovat voipuneet,
+ota pois häneltä hänen häpeänsä ja hänen köyhyytensä ja uudista hänen
+elämänsä niinkuin kukka yön laupiaan katveessa uudistuu.
+
+
+25.
+
+Kun uupumuksen yö tulee, salli minun antautua uneen ilman taistelua ja
+sinuun luottaen levähtää!
+
+Älä salli väsyneen hengen pakottaa minua palvelukseesi köyhästi
+valmistautumaan!
+
+Sinä heität yön hunnun yli päivän uupuneiden silmien uudistaaksesi
+niiden katseen valvomisen tuoreeseen hilpeyteen.
+
+
+26.
+
+Hän tuli ja istahti minun sivulleni, enkä minä havannut. Voi minua
+kurjaa, mikä kirottu uni se oli!
+
+Hän tuli vaikenevassa yössä. Hänellä oli harppu kädessään ja hänen
+säveleensä helkkyivät minun unelmissani.
+
+Ah, miksi vierivät minun yöni täten hukkaan? Ah, miksi en saa
+milloinkaan nähdä hänen kasvojaan, hänen, jonka henkäys untani
+koskettaa?
+
+
+27.
+
+Valkeus, oh, missä on valkeus? Sytytä se pyyteen polttavassa tulessa!
+
+Tuossa on lamppu, mutta ah! ei mitään liekin lepattamista, -- sydämeni,
+onko se sinun kohtalosi! Silloin olisi kuolema paljon parempi sinulle.
+
+Kurjuus koputtaa ovelle ja kuuluttaa, että herrasi valvoo ja huutaa
+sinua yön pimeydessä metsän siimekseen.
+
+Pilvet peittävät taivaan ja sade lankeaa lakkaamatta. En tiedä, mitä
+minussa liikkuu, -- en tajua sen tarkoitusta.
+
+Salaman leimaus heittää syvemmän pimeyden silmilleni, ja minun sydämeni
+haparoi polkua, millä yön äänet kutsuvat minua.
+
+Valkeus, oh, missä on valkeus? Sytytä se pyyteen polttavassa tulessa!
+Ukkonen jyrisee ja tuuli samoaa ulvoen tyhjyydessä. Yö on musta, musta
+kuin kivi. Älä anna hetkien kulua pimeydessä! Sytytä rakkauden lamppu
+elämälläsi!
+
+
+28.
+
+Itsepintaisesti pidättävät kahleet minua, mutta sydämeeni koskee, kun
+tahdon ne katkaista.
+
+Vapautta minä tarvitsen, mutta minä häpeän toivoa sitä.
+
+Olen varma, että sinussa asuu arvaamaton rikkaus, ja sinä olet minun
+paras ystäväni, eikä minulla kuitenkaan ole sydäntä heittää ulos
+kaikkea katinkultaa, mikä täyttää kammioni.
+
+Verho, joka minut peittää, on tomun ja kuolon verho. Minä vihaan sitä
+ja kuitenkin rakastan.
+
+Minun virhini on syvä, minun vikani suuri, minun häpeäni raskas ja
+salainen, mutta kuitenkin, kun saavun parastani pyytämään, minä vapisen
+pelvosta, että on tullut kuulluksi rukoukseni!
+
+
+29.
+
+Hän, jonka nimelläni ympäröin, itkee vankeudessa. Olen aina puuhassa
+rakentaa muureja hänen ympärilleen, ja mikäli kiviaidat päivä päivältä
+kohti taivasta kohoavat, sikäli kadotan minä näkyvistäni todellisen
+olemukseni niiden syvässä siimeksessä.
+
+Ylpeilen mahtavasta muuristani, muuraan sitä soralla ja savella, ettei
+jäisi pienintäkään koloa tähän nimeen. Ja kaikessa tässä hommassani
+minä kadotan näkyvistäni todellisen olemukseni.
+
+
+30.
+
+Kuljin yksin tietäni metsän siimekseen. Mutta kuka seurailee minua
+vaikenevassa pimeydessä?
+
+Hiivin syrjään häntä välttääkseni, mutta en pääse hänen läsnäolostaan.
+
+Hän pölyttää tomun maasta ylvästelyllään, hän liittää kuuluvan äänensä
+joka sanaan, minkä lausun.
+
+Se on minun oma pieni itseni, herra, se ei osaa hävetä, mutta minä
+häpeän saapuessani sinun ovellesi hänen seurassaan.
+
+
+31.
+
+"Virka minulle, vanki, kuka on sitonut sinut?"
+
+"Sen teki mestarini", sanoi vanki, "minä luulin voivani lahjoa kaikki
+maailmassa voimalla ja rikkaudella. Kokosin omaan aarreaittaani rahan,
+joka kuului kuninkaalle. Kun uni voitti minut, levähdin vuoteella, joka
+oli herralleni valmistettu, ja herätessäni tapasin itseni vankina
+omassa aarreaitassani."
+
+"Virka minulle, vanki, kuka on takonut nämä katkaisemattomat
+kahleraudat?"
+
+"Minä ne tein", vastasi vanki, "minä ne olen takonut huolellisesti.
+Minä luulin kahlehtivani maailman voittamattomalla voimallani
+pidättääkseni häiritsemättä vapauden vain itselleni. Niin taoin
+yötä päivää kahleita suurilla pajatulilla ja kovilla, julmilla
+vasaran-iskuilla. Ja kun työ oli tehty, sen kaikki renkaat valmistetut
+katkeamattomiksi, silloin tapasin itseni niiden syleilystä."
+
+
+32.
+
+Kaikin keinoin kahlehtivat minua ne, jotka rakastavat minua tässä
+maailmassa. Toisenlainen on sinun rakkautesi, se on suurempi kuin
+heidän, sinä vapautat minua.
+
+He eivät tohdi jättää minua yksin, etten heitä unohtaisi. Mutta päivä
+päivän perästä kuluu, etkä sinä ole nähtävissä.
+
+Ellen huuda sinua rukouksissani, ellen pidä sinua sydämessäni, odottaa
+kuitenkin rakkautesi minua kohtaan minun rakkauttani.
+
+
+33.
+
+Kun päivä oli, tulivat he minun talooni ja sanoivat: "Me tahdomme vain
+aivan vähän tilaa täällä."
+
+He sanoivat: "Me autamme sinua kunnioittamaan Jumalaasi, ota sinä
+meidänkin osamme hänen armostaan!" Ja sitten sijoittuivat he soppeen ja
+istuivat hiljaisina ja vaatimattomina.
+
+Mutta yön pimeydessä minä huomaan, miten he melulla ja raivolla
+murtautuvat pyhään lippaaseeni ja tempaavat herjaisella ahneudella
+uhrin minun Jumalani alttarilta.
+
+
+34.
+
+Jätä vain tämä vähäinen jäljelle minusta, että voin sinua kaikekseni
+nimittää!
+
+Jätä vain tämä vähä tahtoni minulle, että tunnen sinut joka taholla,
+tulen sinun luoksesi joka asiassa ja tarjoan sinulle joka hetki
+rakkauteni!
+
+Jätä vain tämä vähäinen jäljelle minusta, etten sinua koskaan
+kadottaisi!
+
+Jätä vain nämä vähät kahleet minulle, joilla sinun tahtosi on sitonut
+minut ja tarkoituksesi täyttynyt minun elämässäni, -- rakkautesi
+kahleraudat.
+
+
+35.
+
+Missä henki on ilman pelkoa, siellä kannetaan pää korkealla;
+
+missä tietäminen on vapaa;
+
+missä maailmaa eivät ahtaat kotoiset seinät särje kappaleiksi;
+
+missä sanat tulevat totuuden syvyyksistä;
+
+missä uupumaton pyrkimys kurkottaa kätensä kohti täydellisyyttä;
+
+missä järjen selvä virta ei eksy tieltään tottumuksen kuivassa
+hietikossa;
+
+missä sinun opastamasi henki johtaa aina aina avartuvaan ajattelemiseen
+ja toimintaan. --
+
+Tähän vapauden taivaaseen, Isäni, salli minun maani valveutua!
+
+
+36.
+
+Tämä on minun rukoukseni sinulle. Herra -- iske, iske virhin juureen
+saakka sydäntäni!
+
+Anna minulle voimaa iloni ja murheeni keveästi kantaa!
+
+Anna minulle voimaa tehdä rakkauteni hedelmälliseksi palveluksessa!
+
+Anna minulle voimaa, etten koskaan kieltäisi käsivarsiani enkä julkean
+mahdin edessä polviani notkistaisi!
+
+Anna minulle voimaa kohottaa henkeni yli arkipäivän pikkurihkamien!
+
+Ja anna minulle voimaa alistaa voimani rakkaudessa sinun tahdollesi!
+
+
+37.
+
+Luulin, että matkani oli päättynyt voimani viimeiselle rajalle -- että
+polku oli suljettu edessäni, että varasto oli tyhjentynyt ja aika
+tullut etsiä turvaa ja kätkeytyä hiljaisuuteen.
+
+Mutta minä huomaan: tahtosi ei tunnusta mitään matkanpäätä minulle. Kun
+vanhat sanat kuolevat kielelläni, silloin soinnahtavat uudet säveleet
+sydämessäni. Ja missä vanha tie haihtuu, siinä ilmestyy uusi maa
+ihmeineen.
+
+
+38.
+
+Että tarvitsen sinua, vain sinua -- sitä on minun sydämeni lakkaamatta
+toistettava. Kaikki toiveeni, jotka minua öin päivin raatelevat, ovat
+kauttaaltaan turhia ja mitättömiä.
+
+Niinkuin yö kätkee pimeydessään pyrkimyksen valkeuteen, niin kaikuu
+itsetiedottomuuden syvyyksistä huuto: "Minä tarvitsen sinua, vain
+sinua!"
+
+
+39.
+
+Jos minun sydämeni on kova ja kuivettunut, vuodata armon sade minun
+ylitseni!
+
+Jos lempeys on kadonnut elämästäni, saavu sävelten myrskynä!
+
+Jos työn tohina ja pauhu minut saartaa ja sulkee pois haudan tuolta
+puolen, tule minun luokseni, Herra hiljaisuuden, tuo rauhasi ja leposi
+minulle!
+
+Jos kerjurisydämeni piiloutuu soppeen ja sulkeutuu, murra ovi, minun
+Kuninkaani, ja samoa sisälle kuninkaallisessa komeudessa!
+
+Jos himo sokaisee minun sieluni harhalla ja tomulla, sinä Pyhä, sinä
+Valvovainen, tule salamassa ja ukkosessa!
+
+
+40.
+
+Jumala pidättää päivästä päivään sadettaan kuivuneelta sydämeltäni.
+Taivaanranta on hehkuvan paljas, ei ohuintakaan verhoa, ei
+hennointakaan hattaraa, ei heikointakaan viittausta etäisestä
+viilentävästä värinästä.
+
+Lähetä vihasi myrsky, musta kuin kuolema, jos se on sinun tahtosi, ja
+ruoski salaman vitsalla äärestä ääreen taivaankantta!
+
+Mutta lopeta, Herra, kutsu takaisin tämä painostava, vaikeneva kuumuus,
+joka on niin terävä, julma ja äänetön ja polttaa poroksi sydämeni
+synkällä epätoivolla!
+
+Anna armosi pilven riippua raskaana pääni päällä niinkuin on äidin
+kyyneltyvä katse päivänä, jolloin isä on suutuksissa.
+
+
+41.
+
+Missä seisot sinä heidän kaikkien takana, armas, ja verhoudut varjoon?
+He tyrkkivät sinua ja kulkevat ohitsesi tomuisella tiellä niinkuin et
+olisi mitään. Minä odotan tässä väsymykseni tuokiot ja levitän sinulle
+lahjojani, mutta ohikulkijat ottavat kukkani yhden toisensa jälkeen, ja
+minun korini on jo melkein tyhjä.
+
+On mennyt aamu, on painunut keskipäivä. Minun silmäni käyvät unesta
+raskaiksi illan varjojen langetessa. Ihmiset menevät kotiinsa ja
+katsovat minuun ja hymyilevät, ja minua hävettää. Istun niinkuin
+kerjäläistyttö ja peitän kasvoni vaatteellani, ja kun he kysyvät, mitä
+minulta puuttuu, painan minä alas silmäni enkä vastaa mitään.
+
+Oh, kuinka voisin minä heille virkkaakaan, että sinua minä odotan ja
+että sinä lupasit tulla! Kuinka saisin sanotuksi häpeältäni, että
+kannan tätä köyhyyttä häälahjanani! Säilytän, ah, tätä ylpeyttäni
+sydämen sisimmässä.
+
+Istun ruohistossa ja haaveilen taivaaseen päin sinun saapumisesi
+äkillisestä kirkkaudesta -- kaikki valot syttyvät leimahtaen, kultaiset
+siivet suhisevat vaunujesi ympärillä, ja tien kulkijat seisahtuvat
+ällistyneinä, kun he näkevät sinun astuvan alas istuimeltasi
+kohottaaksesi minut maan tomusta ja sijoittaaksesi vierellesi, minut,
+repaleisen kerjäläistytön, joka värisee ujoudesta ja ylpeydestä
+niinkuin kesätuulessa köynnöskasvi.
+
+Mutta aika vierii, eikä kuulu vaununratasten jyrinää. Moni loistava,
+pauhaava ja kirkuva parvi rientää ohitseni. Sinäkö vain seisot varjossa
+ja vaikenet heidän kaikkien takana? Ja minäkö vain varron ja itken ja
+jäydän sydäntäni turhassa ikävöimisessä?
+
+
+42.
+
+Varhain aamulla kuulin kuiskeen, että meidän piti purrella purjehtia,
+vain sinun ja minun, eikä kenenkään kuolevaisen pitänyt tietää meidän
+toivioretkestämme maahan ei-mihinkään ja päämäärään yhtä olemattomaan.
+
+Rannattomalla valtamerellä, vaikenevan, kuuntelevan hymyilysi
+paistaessa, paisuisivat minun lauluni säveleiksi, vapaiksi kuin aallot,
+kaikista sanojen kahleista kirpoutuneina.
+
+Eikö vielä ole aika? Onko vielä työtä tekemättä? Katso, ilta lankesi
+rannikoille ja merilinnut rientävät sen riutuvassa valossa pesilleen.
+
+Kuka tietää, milloin kahle on katkeava ja pursi niinkuin painuvan
+päivän viimeinen kimmellys yöhön katoava?
+
+
+43.
+
+Oli päivä, jolloin en ollut valmis sinulle. Ja sinä astuit sydämeeni
+minulle outona ja kutsumattomana niinkuin joku joukosta, oi Kuninkaani,
+ja painoit ijäisyysleimasi moneen elämäni haihtuvaan silmänräpäykseen.
+
+Ja tänään, kun sattumalta valkaisen ympäristöäni, löydän sinettisi
+tomuun siroteltuina, sekaantuneina arkipäivän ilojen ja surujen
+muisteloihin sekä unohdettuina.
+
+Et kääntynyt ylenkatseella pois tomun lapsellisista leikeistä, ja
+askel, jonka kuulin kisapaikalla, on sama, joka kaikuu tähdestä
+tähteen.
+
+
+44.
+
+Tämä on minun onneni: odottaa ja valvoa tiellä, missä varjo ajaa valoa
+ja sade saapuu kesän valveutuessa.
+
+Airuet tuovat minulle viestin tuntemattomista taivaista ja tervehtivät
+minua ja rientävät edelleen. Sydämeni iloitsee ja suloinen on
+sukostelevien ilmojen henkäys minulle.
+
+Aamusta illanhämärään asti istun tässä oven edessä, ja minä tiedän,
+että äkkiä saapuu se onnellinen silmänräpäys, jolloin tulen näkeväksi.
+
+Sillävälin hymyilen ja laulan yksinäni. Sillävälin täyttyy ilma
+lupauksen tuoksulla.
+
+
+45.
+
+Ettekö kuullut hänen hiljaista askeltaan? Hän tulee, hän tulee, hän
+tulee aina.
+
+Joka hetki, joka aika, joka päivä, joka yö hän tulee, hän tulee, hän
+tulee aina.
+
+Monta laulua olen laulanut monessa mielialassa, mutta sieluni säveleet
+ovat vain tuota yhtä kuuluttaneet: hän tulee, hän tulee, hän tulee
+aina.
+
+Metsätiellä, aurinkoisen huhtikuun tuoksuvina päivinä, hän tulee, hän
+tulee, hän tulee aina.
+
+Pilvien ukkosvaunuilla, heinäkuun öiden kosteassa autereessa, hän
+tulee, hän tulee, hän tulee aina.
+
+Surussa surunkin perästä painaa hänen askeleensa minun sydäntäni ja
+hänen jalkojensa kultainen jälki saa minun riemuni jälleen
+leimahtamaan.
+
+
+46.
+
+En tiedä, mistä etäisestä ajasta aina lähenet minua kohdataksesi. Ei
+aurinko eivätkä tähdet voi sinua kätkeä minulta ijäisesti.
+
+Monena aamuna ja iltana kuulin sinun askeleesi, ja sinun airuesi
+astuivat sydämeeni ja kutsuivat salaa minua.
+
+En tiedä, miksi tänään on niin herkkä minun elämäni ja miksi värähtävän
+riemun aaltoilu minun sydäntäni koskettaa.
+
+On kuin olisi tullut aika työni lopettaa, ja minä tunnen tuulessa kuin
+heikon tuoksun sinun suloisesta olemassaolostasi.
+
+
+47.
+
+Yö on jo melkein ohitse turhine odotuksineen. Pelkään, että hän äkkiä
+astuu aamulla oveni kynnykselle, kun olen uneeni uuvahtanut. Oi,
+ystävät, jättäkää tie auki hänelle, oi, älkää estäkö häntä!
+
+Ellei askeleensa kaiku minua herätä, pyydän, älkää yrittäkö minua
+valveille pudistaa. En tahdo, että minua kutsuu unestani lintujen
+hälisevä kuoro tai tuulen humina huomenkoiton juhlassa. Antakaa minun
+nukkua häiritsemättä, vaikka Herrani ilmestyisi äkkiä minun
+kynnykselleni.
+
+Oi, uneni, kultainen uneni, joka vain varrot hänen kosketustaan
+haihtuaksesi! Oi, sulkeutuneet silmäni, jotka aukaisette luomenne vain
+hänen hymynsä valossa, kun hän seisoo edessäni kuin unelma, nouseva
+nukkumiseni himmeydestä!
+
+Antakaa hänen ilmestyä silmäini eteen valkeuden hahmojen ensimmäisenä!
+Hänen katseensa antaisi silloin ensimmäisen ilonväreen valveutuvalle
+sielulleni. Ja sallikaa, että itseeni palajaminen olisi samalla minulle
+häneen palajaminen.
+
+
+48.
+
+Vaitiolon meri läikähti aamulla linnunlaulun laineisiin. Ja kukkaset
+tien ohessa iloitsivat ja pilvien raot kylvivät kultaa tulviltaan.
+Mutta me kiirehdimme tietämme mistään välittämättä.
+
+Me emme hilpeitä lauluja laulaneet, emme leikkineet, emme menneet
+turulle kauppaa tekemään. Me emme matkallamme vitkastelleet, vaan
+joudutimme askeleitamme, mikäli aika riensi eteenpäin.
+
+Aurinko nousi keskitaivaalle ja kyyhkyset kuhersivat siimeksessä.
+Kuivat lehdet karkeloivat ja tanhusivat keskipäivän kuumissa
+ilmanpyörteissä. Paimenpoika uuvahti ja uneksui viikunapuun varjossa,
+ja minä istahdin veden vieremälle ja ojensin ruohikkoon väsyneet
+jäseneni.
+
+Matkatoverini pilkkasivat minua ja riensivät pää pystyssä edelleen. He
+eivät levähtäneet, eivät taakseen katsoneet. He katosivat etäiseen,
+sinertävään terheneen. He risteilivät yli niittujen ja kukkulain, he
+samosivat kautta vieraiden kaukomaiden. Kunnia sinulle, sankariparvi,
+päättymättömällä polullasi!
+
+Pilkka ja ylenkatse kannustivat minua eteenpäin vaeltamaan, mutta ne
+eivät saaneet vastakaikua minussa. Annoin askeleeni harhautua
+onnellisen nöyryyden syvyyksiin, hämäräisen ilon siimeksiin.
+
+Vihreän, päivänpäärmeisen hämärän rauha laskeutui hitaasti yli
+sydämeni. Minä unohdin, miksi olin vaeltanut, ja henkeni antautui
+vastustelematta varjojen ja laulujen vaihteloon.
+
+Lopuksi heräsin minä unestani ja avasin silmäni ja näin sinun seisovan
+edessäni, hymysi tulvehtivana yli uinailuni. Kuinka olinkaan pelännyt,
+että polku olisi liian pitkä ja väsyttävä sekä ponnistus sinua
+saavuttaa liian ankara minulle!
+
+
+49.
+
+Sinä astuit alas valtaistuimeltasi ja seisoit majani ovella.
+
+Minä lauloin yksin sopessani, ja sinun korvasi otti vastaan säveleeni.
+Sinä astuit alas ja seisoit majani ovella.
+
+Mestareita on paljon sinun palatsissasi ja virsiä viritetään joka hetki
+siellä. Mutta uuden oppilaan yksinkertainen ylistyslaulu kosketti
+rakkauttasi. Tuo pieni, haikea laulunsävel sekaantui maailman suureen
+sävelmereen, ja sinä tulit alas tuoden kukkasen palkinnoksi ja
+pysähdyit majani ovelle.
+
+
+50.
+
+Kuljin kerjäten ovelta ovelle pitkin kylätietä. Silloin ilmestyivät
+etäisyydestä sinun kultaiset vaunusi kuin kimmeltävä uni, ja minä
+ihmettelin, kuka tämä kuningasten Kuningas olisi.
+
+Toivoni kohosi korkealle, ja minusta tuntui kuin olisivat pahat päiväni
+jo ohitse, ja minä seisoin siinä odottaen almuja, joita annettaisiin
+minulle pyytämättä, ja aarteita, joita tomuun siroiteltaisiin.
+
+Vaunut pysähtyivät siihen, missä seisoin. Sinä katsoit minuun, sinä
+astuit alas hymyillen. Tunsin, että elämäni onni oli vihdoinkin tullut.
+Silloin ojensit sinä äkkiä oikean kätesi ja lausuit: "Mitä on sinulla
+minulle annettavaa?"
+
+Oi, mikä kuningassydän! Ojentaa kätensä kerjätäkseen kerjäläiseltä!
+Minä ällistyin ja epäröin hämilläni, sitten otin hitaasti pienimmän
+jyväsen haarapussistani ja annoin sen sinulle.
+
+Mutta kuinka suuri olikaan hämmästykseni, kun tyhjentäen säkkini
+lattialle päivän päättyessä löysin köyhän kekoni pohjalta pienen
+kultajyvän! Ja minä itkin katkerasti ja toivoin, että minulla olisi
+ollut kyllin sydäntä antaakseni kaikkeni sinulle.
+
+
+51.
+
+Yö tummui. Päivätyömme oli tehty. Me luulimme viimeisen yövieraamme
+saapuneen, ja kylän portit suljettiin. Vain muutamat huusivat:
+"Kuningas tulee!" Mutta me nauroimme ja sanoimme: "Se ei voi olla
+mahdollista."
+
+Meistä tuntui, että portille koputettiin, mutta me sanoimme, että se
+oli vain tuuli. Me sammutimme lamput ja kävimme levolle. Vain muutamat
+huusivat: "Se on airut!" Mutta me nauroimme ja sanoimme: "Se on vain
+tuuli."
+
+Silloin soi ääni kautta yön pimeyden. Meistä uneliaista se tuntui
+etäiseltä ukkoselta. Maa järisi, muurit vapisivat ja häiritsivät meidät
+hereille. Vain muutamat huusivat: "Se oli ratasten rätinää!" Mutta me
+mutisimme uneliaina: "Sen täytyy olla pilvien jyrinää."
+
+Yö oli vielä pimeä, silloin kuului torven torahdus. Ja ääni huusi:
+"Valveutukaa, älkää vitkastelko!" Me painoimme käsin sydäntämme ja
+värisimme pelästyneinä. Vain muutamat huusivat: "Nähkää viiri
+valtiaan!" Me ponnahdimme jalkeille ja kirkaisimme: "Silloin ei ole
+aikaa viivytellä!"
+
+Kuningas saapui -- mutta missä ovat kynttilät, missä seppeleet? Kuinka
+on hänen valtaistuimensa valmistettu? Voi häpeää, voi häpeän häpeää!
+Missä on valtasali, missä koristukset? Ja eräs huusi: "Turhaa parkua!
+Tervehtikää tyhjin käsin häntä, saattakaa hänet mataliin majoihinne!"
+
+Avatkaa portit, puhaltakaa raakunkuoriin! Kuningas tuli yön pimeydessä
+tupiimme tummaisiin. Ukkosmyrsky mylvii taivaalla, pimeys on salamoista
+pelästynyt. Tuokaa esiin kulunut matto ja levittäkää se pihalle!
+Kuningas tuli äkkiä luoksemme kaameassa yössä ja ukkosessa.
+
+
+52.
+
+Minusta tuntui, että minun oli sinulta anottava -- vaikka en tohtinut
+-- ruususeppeltä, jota kannoit kaulallasi. Niin odotin aamuun asti,
+siksi kuin menit, löytääkseni jonkun jäljen siitä vuoteeltasi. Ja
+niinkuin kerjäläinen etsin hämärässä yhtä tai kahta sinne pudonnutta
+lehdensirpaletta.
+
+Mutta katso! Mitä löydän? Minkä merkin jätti rakkautesi? Se ei ole
+kukkanen, ei suitsutus eikä mikään hyvänhajuinen vesiastia. Se on
+valtaisa miekka, leimuava kuin tuli, raskas kuin ukon vaaja. Aamun
+nuori valkeus tulee sisälle ikkunasta ja leviää vuoteen yli. Aamulinnut
+visertävät ja kysyvät: "Vaimo, mitä olet löytänyt?" Ei, se ei ole
+kukkanen, ei suitsutus eikä hyvänhajuinen vesiastia -- se on kauhea
+miekka.
+
+Minä istun ja mietin ihmettä, mitä tämä lahjasi merkitsee. En keksi
+paikkaa, kuhun kätkisin sen. Häpeän kantaa sitä, heikko kun olen, ja se
+haavoittaa minua, jos painan vasten rintaani sitä. Kuitenkin olen
+kantanut sydämessäni tämän lahjasi tuskantaakan minulle tuottamaa
+kunniaa.
+
+En ole tästä saakka pelkäävä mitään maailmassa ja sinä olet voittava
+kaikissa minun taisteloissani. Sinä jätit kuoleman minun kumppanikseni
+ja minä tahdon kruunata hänet elämälläni. Sinun miekkasi on minun
+kerallani leikkaamassa poikki siteitä, enkä ole tästä saakka pelkäävä
+mitään maailmassa.
+
+Olen tästä saakka jättävä kaikki turhat koristukset. Minun sydämeni
+Herra! En koskaan enää ole odottava sopessa itkien, en arasti enkä
+hennosti käyttäytyvä. Sinä olet minut miekalla koristanut -- eivät ole
+minua varten enää nukkehetaleet!
+
+
+53.
+
+Kaunis on rengas käsivarressasi, tuo tähtikirjaeltu, ja taitehikkaasti
+on se taottu tuhatvärisin jalokivin. Mutta kauniimpi on minulle
+miekkasi salamarenkaineen, jotka leviävät lentoon kuin Vishnun linnun
+siivet, välkkyen painuvan päivän vihanpuuntavassa valomeressä.
+
+Se värisee kuin elämän viimeinen sykähdys lähenevän kuoleman
+tuskankouristuksessa. Se leimuaa kuin olemisen puhdas liekki, joka syö
+aistillisen maailman hehkullaan.
+
+Kaunis on rengas käsivarressasi, tuo tähtikirjaeltu. Mutta sinun
+miekkasi, oi Herra pauanteen, on kaavaeltu mitä täydellisimmällä
+kauneudella, hirmuinen nähdä ja ajatella.
+
+
+54.
+
+En anonut sinulta mitään, en maininnut korvaasi nimeäni. Seisoin ääneti
+Sinun jättäessä jäähyväisesi. Olin yksin kaivolla, missä puun varjo
+lankee poikittain, naiset kulkivat kotiinsa ruskeat saviruukut
+piripinnoilleen täytettyinä. He huusivat ääneen: "Tule meidän
+kanssamme, aurinko kohoaa keskitaivaalle!" Mutta minä viivyin ja
+vitkastelin unelmiin vaipuneena.
+
+Kun tulit, en kuullut askeltasi. Sinun katseesi oli surullinen, kun se
+kohtasi minut, äänesi väsynyt, kun virkoit hiljaa: "Ah, olen janoinen
+vaeltaja." Heräsin unesta, jota näin valveillani, ja valoin vettä
+ruukusta yhteenliitetyille käsillesi. Lehdet kahisivat päämme päällä,
+käki kukkui näkymättömänä siimeksessä, ja tien käänteessä tuli tuoksu
+_babla_-kukkasien.
+
+Seisoin sanattomana ujostellen, kun kysyit nimeäni. Mitä olin tehnyt
+hyväksesi, että ajattelisit minua? Mutta muisto, että olin saanut
+sinulle vettä ojentaa, janosi sammuttaa, pysyi sydämessäni ja täytti
+sen suloisuudella. Päivä on jo kohonnut korkealle, linnut laulavat
+uupunein sävelin, pääni päällä kahisevat lehdet _isämeidän_-puun, ja
+minä istun ja mietin ja mietin.
+
+
+55.
+
+Sinun sydämesi on väsynyt ja sinun silmäsi ovat vielä uneliaat.
+
+Etkö saanut sanaa, että kukka vallitsee keskellä okaita kaikessa
+ihanuudessaan? Heräjä, oi heräjä! Älä anna ajan vieriä hukkaan.
+
+Kivisen polun päässä, siveän yksinäisyyden erämaassa, istuu yksin
+ystäväni. Älä anna pettyä hänen. Heräjä, oi heräjä!
+
+Mitä se tekee, jos keskipäivän taivas hehkuu ja hiiluu kuumuuttaan --
+jos polttava hiekka levittää janon manttelinsa --
+
+Etkö iloitse sydämesi syvimpään? Eikö jokaisella jalkasi askeleella
+kaiu tiesi soitin tuskien sulosävelillä?
+
+
+56.
+
+Siksi on sinun ilosi niin täysi minussa. Siksi astuit sinä alas
+minulle. Oi, sinä kaikkien taivasten Herra, missä olisi sinun
+rakkautesi, ellei minua olisi?
+
+Sinä otit minut osalliseksi kaikesta rikkaudestasi. Sinä soitat
+sydämessäni ilosi ijäistä säveltä. Sinun tahtosi pukeutuu aina uusiin
+muotoihin minun elämässäni.
+
+Ja sentähden olet sinä kuningasten Kuningas, kauneuteen koristaunut
+vangitaksesi sydämeni. Ja sentähden haihtuu sinun rakkautesi rakastavan
+rakkauteen, näin ilmenet sinä kahden täydellisessä yhtymyksessä.
+
+
+57.
+
+Valo, minun valkeuteni, maailmani täyttävä valkeus, silmiä suuteleva,
+sydäntä viihdyttävä valkeus!
+
+Ah, valkeus karkeloi, armaani, elämäni sydämessä. Valkeus koskettaa
+lempeni soittimen kieliä, armaani, taivas aukenee, rajutuuli puhaltaa,
+hymyily kulkee yli maan.
+
+Perhoset levittävät purjeensa yli valomeren. Liljat ja jasmiinit
+puhkeavat valon aalloille.
+
+Valkeus siroittaa kultaansa yli jokaisen pilven, armaani, ja kylvää
+tuhlaten jalokiviään.
+
+Hilpeys ja rajaton riemu hypähtelee lehdeltä lehdelle, armaani. Taivaan
+virta tulvii yli ääriensä, ilon laineet laikahtavat.
+
+
+58.
+
+Anna kaiken ilon jännityksen laueta viimeiseen lauluuni -- ilo, joka
+saattaa maan ylitulvehtimaan ruohon mässäävästä runsaudesta, ilo, joka
+tekee elämän ja kuoleman kaksoisveljiksi, ilo, joka karkeloi yli avaran
+maan ja yhtyy myrskyyn, pudistaen ja järkyttäen kaikkea elämää
+naurullaan, ilo, joka lepää hiljaisissa kyynelissä tuskan punaisella
+lotos-kukalla, ilo, joka heittää tomuun kaiken, mitä se omistaa, eikä
+tunne sanoja.
+
+
+59.
+
+Minä tiedän, ei ole olemassa mitään muuta kuin sinun rakkautesi, sinä
+minun sydämeni rakastettu, -- kultainen valkeus, joka yli lehtien
+karkeloi, leudot pilvet, jotka taivaalla purjehtivat, vieno
+tuulen- henki, joka jättää viileytensä minun otsalleni.
+
+Aamunvalo häikäisee silmiäni -- se on viesti sinulta minun sydämelleni.
+Sinun kasvosi kumartuvat alas, silmäsi katsovat minun silmiini, ja
+minun sydämeni koskettaa sinun jalkojasi.
+
+
+60.
+
+Vetten ääretönten vieremällä tapaavat lapset toisiaan. Rajaton taivas
+riippuu liikkumattomana päämme päällä, vesi, koskaan väsymätön,
+raivoaa. Ääretönten maailmoiden rantamalla tapaavat lapset huutaen ja
+tanhuten toisiaan.
+
+He rakentavat hiekkatalojaan ja leikkivät tyhjillä raakunkuorilla. He
+punovat pursia kuihtuneista lehdistä ja päästävät ne hymyillen yli
+rannattoman ulapan purjehtimaan. Lapset leikkivät maailmoiden
+rantamalla.
+
+He eivät tunne uimisen taitoa, he eivät tiedä, miten verkot heitetään.
+Helmenpyytäjät sukeltavat helmiään, kauppiaat purjehtivat pursineen,
+lapset kokoavat kiviä ja viskelevät niitä. He eivät etsi salattuja
+aarteita, he eivät tiedä, miten verkot heitetään.
+
+Meri kuohahtaa nauruun, rantojen hymyily heikkona kimaltelee. Kuolemaa
+kantelevat aallot kertovat lapsille tarkoituksettomia taruja, niinkuin
+äiti, joka lapsensa kehtoa keinuttaa. Meri leikkii lasten kanssa,
+rantojen hymyily heikkona kimaltelee.
+
+Vetten ääretönten vieremällä tapaavat lapset toisiaan. Myrsky raivoaa
+tiettömällä taivaalla ja laivat menevät haaksirikkoon vanattomilla
+vesillä, kuolema liikkuu ja lapset leikkivät. Vetten ääretönten
+vieremällä on lasten suuri leikkipaikka.
+
+
+61.
+
+Uni, joka lapsensilmällä lepää -- tietääkö kukaan, mistä se tulee?
+Kyllä, käy huhu, että se tulee tarulinnasta, jonka lehdon siimeksessä,
+kiiltomatojen himmeässä valaistuksessa, riippuu kaksi taika-umppua.
+Sieltä saapuu se lapsensilmää suutelemaan.
+
+Hymy, joka lapsen huulia unessa hipaisee -- tietääkö kukaan, missä se
+on syntynyt? Kyllä, käy huhu, että kasvavan kuun nuori säde kosketti
+kuolevan syyspilven reunaa -- siinä syntyi hymyily kastekostean aamun
+unelmassa, tuo hymy, joka lapsen huulia unessa hipaisee.
+
+Raikas sulous, joka kukkii lapsen hennoilla jäsenillä, -- tietääkö
+kukaan, missä se on niin kauan piileksinyt? Kyllä, kun äiti vielä oli
+morsian, silloin tunkeusi se kautta hänen sydämensä lemmen vienona,
+hiljaisena salaisuutena -- tuo raikas sulous, joka kukkii lapsen
+hennoilla jäsenillä.
+
+
+62.
+
+Kun tuon kirjavan leikkikalun sinulle, lapseni, silloin ymmärrän, miksi
+on värien ja pilvien ja vetten leikkiä, miksi kukkaset ovat niin
+monivärisesti soinnutetut -- kun tuon kirjavan leikkikalun sinulle,
+lapseni.
+
+Kun laulan, että saisit karkeloida, silloin tiedän todella, miksi
+puiden lehdissä on musiikkia, miksi laineet kantavat äänien kuoron maan
+kuuntelevaan sydämeen -- kun laulan, että saisit karkeloida.
+
+Kun kannan makeisia ahnaihin kätösiisi, silloin tunnen, miksi on
+hunajaa kukankuvuissa, miksi hedelmät täyttyvät salaa suloisilla
+mehuilla -- kun kannan makeisia ahnaihin kätösiisi.
+
+Kun suutelen kasvojasi, rakkaani, saadakseni sinut hymyilemään,
+ymmärrän varmaan ilon, joka aamun valossa alas taivaalta virtaelee ja
+minkä riemastuksen suvituuli tuo ruumiilleni -- kun suutelen sinua
+saadakseni sinut hymyilemään.
+
+
+63.
+
+Sinä tutustutit minut ystäviin, joita en tuntenut. Sinä osoitit tuolin
+minulle talossa, joka ei ollut omani. Sinä toit etäisen lähelle minua
+ja vieraan minulle veljeiseksi.
+
+Sydämeni on täynnä rauhattomuutta, jos minun on tuttu tyyssijani
+jätettävä, ja minä unohdan, että vanha asuu aina uudessa, että sinäkin
+asut siellä.
+
+Kautta syntymisen ja kuoleman, tässä niinkuin muissakin maailmoissa,
+jonne johdat minut, sinä sama se olet, päättymättömän elämän
+kumppanini, joka aina liität minun sydämeni riemun siteillä outoon ja
+epätavalliseen.
+
+Sille, joka sinut tuntee, ei ole mitään enää vierasta, ei suljettu
+mikään ovi. Oi, täytä tämä rukoukseni, etten koskaan kadottaisi
+siunausta käsittää kaiken yhteys kaiken moninaisuudessa!
+
+
+64.
+
+Virkoin hänelle korkeassa ruohikossa, yksinäisen virran vieremällä;
+"Tyttö, mihin menet varjostaen lamppua vaipallasi? Taloni on pimeä ja
+autio -- lainaa valosi minulle!" Hän kohotti hetkeksi tumman katseensa
+ja katsoi minua silmiin hämärän halki: "Tulin joelle", sanoi hän,
+"asettaakseni lampun laineille, kun päivä painuu länttä kohti." Seisoin
+yksin korkeassa ruohikossa ja seurasin lampun arkaa liekkiä, joka
+hyödyttömänä vieri virran mukana.
+
+Haastoin hänelle nousevan yön hiljaisuudessa: "Tyttö, valot ovat kaikki
+sytytetyt -- kunne kannat lamppuasi? Taloni on pimeä ja autio -- lainaa
+valosi minulle!" Hän kohotti tummat silmänsä minun silmiini ja seisoi
+tuokion epäröiden. "Minä tulin", lausui hän vihdoin, "lainatakseni
+lamppuni taivaalle." Minä seisoin ja seurasin hänen valoaan, joka
+hyödyttömänä paloi tyhjyydessä.
+
+Puhuin hänelle keski-yön kuutamossa pimeydessä: "Tyttö, mitä tarkoitat
+painamalla lamppua povellesi? Taloni on pimeä ja autio -- lainaa valosi
+minulle!" Hän seisoi hetken ja mietti ja katsoi minua silmiin pimeässä.
+"Toin valoni", lausui hän, "liittääkseni sen lamppujen juhlasaattoon."
+Minä seisoin ja seurasin pientä lampunliekkiä, joka haihtui
+hyödyttömänä muiden valojen joukkoon.
+
+
+65.
+
+Minkä taivaallisen juoman tahtoisit, Jumalani, elämäni ylitsevuotavasta
+maljakosta?
+
+Onko sinulle nautinto, runoilijani, nähdä maailma minun silmieni kautta
+ja seisoa minun korvieni ovella vaieten kuullaksesi omia ijäisiä
+sopusointujasi?
+
+Sinun maailmasi kutoo sanoja minun mieleeni, mutta sinun ilosi säveltää
+ne. Sinä annat itsesi minulle rakkaudessa ja silloin sinä tunnet
+kokonaan oman suloutesi minussa.
+
+
+66.
+
+Hän, joka aina oli jäänyt olemukseni syvyyteen, sen hiiluvaan,
+kiiluvaan himmeyteen, hän, joka ei koskaan aukaise huntuaan huomenen
+valkeudessa, hän on oleva minun viimeinen lahjani sinulle, oi Jumala,
+verhoutuneena loppulaulelmaani.
+
+Sanat ovat sitä kosineet, mutta eivät omakseen voittaneet. Kaikki
+yritykset häntä vakuuttaa ovat kaihoisia käsivarsiaan hukkaan
+ojentaneet.
+
+Harhailin maasta maahan ja pidin häntä sydämeni syvimmässä, ja hänen
+ympärillään nousi ja vaipui elämäni kasvu ja katoaminen.
+
+Kaikkia minun ajatuksiani ja tekojani, minun untani ja minun unelmiani
+hallitsi vain hän ja kuitenkin hän asui syrjässä ja yksinään.
+
+Moni koputti minun ovelleni ja kysyi häntä ja kääntyi pois
+epätoivoisena.
+
+Ei ollut ketään koko maailmassa, joka olisi nähnyt hänen kasvojaan, ja
+hän jäi yksinäisyyteensä odottamaan sinun tuntemustasi.
+
+
+67.
+
+Sinä olet taivas ja sinä olet myöskin pesä.
+
+Sinä kaunoinen, siellä lepää pesässään sinun rakkautesi, joka saartaa
+sielun väreillä, tuoksuilla ja sävelillä.
+
+Tuolla tulee aamu kultaisine koreineen, kauneuden seppel oikeassa
+kädessään, jolla hän vaieten aikoo maanpiirin seppelöidä.
+
+Ja tuolla tulee ilta yli yksinäisten niittujen, joilta paimenet ovat
+pitkin jäljettömiä polkuja poistuneet, se kantaa kultaisessa leilissään
+rauhan viilentäviä henkäyksiä levon läntiseltä valtamereltä.
+
+Mutta siellä, missä kaartuu ääretön taivaankansi, jonne sielu lentoon
+singahtaa, siellä vallitsee valkea, tahraton kirkkaus. Siellä ei ole
+päivää eikä yötä, ei muotoa eikä värejä, eikä koskaan, koskaan
+sanaakaan.
+
+
+68.
+
+Sinun auringonsäteesi tulee alas tämän minun maani pinnalle, se pysyy
+pitkän, armaan päivän minun ovellani ja kantaa takaisin sinun jalkojesi
+juureen pilvet, jotka ovat minun kyynelistäni, huokauksistani ja
+lauluistani muodostuneet.
+
+Reippaalla suloudella sinä viskaat kosteiden terhenien vaipan ympäri
+tähtipovesi ja loihdit sen lukemattomiin muotoihin ja poimuihin ja
+väreihin, jotka aina vaihtelevat.
+
+Se on niin kevyt ja liihoitteleva ja hieno ja tumman kyyneleinen, sillä
+sinä rakastat sitä; sinä Kirkas ja Säteilevä! Ja siksi saa se verhota
+sinun valkean ja seesteisen valosi huolihunnuillaan.
+
+
+69.
+
+Sama elämän vuo, joka yötä päivää kautta valtimoitteni virtaelee,
+virtaa kautta maailman ja karkeloi poljennollisin mittasuhtein.
+
+Sama elämä se on, joka halki maan tomun hilpeänä purkautuu
+lukemattomiksi ruohonkorsiksi ja puhkee lehti- ja kukkalaineiden
+kohinaksi.
+
+Sama elämä se on, jota kuoleman ja syntymisen, luoteen ja vuoksen
+valtamerinen kehto keinuttaa.
+
+Tunnen jäsenieni säteilevän tämän elämän koskettaessa maailmaa. Ja minä
+ylpeilen niiden aioonien elämäntykinnästä, joka tällä hetkellä kautta
+valtimoitteni karkeloi.
+
+
+70.
+
+Käykö yli voimiesi iloita tällä hypähtelevällä hilpeydellä? Tunnetko
+pyörtyväsi, hengästyväsi, häviäväsi ahdistavan riemun pyörteeseen?
+
+Kaikki syöksyy edelleen, mikään ei pysähdy, mikään ei katso taakseen,
+mikään mahti ei auta siinä, kaikki syöksyy edelleen.
+
+Täytyy rientää yhtä jalkaa lakkaamatta, myötätempaavan musiikin kanssa.
+Vuoden-ajat tulevat tanhuten ja menevät. Värit, tuoksut ja säveleet
+kaatavat loppumattomia kaskaadeja tuohon ylitulvehtivaan riemuun, joka
+hajautuu ja haihtuu ja kuolee joka silmänräpäys.
+
+
+71.
+
+Se, että tahtoisin tehdä paljon itsestäni, että tahtoisin joka taholle
+käännellä sitä heittääkseni väririkkaita varjoja sinun kirkkauteesi --
+se on _Mayasi_.
+
+Sinä äärellistät oman olemuksesi ja manaat näin rajoitetun itsesi
+myriaadeihin säveliin. Ja tämä sinun itse-rajoituksesi on minussa
+ruumiillistunut.
+
+Kautta kaiken taivaan kaikuu sekeinen, läpitunkeva, hymyn ja kyynelten,
+pelon ja toivon laulu. Aallot nousevat ja vaipuvat, haaveet särkyvät ja
+kokoontuvat. Minussa sinä itse käsität itsesi.
+
+Aidan, jolla olet itsesi rajoittanut, on yön ja päivän sivellin
+lukemattomilla kuvioilla kirjaellut. Sen takana on sinun
+kummakaiverteinen, salaperäinen valtaistuimesi, jossa on tyystin
+vältetty kaikkia suoria ja karuja viivoja.
+
+
+72.
+
+Tuo sinun ja minun suuri ilmennyksemme on kaartanut kaiken
+taivaankannen. Sävelet, sinua ja minua helkkyväiset, värähyttelevät
+ilmoja, sinua ja minua kätkien sekä etsien vierivät aikakaudet.
+
+Hän, tuo sisin, on herättänyt minun olentoni salaisella
+kosketuksellaan.
+
+Hän heittää tenhonsa näiden silmien yli ja soittaa iloisena sydämeni
+kieliä, vuoroin nautinnon, vuoroin tuskan sävelmillä.
+
+Hän kutoo maljan huntua kullan ja hopean, sinisen ja vihreän
+haihtuvista väreistä, hän sallii sen poimujen läpi kuultaa jalkojensa,
+joita koskettaen oma itseni minulta unohtuu.
+
+Päivät tulevat, aikakaudet menevät, mutta hän liikuttaa yhäti sydäntäni
+moninimisenä ja monessa valepuvussa, monissa ilon ja surun sirpaleissa.
+
+
+73.
+
+Kieltäymys ei tuota minulle vapautusta. Nautinnon tuhansissa siteissä
+tunnen vapauden itseäni syleilevän.
+
+Sinä tarjoat minulle aina raikasta, aina eriväristä ja erituoksuista
+viiniäsi ja täytät maallisen maljani piripinnoilleen.
+
+Minun maailmani sytyttää sadat eri lamppunsa sinun liekistäsi ja
+asettaa ne temppelisi alttarille.
+
+Ei, en koskaan tahdo lukita aistieni ovea. Näkemisen, kuulemisen ja
+koskettamisen riemut kantavat sinun riemujasi.
+
+Niin, kaikki minun harhakuvani tulevat palamaan ilon soihtuina ja
+kaikki minun pyyteeni rakkauden hedelmiksi kypsymään.
+
+
+74.
+
+Ei ole päivä enää, varjot ovat maille langenneet. On aika, että menen
+virralle ruukkuani täyttämään.
+
+Illan ilma värähtelee vetten sävelistä. Ah, ne kutsuvat minua pois
+hämärään! Kukaan ei kulje ohitseni yksinäisellä kadulla, tuuli on
+laannut, vain virran aallot karehtivat karkeloitaan.
+
+En tiedä, palajanko koskaan kotia kohti, en tiedä, kenet sattuma
+tielleni johdattaa. Tuolla poukamassa soittaa tuntematon pienessä
+purressa huiluaan.
+
+
+75.
+
+Sinun antimesi täyttävät meidän kuolevaisten kaikki tarpeet ja
+palajavat sinulle takaisin vähentymättöminä.
+
+Virran on tehtävä päivätyönsä ja se rientää halki niittujen ja ketojen.
+Kuitenkin kiertää sen lakkaamaton vuo sinun jalkojesi juureen niitä
+huuhtoakseen.
+
+Kukka täyttää ilmat tuoksullaan. Mutta viimeisen kunnia-uhrinsa tarjoo
+se sinulle.
+
+Sinun palveluksesi ei köyhdytä maailmaa.
+
+Ihmiset etsivät runoilijoiden sanoista tarkoituksen, mikä heitä
+miellyttää, mutta niiden viimeinen tarkoitus viittaa sinuun.
+
+
+76.
+
+Olenko päivästä päivään, oi elämäni Herra, seisova kasvoista kasvoihin
+sinun edessäsi?
+
+Olenko kädet ristissä, oi kaikkien maailmoiden Herra, seisova kasvoista
+kasvoihin sinun edessäsi?
+
+Olenko suuren taivaasi alla, vaieten ja yksinäisenä ja nöyrin sydämin
+seisova kasvoista kasvoihin sinun edessäsi?
+
+Olenko tässä toimeliaana, vaivojen ja taisteloiden metelisessä
+maailmassa seisova kasvoista kasvoihin sinun edessäsi?
+
+Ja kun työni on tässä maailmassa tehty; oi kuningasten Kuningas, olenko
+yksin ja sanattomana seisova kasvoista kasvoihin sinun edessäsi?
+
+
+77.
+
+Minä tunnustan sinut Jumalakseni ja olen syrjässä, -- mutta minä en
+tunne sinua omakseni enkä pääse lähelle sinua. Minä tunnustan sinut
+isäkseni ja kumarrun jalkoihisi, -- mutta minä en kättele sinua
+niinkuin ystävää.
+
+Minä en ole siellä, mistä tulet minua tuntemaan ja minulle omaksi
+antautumaan, en voi sinua siellä painaa sydämelleni enkä tulla
+toveriksesi.
+
+Sinä olet Veljeni veljien seassa, mutta minä en välitä heistä enkä jaa
+heidän kanssaan ansioitani, jakaakseni kaikkeni sinun kanssasi.
+
+En seiso ilossa ja surussa ihmisten puolella, vaan seison sinun
+puolellasi. Pelkään antaa elämääni enkä sukella elämän suuriin
+sydänvesiin.
+
+
+78.
+
+Kun luomakunta oli uusi ja kaikki tähdet tuikkivat ensimmäisessä
+loistossaan, silloin kokoontuivat jumalat taivaassa ja lauloivat: "Oi
+täydellisyyden kuvaa! Oi riemun yltäkylläisyyttä!"
+
+Mutta äkkiä huusi joku: "On kuin olisi särkynyt valovitja ja yksi
+tähdistä mennyt perikatoon!"
+
+Katkesi kultaharpun kieli, heidän laulunsa lakkasi, -- ja he huusivat
+kauhistuneina: "Tuo tähti, joka katosi, oli parhain kaikista, se oli
+kunnia kaiken taivonkannen!"
+
+Siitä päivästä saakka ei lakkaa etsiminen, huuto käy suusta suuhun,
+että maailma on ainoan ilonsa kadottanut.
+
+Vain yön syvimmässä hiljaisuudessa hymyilevät tähdet ja kuiskailevat
+keskenään: "Tuo etsintä on turhaa! Kaikkialla vallitsee rikkumaton
+täydellisyys!"
+
+
+79.
+
+Ellei minun osani ole kohdata sinua tässä elämässä, niin salli minun
+aina tuntea, että olen menettänyt onnen nähdä sinua, -- älä anna minun
+koskaan unohtaa, anna minun kantaa suruni okaita niin unessa kuin
+valveillani.
+
+Jos minun päiväni kuluvat tämän maailman vilisevällä turulla ja minun
+käteni täyttyvät jokapäiväisestä hyvästä, salli minun aina tuntea, että
+en ole voittanut mitään, -- älä anna minun unohtaa milloinkaan, anna
+minun kantaa suruni okaita niin unessa kuin valveillani.
+
+Jos istun tien vierellä lääpästyneenä huohottaen, jos olen vuoteeni
+maan tomuun rakentanut, salli minun aina tuntea, että pitkä matkani on
+vielä edessäni, -- älä anna minun koskaan unohtaa, anna minun kantaa
+suruni okaita niin unessa kuin valveillani.
+
+Jos huoneeni ovat juhlaan koristetut, jos nauru kaikuu ja huilut
+humisevat, salli minun aina tuntea, etten ole kutsunut sinua talooni,
+-- älä anna minun koskaan unohtaa, anna minun kantaa suruni okaita niin
+unessa kuin valveillani.
+
+
+80.
+
+Olen niinkuin syyspilven repale, joka hyödyttömänä taivaalla ajelehtii.
+Oi aurinkoni, sinä ikikirkas! Säteesi ei ole juonut kuiviin
+kosteuttani, sinusta erotettuna lasken kuukausia ja vuosia yhtyäkseni
+valkeuteesi.
+
+Jos niin on toivosi ja niin on leikkisi, ota tämä minun haihtuva
+tyhjyyteni, maalaa se väreillä, kultaa se kullalla, anna puhaltavan
+tuulen ajella sitä, muovaa se moninaisiksi ihmeellisyyksiksi!
+
+Ja jos jälleen on toivosi tämä leikki yöksi lopettaa, silloin olen
+haihtuva ja häviävä himmeyteen tai kuoleva valkean aamun ja puhtaan
+kirkkauden viileässä hymyilyssä.
+
+
+81.
+
+Monena joutilaana päivänä harmittelin ajan hukkaa. Mutta se ei ollut
+mennyt hukkaan, oi Herra. Sinä otit käsiisi jokaisen eloni hetken.
+
+Salaa, olevaisen sydämessä, kasvatat sinä siemenen iduksi, umpun
+kukaksi, kypsyvän kukan hedelmäksi.
+
+Minä olin väsynyt, lepäilin joutilaana vuoteellani ja luulin, että
+työni olisi lopussa. Aamulla minä heräsin ja tapasin tarhani täynnä
+kukkivia ihmeitä.
+
+
+82.
+
+Aika on rajaton sinun käsissäsi, oi Herra! Kukaan ei laske sinun
+tuokioitasi.
+
+Päivät ja yöt menevät, aikakaudet kukoistavat ja kuihtuvat niinkuin
+kukkaset. Sinä osaat odottaa.
+
+Vuosisadat samoovat täydellistääkseen pienen metsäkukan.
+
+Mutta meillä ei ole aikaa kadottaa, ja kun ei meillä sitä ole, on
+meidän onnemme tempaistava. Me olemme liian köyhiä myöhästyäksemme.
+
+Ja niin on, että aika kuluu, ja minä annan sitä jokaiselle, joka
+vaatimalla vaatii sitä, ja lopuksi jää antimista tyhjäksi sinun
+alttarisi.
+
+Päivän päättyessä minä riennän peläten, että ovi olisi suljettu.
+Kuitenkin huomaan minä, että siellä on vielä aikaa.
+
+
+83.
+
+Äiti, tahdon kutoa surunkyynelistäni helmiketjun kaulallesi.
+
+Tähdet ovat punoneet valorenkaita jalkasi kaunisteeksi, mutta minun
+ketjuni riippuu sinun rinnallasi.
+
+Sinulta tulee rikkaus ja kunnia, on soveliasta antaa ne sinulle ja
+kieltäytyä. Mutta murheeni on kokonaan minun omaani, jos sen tarjoan
+uhrina sinulle, palkitset sinä minua armollasi.
+
+
+84.
+
+Eron tuska kaartaa maailman, eron tuska synnyttää lukemattomia hahmoja
+taivaan äärettömyyteen.
+
+Eron tuska tuijottaa yön hiljaisuudessa tähdestä tähteen ja muuttuu
+lauluksi sateisen, himmeän heinäkuun kahisevassa lehdistössä.
+
+Tuo yli tulvehtiva tuska syventyy lemmeksi ja pyyteeksi, ihmistalojen
+iloiksi ja suruiksi, sama tuska sulaa ja lainehtii lauluna läpi
+runoilijasydämeni.
+
+
+85.
+
+Kun sotilaat astuivat ensin ulos mestarin salista, minne he olivat
+mahtinsa salanneet? Missä olivat aseet ja sotisovat?
+
+He katsoivat ympärilleen köyhinä ja avuttomina, nuolia satoi heidän
+päälleen, sinä päivänä, jolloin he astuivat ulos mestarinsa salista.
+
+Kun sotilaat takaisin mestarinsa saliin samosivat, minne he olivat
+mahtinsa kätkeneet?
+
+He olivat riisuneet miekan kupeeltaan ja jousen ja nuolet. Rauha
+hallitsi heidän otsallaan, he olivat jättäneet elämänsä hedelmät
+jäljelleen, sinä päivänä, kun he takaisin mestarinsa saliin samosivat.
+
+
+86.
+
+Kuolema, sinun palvelijasi on ovellani. Hän on purjehtinut yli outojen
+vesien ja on tuonut viestisi minun talooni.
+
+Yö on tumma, minun sydämeni pelkää, ja kuitenkin tahdon ottaa lamppuni
+ja avata oveni hänelle ja hänet tervetulleeksi toivottaa. Airuesi
+seisoo minun ovellani.
+
+Tahdon häntä kädet ristissä ja kyynelin kunnioittaa. Tahdon häntä
+kunnioittaa ja laskea sydämeni aarteen hänen jalkojensa juureen.
+
+Hän on poistuva toimensa täytettyään ja jättävä tumman varjon yli
+huoneeni. Autioon kotiini jää vain minun orpo itseni, minun viimeinen
+lahjani sinulle.
+
+
+87.
+
+Kuljeskelen täynnä epätoivoista toivoa ja etsin häntä kaikista taloni
+sokkeloista enkä löydä häntä.
+
+Taloni on pieni, ja mikä kerran meni, ei voi koskaan löytyä jälleen.
+Mutta sinun talosi, oi Herra, on äärettömän suuri, ja minä tulin häntä
+etsien sinun ovellesi.
+
+Seison sinun iltataivaasi kultaisen katon alla ja kohotan rukoilevat
+silmäni sinun kasvoihisi.
+
+Saavuin iankaikkisuuden äärille, missä ei häviä mikään, -- ei toivo, ei
+onni eikä kautta kyynelten nähty kasvojen kuva.
+
+Oi, salli minun lyhentyneen elämäni sukeltaa tuohon valtamereen, upota
+minut sen täysimpään syvyyteen! Anna minun vielä kerran avarassa
+maailmankaikkeudessa tuntea tuo suloinen, kadotettu kosketus!
+
+
+88.
+
+Raunioituneen temppelin jumaluus! _Vinan_ katkenneet kielet eivät enää
+kaiu kiitostasi. Iltakellot eivät kuuluta enää palvelusi tuokiota. Ilma
+on hiljainen ja tyyni sinun ympärilläsi.
+
+Sinun hävitettyyn huoneeseesi tulevat tuoksuvat kevättuulet. He
+kantavat sinulle kukkien viestiä -- kukkien, joita ei enää vihitä
+palveluusi.
+
+Muinainen pappisi kulkee ja ikävöi yhäti uhria, joka evätään sinulta.
+Illalla, kun tulet ja varjot sekaantuvat tomun himmeydessä, silloin hän
+palajaa uupuneena takaisin hävitettyyn temppeliin nälkä sydämessään.
+
+Moni juhlapäivä vaeltaa luoksesi vaieten, sinä hävitetyn temppelin
+jumaluus! Moni rukouksen yö menee, eikä lamput ole sytytetyt.
+
+Mestarin käsi muovaili kauniisti monet uudet kuvat ja kantoi unhon
+pyhään virtaan, kun niiden aika tuli.
+
+Vain hävitetyn temppelin jumaluus pysyy ijäti vailla palvelua,
+ylenkatsottuna kuolemattomasti.
+
+
+89.
+
+Ei yhtään äänekästä, hälisevää sanaa minulta, -- niin on mestarini
+tahto. Puhun vastedes vain kuiskaten. Sydämeni kieli on kuuluva laulun
+hyminässä.
+
+Ihmiset kiiruhtavat kuninkaan turulle. Kaikki myöjät ja ostajat ovat
+siellä. Mutta minä sain outo-aikaisen loman keskellä päivää työn
+touhinassa.
+
+Kukkikoot siis tarhani kukkaset, vaikka ei heidän aikansa olekaan! Ja
+alkakoon ahkeran surinansa keskipäivän kimalainen!
+
+Kovin monta hetkeä kulutin hyvän ja pahan kamppaelussa, mutta nyt
+tahtoo tyhjien päivieni leikkitoveri suosiollisesti vetää puoleensa
+sydämeni. Enkä tiedä, mistä tämä äkillinen kutsu, mihin hyödyttömään
+tarkoitukseen.
+
+
+90.
+
+Mitä tahdot tarjota kuolemalle sinä päivänä, jolloin hän on ovellesi
+kolkuttava?
+
+Tahdon asettaa vieraani eteen elämäni täyden astian, -- en ole laskeva
+häntä luotani tyhjin käsin!
+
+Koko syksyni, kaikkien kesä-öitteni suloisen säiliön, koko toimeliaan
+elämäni sadon ja tulokset olen levittävä hänen eteensä päivieni
+päättyessä, kun kuolema ovelleni kolkuttaa.
+
+
+91.
+
+Oi, sinä elämän viimeinen täyttymys, kuolema, minun kuolemani, tule ja
+kuiskaa kutsusi minulle!
+
+Päivästä päivään olen sinua odottanut, sinun vuoksesi kannoin elämän
+ilot ja tuskat.
+
+Kaikki, mitä olen ja omaan ja toivon, ja kaikki minun rakkauteni
+virtasi aina kohti sinua syvässä salaisuudessa. Viimeinen katse sinun
+silmistäsi, ja minun elämäni on aina oleva omasi.
+
+Kukat ovat kaikki poimitut ja seppel on valmis sulhaselle. Häiden
+jälkeen jättää morsian kotinsa kohdatakseen herransa yksin yön
+hiljaisuudessa.
+
+
+92.
+
+Tiedän, on tuleva päivä, jolloin tämä maailma haihtuu katseeltani,
+jolloin elämä hyvästelee vaieten minut ja viimeinen esirippu yli
+silmieni lankeaa.
+
+Tähdet tulevat öisin valvomaan, aamut valkenemaan, kuin ennenkin,
+tuokion laineiden lailla nousemaan, heittäen iloja ja suruja
+kuohuistaan.
+
+Kun ajattelen hetkieni päämäärää, silloin raukeaa hetkien raja, minä
+näen kuoleman valossa maailman turhine aarteineen. Kevyt on sen alin
+istuin ja kevyt vähäarvoisin elämä.
+
+Seikat, joita olen turhaan kaivannut, ja seikat, jotka olen saavuttanut
+-- menkööt menojaan! Salli minun todella omistaa vain seikat, joita
+olen aina pilkannut ja ylenkatsonut.
+
+
+93.
+
+Olen saanut lomani, niinpä virka minulle, veljeni, jäähyväisesi!
+Kumarran kaikille ja lausun hyvästini.
+
+Tässä annan takaisin oveni avaimen ja luovutan kaikki oikeuteni taloon.
+Pyydän vain viimeistä hyväntahtoista sanaa teiltä.
+
+Me olimme kauan naapureita, kuitenkin sain minä enemmän kuin voin
+antaa. Päivä koittaa, lamppu sammui, joka valaisi pimeää soppeani. Sain
+käskyn, olen valmis matikalleni.
+
+
+94.
+
+Tänä hyvästelyni aikana toivottakaa minulle hyvää onnea, ystäväni!
+Taivas punertaa huomenruskossa, polku on kauniina edessäni.
+
+Älkää kysykö, mitä otan mukaani. Tyhjin käsin ja odottavin sydämin
+lähden matkalleni.
+
+Pukeudun juhlapukuuni enkä vaeltajien punaisenruskeaan kaapuun. Enkä
+pelkää, vaikka vaarat minua tiellä uhkaisivatkin.
+
+Iltatähti on näyttäytyvä, kun saavutan matkani määränpään, ja hämyn
+sävelien valittava soitto on kuninkaan valtatieltä soinnahtava.
+
+
+95.
+
+En tietänyt hetkestä, jona kerran astuin elämän kynnyksen yli.
+
+Mikä oli mahti, joka käski minua avaamaan oven tähän avaraan
+salaisuuteen niinkuin keski-öisessä metsässä umppu aukenee?
+
+Kun aamulla kohotin katseeni valkeuteen, tunsin tuokiossa, etten
+ollutkaan outo tässä maailmassa ja että tuo tutkimaton, joka on vailla
+nimeä ja hahmoa, otti minut syliinsä äitini muotoisena.
+
+Niin on kuolema, tuo samoin tuntematon, minulle kerran ikituttuna
+ilmenevä. Ja koska niin rakastan tätä elämää, tiedän, että olen
+kuolemaa samoin rakastava.
+
+Lapsi kirkaisee, kun äiti ottaa sen pois oikealta rinnaltaan, mutta se
+löytää heti lohtunsa vasemmalta.
+
+
+96.
+
+Kun täältä poistun, olkoon tämä minun jäähyväissanani, joka on voittava
+näkemykseni.
+
+Olen maistanut salaista makeutta lotoskukan, joka keinuu valon
+valtamerellä, ja tullut siunatuksi, -- olkoon tämä minun
+jäähyväissanani.
+
+Olen leikkinyt rajattomien muotojen kisakentällä, siellä olen nähnyt
+hänet, muodottoman.
+
+Koko ruumiini ja kaikki jäseneni vapisivat hänen kosketuksestaan, joka
+on kosketuksen tuolla puolen; ja jos täällä tulee loppu, niin tulkoon,
+-- olkoon tämä minun jäähyväissanani.
+
+
+97.
+
+Kun leikin kanssasi, en koskaan kysynyt, kuka olet. En tuntenut
+arkuutta enkä pelkoa, minun elämäni meni hälinässä.
+
+Varhain aamulla huusit minut valveille unesta leikkitoverinani ja
+johdatit juosten minut aholta aholle.
+
+En huolehtinut tuollaisina päivinä laulun ajatuksesta, jota lauloit
+minulle. Vain ääneni otti vastaan säveleesi ja minun sydämeni karkeloi
+niiden rytmien mukaan.
+
+Nyt, leikin loppuessa, kenen ovatkaan kasvot, jotka äkkiä edessäni
+ilmenevät? Maailma luo katseensa alas jalkoihisi ja seisoo
+kunnioittavaisessa pelossa kaikkine vaikenevine tähtineen.
+
+
+98.
+
+Koristan sinua voitonmerkeillä, virhieni köynnöksillä. Ei ole
+voimassani poistua voittamattomana.
+
+Minä tiedän, ylpeyteni juoksee päin seinää, elämäni katkoo siteensä
+tuhansiksi tuskiksi, tyhjä sydämeni purskahtaa itkuun musiikissa
+niinkuin ontto ruoko, ja kivi on sulava kyyneliin.
+
+Tiedän varmaan, lotos-kukan sadat lehdet eivät ole ijäksi sulkeutuneet,
+sen makeuden salainen malja on ilmestyvä.
+
+Sinitaivaalta katsoo silmä minun puoleeni ja kutsuu vaieten minua.
+Mitään ei ole jääpä minulle, ei mitään, otan vastaan jalkojesi juuressa
+kuoleman alastoman.
+
+
+99.
+
+Jos jätän peräsimen, silloin tiedän, että aikasi on tullut ottaa se.
+Mitä nyt on tehtävä, on tehtävä heti. Turhaa on niskoitella.
+
+Siis ota kätesi pois, sydämeni, ja laittaudu vaieten häviämään! Pidä
+hyvänä onnenasi istua aivan hiljaa, mihin ikinä sinut vietäneekin.
+
+Jokainen tuulenhenkäys sammutti lamppuni, ja kun koetin sitä jälleen
+sytyttää, unohdin kaikki aina uudestaan.
+
+Mutta nyt tahdon olla viisas ja odottaa pimeydessä ja levittää maton
+lattialle, ja jos sinulle on mieleen, oi Herra, tule hiljaa ja istu
+istuimellesi!
+
+
+100.
+
+Minä sukellan hahmojen syvyyteen, minä toivon siellä hahmottomuuden
+täydellisen helmen löytäväni.
+
+En purjehdi enää satamasta satamaan lahoine pursineni: Aika on ohitse,
+jolloin minun iloni oli aalloilla ajelehtia.
+
+Nyt kaipaan kuolla kuolottomuuteen.
+
+Tutkimattoman syvyyden partaalla, missä säveletönten kielten soitto
+helisee, tahdon eloni harpun virittää.
+
+Olen sen ijäisyyden säveliin virittävä, ja kun sen viimeinen ääni on
+itsensä loppuun nyyhkyttänyt, asetan minä vaikenevan soittoni vaitiolon
+jalkojen juureen.
+
+
+101.
+
+Halki elämäni ovat lauluni sinua etsineet. Ne veivät minut ovelta
+ovelle, niiden kera hain ja haparoin ja koskettelin maailmaani.
+
+Lauluni opettivat minulle kaiken, mitä koskaan olen oppinut. Ne
+näyttivät minulle salaisia polkuja, ne saattoivat silmäini eteen monta
+tähteä minun sydämeni taivaanrannalta.
+
+Ne jouduttivat joka päivä minua ilon ja surun salaisuuksiin. Ja minkä
+palatsin ovelle te opastittekaan minut vihdoin illalla matkan
+päättyessä!
+
+
+102.
+
+Kerskuin ihmisten seassa sinut tuntevani. He näkevät sinun kasvosi
+kaikissa teoissani. He tulevat ja kysyvät: "Missä hän on?" En tiedä,
+mitä vastata heille. Virkan: "En voi sitä sanoa teille." Silloin he
+soimaavat minua ja menevät pois pilkaten. Ja sinä hymyilet.
+
+Panin tietoni sinusta lauluihin, jotka pysyvät. Ja sinun salaisuutesi
+virtaili sydämestäni. He tulevat ja kysyvät: "Sano, mitä ne
+tarkoittavat?" En tiedä, mitä vastata heille. Virkan: "Kuka tietää,
+mikä on tarkoitus!" He hymyilevät ja menevät pois pilkaten ja
+suuttuneina. Ja sinä hymyilet.
+
+
+103.
+
+Salli minun avata aistini ja koskettaa maailmaa jalkojesi juuressa vain
+sinua tervehtien, oi Jumalani!
+
+Niinkuin heinäkuun sadepilvi, joka riippuu alhaalla väristen
+vuodattamattomasta tuskastaan, niin salli henkeni kumartua
+kynnyksellesi sinua tervehtien!
+
+Salli lauluni koota kaikki sävelmänsä kuin virtaan, joka vierii
+vaitiolon valtamereen sinua tervehtien!
+
+Niinkuin kotiinpalaavien kurkien parvi lentää yötä päivää
+vuoripesilleen, niin salli minun koko elämäni tietää tiensä ikuiseen
+kotiinsa sinua tervehtien!
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Uhrilauluja, by Rabindranath Tagore
+
+*** END OF THIS PROJECT GUTENBERG EBOOK UHRILAULUJA ***
+
+***** This file should be named 52994-8.txt or 52994-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/2/9/9/52994/
+
+Produced by Jari Koivisto
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
