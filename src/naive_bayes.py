@@ -4,7 +4,7 @@ import math
 from collections import defaultdict
 from os import listdir
 from numpy import argmax, array
-
+from nltk import pos_tag, word_tokenize
 # --------------------------Some helper functions--------------------------
 def simple_tokenizer(doc): 
 	bow = defaultdict(float)
@@ -14,9 +14,23 @@ def simple_tokenizer(doc):
 	return bow
 
 
+def bigram_tokenizer(doc):
+    bow = defaultdict(float)
+    tokens = [t.lower() for t in doc.split()]
+    for i in range(1,len(tokens)):
+        bow[(tokens[i-1], tokens[i])] += 1
+    return bow
+
 def bin_mean(start, bin, bin_size):
 	return int(start + bin*bin_size + bin_size/2)
 
+def pos_tags(doc):
+    tokens = word_tokenize(doc)
+    tags = pos_tag(tokens)
+    tags_dict = defaultdict(float)
+    for tag in tags:
+        tags_dict[tag] +=1
+    return tags_dict
 
 def count_bow(bow):
 	return sum(bow.values())

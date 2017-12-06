@@ -17,14 +17,14 @@ seed(314159)
 ### Dataset 1 : Gutenberg
 
 # Set the train and test dir
-train_dir = '../Gutenberg Dataset/Yearly/Train'
-test_dir  = '../Gutenberg Dataset/Yearly/Test'
+train_dir = '../GutenbergDataset/Yearly/Train'
+test_dir  = '../GutenbergDataset/Yearly/Test'
 
 
 """
 BASELINE: NAIVE BAYES MODEL --------------------------------------------
 """
-if False:
+if True:
 	# Function to build a NB model
 	NB_func = lambda args: NaiveBayes(bin_size=args[0], alpha=args[1])
 
@@ -42,8 +42,8 @@ if False:
 	### Dataset 2 : Proquest
 
 	# Set the train and test dir
-	train_dir = '../Proquest Dataset/Yearly/Train'
-	test_dir  = '../Proquest Dataset/Yearly/Test'
+	train_dir = '../ProquestDataset/Yearly/Train'
+	test_dir  = '../ProquestDataset/Yearly/Test'
 
 	"""
 	BASELINE: NAIVE BAYES MODEL --------------------------------------------
@@ -56,18 +56,19 @@ if False:
 	evaluate_model(nb, test_dir, 'Proquest')
 
 
-"""
-MODEL: LOGISTIC REGRESSION ---------------------------------------------
-"""
+# """
+# MODEL: LOGISTIC REGRESSION ---------------------------------------------
+# """
+else:
+	# Function to build the LogReg model
+	LR_func = lambda args: LogReg(bin_size=args[0])
 
-# Function to build the LogReg model
-LR_func = lambda args: LogReg(bin_size=args[0])
+	# Hyperparameters for the log reg classifier
+	LR_hparams = [ np.array([5, 10, 20, 35, 50]) ]
 
-# Hyperparameters for the log reg classifier
-LR_hparams = [ np.array([5, 10, 20, 35, 50]) ]
+	# Create the classifier using 5-fold CV
+	LR = cross_validation(train_dir, LR_func, LR_hparams, verbose=False)
 
-# Create the classifier using 5-fold CV
-LR = cross_validation(train_dir, LR_func, LR_hparams, verbose=False)
+	# Evaluate the model
+	evaluate_model(LR, test_dir, 'Proquest')
 
-# Evaluate the model
-evaluate_model(LR, test_dir, 'Proquest')
