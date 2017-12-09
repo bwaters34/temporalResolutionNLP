@@ -25,8 +25,10 @@ def cross_validation(train_dir, model_func, hparams, K=5, verbose=False):
 	This function performs k-fold crossvalidation to determine
 	the best hyperparameters for the given model
 	"""
-	# Get the filenames in the trainining dir
-	train_set = listdir(train_dir)
+	# Get the filenames
+	# These are the same in all feature directories, so it suffices
+	#	to just use the ones in Unigrams
+	train_set = listdir('%s/Unigrams' % train_dir)
 
 	# Build all possible ordered pairs of hyperparameters
 	hparam_pairs = list(product(*hparams))
@@ -171,18 +173,15 @@ def plot_hyperparam_loss(best_params, params, train_loss, test_loss):
 	return 
 
 
-def evaluate_model(clf, test_dir, title):
+def evaluate_model(clf, root_dir, title):
 	# Set the bin_size
 	bin_size = clf.bin_size
 
-	# Get the filenames
-	test = listdir(test_dir)
-
 	# Get the gold labels
-	gold = np.array([int(f[:4]) for f in test])
+	gold = np.array([int(f[:4]) for f in listdir('%s/Unigrams' % root_dir)])
 
 	# Predict the test data
-	pred = clf.predict(test_dir, test, verbose=True)
+	pred = clf.predict(root_dir, verbose=True)
 	
 	# Create the century vector
 	c1 = int(bin_size*min(x/bin_size for x in gold))

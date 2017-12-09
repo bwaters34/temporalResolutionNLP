@@ -5,62 +5,32 @@ from collections import defaultdict
 from os import listdir
 from numpy import argmax, array
 from nltk import pos_tag, word_tokenize
-import codecs
-import io
+from cPickle import loads
 # --------------------------Some helper functions--------------------------
-def simple_tokenizer(doc): 
-	bow = defaultdict(float)
-	tokens = [t.lower() for t in doc.split()]
-	for t in tokens:
-		bow[t] += 1
-	return bow
 
-
-def bigram_tokenizer(doc):
-    bow = defaultdict(float)
-    tokens = [t.lower() for t in doc.split()]
-    for i in range(1,len(tokens)):
-        bow[(tokens[i-1], tokens[i])] += 1
-    return bow
+def load_dict(filename):
+	# read the file
+	with open(filename, 'r') as f:
+		doc = f.read()
+	# tokenize
+	return loads(doc)
 
 def bin_mean(start, bin, bin_size):
 	return int(start + bin*bin_size + bin_size/2)
 
-def pos_tags(doc):
-    tokens = word_tokenize(doc)
-    tags = pos_tag(tokens)
-    tags_dict = defaultdict(float)
-    for tag in tags:
-        tags_dict[tag] +=1
-    return tags_dict
-
 def count_bow(bow):
     return sum(bow.values())
-
-def dictionary_function_combiner(list_of_funcs):
-    """
-    Creates a master feature function from a list of functions
-    :param list_of_funcs: List of functions to combine (all must return dictionaries)
-    :return: The combined function, which turns a document into a dictionary of features
-    """
-    def custom_feature_function(doc): #
-        combined_dict = {}
-        for func in list_of_funcs:
-            combined_dict.update(func(doc))
-        return combined_dict
-
-    return custom_feature_function
 
 
 # -------------------------- Naive Bayes --------------------------
 class NaiveBayes:
 
 	# Constructor
-	def __init__(self, bin_size=20.0, alpha=1.0, tokenizer=simple_tokenizer, prediction_func=bin_mean):
+	def __init__(self, bin_size=20.0, alpha=1.0, features=['uni'], prediction_func=bin_mean):
 		# Class fields
 		self.bin_size = bin_size
 		self.alpha = alpha
-		self.tokenize = tokenizer
+		self.features = features
 		self.prediction_func = prediction_func
 
 		# Build the class dictionaries
@@ -88,7 +58,7 @@ class NaiveBayes:
 
 	"""
 
-	def fit(self, train_dir, filenames, verbose=False):
+	def fit(self, train_dir, filenames=None, verbose=False):
 		"""
 		Function which builds the class dictionaries given the directory of the
 		training set
@@ -98,6 +68,11 @@ class NaiveBayes:
 		to work
 		"""
 		
+		# If no filenames given, us all in Unigrams
+		#	which will be the same for all names in the other folders
+		if not filenames:
+			filenames = listdir('%s/Unigrams' % train_dir)
+
 		# Determine the min year
 		self.min_year = min([ int(f[:4]) for f in filenames])
 		self.max_year = max([ int(f[:4]) for f in filenames])
@@ -119,28 +94,23 @@ class NaiveBayes:
 			# Determine the bin
 			bin = int((year - self.min_year) / self.bin_size)
 			
-			# Build the classifier
-			with codecs.open(train_dir + '/' + filename, 'r', encoding='utf8' ) as infile:
-				# Read the document
-				doc = infile.read()
+			# Extract tokens from the document
+			bow = self.tokenize(train_dir, filename)
 
-				# Tokenize the doc
-				bow = self.tokenize(doc)
+			# Update the class dictionaries
+			# Update number of docs seen for this bin
+			self.bin_total_doc_counts[bin] += 1
+			
+			# Update the individual token count for this bin
+			for token in bow:
+				self.vocab.add(token)
+				self.bin_word_counts[bin][token] += bow[token]
+			
+			# Update the total token count for this bin
+			self.bin_total_word_counts[bin] += count_bow(bow)
 
-				# Update the class dictionaries
-				# Update number of docs seen for this bin
-				self.bin_total_doc_counts[bin] += 1
-				
-				# Update the individual token count for this bin
-				for token in bow:
-					self.vocab.add(token)
-					self.bin_word_counts[bin][token] += bow[token]
-				
-				# Update the total token count for this bin
-				self.bin_total_word_counts[bin] += count_bow(bow)
-
-			# If a multiple of 100 and verbose, alert the user
-			if verbose and (counter % 100 == 0):
+			# If a multiple of 50 and verbose, alert the user
+			if verbose and (counter % 50 == 0):
 				print '\tFinished', counter, 'docs.'
 
 		# Set the class vocab size
@@ -155,7 +125,7 @@ class NaiveBayes:
 		return self
 
 
-	def predict(self, test_dir, filenames, verbose=False):
+	def predict(self, test_dir, filenames=None, verbose=False):
 		"""
 		Function which predicts the yeard of the test set, given the 
 		test dir.
@@ -163,6 +133,11 @@ class NaiveBayes:
 		Again, files must be in the form [Year]-[Code].txt for the classifier 
 		to work
 		"""
+
+		# If no filenames given, use all in Unigrams
+		if not filenames:
+			filenames = listdir('%s/Unigrams' % test_dir)
+
 		predictions = []
 		bins = self.bin_total_doc_counts.keys()
 
@@ -177,24 +152,20 @@ class NaiveBayes:
 			# update the counter
 			counter += 1
 
-			with codecs.open(test_dir + '/' + filename, 'r', encoding='utf8') as infile:
-				# Read the doc
-				doc = infile.read()
+			# Tokenize
+			bow = self.tokenize(test_dir, filename)
 
-				# Tokenize
-				bow = self.tokenize(doc)
+			# Predict the bin
+			bin_probs = [self.unnormalized_log_posterior(bow, bin) for bin in bins]
 
-				# Predict the bin
-				bin_probs = [self.unnormalized_log_posterior(bow, bin) for bin in bins]
+			# Determine the most likely bin
+			best_bin = bins[argmax(bin_probs)]
 
-				# Determine the most likely bin
-				best_bin = bins[argmax(bin_probs)]
+			# Determine the best bin and append to the prediction list
+			predictions.append( self.prediction_func(self.min_year, best_bin, self.bin_size) )
 
-				# Determine the best bin and append to the prediction list
-				predictions.append( self.prediction_func(self.min_year, best_bin, self.bin_size) )
-
-			# If a multiple of 100 and verbose, alert the user
-			if verbose and (counter % 100 == 0):
+			# If a multiple of 50 and verbose, alert the user
+			if verbose and (counter % 50 == 0):
 				print '\tFinished', counter, 'docs.'
 
 		# Return the prediction
@@ -237,6 +208,25 @@ class NaiveBayes:
 		Computes the log of P(tokens | bin)
 		"""
 		return self.log_prior(bin) + self.log_likelihood(bow, bin)
+
+	def tokenize(self, root_dir, filename):
+		# initially empty
+		bow = defaultdict(float)
+		# Unigrams
+		if 'unigrams' in self.features:
+			bow.update( load_dict('%s/%s/%s' % (root_dir, 'Unigrams', filename)) )
+		# Bigrams
+		if 'bigrams' in self.features:
+			bow.update( load_dict('%s/%s/%s' % (root_dir, 'Bigrams', filename)) )
+		# POS-Tags
+		if 'pos' in self.features:
+			bow.update( load_dict('%s/%s/%s' % (root_dir, 'POS-Tags', filename)) )
+
+		# done!
+		return bow
+
+
+
 
 
 

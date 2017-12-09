@@ -7,7 +7,7 @@ Header
 import numpy as np
 from random import seed
 from os import listdir
-from naive_bayes import NaiveBayes, bigram_tokenizer, pos_tags, dictionary_function_combiner
+from naive_bayes import NaiveBayes
 from logregpipeline import LogReg
 from train_test_helper import cross_validation, evaluate_model
 
@@ -17,19 +17,21 @@ seed(314159)
 ### Dataset 1 : Gutenberg
 
 # Set the train and test dir
-train_dir = '../GutenbergDataset/Yearly/Train'
-test_dir  = '../GutenbergDataset/Yearly/Test'
+train_dir = '../Proquest Dataset/Train'
+test_dir = '../Gutenberg Dataset/Test'
 
 
+nb = NaiveBayes(bin_size=20, alpha=1, features='bigrams')
+nb.fit(train_dir, verbose=True)
+evaluate_model(nb, test_dir, 'Gutenberg')
 """
+
+
 BASELINE: NAIVE BAYES MODEL --------------------------------------------
 """
-if True:
-
+if False:
 	# Function to build a NB model
-	f = dictionary_function_combiner([bigram_tokenizer, pos_tags])
-
-	NB_func = lambda args: NaiveBayes(bin_size=args[0], alpha=args[1], tokenizer=f)
+	NB_func = lambda args: NaiveBayes(bin_size=args[0], alpha=args[1], features=['unigrams'])
 
 	# These are the hyperparameters we are testing over
 	nb_hparams = [ np.array([5, 10, 20, 35, 50]), # Bin Size
@@ -40,7 +42,6 @@ if True:
 
 	# Evaluate the model
 	evaluate_model(nb, test_dir, 'Gutenberg')
-	print 'evaluated'
 
 	### Dataset 2 : Proquest
 
@@ -62,7 +63,7 @@ if True:
 # """
 # MODEL: LOGISTIC REGRESSION ---------------------------------------------
 # """
-else:
+if False:
 	# Function to build the LogReg model
 	LR_func = lambda args: LogReg(bin_size=args[0])
 
