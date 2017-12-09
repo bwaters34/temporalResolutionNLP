@@ -1,6 +1,6 @@
 import os
 import numpy as np
-
+from tokenize import tokenize
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 from sklearn.feature_extraction import DictVectorizer
@@ -11,18 +11,19 @@ from sklearn.pipeline import Pipeline
 
 class LogReg:
 
-    def __init__(self, bin_size=20):
+    def __init__(self, bin_size=20, features = ['unigrams']):
         self.bin_size = bin_size
-        self.clf = Pipeline([('vect', CountVectorizer()), ('tfidf', TfidfTransformer()), ('logreg', LogisticRegression(solver='saga', n_jobs=-1) ), ])
+        self.clf = Pipeline([('logreg', LogisticRegression(solver='saga', n_jobs=-1) ), ])
+        self.features = features
 
-    def fit(self, train_dir, filenames, verbose=False):
+    def fit(self, train_dir, filenames = None, verbose=False):
         # Extract the dataset
+        if filenames is None:
+            filenames = os.listdir('%s/Unigrams' % train_dir)
         feature_dicts, labels = self.construct_dataset(train_dir, filenames, train=True)
         sparse_feature_matrix = DictVectorizer(sparse=True).fit_transform(feature_dicts)
-
-        
         # Fit the model
-        # self.clf.fit(books, labels)
+        self.clf.fit(sparse_feature_matrix, labels)
         # Return self
         return self
 

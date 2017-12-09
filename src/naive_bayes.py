@@ -5,7 +5,7 @@ from collections import defaultdict
 from os import listdir
 from numpy import argmax, array
 from nltk import pos_tag, word_tokenize
-from tokenize import tokenizer
+from tokenize import tokenize
 # --------------------------Some helper functions--------------------------
 
 def bin_mean(start, bin, bin_size):
@@ -88,7 +88,7 @@ class NaiveBayes:
 			bin = int((year - self.min_year) / self.bin_size)
 			
 			# Extract tokens from the document
-			bow = self.tokenize(train_dir, filename)
+			bow = tokenize(train_dir, self.features, filename)
 
 			# Update the class dictionaries
 			# Update number of docs seen for this bin
@@ -146,7 +146,7 @@ class NaiveBayes:
 			counter += 1
 
 			# Tokenize
-			bow = self.tokenize(test_dir, filename)
+			bow = tokenize(test_dir, self.features,  filename)
 
 			# Predict the bin
 			bin_probs = [self.unnormalized_log_posterior(bow, bin) for bin in bins]
