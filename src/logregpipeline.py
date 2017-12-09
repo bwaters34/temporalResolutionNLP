@@ -3,6 +3,7 @@ import numpy as np
 
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
+from sklearn.feature_extraction import DictVectorizer
 from sklearn.linear_model import LogisticRegression
 
 from sklearn.pipeline import Pipeline
@@ -16,9 +17,12 @@ class LogReg:
 
     def fit(self, train_dir, filenames, verbose=False):
         # Extract the dataset
-        books, labels = self.construct_dataset(train_dir, filenames, train=True)
+        feature_dicts, labels = self.construct_dataset(train_dir, filenames, train=True)
+        sparse_feature_matrix = DictVectorizer(sparse=True).fit_transform(feature_dicts)
+
+        
         # Fit the model
-        self.clf.fit(books, labels)
+        # self.clf.fit(books, labels)
         # Return self
         return self
 
@@ -50,14 +54,12 @@ class LogReg:
         books = []
         years = []
         # Loop through the files, recording the bodies and labels
+
         for filename in filenames:
             # Get the year
             year = int(filename[:4]) # first 4 characters
-            # Now read the file
-            with open('%s/%s' % (location, filename), 'r') as doc:
-                content = doc.read()
             # Append these to the corresponding lists
-            books.append(content)
+            books.append(tokenize(location, self.features, filename))
             years.append(year)
 
         # If this is the train set, return the bins instead,
