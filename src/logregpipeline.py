@@ -10,7 +10,7 @@ from sklearn.pipeline import Pipeline
 
 class LogReg:
 
-    def __init__(self, bin_size=20):
+    def __init__(self, bin_size=20, feat):
         self.bin_size = bin_size
         self.clf = Pipeline([('vect', CountVectorizer()), ('tfidf', TfidfTransformer()), ('logreg', LogisticRegression(solver='saga', n_jobs=-1) ), ])
 
