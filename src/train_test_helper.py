@@ -8,9 +8,9 @@ from random import shuffle
 from itertools import product
 import numpy as np
 import matplotlib.pyplot as plt
+import sys
 
 
-# 
 def calc_MAE(gold, pred):
 	return np.mean( np.abs(np.array(gold) - np.array(pred)) )
 
@@ -182,6 +182,7 @@ def evaluate_model(clf, root_dir, title):
 
 	# Predict the test data
 	pred = clf.predict(root_dir, verbose=True)
+	sys.exit(0)
 	
 	# Create the century vector
 	c1 = int(bin_size*min(x/bin_size for x in gold))

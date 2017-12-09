@@ -21,8 +21,8 @@ train_dir = '../GutenbergDataset/Train'
 test_dir = '../GutenbergDataset/Test'
 
 
-lg = LogReg(bin_size=20, features=['pos', 'bigrams', 'unigrams'])
-lg.fit(train_dir, verbose=True,)
+lg = LogReg(bin_size=20, features=['unigrams'])
+lg.fit(train_dir)
 evaluate_model(lg, test_dir, 'Gutenberg')
 """
 
@@ -63,7 +63,7 @@ if False:
 # """
 # MODEL: LOGISTIC REGRESSION ---------------------------------------------
 # """
-if True:
+if False:
 	# Function to build the LogReg model
 	LR_func = lambda args: LogReg(bin_size=args[0], features=['unigrams', 'bigrams', 'pos'])
 

@@ -11,19 +11,16 @@ from sklearn.pipeline import Pipeline
 
 class LogReg:
 
-<<<<<<< HEAD
-    def __init__(self, bin_size=20, feat):
-=======
     def __init__(self, bin_size=20, features = ['unigrams']):
->>>>>>> 766ce9e83f10939c3f2a882625fd1e4978e7860e
         self.bin_size = bin_size
         self.clf = Pipeline([('logreg', LogisticRegression(solver='saga', n_jobs=-1) ), ])
         self.features = features
 
-    def fit(self, train_dir, filenames = None, verbose=False):
+    def fit(self, train_dir, filenames=None, verbose=True):
         # Extract the dataset
         if filenames is None:
             filenames = os.listdir('%s/Unigrams' % train_dir)
+        # Get the features
         feature_dicts, labels = self.construct_dataset(train_dir, filenames, train=True)
         sparse_feature_matrix = DictVectorizer(sparse=True).fit_transform(feature_dicts)
         # Fit the model
@@ -31,11 +28,14 @@ class LogReg:
         # Return self
         return self
 
-    def predict(self, test_dir, filenames, verbose=False):
+    def predict(self, test_dir, filenames=None, verbose=True):
+        # If no files given, get them from the unigram folder
+        if filenames is None:
+            filenames = os.listdir('%s/Unigrams' % test_dir)
         # Extract the data
         test, _ = self.construct_dataset(test_dir, filenames, train=False)
         # predict the bins
-        predicted = self.clf.predict(test)
+        predicted = self.clf.predict(test.reshape(-1,1))
         # Convert to years
         return [self.determine_year(x) for x in predicted]
 

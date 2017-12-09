@@ -13,6 +13,7 @@ Copied them here just so I didnt need to deal with import statements
 """
 # Some characters whose lines we will throw out
 delimitable = ['\t', '|', '[', ']', '+']
+bad_tags = ['.','``', '\'\'', ':']
 
 def simple_tokenizer(doc): 
 	bow = defaultdict(float)
@@ -71,9 +72,12 @@ def tree_tokenizer(doc):
 	for f in sents:
 		if not any([(x in f) for x in delimitable]):
 			tokens = word_tokenize(f)
-			tags = [x[1] for x in pos_tag(tokens)]
+			tags = [x[1] for x in pos_tag(tokens) if x[1] not in bad_tags]
 			# build the tree
 			tree = parse(tags)
+			# check if -1
+			if (tree == -1):
+				continue
 			for t1 in tree:
 				for t2 in tree[t1]:
 					tree_dict[(t1, t2)] += 1
@@ -84,8 +88,8 @@ def tree_tokenizer(doc):
 
 # Location for the dataset
 ds = 'GutenbergDataset'
-loc = 'Unigrams'
-func = simple_tokenizer
+loc = 'SentTrees'
+func = tree_tokenizer
 
 # Some directory names
 root = '../../%s' % ds
