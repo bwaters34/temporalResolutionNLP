@@ -21,9 +21,9 @@ train_dir = '../GutenbergDataset/Train'
 test_dir = '../GutenbergDataset/Test'
 
 
-nb = NaiveBayes(bin_size=20, alpha=1, features=['pos'])
-nb.fit(train_dir, verbose=True)
-evaluate_model(nb, test_dir, 'Gutenberg')
+lg = LogReg(bin_size=20, features=['pos', 'bigrams', 'unigrams'])
+lg.fit(train_dir, verbose=True,)
+evaluate_model(lg, test_dir, 'Gutenberg')
 """
 
 
@@ -63,9 +63,9 @@ if False:
 # """
 # MODEL: LOGISTIC REGRESSION ---------------------------------------------
 # """
-if False:
+if True:
 	# Function to build the LogReg model
-	LR_func = lambda args: LogReg(bin_size=args[0])
+	LR_func = lambda args: LogReg(bin_size=args[0], features=['unigrams', 'bigrams', 'pos'])
 
 	# Hyperparameters for the log reg classifier
 	LR_hparams = [ np.array([5, 10, 20, 35, 50]) ]
