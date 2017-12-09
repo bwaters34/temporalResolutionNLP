@@ -203,7 +203,8 @@ def evaluate_model(clf, root_dir, title):
 
 	# Now plot it
 	plt.figure(1, figsize=(6,4))
-	plt.plot(x, y, 'or-', linewidth=3)
+	plt.bar(x, y, width = bin_size)
+	# plt.plot(x, y, 'or-', linewidth=3)
 	plt.grid(True)
 	plt.title('%s: MAE by Bin' % title)
 	plt.xlabel('Century')
