@@ -5,6 +5,7 @@ from collections import defaultdict
 from os import listdir
 from numpy import argmax, array
 from nltk import pos_tag, word_tokenize
+from tokenize import tokenizer
 # --------------------------Some helper functions--------------------------
 
 def bin_mean(start, bin, bin_size):
