@@ -20,13 +20,13 @@ def tokenize(root_dir, features, filename):
 	# initially empty
 	bow = defaultdict(float)
 	# Unigrams
-	if 'unigrams' in self.features:
+	if 'unigrams' in features:
 		bow.update( load_dict('%s/%s/%s' % (root_dir, 'Unigrams', filename)) )
 	# Bigrams
-	if 'bigrams' in self.features:
+	if 'bigrams' in features:
 		bow.update( load_dict('%s/%s/%s' % (root_dir, 'Bigrams', filename)) )
 	# POS-Tags
-	if 'pos' in self.features:
+	if 'pos' in features:
 		bow.update( load_dict('%s/%s/%s' % (root_dir, 'POS-Tags', filename)) )
 
 	# done!
