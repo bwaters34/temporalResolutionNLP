@@ -20,10 +20,10 @@ seed(314159)
 train_dir = '../GutenbergDataset/Train'
 test_dir = '../GutenbergDataset/Test'
 
-
-lg = LogReg(bin_size=20, features=['pos', 'bigrams', 'unigrams'])
-lg.fit(train_dir, verbose=True,)
-evaluate_model(lg, test_dir, 'Gutenberg')
+#
+# lg = LogReg(bin_size=20, features=['pos', 'bigrams', 'unigrams'])
+# lg.fit(train_dir, verbose=True,)
+# evaluate_model(lg, test_dir, 'Gutenberg')
 """
 
 
