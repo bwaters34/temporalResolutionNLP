@@ -12,11 +12,7 @@ from sklearn.pipeline import Pipeline
 
 class LogReg:
 
-<<<<<<< HEAD
-    def __init__(self, bin_size=20, feat):
-=======
     def __init__(self, bin_size=20, features = ['unigrams']):
->>>>>>> 766ce9e83f10939c3f2a882625fd1e4978e7860e
         self.bin_size = bin_size
         self.clf = Pipeline([('logreg', LogisticRegression(solver='saga', n_jobs=-1) ), ])
         # self.clf = Pipeline([('nb', MultinomialNB())])
