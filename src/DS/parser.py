@@ -183,7 +183,6 @@ def parse(s):
                 data[curr] = ["ADV", data[curr]]
 
     # Everything below is saving the data into the dictionary
-
     for i in range(len(cp)/2):           
         try:
             dictionary["S"][cp[2*i][0] + "P" + cp[2*i + 1][0] + "P"] += 1
@@ -216,5 +215,3 @@ def parse(s):
                 f = "".join(flat([data[i],data[i+1],"P"]))
                 dictionary[data[i][-1] + "P"][f] = 1
     return dictionary
-    
-# print parse(["N","V","V","M","D","N","ADV","ADV","V","P","D","A","N"])
