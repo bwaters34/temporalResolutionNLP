@@ -5,6 +5,7 @@ from collections import defaultdict
 import codecs
 import cPickle as cpk
 from nltk import pos_tag, word_tokenize, sent_tokenize
+from parser import parse
 
 
 """
@@ -55,8 +56,34 @@ def pos_tag_tokenizer(doc):
 	# done!
 	return tags_dict
 
+def tree_tokenizer(doc):
+	tree_dict = defaultdict(float)
+
+	# Format the document
+	doc = doc.replace('\n', ' ')
+	doc = doc.replace('\r', ' ')
+	doc = doc.replace('  ', ' ')
+
+	# Get the sentences
+	sents = sent_tokenize(doc)
+
+	# For all good sentences, pos-tag them
+	for f in sents:
+		if not any([(x in f) for x in delimitable]):
+			tokens = word_tokenize(f)
+			tags = [x[1] for x in pos_tag(tokens)]
+			# build the tree
+			tree = parse(tags)
+			for t1 in tree:
+				for t2 in tree[t1]:
+					tree_dict[(t1, t2)] += 1
+
+	# done!
+	return tree_dict
+			
+
 # Location for the dataset
-ds = 'Proquest Dataset'
+ds = 'GutenbergDataset'
 loc = 'Unigrams'
 func = simple_tokenizer
 
