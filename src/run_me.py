@@ -17,11 +17,11 @@ seed(314159)
 ### Dataset 1 : Gutenberg
 
 # Set the train and test dir
-train_dir = '../Proquest Dataset/Train'
-test_dir = '../Gutenberg Dataset/Test'
+train_dir = '../GutenbergDataset/Train'
+test_dir = '../GutenbergDataset/Test'
 
 
-nb = NaiveBayes(bin_size=20, alpha=1, features='bigrams')
+nb = NaiveBayes(bin_size=20, alpha=1, features=['pos'])
 nb.fit(train_dir, verbose=True)
 evaluate_model(nb, test_dir, 'Gutenberg')
 """

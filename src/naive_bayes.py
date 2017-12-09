@@ -5,15 +5,7 @@ from collections import defaultdict
 from os import listdir
 from numpy import argmax, array
 from nltk import pos_tag, word_tokenize
-from cPickle import loads
 # --------------------------Some helper functions--------------------------
-
-def load_dict(filename):
-	# read the file
-	with open(filename, 'r') as f:
-		doc = f.read()
-	# tokenize
-	return loads(doc)
 
 def bin_mean(start, bin, bin_size):
 	return int(start + bin*bin_size + bin_size/2)
@@ -208,22 +200,6 @@ class NaiveBayes:
 		Computes the log of P(tokens | bin)
 		"""
 		return self.log_prior(bin) + self.log_likelihood(bow, bin)
-
-	def tokenize(self, root_dir, filename):
-		# initially empty
-		bow = defaultdict(float)
-		# Unigrams
-		if 'unigrams' in self.features:
-			bow.update( load_dict('%s/%s/%s' % (root_dir, 'Unigrams', filename)) )
-		# Bigrams
-		if 'bigrams' in self.features:
-			bow.update( load_dict('%s/%s/%s' % (root_dir, 'Bigrams', filename)) )
-		# POS-Tags
-		if 'pos' in self.features:
-			bow.update( load_dict('%s/%s/%s' % (root_dir, 'POS-Tags', filename)) )
-
-		# done!
-		return bow
 
 
 
