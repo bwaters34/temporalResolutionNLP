@@ -1,22 +1,49 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
+from os import listdir
+from math import exp
+
+def load_data(filename):
+    '''
+    '''
+    a,b = determine_dimensions(filename)
+    
+    X = np.zeros((a,b))
+    Y = []
+    
+    j = 0 # counter
+    with open(filename, 'r') as infile:
+        for line in infile:
+            # If newline, then skip it
+            # Should only be the last line but whatever
+            if line is '\n':
+                continue
+            # Else, parse the line
+            temp = line[:-2].split(',')
+            # Store the word
+            Y.append(temp[0])
+            # Now the X
+            newdata = [float(x) for x in temp[1:]]
+            for k in range(len(newdata)):
+                X[j][k] = newdata[k]
+            # Increase j
+            j += 1
+    # Done!
+    return np.array(X), np.array(Y)
 
 
-def transform(X):
-    '''
+def determine_dimensions(filename):
+    a = 0
+    b = 0
+    with open(filename, 'r') as infile:
+        for line in infile:
+            if line is not '\n':
+                a += 1
+                b = len(line[:-2].split(',')) - 1
+    return a, b
+        
     
-    '''
-    return np.array([transform_helper(k) for k in X])
-  
-    
-def transform_helper(X):
-    '''
-    
-    '''
-    peak = np.argmax( X > 0.75 )
-    return np.hstack( (X[peak:], X[:peak] )) / np.linalg.norm(X)
-
 
 def cluster_quality(X,Z,K):
     '''

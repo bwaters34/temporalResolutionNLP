@@ -20,22 +20,18 @@ seed(314159)
 train_dir = '../GutenbergDataset/Train'
 test_dir = '../GutenbergDataset/Test'
 
-
-lg = LogReg(bin_size=20, features=['unigrams'])
-lg.fit(train_dir)
-evaluate_model(lg, test_dir, 'Gutenberg')
 """
-
-
 BASELINE: NAIVE BAYES MODEL --------------------------------------------
 """
-if False:
+if True:
 	# Function to build a NB model
 	NB_func = lambda args: NaiveBayes(bin_size=args[0], alpha=args[1], features=['unigrams'])
 
 	# These are the hyperparameters we are testing over
 	nb_hparams = [ np.array([5, 10, 20, 35, 50]), # Bin Size
 				   np.array([1, 10, 25, 50, 100])] # Alpha
+	# nb_hparams = [np.array([5,10]),  # Bin Size
+	# 			  np.array([1, 3])]  # Alpha
 
 	# Create the classifier using 5-fold CV
 	nb = cross_validation(train_dir, NB_func, nb_hparams, verbose=True)
@@ -46,8 +42,8 @@ if False:
 	### Dataset 2 : Proquest
 
 	# Set the train and test dir
-	train_dir = '../ProquestDataset/Yearly/Train'
-	test_dir  = '../ProquestDataset/Yearly/Test'
+	train_dir = '../ProquestDataset/Train'
+	test_dir  = '../ProquestDataset/Test'
 
 	"""
 	BASELINE: NAIVE BAYES MODEL --------------------------------------------
@@ -65,7 +61,7 @@ if False:
 # """
 if False:
 	# Function to build the LogReg model
-	LR_func = lambda args: LogReg(bin_size=args[0], features=['unigrams', 'bigrams', 'pos'])
+	LR_func = lambda args: LogReg(bin_size=args[0], features=['unigrams'])
 
 	# Hyperparameters for the log reg classifier
 	LR_hparams = [ np.array([5, 10, 20, 35, 50]) ]

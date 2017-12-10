@@ -182,7 +182,6 @@ def evaluate_model(clf, root_dir, title):
 
 	# Predict the test data
 	pred = clf.predict(root_dir, verbose=True)
-	sys.exit(0)
 	
 	# Create the century vector
 	c1 = int(bin_size*min(x/bin_size for x in gold))
@@ -204,7 +203,8 @@ def evaluate_model(clf, root_dir, title):
 
 	# Now plot it
 	plt.figure(1, figsize=(6,4))
-	plt.plot(x, y, 'or-', linewidth=3)
+	plt.bar(x, y, width =bin_size-1)
+	# plt.plot(x, y, 'or-', linewidth=3)
 	plt.grid(True)
 	plt.title('%s: MAE by Bin' % title)
 	plt.xlabel('Century')

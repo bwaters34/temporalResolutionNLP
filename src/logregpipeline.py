@@ -4,6 +4,7 @@ from tokenize import tokenize
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfTransformer
 from sklearn.feature_extraction import DictVectorizer
+from sklearn.naive_bayes import MultinomialNB
 from sklearn.linear_model import LogisticRegression
 
 from sklearn.pipeline import Pipeline
@@ -14,19 +15,30 @@ class LogReg:
     def __init__(self, bin_size=20, features = ['unigrams']):
         self.bin_size = bin_size
         self.clf = Pipeline([('logreg', LogisticRegression(solver='saga', n_jobs=-1) ), ])
+        # self.clf = Pipeline([('nb', MultinomialNB())])
         self.features = features
 
-    def fit(self, train_dir, filenames=None, verbose=True):
+
+    def fit(self, train_dir, filenames = None, verbose=False):
+        print('fitting')
         # Extract the dataset
         if filenames is None:
             filenames = os.listdir('%s/Unigrams' % train_dir)
-        # Get the features
+        print('constructing dataset')
         feature_dicts, labels = self.construct_dataset(train_dir, filenames, train=True)
-        sparse_feature_matrix = DictVectorizer(sparse=True).fit_transform(feature_dicts)
+        print('converting to sparse')
+        dv = DictVectorizer(sparse=True)
+        sparse_feature_matrix = dv.fit_transform(feature_dicts)
+        print(dv.feature_names_[:20])
+        print('shape')
+        print(sparse_feature_matrix.shape)
+        # print(sparse_feature_matrix)
+        print("fitting")
         # Fit the model
         self.clf.fit(sparse_feature_matrix, labels)
         # Return self
         return self
+
 
     def predict(self, test_dir, filenames=None, verbose=True):
         # If no files given, get them from the unigram folder
@@ -36,6 +48,17 @@ class LogReg:
         test, _ = self.construct_dataset(test_dir, filenames, train=False)
         # predict the bins
         predicted = self.clf.predict(test.reshape(-1,1))
+
+
+    def predict(self, test_dir, filenames, verbose=False):
+        print('predicting')
+        # Extract the data
+        test, _ = self.construct_dataset(test_dir, filenames, train=False)
+        # predict the bins
+        sparse_feature_matrix = DictVectorizer(sparse=True).fit_transform(test)
+        print('shape')
+        print(sparse_feature_matrix.shape)
+        predicted = self.clf.predict(sparse_feature_matrix)
         # Convert to years
         return [self.determine_year(x) for x in predicted]
 
