@@ -34,8 +34,6 @@ ds = 'GutenbergDataset'
 bin_size = 20.0
 min_year = 1600
 max_year = 1999
-train_size = 247
-test_size = 88
 
 # Some dictionaries
 word_bin_counts = defaultdict(lambda: defaultdict(float))
@@ -44,7 +42,7 @@ vocab = set()
 
 # Some directory names
 root = '../../%s' % ds
-clst_dir = '%s/Clusters'
+clst_dir = '%s/Clusters' % root
 
 src_root = '../../%s/%s' % (ds, 'Yearly')
 src_train = '%s/Train' % src_root
@@ -94,12 +92,12 @@ print 'Writing Probabilities to file'
 
 vocab = sorted(list(vocab)) # switch to a list now
 num_bins = int(ceil((max_year-min_year)/bin_size))
-threshold = 50
+threshold = 0
 
 # Now write the results to file
 # pfile - csv file with app the probs
 # wfile - the words associated with the probs - for easy loading into memory
-with open('%s/%probs.csv' % (clst_dir), 'w') as pfile:
+with open('%s/probs.csv' % (clst_dir), 'w') as pfile:
     with open('%s/words.txt' % (clst_dir), 'w') as wfile:
         for i in range(len(vocab)):
             # Get the word
@@ -159,7 +157,7 @@ X, Y = load_data(root)
 
 # Create a KMeans obj with K=10 clusters
 print 'Creating KMeans cluster model'
-K = 10
+K = 250
 cluster = KMeans(n_clusters=K,random_state=0, n_jobs=-1).fit(X)
 
 # Predit the clusters of each of the words
@@ -171,7 +169,7 @@ Z = cluster.predict(X)
 print 'Creating dictionary to lookup work clusters'
 lkup = defaultdict(int)
 with open('%s/word-clusters.txt' % clst_dir, 'w') as outfile:
-    if i in range(len(Y)):
+    for i in range(len(Y)):
         outfile.write('%s,%d\n' % (Y[i], Z[i]))
         lkup[Y[i]] = Z[i]
 
@@ -189,16 +187,19 @@ train and test folders.
 ======================================================================
 """
 
-# First the train_set. Note: +1 for the goldlabels
+# First the train_set. 
+files = listdir(src_train)
+train_size = len(files)
+
+# Note: +1 for the goldlabels
 # We will put the year as the LAST element in the array
 train = np.zeros((train_size, K+1))
 
 # Get the files
 print 'Building the Train Set'
-files = listdir(src_train)
-for i in range(files):
+for i in range(train_size):
     # Determine the year
-    train[i][-1] = int(f[:4])
+    train[i][-1] = int(files[i][:4])
     # Get the text
     with codecs.open('%s/%s' % (src_train, files[i]), 'r', 'utf-8') as infile:
         data = infile.read()
@@ -212,30 +213,31 @@ for i in range(files):
         train[i][z] += 1
         count += 1.0
     # Perhaps we should marginalize by the number of words in the book?
-    train[i] /= count
+    train[i][:-1] /= count
 
 # Write this to the train file
 N, M = train.shape
-with open('%s/train.txt' % clst_dir, 'w') as tfile:
-    for in range(N):
+with open('%s/train.csv' % clst_dir, 'w') as tfile:
+    for i in range(N):
         buffer = ''
-        for j in range(M):
+        for j in range(M-1):
             buffer += '%0.6f,' % train[i][j]
         # newline instead of comma
-        buffer = buffer[:-1] + '\n'
+        buffer += (str(train[i][j+1]) + '\n')
         # write to file
         tfile.write(buffer)
 
         
 # now the test set
-test = np.zeros((train_size, K+1))
+files = listdir(src_test)
+test_size = len(files)
+test = np.zeros((test_size, K+1))
 
 # Get the files
 print 'Building the Test Set'
-files = listdir(src_test)
-for i in range(files):
+for i in range(test_size):
     # Determine the year
-    test[i][-1] = int(f[:4])
+    test[i][-1] = int(files[i][:4])
     # Get the text
     with codecs.open('%s/%s' % (src_test, files[i]), 'r', 'utf-8') as infile:
         data = infile.read()
@@ -249,17 +251,17 @@ for i in range(files):
         test[i][z] += 1
         count += 1.0
     # Perhaps we should marginalize by the number of words in the book?
-    test[i] /= count
+    test[i][:-1] /= count
 
 # Write this to the train file
-N, M = train.shape
-with open('%s/test.txt' % clst_dir, 'w') as tfile:
-    for in range(N):
+N, M = test.shape
+with open('%s/test.csv' % clst_dir, 'w') as tfile:
+    for i in range(N):
         buffer = ''
-        for j in range(M):
+        for j in range(M-1):
             buffer += '%0.6f,' % test[i][j]
         # newline instead of comma
-        buffer = buffer[:-1] + '\n'
+        buffer += (str(train[i][j+1]) + '\n')
         # write to file
         tfile.write(buffer)
         

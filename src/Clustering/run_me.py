@@ -1,47 +1,38 @@
-import numpy as np
-import matplotlib.pyplot as plt
+# run_me.py module
 
-# sklearn Imports
-from sklearn.cluster import KMeans
-from cluster_utils import load_data, cluster_means, cluster_quality
+# Library dependencies
+import numpy as np
+
+# Local imports
+from validation import cross_validation
+from validation import calculate_loss
+from validation import RMSE
+from validation import evaluate_model
+
+# Regressor imports
+from sklearn.ensemble import RandomForestRegressor
 
 # Set a seed for reproducibility
-np.random.seed(16180)
+np.random.seed(271828)
 
-#Load train and test data
-X, Y = load_data('../../Clustering', 'GutenbergDataset')
+# Dataset location
+root = '../../GutenbergDataset'
 
-# Create a cluster with K cluster
-K = 5
-cluster = KMeans(n_clusters=K,random_state=0, n_jobs=-1).fit(X)
-Z = cluster.predict(X)
-mu = cluster_means(X, Z, K)
-#
-plt.figure(1, figsize=(12,8))
-for i in range(0,K):   
-    plt.plot(np.arange(20), mu[i], '-b')
-#   plt.title('Blah %d' % i)
-#plt.ylim(0, 0.01)
-plt.grid()
-plt.show()
-    
+# Load the train and test sets
+train = np.genfromtxt('%s/Clusters/train.csv' % root, delimiter=',')
+test  = np.genfromtxt('%s/Clusters/test.csv' % root, delimiter=',')
 
-## Create a variable to the store the cluster qualities
-#qualities = np.zeros(39)
-#
-## Determine the cluster qualities for increasing numbers of K
-#for k in range(1, 40):
-#    print 'Starting k=%d' % k
-#    cluster = KMeans(n_clusters=k,random_state=0, n_jobs=-1).fit(X)
-#    predictions = cluster.predict(X)
-#    q1_qualities[k-1] = cluster_quality(X, predictions, k)
-#
-#print 'Determining Cluster Qualities for K = 1 to 40'
-## Plot the results
-#plt.figure(0, figsize=(6,4))
-#plt.plot(np.arange(39) + 1, q1_qualities, '-r')
-#plt.xlabel('Number of Clusters, K')
-#plt.ylabel('Cluster Quality (Within Cluster Distance)')
-#plt.title('Cluster Quality vs. Number of Clusters')
-#plt.grid()
-#plt.show()
+# Regressor function
+func = lambda args: RandomForestRegressor(n_estimators=int(args[0]), criterion=args[1])
+
+# Hyperparameters
+hparams = np.array([np.array([5, 10, 20, 30, 40]), # num trees
+                        np.array(['mse', 'mae']) # 
+                       ]) 
+
+# Cross-validation for hyperparameter optimization
+# Note: Turned off verbose so plots do not interrupt the running
+regr = cross_validation(train, func, hparams, RMSE)
+
+# Evaluate the model
+evaluate_model(regr, test, 'Gutenberg')
