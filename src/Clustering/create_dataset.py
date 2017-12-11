@@ -13,7 +13,7 @@ def determine_bin(year, min_year, bin_size):
 def mean(x):
     return sum([float(t) for t in x])/len(x)
 
-bad_chars = ['/', '+', '*', '(', ')', '[', ']', '_', '!', '?', '\'', '$', '%', '&', '^', '#', '@', '~', '-', '.', '<', '>', ':', ';', '"', ',', '`', u'“']
+# bad_chars = ['/', '+', '*', '(', ')', '[', ']', '_', '!', '?', '\'', '$', '%', '&', '^', '#', '@', '~', '-', '.', '<', '>', ':', ';', '"', ',', '`', u'“']
 
 regex = re.compile('[^a-zA-Z]')
 
@@ -28,9 +28,9 @@ def mutate(word):
 ds = 'GutenbergDataset'
 bin_size = 20.0
 min_year = 1600
-max_year = 1899
-bin_word_counts = defaultdict(lambda: defaultdict(float))
-bin_total_counts = defaultdict(float)
+max_year = 1999
+word_bin_counts = defaultdict(lambda: defaultdict(float))
+word_total_counts = defaultdict(float)
 vocab = set()
 
 # Some directory names
@@ -59,8 +59,8 @@ for f in listdir(src_train):
     for t in tokens:
         t = mutate(t)
         if t != '':
-            bin_word_counts[bbin][t] += 1
-            bin_total_counts[bbin] += 1
+            word_bin_counts[t][bbin] += 1
+            word_total_counts[t] += 1
             vocab.add(t)
 
 # Now the test data
@@ -76,41 +76,48 @@ for f in listdir(src_test):
     for t in tokens:
         t = mutate(t)
         if t != '':
-            bin_word_counts[bbin][t] += 1
-            bin_word_counts[t][bbin] += 1
-            bin_total_counts[bbin] += 1
+            word_bin_counts[t][bbin] += 1
+            word_total_counts[t] += 1
             vocab.add(t)
 
 print 'Dictionaries built.'
 print 'Writing Probabilities to file'
 
 vocab = sorted(list(vocab)) # switch to a list now
-threshold = 100
+num_bins = int(ceil((max_year-min_year)/bin_size))
+threshold = 50
 
 # Now write the results to file
-with open('%s/cluster-%s.txt' % (clst_dir, ds), 'w') as outfile:
-    for i in range(len(vocab)):
-        # if we have enough instances, write to file
-        appearances = [bin_word_counts[j][vocab[i]] for j in range(len(bin_total_counts))]
-        # Yeah this is a comment
-        if mean(appearances) > threshold:
-            # Continue writing to the file
-            # Write the word first
-            outfile.write(vocab[i] + ',')
-            # Now all of the percentages
-            for j in range(len(bin_total_counts)):
-                num = bin_word_counts[j][vocab[i]]
-                denom = bin_total_counts[j]
-                try:
-                    log_prob = log(num/denom)
-                except:
-                    print i, j
-                outfile.write('%0.4f,' % log_prob)
-            # Newline!
-            outfile.write('\n')
-
+# pfile - csv file with app the probs
+# wfile - the words associated with the probs - for easy loading into memory
+with open('%s/%s-probs.csv' % (clst_dir, ds), 'w') as pfile:
+    with open('%s/%s-words.txt' % (clst_dir, ds), 'w') as wfile:
+        for i in range(len(vocab)):
+            # Get the word
+            word = vocab[i]
+            # Get the total number of counts for the word
+            wtc = word_total_counts[word]
+            # If the word appeared enough times, write it to file
+            if (wtc > threshold):
+                # Write the word first
+                wfile.write(word + '\n')
+                # Now all of the percentages
+                buffer = ''
+                for j in range(num_bins):
+                    # Number of times the word appeared in the bin
+                    wbc = word_bin_counts[word][j]
+                    # determine and write the probability
+                    prob = wbc/wtc
+                    # write the prob
+                    buffer += ('%0.4f,' % prob)
+                # Last Comma becomes newline
+                buffer = buffer[:-1] + '\n'
+                # Write to the file
+                pfile.write(buffer)
+                
+            # Just so we generally know whats going on
             if i % 100000 == 0:
-                print 'Added %d words', i
+                print 'Tried %d words' % i
     
             
     

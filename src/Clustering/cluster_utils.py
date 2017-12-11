@@ -4,46 +4,12 @@ from sklearn.cluster import KMeans
 from os import listdir
 from math import exp
 
-def load_data(filename):
-    '''
-    '''
-    a,b = determine_dimensions(filename)
+def load_data(root, ds):
     
-    X = np.zeros((a,b))
-    Y = []
+    X = np.genfromtxt('%s/%s-probs.csv' % (root, ds), delimiter=',')
+    Y = np.genfromtxt('%s/%s-words.txt' % (root, ds), dtype='str')
     
-    j = 0 # counter
-    with open(filename, 'r') as infile:
-        for line in infile:
-            # If newline, then skip it
-            # Should only be the last line but whatever
-            if line is '\n':
-                continue
-            # Else, parse the line
-            temp = line[:-2].split(',')
-            # Store the word
-            Y.append(temp[0])
-            # Now the X
-            newdata = [float(x) for x in temp[1:]]
-            for k in range(len(newdata)):
-                X[j][k] = newdata[k]
-            # Increase j
-            j += 1
-    # Done!
-    return np.array(X), np.array(Y)
-
-
-def determine_dimensions(filename):
-    a = 0
-    b = 0
-    with open(filename, 'r') as infile:
-        for line in infile:
-            if line is not '\n':
-                a += 1
-                b = len(line[:-2].split(',')) - 1
-    return a, b
-        
-    
+    return X, Y
 
 def cluster_quality(X,Z,K):
     '''
