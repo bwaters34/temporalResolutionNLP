@@ -4,10 +4,10 @@ from sklearn.cluster import KMeans
 from os import listdir
 from math import exp
 
-def load_data(root, ds):
+def load_data(root_dir):
     
-    X = np.genfromtxt('%s/%s-probs.csv' % (root, ds), delimiter=',')
-    Y = np.genfromtxt('%s/%s-words.txt' % (root, ds), dtype='str')
+    X = np.genfromtxt('%s/Clusters/probs.csv' % (root_dir), delimiter=',')
+    Y = np.genfromtxt('%s/Clusters/words.txt' % (root_dir), dtype='str')
     
     return X, Y
 
