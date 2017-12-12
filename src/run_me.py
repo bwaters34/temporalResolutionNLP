@@ -25,19 +25,17 @@ BASELINE: NAIVE BAYES MODEL --------------------------------------------
 """
 if True:
 	# Function to build a NB model
-	NB_func = lambda args: NaiveBayes(bin_size=args[0], alpha=args[1], features=['unigrams'])
+	NB_func = lambda args: NaiveBayes(bin_size=args[0], alpha=args[1], features=['pos'])
 
 	# These are the hyperparameters we are testing over
 	nb_hparams = [ np.array([5, 10, 20, 35, 50]), # Bin Size
 				   np.array([1, 10, 25, 50, 100])] # Alpha
-	# nb_hparams = [np.array([5,10]),  # Bin Size
-	# 			  np.array([1, 3])]  # Alpha
 
 	# Create the classifier using 5-fold CV
 	nb = cross_validation(train_dir, NB_func, nb_hparams, verbose=True)
 
 	# Evaluate the model
-	evaluate_model(nb, test_dir, 'Gutenberg')
+	evaluate_model(nb, test_dir, 'Gutenberg-POS Tags')
 
 	### Dataset 2 : Proquest
 
@@ -53,7 +51,7 @@ if True:
 	nb = cross_validation(train_dir, NB_func, nb_hparams, verbose=True)
 
 	# Evaluate the model
-	evaluate_model(nb, test_dir, 'Proquest')
+	evaluate_model(nb, test_dir, 'Proquest-POS Tags')
 
 
 # """
@@ -61,7 +59,7 @@ if True:
 # """
 if False:
 	# Function to build the LogReg model
-	LR_func = lambda args: LogReg(bin_size=args[0], features=['unigrams'])
+	LR_func = lambda args: LogReg(bin_size=args[0], features=['trees'])
 
 	# Hyperparameters for the log reg classifier
 	LR_hparams = [ np.array([5, 10, 20, 35, 50]) ]

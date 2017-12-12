@@ -30,14 +30,15 @@ def mutate(word):
     
 # Dataset specific information
 # MUST BE SET MANUALLY TO WORK CORRECTLY!  
-ds = 'GutenbergDataset'
+ds = 'ProquestDataset'
 bin_size = 20.0
-min_year = 1600
-max_year = 1999
+min_year = 1550
+max_year = 1899
 
 # Some dictionaries
 word_bin_counts = defaultdict(lambda: defaultdict(float))
 word_total_counts = defaultdict(float)
+alpha = 0
 vocab = set()
 
 # Some directory names
@@ -103,7 +104,7 @@ with open('%s/probs.csv' % (clst_dir), 'w') as pfile:
             # Get the word
             word = vocab[i]
             # Get the total number of counts for the word
-            wtc = word_total_counts[word]
+            wtc = word_total_counts[word] + num_bins*alpha
             # If the word appeared enough times, write it to file
             if (wtc > threshold):
                 # Write the word first
@@ -112,7 +113,7 @@ with open('%s/probs.csv' % (clst_dir), 'w') as pfile:
                 buffer = ''
                 for j in range(num_bins):
                     # Number of times the word appeared in the bin
-                    wbc = word_bin_counts[word][j]
+                    wbc = word_bin_counts[word][j] + alpha
                     # determine and write the probability
                     prob = wbc/wtc
                     # write the prob
@@ -148,6 +149,7 @@ import matplotlib.pyplot as plt
 # sklearn Imports
 from sklearn.cluster import KMeans
 from cluster_utils import load_data
+from cluster_utils import cluster_means
 
 # Set a seed for reproducibility
 np.random.seed(16180)
@@ -157,13 +159,24 @@ X, Y = load_data(root)
 
 # Create a KMeans obj with K=10 clusters
 print 'Creating KMeans cluster model'
-K = 250
+K = 25
 cluster = KMeans(n_clusters=K,random_state=0, n_jobs=-1).fit(X)
 
 # Predit the clusters of each of the words
 print 'Predicting the clusters for each word'
 Z = cluster.predict(X)
 
+# Plot the cluster means
+mu = cluster_means(X, Z, K)
+years = [min_year + bin_size*i for i in range(num_bins)]
+for i in range(K):
+    plt.figure(i, figsize=(12,8))
+    plt.title('Cluster %d' % i)
+    plt.xlabel('Year')
+    plt.ylabel('P(year|word)')
+    plt.plot(years, mu[i], '-r')
+    plt.show()
+     
 # Write the clusters to file, just so they exist
 # Also add them to the lookup dictionary
 print 'Creating dictionary to lookup work clusters'
@@ -213,7 +226,7 @@ for i in range(train_size):
         train[i][z] += 1
         count += 1.0
     # Perhaps we should marginalize by the number of words in the book?
-    train[i][:-1] /= count
+    train[i][:-1] /= max(train[i])
 
 # Write this to the train file
 N, M = train.shape
@@ -251,7 +264,7 @@ for i in range(test_size):
         test[i][z] += 1
         count += 1.0
     # Perhaps we should marginalize by the number of words in the book?
-    test[i][:-1] /= count
+    test[i][:-1] /= max(test[i])
 
 # Write this to the train file
 N, M = test.shape

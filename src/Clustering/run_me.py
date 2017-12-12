@@ -9,8 +9,8 @@ from validation import calculate_loss
 from validation import RMSE
 from validation import evaluate_model
 
-# Regressor imports
-from sklearn.ensemble import RandomForestRegressor
+# Classifier
+from my_classifier import BinDecisionTreeClf
 
 # Set a seed for reproducibility
 np.random.seed(271828)
@@ -23,11 +23,11 @@ train = np.genfromtxt('%s/Clusters/train.csv' % root, delimiter=',')
 test  = np.genfromtxt('%s/Clusters/test.csv' % root, delimiter=',')
 
 # Regressor function
-func = lambda args: RandomForestRegressor(n_estimators=int(args[0]), criterion=args[1])
+func = lambda args: BinDecisionTreeClf(bin_size=35, depth=int(args[0]), crit=args[1])
 
 # Hyperparameters
-hparams = np.array([np.array([5, 10, 20, 30, 40]), # num trees
-                        np.array(['mse', 'mae']) # 
+hparams = np.array([np.array([5,6,7]), # num trees
+                        np.array(['gini', 'entropy']) # 
                        ]) 
 
 # Cross-validation for hyperparameter optimization

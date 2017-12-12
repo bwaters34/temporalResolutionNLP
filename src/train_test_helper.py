@@ -174,43 +174,43 @@ def plot_hyperparam_loss(best_params, params, train_loss, test_loss):
 
 
 def evaluate_model(clf, root_dir, title):
-	# Set the bin_size
-	bin_size = clf.bin_size
+    # Set the bin_size
+    bin_size = clf.bin_size
 
-	# Get the gold labels
-	gold = np.array([int(f[:4]) for f in listdir('%s/Unigrams' % root_dir)])
+    # Get the gold labels
+    gold = np.array([int(f[:4]) for f in listdir('%s/Unigrams' % root_dir)])
 
-	# Predict the test data
-	pred = clf.predict(root_dir, verbose=True)
-	
-	# Create the century vector
-	c1 = int(bin_size*min(x/bin_size for x in gold))
-	c2 = int(bin_size*max(x/bin_size for x in gold))
-	x = range(c1, c2+1, int(bin_size))
+    # Predict the test data
+    pred = clf.predict(root_dir, verbose=True)
 
-	# Determine the mean abs error per century
-	y = [0] * len(x)
-	for i in range(len(x)):
-		acc = 0.0
-		for g, p in zip(gold, pred):
-			if (g - x[i]) < bin_size and (g - x[i]) >= 0:
-				y[i] += abs(g - p)
-				acc += 1
-		try:
-			y[i] /= acc
-		except ZeroDivisionError:
-			y[i] = 0
+    # Create the century vector
+    c1 = int(bin_size*min(x/bin_size for x in gold))
+    c2 = int(bin_size*max(x/bin_size for x in gold))
+    x = range(c1, c2+1, int(bin_size))
 
-	# Now plot it
-	plt.figure(1, figsize=(6,4))
-	plt.bar(x, y, width =bin_size-1)
-	# plt.plot(x, y, 'or-', linewidth=3)
-	plt.grid(True)
-	plt.title('%s: MAE by Bin' % title)
-	plt.xlabel('Century')
-	plt.ylabel('MAE in Years')
-	plt.show()
+    # Determine the mean abs error per century
+    y = [0] * len(x)
+    for i in range(len(x)):
+        acc = 0.0
+        for g, p in zip(gold, pred):
+            if (g - x[i]) < bin_size and (g - x[i]) >= 0:
+                y[i] += abs(g - p)
+                acc += 1
+        try:
+            y[i] /= acc
+        except ZeroDivisionError:
+            y[i] = 0
 
-	# Print the overall MAE
-	print 'Overall MAE:', calc_MAE(gold, pred)
+    # Now plot it
+    plt.figure(1, figsize=(6,4))
+    plt.bar(x, y, width =bin_size-1)
+    # plt.plot(x, y, 'or-', linewidth=3)
+    plt.grid(True)
+    plt.title('%s: MAE by Bin' % title)
+    plt.xlabel('Century')
+    plt.ylabel('MAE in Years')
+    plt.show()
+
+    # Print the overall MAE
+    print 'Overall MAE:', calc_MAE(gold, pred)
 

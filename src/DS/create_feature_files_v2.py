@@ -341,7 +341,7 @@ def tree_tokenizer(doc):
             
 
 # Location for the dataset
-ds = 'GutenbergDataset'
+ds = 'ProquestDataset'
 loc = 'SentTrees'
 func = tree_tokenizer
 

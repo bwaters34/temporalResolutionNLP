@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error
 
 
-def cross_validation(train, regr_func, hyperparams, loss_func, num_folds=5, verbose=True):
+def cross_validation(train, regr_func, hyperparams, loss_func, num_folds=10, verbose=True):
     # First, build all possible ordered pairs of hyperparameters
     hparam_pairs = list(itertools.product(*hyperparams))
     # Shuffle the training data
