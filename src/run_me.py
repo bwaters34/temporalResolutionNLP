@@ -34,10 +34,10 @@ if True:
 	NB_func = lambda args: NaiveBayes(bin_size=args[0], alpha=args[1], features=['unigrams'])
 
 	# These are the hyperparameters we are testing over
-	nb_hparams = [ np.array([5, 10, 20, 35, 50]), # Bin Size
-				   np.array([1, 10, 25, 50, 100])] # Alpha
-	# nb_hparams = [np.array([5,10]),  # Bin Size
-	# 			  np.array([1, 3])]  # Alpha
+	# nb_hparams = [ np.array([5, 10, 20, 35, 50]), # Bin Size
+	# 			   np.array([1, 10, 25, 50, 100])] # Alpha
+	nb_hparams = [np.array([5,10]),  # Bin Size
+				  np.array([1, 3])]  # Alpha
 
 	# Create the classifier using 5-fold CV
 	nb = cross_validation(train_dir, NB_func, nb_hparams, verbose=True)
@@ -48,8 +48,8 @@ if True:
 	### Dataset 2 : Proquest
 
 	# Set the train and test dir
-	train_dir = '../ProquestDataset/Yearly/Train'
-	test_dir  = '../ProquestDataset/Yearly/Test'
+	train_dir = '../ProquestDataset/Train'
+	test_dir  = '../ProquestDataset/Test'
 
 	"""
 	BASELINE: NAIVE BAYES MODEL --------------------------------------------

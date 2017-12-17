@@ -206,11 +206,11 @@ def evaluate_model(clf, root_dir, title):
 	plt.bar(x, y, width = bin_size)
 	# plt.plot(x, y, 'or-', linewidth=3)
 	plt.grid(True)
-	plt.title('%s: MAE by Bin' % title)
+	plt.title('%s: Mean Absolute Error by Bin' % title)
 	plt.xlabel('Century')
-	plt.ylabel('MAE in Years')
+	plt.ylabel('Mean Absolute Error in Years')
 	plt.show()
 
 	# Print the overall MAE
-	print 'Overall MAE:', calc_MAE(gold, pred)
+	print 'Overall Mean Absolute Error:', calc_MAE(gold, pred)
 
