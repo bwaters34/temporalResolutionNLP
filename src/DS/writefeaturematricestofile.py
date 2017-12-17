@@ -3,8 +3,9 @@ from sklearn.feature_extraction import DictVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
 from src.tokenize import tokenize
-import numpy
+import numpy as np
 import cPickle
+import scipy
 
 
 
@@ -45,6 +46,14 @@ def construct_dataset(location, filenames, features):
 # if filenames is None:
 #     filenames = os.listdir('%s/Unigrams' % train_dir)
 
+def save_sparse_csr(filename,array):
+    np.savez(filename,data = array.data ,indices=array.indices,
+             indptr =array.indptr, shape=array.shape )
+
+def load_sparse_csr(filename):
+    loader = np.load(filename)
+    return scipy.csr_matrix((  loader['data'], loader['indices'], loader['indptr']),
+                         shape = loader['shape'])
 
 
 
@@ -66,20 +75,21 @@ def write_feature_matrices_to_file(features, train_dir, test_dir):
 
     train_save_directory = train_dir + "/Numpy/"
     train_save_file_name = train_save_directory + feature_string
-    with open(train_save_file_name, 'wb') as f:
-        cPickle.dump(train_matrix, f)
+    # with open(train_save_file_name, 'wb') as f:
+    #     cPickle.dump(train_matrix, f)
+    save_sparse_csr(train_save_file_name, train_matrix)
 
     test_save_directory = test_dir + "/Numpy/"
     test_save_file_name = test_save_directory + feature_string
-    with open(test_save_file_name, 'wb') as f:
-        cPickle.dump(test_matrix, f)
-
-# Unigrams.txt
+    # with open(test_save_file_name, 'wb') as f:
+    #     cPickle.dump(test_matrix, f)
+    save_sparse_csr(test_save_file_name, test_matrix)
+    # Unigrams.txt
 
 
 if __name__ == '__main__':
     train_dir = '../GutenbergDataset/Train'
     test_dir = '../GutenbergDataset/Test'
-    features = ['unigrams', 'bigrams']
+    features = ['unigrams']
 
     write_feature_matrices_to_file(features, train_dir, test_dir)
