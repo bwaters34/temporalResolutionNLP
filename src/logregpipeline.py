@@ -18,6 +18,7 @@ class LogReg:
         # self.clf = Pipeline([('nb', MultinomialNB())])
         self.features = features
 
+
     def fit(self, train_dir, filenames = None, verbose=False):
         print('fitting')
         # Extract the dataset
@@ -37,6 +38,17 @@ class LogReg:
         self.clf.fit(sparse_feature_matrix, labels)
         # Return self
         return self
+
+
+    def predict(self, test_dir, filenames=None, verbose=True):
+        # If no files given, get them from the unigram folder
+        if filenames is None:
+            filenames = os.listdir('%s/Unigrams' % test_dir)
+        # Extract the data
+        test, _ = self.construct_dataset(test_dir, filenames, train=False)
+        # predict the bins
+        predicted = self.clf.predict(test.reshape(-1,1))
+
 
     def predict(self, test_dir, filenames, verbose=False):
         print('predicting')

@@ -1,22 +1,15 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
+from os import listdir
+from math import exp
 
-
-def transform(X):
-    '''
+def load_data(root_dir):
     
-    '''
-    return np.array([transform_helper(k) for k in X])
-  
+    X = np.genfromtxt('%s/Clusters/probs.csv' % (root_dir), delimiter=',')
+    Y = np.genfromtxt('%s/Clusters/words.txt' % (root_dir), dtype='str')
     
-def transform_helper(X):
-    '''
-    
-    '''
-    peak = np.argmax( X > 0.75 )
-    return np.hstack( (X[peak:], X[:peak] )) / np.linalg.norm(X)
-
+    return X, Y
 
 def cluster_quality(X,Z,K):
     '''

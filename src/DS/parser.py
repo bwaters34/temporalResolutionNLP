@@ -4,7 +4,7 @@ import numpy as np #Import numpy for easier matrix manipulations later
 translations = {"M":"M","P":"P","D":"D","A":"A","N":"N","ADV":"ADV","V":"V", "CC":"C","CD":"A","DT": "D","EX":"D","FW":"END","IN":"P","JJ":"A","JJR":"A","JJS":"A","LS":"A","MD":"M","NN":"N","NNS":"N","NNP":"N","NNPS":"N","PDT":"D","POS":"DS","PRP":"N","PRP$":"D","RB":"ADV","RBR":"ADV","RBS":"ADV","RP":"D","SYM":"N","TO":"V","UH":"END","VB":"V","VBD":"V","VBG":"V","VBN":"V","VBP":"V","VBZ":"V","WDT":"D","WP":"N","WP$":"D","WRB":"ADV",",":"C"}
 
 # For phrase decomposition later
-phrases = {"A":["P","D","N"], "D":["A", "N"], "N":["P","V"], "P":["A","D","N"], "V":["D","A","P","N"]}
+phrases = {"A":["P","D","N"], "D":["A", "N"], "N":["P","V"], "P":["A","D","N"], "V":["D","A","P","N"], "DP":[], "C":[], "M":[]}
 
 ###############################################################################
 # Sentence Bifurcation Parsing Engine
@@ -63,7 +63,7 @@ def splt(arr):
         elif arr[i] == "C":     # Check for conjunctive phrases 
             temp.append("C")    # Append conjunctive to current sentence
             sents.append(temp)  # Append current sentence
-            temp = ["DP"]       # Reset sentence builder
+            temp = []      # Reset sentence builder
         else:                   # For all other cases
             temp.append(arr[i]) # Add the word to the sentence
     sents.append(temp)          # Append the last sentence
@@ -78,6 +78,8 @@ def splt(arr):
 ###############################################################################
 
 def phrase(wrds):
+    if not wrds:
+        return []
     checks = [phrases[wrds[0]]]                 # Stack to check legal phrases
     retval = wrds[0]                            # Define return value
     i = 1                                       # Define end of list flag
@@ -90,7 +92,10 @@ def phrase(wrds):
         else:                                   # If phrase is illegal
             retval += wrds[i]                   # Terminate current, start new
         i = i + 1                               # Iterate index counter
-    return retval                               # Return parsed phrase
+    if retval is not []:
+        return retval                               # Return parsed phrase
+    else: 
+        return
 
 ###############################################################################
 # Main parse function 
@@ -112,20 +117,22 @@ def phrase(wrds):
 # ultimate objective.
 ###############################################################################
 
-def parse(s):
-    if "END" in s:                          # For one currently unparsable word
-        return -1                           # Return nothing of essence
+def parse(s):                         # Return nothing of essence
     moves = []                              # Predefine list of compressions
     wrds = []                               # Predefine sentence words list
     for i in range(len(s)):                 # Loop through all of the words
         if s[i] != "POS":                   # Avoiding the possessive
             wrds.append(translations[s[i]]) # Returning the rest of the list
+    if "END" in wrds:                          # For one currently unparsable word
+        return -1  
+    print "---"
+    print wrds
     last = 0                                # Last list length
     curr = len(wrds)                        # Define current list length
     while curr != last:                     # While there is no change
         last = curr                         # Save last list size
         try:                                # Try to compress...
-            for i in range(len(wrds)-1):    # Loop through every bigram
+            for i in range(curr-1):    # Loop through every bigram
                 if wrds[i] == wrds[i+1]:    # Check duplicates
                     moves.append((i,"C"))   # Save move
                     del wrds[i]             # Delete the duplicate
@@ -134,34 +141,43 @@ def parse(s):
                     del wrds[i]             # Delete the adjective
                     moves.append((i,"A"))   # Save move
                     i -= 1                  # Reiterate
-                if wrds[i] == "ADV" and wrds[i+1] == "V": # Check for ADV+V
+                if (wrds[i] == "ADV" and wrds[i+1] == "V") or (wrds[i] == "ADV" and wrds[i+1] == "A"): # Check for ADV+V/ADV+A
                     del wrds[i]             # Delete ADV
                     moves.append((i,"D"))   # Save move
                     i -= 1                  # Reiterate
         except IndexError:                  # If the index is broken, that 
             curr = len(wrds)                # Means at least one word removed
 
+        curr = len(wrds)
+        print curr
+
     sents = splt(wrds)                      # Split at conjunctives and modals
 
     data = []                               # Predefine data array
 
     for sent in sents:                      # Loop through all sentences
-        DP = sent[:sent.index("V")]         # Split into demonstrative phrase
-        VP = sent[sent.index("V"):]         # ... and a verb phrase 
-        data.append(phrase(DP))             # Parse subject
-        data.append(phrase(VP))             # Parse predicate
+        if 'V' in sent:
+            DP = sent[:sent.index("V")]     # Split into demonstrative phrase
+            VP = sent[sent.index("V"):]     # ... and a verb phrase 
+            data.append(phrase(DP))         # Parse subject
+            data.append(phrase(VP))         # Parse predicate
+        else:
+            data.append(phrase(sent))
+    print data
 
     dictionary = {}                         # Predefine final dictionary
     cp = data                               # Make sentence array copy
     data = flat(data)                       # Flatten the data
     srt = []                                # Predefine sorted array
-
+    print moves
+    print len(data)
     for m in reversed(moves):               # Loop through moves backwards
         if m[1] == "C":                     # Check for (C)opy scenario
             srt.append(m[0])                # Add the move's index
             srt = sorted(srt)               # Sort the aggregate index array
             curr = m[0] - srt.index(m[0])   # Redefine to new index
             try:                            # Insert into relevant phrase
+
                 data[curr].insert(0,data[curr][0])
             except AttributeError or IndexError:
                 data[curr] = [data[curr], data[curr]]
@@ -183,25 +199,25 @@ def parse(s):
                 data[curr] = ["ADV", data[curr]]
 
     # Everything below is saving the data into the dictionary
-    for i in range(len(cp)/2):           
-        try:
-            dictionary["S"][cp[2*i][0] + "P" + cp[2*i + 1][0] + "P"] += 1
-            if i > 0:
-                p = cp[2*i - 1][-1]
-                dictionary[p][cp[2*i][0] + "P" + cp[2*i + 1][0] + "P"] += 1
-        except KeyError:
-            try:
-                dictionary["S"] == False
-            except KeyError:
-                dictionary["S"] = {}
-            dictionary["S"][cp[2*i][0] + "P" + cp[2*i + 1][0] + "P"] = 1
-            if i > 0:
-                p = cp[2*i - 1][-1]
-                try:
-                    dictionary[p] == False
-                except KeyError:
-                    dictionary[p] = {}
-                dictionary[p][cp[2*i][0] + "P" + cp[2*i + 1][0] + "P"] = 1
+    # for i in range(len(cp)/2):           
+    #     try:
+    #         dictionary["S"][cp[2*i][0] + "P" + cp[2*i + 1][0] + "P"] += 1
+    #         if i > 0:
+    #             p = cp[2*i - 1][-1]
+    #             dictionary[p][cp[2*i][0] + "P" + cp[2*i + 1][0] + "P"] += 1
+    #     except KeyError:
+    #         try:
+    #             dictionary["S"] == False
+    #         except KeyError:
+    #             dictionary["S"] = {}
+    #         dictionary["S"][cp[2*i][0] + "P" + cp[2*i + 1][0] + "P"] = 1
+    #         if i > 0:
+    #             p = cp[2*i - 1][-1]
+    #             try:
+    #                 dictionary[p] == False
+    #             except KeyError:
+    #                 dictionary[p] = {}
+    #             dictionary[p][cp[2*i][0] + "P" + cp[2*i + 1][0] + "P"] = 1
     for i in range(len(data) - 2):
         if data[i] != "M" and data[i] != "C":
             try:

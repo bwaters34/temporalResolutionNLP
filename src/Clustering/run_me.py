@@ -1,47 +1,38 @@
-import numpy as np
-import matplotlib.pyplot as plt
+# run_me.py module
 
-# sklearn Imports
-from sklearn.cluster import KMeans
+# Library dependencies
+import numpy as np
+
+# Local imports
+from validation import cross_validation
+from validation import calculate_loss
+from validation import RMSE
+from validation import evaluate_model
+
+# Classifier
+from my_classifier import BinDecisionTreeClf
 
 # Set a seed for reproducibility
-np.random.seed(16180)
+np.random.seed(271828)
 
-#Load train and test data
-train = np.load("../../Data/ECG/train.npy")
-test = np.load("../../Data/ECG/test.npy")
+# Dataset location
+root = '../../GutenbergDataset'
 
-#Create train and test arrays
-Xtr = cluster_utils.transform(train[:,0:-1])
-Xte = cluster_utils.transform(test[:,0:-1])
-Ytr = np.array(map(int, train[:,-1]))
-Yte = np.array( map(int, test[:,-1]))
+# Load the train and test sets
+train = np.genfromtxt('%s/Clusters/train.csv' % root, delimiter=',')
+test  = np.genfromtxt('%s/Clusters/test.csv' % root, delimiter=',')
 
-# === Cluster Quality ===
+# Regressor function
+func = lambda args: BinDecisionTreeClf(bin_size=35, depth=int(args[0]), crit=args[1])
 
-# Create a variable to the store the cluster qualities
-q1_qualities = np.zeros(39)
+# Hyperparameters
+hparams = np.array([np.array([5,6,7]), # num trees
+                        np.array(['gini', 'entropy']) # 
+                       ]) 
 
-# Determine the cluster qualities for increasing numbers of K
-for k in range(1, 40):
-    cluster = KMeans(n_clusters=k,random_state=0).fit(Xtr)
-    predictions = cluster.predict(Xtr)
-    q1_qualities[k-1] = cluster_utils.cluster_quality(Xtr, predictions, k)
+# Cross-validation for hyperparameter optimization
+# Note: Turned off verbose so plots do not interrupt the running
+regr = cross_validation(train, func, hparams, RMSE)
 
-print 'Determining Cluster Qualities for K = 1 to 40'
-# Plot the results
-plt.figure(0, figsize=(6,4))
-plt.plot(np.arange(39) + 1, q1_qualities, '-r')
-plt.xlabel('Number of Clusters, K')
-plt.ylabel('Cluster Quality (Within Cluster Distance)')
-plt.title('Cluster Quality vs. Number of Clusters')
-plt.grid()
-plt.show()
-
-
-# === 1.5 Cluster Number Optimization ===
-print 'Determining the Optimal K'
-K = cluster_utils.determine_K(Xtr, 40)
-
-# Build a KMeans obj. for the given K on the Xtr data
-clst = KMeans(n_clusters=K,random_state=0).fit(Xtr)
+# Evaluate the model
+evaluate_model(regr, test, 'Gutenberg')
