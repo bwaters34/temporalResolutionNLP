@@ -1,21 +1,10 @@
 import os
 from sklearn.feature_extraction import DictVectorizer
-from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
-from src.tokenize import tokenize
+from my_tokenize import my_tokenize
 import numpy as np
 import cPickle
 import scipy
-
-
-
-def determine_bin(self, year):
-    return (year - self.min_year) / self.bin_size
-
-
-def determine_year(self, bin):
-    return self.min_year + bin * self.bin_size
-
 
 def construct_dataset(location, filenames, features):
     """
@@ -29,22 +18,10 @@ def construct_dataset(location, filenames, features):
         # Get the year
         year = int(filename[:4])  # first 4 characters
         # Append these to the corresponding lists
-        books.append(tokenize(location, features, filename))
+        books.append(my_tokenize(location, features, filename))
         years.append(year)
-
-    # If this is the train set, return the bins instead,
-    #   and set the min year
-    # if train:
-    #     # self.min_year = min(years)
-    #     return books, [determine_bin(x) for x in years]
-    # # Else, just return the books and labels
-    # else:
+        
     return books, years
-
-
-
-# if filenames is None:
-#     filenames = os.listdir('%s/Unigrams' % train_dir)
 
 def save_sparse_csr(filename,array):
     np.savez(filename,data = array.data ,indices=array.indices,
@@ -54,8 +31,6 @@ def load_sparse_csr(filename):
     loader = np.load(filename)
     return scipy.csr_matrix((  loader['data'], loader['indices'], loader['indptr']),
                          shape = loader['shape'])
-
-
 
 def write_feature_matrices_to_file(features, train_dir, test_dir):
     feature_dicts_train, labels_train = construct_dataset(train_dir, os.listdir(train_dir + '/Unigrams/'), features)
@@ -88,8 +63,8 @@ def write_feature_matrices_to_file(features, train_dir, test_dir):
 
 
 if __name__ == '__main__':
-    train_dir = '../GutenbergDataset/Train'
-    test_dir = '../GutenbergDataset/Test'
-    features = ['unigrams']
+    train_dir = '../../GutenbergDataset/Train'
+    test_dir = '../../GutenbergDataset/Test'
+    features = ['bigrams']
 
     write_feature_matrices_to_file(features, train_dir, test_dir)
