@@ -62,9 +62,9 @@ def write_feature_matrices_to_file(features, train_dir, test_dir):
     feature_dicts_test, labels_test = construct_dataset(test_dir, os.listdir(test_dir+ '/Unigrams/'), features)
     dv = DictVectorizer(sparse=True)
     train_length = len(feature_dicts_train)
-    print(train_length)
+    # print(train_length)
     test_length = len(feature_dicts_test)
-    print(test_length)
+    # print(test_length)
     sparse_feature_matrix = dv.fit_transform(feature_dicts_train + feature_dicts_test)
     print(sparse_feature_matrix.shape)
     assert sparse_feature_matrix.shape[0] == train_length + test_length
@@ -93,3 +93,4 @@ if __name__ == '__main__':
     features = ['unigrams']
 
     write_feature_matrices_to_file(features, train_dir, test_dir)
+    
