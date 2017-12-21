@@ -13,19 +13,14 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error
 
 
-def cross_validation(train, regr_func, hyperparams, loss_func, num_folds=5, verbose=True):
+def random_resample_validation(train, regr_func, hyperparams, loss_func, num_folds=5, verbose=False):
     # First, build all possible ordered pairs of hyperparameters
     hparam_pairs = list(itertools.product(*hyperparams))
-    # Shuffle the training data
-    np.random.shuffle(train)
     # Build an array to store the training err for each hyperparameter
     # pair for all folds
     train_losses = np.zeros((len(hparam_pairs), num_folds))
     test_losses = np.zeros((len(hparam_pairs), num_folds))
-    # Construct the folds
-    folds = fold_builder(train, num_folds)
-    # For each fold, hold it out and train the model for classifier
-    #   using each pair of hyperparameters.
+    # For each iteration, take a random sample of the data and train on it.
     # Then test each classifier on held-out fold.
     # Record the err for each classifier for each held-out fold
     print '-------------------------------------------------------------'
@@ -33,11 +28,11 @@ def cross_validation(train, regr_func, hyperparams, loss_func, num_folds=5, verb
     print '-------------------------------------------------------------'
     for i in range(0, num_folds):
         # Setup the folds 
-        temp = np.delete(train, folds[i], axis=0) # Temporary array of the train data
-        train_x = temp[:,:-1]
-        train_y = temp[:,-1]
-        test_x = train[folds[i][0]:folds[i][1],:-1]
-        test_y = train[folds[i][0]:folds[i][1],-1]
+        tr, te = sample(train) # Temporary array of the train data
+        train_x = tr[:,:-1]
+        train_y = tr[:,-1]
+        test_x = te[:,:-1]
+        test_y = te[:,-1]
         # Train and test the different models on the selected folds
         (train_losses[:, i], test_losses[:, i]) = test_hyperparameters(train_x, train_y, test_x, test_y, regr_func, hparam_pairs, loss_func)
         # Repeat for all folds
@@ -47,7 +42,7 @@ def cross_validation(train, regr_func, hyperparams, loss_func, num_folds=5, verb
     # Send the errors to a help function to find the best hyperparameter pair
     (best_params, mean_loss, loss) = determine_best_hyperparameter(hparam_pairs, test_losses, num_folds)
     # If verbose is true, print out the errs on all of the hparam pairs
-    if (verbose==1):
+    if verbose:
         plot_hyperparam_loss(best_params, hyperparams, np.mean(train_losses, axis=1), mean_loss)
     # Give the user some feedback on the process
     print 'Cross-validation completed.'
@@ -55,39 +50,19 @@ def cross_validation(train, regr_func, hyperparams, loss_func, num_folds=5, verb
     print 'Now training the model on the entire test set.'
     return regr_func(best_params).fit(train[:,:-1],train[:,-1])
     
-
-# Helper function for cross-validation
-# Given the training data and the number of folds 
-#   generates the indexes of each fold
-# I.e. if the training set had 10 points
-#   and we wanted 5 folds, the indexes would
-#   be 0-2,2-4,4-6,6-8,8-10
-# Note: The last index of the i'th fold is the first
-#   fold for the (i+1)'th fold due to how numpy indexing works
-def fold_builder(train, num_folds):
-    # First, build all possible ordered pairs of hyperparameters
-    avg = len(train) / (1.0*num_folds)
-    # Create an array for the indexes
-    folds = np.zeros((num_folds, 2))
-    # The first fold begins are index 0,
-    #   so start here
-    prev = 0.0
-    # For each fold, set the first and last
-    #   index of the fold
-    for i in range(0, num_folds):
-        # First index of the i'th fold is the 
-        # last index of the (i-1)'th fold
-        # due to numpy array indexing
-        folds[i][0] = int(prev)
-        # Move forward the average number of step
-        folds[i][1] = int(prev + avg)
-        # Update start index of the fold
-        prev += avg
-        # Sometimes I needed to reduce the last index by 1?
-        if (i == num_folds - 1) and (folds[i][1] == len(train)):
-            folds[i][1] = folds[i][1] - 1
-    # Return the folds' indexes
-    return folds.astype(int)
+    
+# Helper function for validation
+# splits the data into train and test splits
+def sample(M, size=0.75):
+    # Determine the train size
+    K = int(M.shape[0] * size)
+    # get the indices
+    inds = np.arange(M.shape[0])
+    # shuffle
+    np.random.shuffle(inds)
+    # return train and test
+    return M[inds[:K], :], M[inds[K:], :]
+    
  
 
 # Helper function for validation
@@ -177,7 +152,7 @@ def calculate_loss(loss_func, regr, test_x, test_y):
 # LOSS FUNCTIONS
     
 def RMSE(y1, y2):
-    return mean_squared_error(y1, y2)
+    return mean_squared_error(y1, y2.toarray())
 
 
 """
@@ -187,7 +162,7 @@ Batman!
 def evaluate_model(regr, test, title, bin_size=20):
     # split into X, y
     X = test[:,:-1]
-    gold = test[:, -1]
+    gold = test[:, -1].toarray()
 
     # Predict the test data
     pred = regr.predict(X)

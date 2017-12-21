@@ -63,8 +63,8 @@ def write_feature_matrices_to_file(features, train_dir, test_dir):
     te = np.hstack((te_X, te_y))
     
     # Back to sparse matrix
-    tr = scipy.sparse.csr_matrix(tr)
-    te = scipy.sparse.csr_matrix(te)
+    tr = scipy.sparse.csr_matrix(tr, shape=tr.shape)
+    te = scipy.sparse.csr_matrix(te, shape=te.shape)
 
     print 'Vectorized'
     
@@ -86,8 +86,8 @@ def write_feature_matrices_to_file(features, train_dir, test_dir):
     print 'Test written'
 
 if __name__ == '__main__':
-    train_dir = '../../GutenbergDataset/Train'
-    test_dir = '../../GutenbergDataset/Test'
-    features = ['unigrams']
+    train_dir = '../../ProquestDataset/Train'
+    test_dir = '../../ProquestDataset/Test'
+    features = ['trees']
 
     write_feature_matrices_to_file(features, train_dir, test_dir)

@@ -6,7 +6,7 @@ import scipy
 from os import listdir
 
 # Local imports
-from validation import cross_validation
+from validation import random_resample_validation
 from validation import calculate_loss
 from validation import RMSE
 from validation import evaluate_model
@@ -14,6 +14,7 @@ from validation import evaluate_model
 # Classifier imports
 from my_classifier import BinClassifier
 from sklearn.linear_model import LogisticRegression
+from sklearn.naive_bayes import MultinomialNB
 
 # Load data function
 def load_sparse_csr(filename):
@@ -25,22 +26,22 @@ def load_sparse_csr(filename):
 np.random.seed(271828)
 
 # Dataset location
-root = '../../GutenbergDataset'
-features = 'unigrams'
+root = '../../ProquestDataset'
+features = 'trees'
 
 # Load the train and test sets
-train = load_sparse_csr('%s/Train/Numpy/%s.npz' % (root, features)).toarray()
-test  = load_sparse_csr('%s/Test/Numpy/%s.npz' % (root, features)).toarray()
+train = load_sparse_csr('%s/Train/Numpy/%s.npz' % (root, features))
+test  = load_sparse_csr('%s/Test/Numpy/%s.npz' % (root, features))
 
 # Regressor function
-func = lambda args: BinClassifier(bin_size=int(args[0]), model=LogisticRegression)
+func = lambda args: BinClassifier(bin_size=int(args[0]), model=MultinomialNB)
 
 # Hyperparameters
 hparams = np.array([[5, 10, 20, 35, 50]])
 
 # Cross-validation for hyperparameter optimization
 # Note: Turned off verbose so plots do not interrupt the running
-regr = cross_validation(train, func, hparams, RMSE)
+regr = random_resample_validation(train, func, hparams, RMSE)
 
 # Evaluate the model
-evaluate_model(regr, test, 'Gutenberg')
+evaluate_model(regr, test, 'NB, Proquest Sent-Trees')

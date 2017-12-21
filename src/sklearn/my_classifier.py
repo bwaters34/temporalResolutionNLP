@@ -16,6 +16,9 @@ class BinClassifier:
         return (self.min_year + (bbin+0.5)*self.bin_size)
     
     def fit(self, X, y):
+        # Convert labels to numpy array
+        y = y.toarray()
+        # Now train
         self.min_year = min(y)
         self.max_year = max(y)
         # Convert to bins
