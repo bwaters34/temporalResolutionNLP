@@ -27,7 +27,7 @@ np.random.seed(271828)
 
 # Dataset location
 root = '../../GutenbergDataset'
-features = 'unigrams'
+features = 'trees_unigrams'
 
 # Load the train and test sets
 train = load_sparse_csr('%s/Train/Numpy/%s.npz' % (root, features))
@@ -44,4 +44,4 @@ hparams = np.array([[5, 10, 20, 35, 50]])
 regr = random_resample_validation(train, func, hparams, RMSE)
 
 # Evaluate the model
-evaluate_model(regr, test, 'LogReg, Gutenberg Unigrams')
+evaluate_model(regr, test, 'LogReg, Gutenberg Unigrams+SentTrees')
