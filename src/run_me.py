@@ -28,15 +28,10 @@ if True:
 	NB_func = lambda args: NaiveBayes(bin_size=args[0], alpha=args[1], features=['pos'])
 
 	# These are the hyperparameters we are testing over
-<<<<<<< HEAD
 	# nb_hparams = [ np.array([5, 10, 20, 35, 50]), # Bin Size
 	# 			   np.array([1, 10, 25, 50, 100])] # Alpha
 	nb_hparams = [np.array([5,10]),  # Bin Size
 				  np.array([1, 3])]  # Alpha
-=======
-	nb_hparams = [ np.array([5, 10, 20, 35, 50]), # Bin Size
-				   np.array([1, 10, 25, 50, 100])] # Alpha
->>>>>>> 2ae679c793f50bbf868ff92f5d3f603a73e92bcc
 
 	# Create the classifier using 5-fold CV
 	nb = cross_validation(train_dir, NB_func, nb_hparams, verbose=True)
