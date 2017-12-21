@@ -86,9 +86,9 @@ def write_feature_matrices_to_file(features, train_dir, test_dir):
     print 'Test written'
 
 if __name__ == '__main__':
-    train_dir = '../../ProquestDataset/Train'
-    test_dir = '../../ProquestDataset/Test'
-    features = ['trees']
+    train_dir = '../../GutenbergDataset/Train'
+    test_dir = '../../GutenbergDataset/Test'
+    features = ['bigrams', 'trees']
 
     write_feature_matrices_to_file(features, train_dir, test_dir)
     
