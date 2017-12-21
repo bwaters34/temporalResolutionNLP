@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error
 
 
-def random_resample_validation(train, regr_func, hyperparams, loss_func, num_folds=5, verbose=False):
+def random_resample_validation(train, regr_func, hyperparams, loss_func, num_folds=1, verbose=False):
     # First, build all possible ordered pairs of hyperparameters
     hparam_pairs = list(itertools.product(*hyperparams))
     # Build an array to store the training err for each hyperparameter

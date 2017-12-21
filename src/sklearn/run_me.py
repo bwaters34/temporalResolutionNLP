@@ -26,15 +26,15 @@ def load_sparse_csr(filename):
 np.random.seed(271828)
 
 # Dataset location
-root = '../../ProquestDataset'
-features = 'trees'
+root = '../../GutenbergDataset'
+features = 'unigrams'
 
 # Load the train and test sets
 train = load_sparse_csr('%s/Train/Numpy/%s.npz' % (root, features))
 test  = load_sparse_csr('%s/Test/Numpy/%s.npz' % (root, features))
 
 # Regressor function
-func = lambda args: BinClassifier(bin_size=int(args[0]), model=MultinomialNB)
+func = lambda args: BinClassifier(bin_size=int(args[0]), model=LogisticRegression)
 
 # Hyperparameters
 hparams = np.array([[5, 10, 20, 35, 50]])
@@ -44,4 +44,4 @@ hparams = np.array([[5, 10, 20, 35, 50]])
 regr = random_resample_validation(train, func, hparams, RMSE)
 
 # Evaluate the model
-evaluate_model(regr, test, 'NB, Proquest Sent-Trees')
+evaluate_model(regr, test, 'LogReg, Gutenberg Unigrams')
