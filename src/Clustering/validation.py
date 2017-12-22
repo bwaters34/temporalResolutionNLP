@@ -191,6 +191,9 @@ def evaluate_model(regr, test, title, bin_size=20):
 
     # Predict the test data
     pred = regr.predict(X)
+    
+#    for g, p in zip(gold, pred):
+#        print g, p, g-p
 
     # Create the century vector
     c1 = int(bin_size*min(x/bin_size for x in gold))
@@ -221,6 +224,7 @@ def evaluate_model(regr, test, title, bin_size=20):
     plt.show()
 
     # Print the overall MAE
+    print 'Bin Size:', regr.bin_size
     print 'Overall MAE:', calc_MAE(gold, pred)
     
     

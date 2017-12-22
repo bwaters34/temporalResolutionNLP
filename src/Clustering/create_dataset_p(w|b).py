@@ -176,7 +176,7 @@ X, Y = load_data(root, rev=True)
 
 # Create a KMeans obj with K=10 clusters
 print 'Creating KMeans cluster model'
-K = 25
+K = 100
 cluster = KMeans(n_clusters=K,random_state=0, n_jobs=-1).fit(X)
 
 # Predit the clusters of each of the words
@@ -188,10 +188,11 @@ mu = cluster_means(X, Z, K)
 years = [min_year + bin_size*i for i in range(num_bins)]
 for i in range(min(K,5)):
     plt.figure(i, figsize=(12,8))
-    plt.title('Cluster %d' % i)
+    plt.title('Example Cluster %d: Probability of Word by Bin' % (i+1))
     plt.xlabel('Year')
-    plt.ylabel('P(year|word)')
+    plt.ylabel('P(Bin|Word)')
     plt.plot(years, mu[i], '-r')
+    plt.grid()
     plt.show()
      
 # Write the clusters to file, just so they exist
@@ -217,6 +218,20 @@ train and test folders.
 ======================================================================
 """
 
+# Function to period td-idf for a cluster count_vector
+def tf_idf(X):
+    # Get the row and column sums
+    row_sums = np.sum(X[:,:-1], axis=1)
+    col_sums = np.sum(X[:,:-1], axis=0)
+    total = np.sum(col_sums)
+    # Apply my version of tf-idf
+    for i in range(X.shape[0]):
+        for j in range(X.shape[1]-1):
+            tf = X[i][j] / row_sums[i]
+            idf = log( total / col_sums[j] )
+            X[i][j] = tf * idf
+    return X
+
 # First the train_set. 
 files = listdir(src_train)
 train_size = len(files)
@@ -239,12 +254,14 @@ for i in range(train_size):
     count = 0
     for t in tokens:
         t = mutate(t)
-        z = lkup[t]
-        train[i][z] += 1
-        count += 1.0
-    # Perhaps we should marginalize by the number of words in the book?
-    train[i][:-1] /= max(train[i])
+        if t != '': 
+            z = lkup[t]
+            train[i][z] += 1
+            count += 1.0
 
+# Apply tf-idf
+train = tf_idf(train)
+            
 # Write this to the train file
 N, M = train.shape
 with open('%s/train-rev.csv' % clst_dir, 'w') as tfile:
@@ -277,11 +294,13 @@ for i in range(test_size):
     count = 0
     for t in tokens:
         t = mutate(t)
-        z = lkup[t]
-        test[i][z] += 1
-        count += 1.0
-    # Perhaps we should marginalize by the number of words in the book?
-    test[i][:-1] /= max(test[i])
+        if t != '': 
+            z = lkup[t]
+            test[i][z] += 1
+            count += 1.0
+    # Normalize using term frequency
+
+test = tf_idf(test)
 
 # Write this to the train file
 N, M = test.shape
