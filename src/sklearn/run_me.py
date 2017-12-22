@@ -27,7 +27,7 @@ np.random.seed(271828)
 
 # Dataset location
 root = '../../ProquestDataset'
-features = 'trees_unigrams'
+features = 'trees'
 
 # Load the train and test sets
 train = load_sparse_csr('%s/Train/Numpy/%s.npz' % (root, features))

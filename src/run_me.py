@@ -25,7 +25,7 @@ BASELINE: NAIVE BAYES MODEL --------------------------------------------
 """
 if True:
 	# Function to build a NB model
-	NB_func = lambda args: NaiveBayes(bin_size=args[0], alpha=args[1], features=['pos'])
+	NB_func = lambda args: NaiveBayes(bin_size=args[0], alpha=args[1], features=['trees'])
 
 	# These are the hyperparameters we are testing over
 	# nb_hparams = [ np.array([5, 10, 20, 35, 50]), # Bin Size

@@ -32,7 +32,7 @@ if False:
     plot_word('or')
 
 
-if True:
+if False:
     # sklearn Imports
     from sklearn.cluster import KMeans
     from cluster_utils import load_data
@@ -97,7 +97,7 @@ if False:
     for i in range(10):
         plot_bin_mean(min_year + i * 25, min_year + (i+1) * 25)
         
-if False:
+if True:
     # Load the train sets
     train = np.genfromtxt('%s/Clusters/train-rev.csv' % root, delimiter=',')
     N, M = train.shape
