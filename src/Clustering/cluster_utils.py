@@ -4,11 +4,16 @@ from sklearn.cluster import KMeans
 from os import listdir
 from math import exp
 
-def load_data(root_dir):
-    
-    X = np.genfromtxt('%s/Clusters/probs.csv' % (root_dir), delimiter=',')
-    Y = np.genfromtxt('%s/Clusters/words.txt' % (root_dir), dtype='str')
-    
+def load_data(root_dir, rev=False):
+    # P(w|b)
+    if rev:
+        X = np.genfromtxt('%s/Clusters/probs-rev.csv' % (root_dir), delimiter=',')
+        Y = np.genfromtxt('%s/Clusters/words-rev.txt' % (root_dir), dtype='str')
+    # P(b|w)
+    else:
+        X = np.genfromtxt('%s/Clusters/probs.csv' % (root_dir), delimiter=',')
+        Y = np.genfromtxt('%s/Clusters/words.txt' % (root_dir), dtype='str')
+
     return X, Y
 
 def cluster_quality(X,Z,K):
