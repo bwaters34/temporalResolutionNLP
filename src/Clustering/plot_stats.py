@@ -24,6 +24,7 @@ def plot_word(word):
 
 plot_word('and')
 plot_word('machine')
+plot_word('or')
 
 
 

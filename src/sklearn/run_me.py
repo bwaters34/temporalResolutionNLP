@@ -26,7 +26,7 @@ def load_sparse_csr(filename):
 np.random.seed(271828)
 
 # Dataset location
-root = '../../GutenbergDataset'
+root = '../../ProquestDataset'
 features = 'trees_unigrams'
 
 # Load the train and test sets
@@ -44,4 +44,4 @@ hparams = np.array([[5, 10, 20, 35, 50]])
 regr = random_resample_validation(train, func, hparams, RMSE)
 
 # Evaluate the model
-evaluate_model(regr, test, 'LogReg, Gutenberg Unigrams+SentTrees')
+evaluate_model(regr, test, 'LogReg, Proquest Unigrams')
